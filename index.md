@@ -17,7 +17,7 @@ collection: main
     - 11:00 - 12:20
     - [Denny Hall](http://uw.edu/maps/?den) 303
 
-- Survey of Machine Learning for Data Scientists
+- Data Science Methods for Clean Energy Research
     - Mon & Wed
     - 1:30 - 2:50
     - [Odegaard Undergraduate Library](http://uw.edu/maps?oug) 141
