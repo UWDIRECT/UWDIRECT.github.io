@@ -1,0 +1,11 @@
+# Site settings
+title: UW DIRECT Courses for Data Scientists
+email: dacb -- AT -- uw.edu
+description: "UW Courses for NSF NRT Direct"
+url: "http://uwdirect.github.io"
+twitter_username: dacbUW
+github_username:  UWDIRECT
+
+
+# Build settings
+markdown: kramdown
