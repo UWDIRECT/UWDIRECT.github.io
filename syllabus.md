@@ -6,12 +6,7 @@ collection: main
 
 | Week  | Monday Topic | Wednesday Topic | References | Assignment |
 |:------------|:-------------|:----------------|:-------------------|:-------------|
-|1| (1/2) No class | (1/4) 
-<table><tbody>
-<tr><td>row 1</td></tr>
-<tr><td>row 2</td></tr>
-</tbody></table>
-|
+|1| (1/2) No class | (1/4) |
 |2| (1/9) | (1/11) |
 |3| (1/16) No class | (1/18) |
 |4| (1/23) | (1/25) |
