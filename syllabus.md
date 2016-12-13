@@ -4,9 +4,11 @@ title: Syllabus
 collection: main
 ---
 
+Note, the first line is for Software Engineering and the second is Data Science Methods.
+
 | Week  | Monday Topic | Wednesday Topic | References | Assignment |
 |:------------|:-------------|:----------------|:-------------------|:-------------|
-|1| (1/2) No class | (1/4) |
+|1| (1/2) No class | (1/4)<br>Course overview & introduction to the command line<br>Course overview & introduction to statistical and machine learning |
 |2| (1/9) | (1/11) |
 |3| (1/16) No class | (1/18) |
 |4| (1/23) | (1/25) |
