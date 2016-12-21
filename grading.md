@@ -8,23 +8,23 @@ collection: main
 
 The course grade consists of the following components and percentages:
 
-Homework: X%
+Homework: 30%
 
-Class participation: X%
+Class participation: 20%
 
-Course project: X%
+Course project: 50%
 
 ## Homework grading
 
-There will be X homeworks, each worth X points.
+There will be 6 homeworks, each worth 5% of the final grade.
 The homeworks will be assigned in the first part of the course and students will submit
 their homework using GitHub. **You must have created a GitHub account before class starts.**
 To receive full credit, homework must be posted by midnight Pacific Time on the due date.
-Unless otherwise stated otherwise, homework is due on X.
-Two points will be deducted from homework received up to a week after its due date.
+Due to the holiday schedule in Winter quarter, homework will be assigned either on a Monday or a Wednesday.
+Twenty percent will be deducted from homework received up to a week after its due date.
 No credit will be given for homework more than one week late (unless there is special permission
 from the instructors).
-All homework, including those with extensions, must be submitted no later than midnight X, 2017.
+All homework, including those with extensions, must be submitted no later than midnight March 10, 2017.
 
 
 ## Class Participation
@@ -34,6 +34,7 @@ stand ups, technology reviews and project summaries.
 
 ## Course Project
 
+A significant portion of the course grade is based on a single **joint** project that includes concepts from both DIRECT classes. This will be an open ended project related to clean energy and require, at minimum, creation of a new software project and application of one or more Data Science methods.
 Projects will be graded based on:
 - the poster presentation
 - documentation (especially function and design specifications)
@@ -43,5 +44,5 @@ Projects will be graded based on:
 Grades for the project will be assigned to the entire team, although
 there will be adjustments for significant discrepancies in the relative 
 contributions of team members.  The latter will be assessed by commit 
-logs and by a peer assesment survey students will take at the end of the quarter.
+logs and by a peer assesment survey students will take at the end of the quarter. Separate, defined graded components will be given for SEDS and DSMfCER.
 Projects are due by midnight X, 2017.
