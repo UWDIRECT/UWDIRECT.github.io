@@ -7,43 +7,43 @@ collection: main
 ## Reading Assignments Week by Week 
 
 ### Week 1
-#### Beck
+#### Beck  
 #### Pfaendtner 
 
 ### Week 2
-#### Beck
+#### Beck  
 #### Pfaendtner 
 
 ### Week 3
-#### Beck
+#### Beck  
 #### Pfaendtner 
 
 ### Week 4
-#### Beck
+#### Beck  
 #### Pfaendtner 
 
 ### Week 5
-#### Beck
+#### Beck  
 #### Pfaendtner 
 
 ### Week 6
-#### Beck
+#### Beck  
 #### Pfaendtner 
 
 ### Week 7
-#### Beck
+#### Beck  
 #### Pfaendtner 
 
 ### Week 8
-#### Beck
+#### Beck  
 #### Pfaendtner 
 
 ### Week 9
-#### Beck
+#### Beck  
 #### Pfaendtner 
 
 ### Week 10
-#### Beck
+#### Beck  
 #### Pfaendtner 
 
 
