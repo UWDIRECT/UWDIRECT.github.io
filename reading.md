@@ -13,6 +13,7 @@ collection: main
 
 ### Week 1
 #### Beck  
+
 #### Pfaendtner
 * Data science review article <a href="http://onlinelibrary.wiley.com/doi/10.1002/aic.15192/full" target="_blank">link</a> 
 
