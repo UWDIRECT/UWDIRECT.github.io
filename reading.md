@@ -12,45 +12,64 @@ collection: main
 ## Additional Weekly Reading Assignments
 
 ### Week 1
-#### Beck  
+
+#### Beck 
 
 #### Pfaendtner
 * Data science review article <a href="http://onlinelibrary.wiley.com/doi/10.1002/aic.15192/full" target="_blank">link</a> 
 
 ### Week 2
+
 #### Beck  
+
 #### Pfaendtner 
 
 ### Week 3
+
 #### Beck  
+
 #### Pfaendtner 
 
 ### Week 4
+
 #### Beck  
+
 #### Pfaendtner 
 
 ### Week 5
+
 #### Beck  
+
 #### Pfaendtner 
 
 ### Week 6
+
 #### Beck  
+
 #### Pfaendtner 
 
 ### Week 7
+
 #### Beck  
+
 #### Pfaendtner 
 
 ### Week 8
+
 #### Beck  
+
 #### Pfaendtner 
 
 ### Week 9
+
 #### Beck  
+
 #### Pfaendtner 
 
 ### Week 10
+
 #### Beck  
+
 #### Pfaendtner 
 
 
