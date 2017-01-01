@@ -3,12 +3,17 @@ layout: page
 title: Reading
 collection: main
 ---
+## General Resources
+* Repository of free or open-source texts on machine learning <a href="https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md" target="_blank"> link</a>
+* Trevor Hastie et al. Statistical Learning Book <a href="http://www-bcf.usc.edu/%7Egareth/ISL/" target="_blank"> link</a>     
 
-## Reading Assignments Week by Week 
+	
+## Additional Weekly Reading Assignments
 
 ### Week 1
-#### Beck  
-#### Pfaendtner 
+#### Beck
+#### Pfaendtner
+* Data science review article <a href="http://onlinelibrary.wiley.com/doi/10.1002/aic.15192/full" target="_blank">link</a> 
 
 ### Week 2
 #### Beck  
