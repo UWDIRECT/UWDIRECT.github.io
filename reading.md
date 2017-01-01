@@ -3,6 +3,7 @@ layout: page
 title: Reading
 collection: main
 ---
+
 ## General Resources
 * Repository of free or open-source texts on machine learning <a href="https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md" target="_blank"> link</a>
 * Trevor Hastie et al. Statistical Learning Book <a href="http://www-bcf.usc.edu/%7Egareth/ISL/" target="_blank"> link</a>     
