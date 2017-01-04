@@ -8,7 +8,7 @@ Note, the first line is for Software Engineering and the second is Data Science 
 
 | Week  | Monday Topic | Wednesday Topic | References | Assignment |
 |:------------|:-------------|:----------------|:-------------------|:-------------|
-|1| (1/2)<br> No class | (1/4)<br>Course overview & introduction to the command line<br>Course overview & introduction to statistical and machine learning | [Shell commands](http://linuxcommand.org/lc3_learning_the_shell.php) | |
+|1| (1/2)<br> No class | (1/4)<br>Course overview & introduction to the command line<br>Course overview & introduction to statistical and machine learning | [Shell commands](http://linuxcommand.org/lc3_learning_the_shell.php) | [HW1 for Jim's class (GitHub)](https://classroom.github.com/assignment-invitations/54a51c12e02001b90e9517909f1dfa25) <br><br>[HW1 for Jim's class (Catalyst)](https://catalyst.uw.edu/collectit/dropbox/jpfaendt/39527)|
 |2| (1/9)<br>Introduction to Python & Jupyter notebooks<br>Visualization basics | (1/11)<br>Introduction to version control, part 1<br>Review of statistical methods, part 1 | [Learn Git in 15 minutes](https://try.github.io/levels/1/challenges/1) | |
 |3| (1/16)<br> No class | (1/18)<br>Introduction to version control, part 2<br>Review of statistical methods, part 2 | | |
 |4| (1/23)<br>Procedural Python<br>Overview of machine learning methods | (1/25)<br>Debugging & unit tests<br>Classification problems |
@@ -20,3 +20,4 @@ Note, the first line is for Software Engineering and the second is Data Science 
 |10| (3/6)<br>Project summaries and standups<br>Neural networks for regression | (3/8)<br>Project summaries and standups<br>Guest lecture from industry |
 |Finals| | Date TBD, Project poster presentations | | |
 {: rules="groups"}
+
