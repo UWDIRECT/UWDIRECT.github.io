@@ -21,6 +21,7 @@ collection: main
 ### Week 2
 
 #### Beck  
+* What is computational thinking in the sciences? <a href="http://www.americanscientist.org/issues/pub/2017/1/computational-thinking-in-science">link</a>
 
 #### Pfaendtner 
 
