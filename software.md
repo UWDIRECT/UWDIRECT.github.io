@@ -22,6 +22,17 @@ are widely used for sharing codes and collaborative development
 of software.
 Bash and git are part of Linux and Mac OSX. No installs are required.
 
+### Mac OSX note: Some students reported an error with ``git``:
+```
+xcode-select: note: no developer tools were found at '/Applications/Xcode.app', requesting install. Choose an option in the dialog to download the command line developer tools.
+```
+To fix this, do the following:
+* Start a new Terminal
+* Run the following command: ``xcode-select --install``
+* Click ``Install``
+* Click ``Agree`` to agree to the terms
+For more information see this link [](http://mac-how-to.wonderhowto.com/how-to/install-command-line-developer-tools-without-xcode-0168115/)
+
 Windows users should install the Software Carpentry recommended software:
 Please follow these instructions on YouTube: [https://www.youtube.com/watch?v=339AEqk9c-8](https://www.youtube.com/watch?v=339AEqk9c-8).
 Make sure you install gitbash _and_ the text editor (SWCarpentryInstaller).
