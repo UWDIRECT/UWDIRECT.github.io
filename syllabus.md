@@ -22,7 +22,7 @@ collection: main
 
 ## DSMCER topics  
 
-### Content from DSMCER (ppt and ipynb files) available by cloning class [GitHub repo here](https://github.com/UWDIRECT/UWDIRECT.github.io)  
+Content from DSMCER (ppt and ipynb files) available by cloning class [GitHub repo here](https://github.com/UWDIRECT/UWDIRECT.github.io)  
 
 | Week  | Monday Topic | Wednesday Topic | References | Assignment |
 |:------------|:-------------|:----------------|:-------------------|:-------------|
