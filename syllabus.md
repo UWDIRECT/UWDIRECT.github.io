@@ -4,7 +4,7 @@ title: Syllabus
 collection: main
 ---
 
-### SEDS topics
+## SEDS topics
 
 | Week  | Monday Topic | Wednesday Topic | References | Assignment |
 |:------------|:-------------|:----------------|:-------------------|:-------------|
@@ -20,8 +20,8 @@ collection: main
 |10| (3/6)<br>Project summaries and standups | (3/8)<br>Project summaries and standups |
 |Finals| | Date TBD, Project poster presentations | | |
 
-### DSMCER topics
-#### Content from DSMCER (ppt and ipynb files) available by cloning class [GitHub repo here](https://github.com/UWDIRECT/UWDIRECT.github.io)
+## DSMCER topics
+### Content from DSMCER (ppt and ipynb files) available by cloning class [GitHub repo here](https://github.com/UWDIRECT/UWDIRECT.github.io)
 
 | Week  | Monday Topic | Wednesday Topic | References | Assignment |
 |:------------|:-------------|:----------------|:-------------------|:-------------|
