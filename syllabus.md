@@ -31,8 +31,8 @@ Content from DSMCER (ppt and ipynb files) available by cloning class [GitHub rep
 |3| (1/16)<br> No class | (1/18)<br>Statistics 2: Distributions| [Quick Link to Jim's stats reading](https://github.com/UWDIRECT/UWDIRECT.github.io/tree/master/DSMCER_content/Reading/Stats) | <BR><BR> |
 |4| (1/23)<br>Statistics 3: P-values and hypothesis testing | (1/25)<br>Finish stats and overview of ML | <br>[Nuzzo2014](http://www.nature.com/news/scientific-method-statistical-errors-1.14700) , [ASA P-values](http://amstat.tandfonline.com/doi/abs/10.1080/00031305.2016.1154108) | <br>[HW3 for DSMCSER](https://classroom.github.com/assignment-invitations/a97162365ba417be601d908015fb690e) |
 |5| (1/30)<br>Intro to Machine Learning and KNN | (2/1)<br> KNN and Logistic Regression <br> Project prep I | ISL: CH1-2, 4.1-4.3
-|6| (2/6)<br>Regression Ia<br>Project prep II | (2/8)<br>Regression Ib<br> Project prep III (propsals)| ISL: CH3
-|7| (2/13)<br>Regression II | (2/15)<br>Guest lecture, Jacob Schreiber | ISL: CH3, CH5
+|6| (2/6)<br>_snow day :( _| (2/8)<br>Regression prep<br> Project prep III (proposals)| ISL: CH3
+|7| (2/13)<br>Regression I | (2/15)<br>Regression II  | ISL: CH3, CH5 | [HW4](https://classroom.github.com/assignment-invitations/05325977a8a2f43bbbece68733bc6646)
 |8| (2/20)<br> No class | (2/22)<br>Tree based methods | ISL: CH8
 |9| (2/27)<br>Support vector machine | (3/1)<br>Unsupervised learning: PCA and k-means | ISL: CH9-10
 |10| (3/6)<br>Neural nets | (3/8)<br>TBD, DIRECT capstone projects |
