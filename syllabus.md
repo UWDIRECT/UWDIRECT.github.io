@@ -33,9 +33,9 @@ Content from DSMCER (ppt and ipynb files) available by cloning class [GitHub rep
 |5| (1/30)<br>Intro to Machine Learning and KNN | (2/1)<br> KNN and Logistic Regression <br> Project prep I | ISL: CH1-2, 4.1-4.3
 |6| (2/6)<br>_snow day :( _| (2/8)<br>Regression prep<br> Project prep III (proposals)| ISL: CH3
 |7| (2/13)<br>Regression I | (2/15)<br>Regression II<br>Start resampling / bootstrap | ISL: CH3, CH5 | [HW4](https://classroom.github.com/assignment-invitations/05325977a8a2f43bbbece68733bc6646)
-|8| (2/20)<br> No class | (2/22)<br>Regularization and subset selection <br> (LASSO and ridge regression) | ISL: CH8
-|9| (2/27)<br>Tree based methods/ensemble based methods| (3/1)<br>Support vector machine  | ISL: CH9-10
-|10| (3/6)<br>Unsupervised learning: PCA and k-means | (3/8)<br>Neural nets |
+|8| (2/20)<br> No class | (2/22)<br>Regularization and subset selection <br> (LASSO and ridge regression) | ISL: CH6
+|9| (2/27)<br>Tree based methods/ensemble based methods| (3/1)<br>Support vector machine  | ISL: CH8-9
+|10| (3/6)<br>Unsupervised learning: PCA and k-means | (3/8)<br>Neural nets | ILS: CH10
 |Finals| | Date TBD, Project poster presentations | | |
 
 * ISL = Introduction to Statistical Learning by James et al. [Free PDF](http://www-bcf.usc.edu/~gareth/ISL/)
