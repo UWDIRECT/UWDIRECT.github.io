@@ -17,8 +17,8 @@ collection: main
 |7| (2/13)<br>[Coding style & documentation](https://uwdirect.github.io/SEDS_content/10.Style_and_Documentation.pptx), [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4b4762d0-619a-48ed-8082-0503f0397080) | (2/15)<br>[Documentation, part 2 & Communicating about code](https://uwdirect.github.io/SEDS_content/11.Documentation_and_Communication.pptx) | [PEP8 Style Guide](https://www.python.org/dev/peps/pep-0008/), [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html), [Beyond PEP 8 (video)](https://www.youtube.com/watch?v=wf-BqAjZb8M) 
 |8| (2/20)<br> No class | (2/22)<br>Student tech reviews
 |9| (2/27)<br>[Project structure and creating packages](https://uwdirect.github.io/SEDS_content/12.Project_Structure.pdf), [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ae1200d4-d70b-4ba8-a9af-70e0f38bbe21) | (3/1)<br>Structured Query Language (SQL), [database](https://github.com/swcarpentry/sql-novice-survey/raw/gh-pages/files/survey.db), [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5cbbbf13-ea32-497b-8960-f29e329f1012), [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6678bd4b-fb93-4201-9368-242791846da6)<br>Project summaries and standups| [SQL Tutorial](http://swcarpentry.github.io/sql-novice-survey/)
-|10| (3/6)<br>[SQL Tutorial]()<br>Project summaries and standups | (3/8)<br>Project summaries and standups |
-|Finals| | Date TBD, Project poster presentations | | |
+|10| (3/6)<br>[SQL Tutorial]()<br>Project summaries and standups | (3/8)<br>Project summaries and standups<br>Discussion session on future improvements |
+|Finals| | March 16, 2017 3 -5 PM, Data Science Studio:<br>Project poster presentations | | |
 
 ## DSMCER topics  
 
