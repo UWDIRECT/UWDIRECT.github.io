@@ -10,9 +10,9 @@ The course grade consists of the following components and percentages:
 
 Homework: 30%
 
-Class participation: 20%
+Class participation: 15%
 
-Course project: 50%
+Course project: 55%
 
 ## Homework grading
 
