@@ -10,14 +10,14 @@ collection: main
 - Prof. Jim Pfaendtner
 
 
-## Logistics
+## Logistics (dates and times are for 2017 courses, 2018 information tbd) 
 
-- Software Engineering for Data Scientists
+- Software Engineering for Molecular Data Scientists (ChemE 546)
     - Mon & Wed
     - 11:00 - 12:20
     - [Denny Hall](http://uw.edu/maps/?den) 303
 
-- Data Science Methods for Clean Energy Research
+- Data Science Methods for Clean Energy Research (ChemE 545)
     - Mon & Wed
     - 1:30 - 2:50
     - [Odegaard Undergraduate Library](http://uw.edu/maps?oug) 141
