@@ -13,12 +13,12 @@ collection: main
 
 - Software Engineering for Molecular Data Scientists (ChemE 546)
     - Tue & Thr
-    - 11:30 - 12:50
+    - 2:30 - 3:50
     - [Odegaard Undergraduate Library](http://uw.edu/maps?oug) 141
 
 - Data Science Methods for Clean Energy Research (ChemE 545)
     - Tue & Thr
-    - 2:30 - 3:50
+    - 11:30 - 12:50
     - [Odegaard Undergraduate Library](http://uw.edu/maps?oug) 141
 
 
