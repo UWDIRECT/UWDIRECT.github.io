@@ -16,6 +16,7 @@ collection: main
     - 2:30 - 3:50
     - [Odegaard Undergraduate Library](http://uw.edu/maps?oug) 141
 
+
 - Data Science Methods for Clean Energy Research (ChemE 545)
     - Tue & Thr
     - 11:30 - 12:50
