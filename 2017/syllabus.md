@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-collection: main
+collection: 2017
 ---
 
 ## SEDS topics

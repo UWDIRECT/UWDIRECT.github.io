@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reading
-collection: main
+collection: 2017
 ---
 
 ## General Resources

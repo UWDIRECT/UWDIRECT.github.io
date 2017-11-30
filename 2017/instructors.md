@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Instructors
-collection: main
+collection: 2017
 ---
 
 ## Office hours. 
