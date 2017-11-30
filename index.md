@@ -7,19 +7,18 @@ collection: main
 ## Instructors
 
 - Prof. David Beck
-- Prof. Jim Pfaendtner
 
 
-## Logistics (dates and times are for 2017 courses, 2018 information tbd) 
+## Logistics for 2018
 
 - Software Engineering for Molecular Data Scientists (ChemE 546)
-    - Mon & Wed
-    - 11:00 - 12:20
-    - [Denny Hall](http://uw.edu/maps/?den) 303
+    - Tue & Thr
+    - 11:30 - 12:50
+    - [Odegaard Undergraduate Library](http://uw.edu/maps?oug) 141
 
 - Data Science Methods for Clean Energy Research (ChemE 545)
-    - Mon & Wed
-    - 1:30 - 2:50
+    - Tue & Thr
+    - 2:30 - 3:50
     - [Odegaard Undergraduate Library](http://uw.edu/maps?oug) 141
 
 

@@ -51,5 +51,5 @@ there will be adjustments for significant discrepancies in the relative
 contributions of team members.  The latter will be assessed by commit 
 logs and by a peer assesment survey students will take at the end of the quarter. 
 Separate, defined graded components will be given for SEDS and DSMfCER.
-Projects are due by midnight March 15, 2017.
+Projects are due by midnight March XX, 201X.
 
