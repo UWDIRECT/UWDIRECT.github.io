@@ -6,13 +6,13 @@ collection: main
 
 ## Instructors
 
-- Prof. David Beck
+- Prof. David Beck (dacb@uw.edu)
 
 ## Teaching Assistants
 
-- Nicholas (Nick) Montoni 
-- Arushi Prakash
-- Moke (Coco) Mao 
+- Nicholas (Nick) Montoni (montoni@uw.edu)
+- Arushi Prakash (arushi3@uw.edu)
+- Moke (Coco) Mao (maomoke@uw.edu)
 
 
 ## Logistics for 2018
