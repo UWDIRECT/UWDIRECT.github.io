@@ -8,8 +8,8 @@ collection: main
 
 | Week  | Tuesday Topic | Thursday Topic | References | Assignment |
 |:------------|:-------------|:----------------|:-------------------|:-------------|
-|1| | (1/4)<br> Introduction to Data Science| |
-|2| (1/9)<br> Data Visualization [Python] | (1/11)<br> Statistics I : Descriptive Statistics and Distributions |  |
+|1| | [4 Jan] <br> Introduction to Data Science| |
+|2| [9 Jan] <br> Data Visualization [Python] | [11 Jan] <br> Statistics I : Descriptive Statistics and Distributions |  |
 |3|  (1/16)<br> Statistics II : Hypothesis Testing |  (1/18)<br> Machine Learning Overview| |
 |4|  (1/23)<br> Sci-kit learn |  (1/25)<br> | |
 |5| (1/30)<br>[Unit tests](https://uwdirect.github.io/SEDS_content/07.Testing.pptx), [Notebook](https://uwdirect.github.io/SEDS_content/07.Testing.ipynb), [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8f04835b-f327-41bf-b23f-6ca4ff6518e3) | (2/1)<br>[Guest lecture on software licensing: Laura Dorsey (CoMotion)](https://uwdirect.github.io/SEDS_content/08.Software_Licensing.pptx), [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4c682706-2b1d-4bb7-8f6e-eb73d1cae01f) | [Choose a Software License](http://choosealicense.com/licenses/), [The Whys and Hows of Licensing Scientific Code](http://www.astrobetter.com/blog/2014/03/10/the-whys-and-hows-of-licensing-scientific-code/), [UW CoMotion FAQ about Licensing & IP](http://comotion.uw.edu/faqs) | [HW4 for SEDS](https://classroom.github.com/assignment-invitations/12f78677b4c1a8e9f09d1332f916144a) |
