@@ -8,6 +8,12 @@ collection: main
 
 - Prof. David Beck
 
+## Teaching Assistants
+
+- Nicholas (Nick) Montoni 
+- Arushi Prakash
+- Moke (Coco) Mao 
+
 
 ## Logistics for 2018
 
