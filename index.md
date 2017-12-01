@@ -35,7 +35,7 @@ Scientists, engineers, and other technical professionals require skills in compu
 
 These two courses teaches graduate students the software engineering skills to do research in data science fields and to be successful technical professionals in the 21st Century. In particular, this course teaches how to approach computational research with reproducibility in mind: to create sharable and reusable research projects that incorporate both computation and data.  The courses also provide students with a survey of machine learning methods including supervised and unsupervised methods.
 
-In SEDS students will learn the following skills:
+*In SEDS students will learn the following skills*:
 
 - Developing software in a way that it can be used by others, including documentation, installing packages, automating setup, and running computational studies.
 - Creating technical specifications for what a program should do (its use cases) and how this is accomplished (software design).
@@ -44,7 +44,7 @@ In SEDS students will learn the following skills:
 - Developing unit tests that validate important aspects of the project implementation, and, more broadly, using test-driven development to build software.
 - Searching, evaluating, and integrating into a project an externally developed Python packages as well as creating your own Python packages.
 
-In DSM-CER students will learn the following skills: 
+*In DSM-CER students will learn the following skills*: 
 
 - Basic overview of statistical reasoning and methods including distributions, hypothesis testing and error analysis for multiple data types
 - Basic introduction to data visualization methods
