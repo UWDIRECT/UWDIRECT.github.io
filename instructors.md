@@ -11,19 +11,16 @@ collection: main
 * Place: Data Science Studio, 6th Floor PAB (except as noted)
 
 
-### TA
+### Nicholas (Nick) Montoni
 * TBD
-* TBD
+* Place: Data Science Studio, 6th Floor PAB (except as noted)
 
-### TA
+### Arushi Prakash
 * TBD
-* TBD
+* Place: Data Science Studio, 6th Floor PAB (except as noted)
 
-### TA
+### Moke (Coco) Mao
 * TBD
-* TBD
+* Place: Data Science Studio, 6th Floor PAB (except as noted)
 
-### TA
-* TBD
-* TBD
 
