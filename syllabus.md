@@ -4,7 +4,7 @@ title: Syllabus
 collection: main
 ---
 
-## SEDS topics
+## DSMCER topics
 
 | Week  | Tuesday Topic | Thursday Topic | References | Assignment |
 |:------------|:-------------|:----------------|:-------------------|:-------------|
@@ -20,13 +20,11 @@ collection: main
 |10| [6 Mar] <br> Neural Network and Deep Learning | [8 Mar] <br> Machine Learning for Time Series Data | |
 |Finals Week| | TBD, Data Science Studio:<br>Project poster presentations | | |
 
-## DSMCER topics  
-
-Content from DSMCER (ppt and ipynb files) available by cloning class [GitHub repo here](https://github.com/UWDIRECT/UWDIRECT.github.io)  
+## SEDS topics  
 
 | Week  | Tuesday Topic | Thursday Topic | References | Assignment |
 |:------------|:-------------|:----------------|:-------------------|:-------------|
-|1| | [4 Jan] <br> Introduction to Data Science| |
+|1| | [4 Jan] <br> Why are we here and the command line.| |
 |2| [9 Jan] <br> Data Visualization [Python] | [11 Jan] <br> Statistics I : Descriptive Statistics and Distributions |  |
 |3| [16 Jan] <br> Statistics II : Hypothesis Testing | [18 Jan] <br> Machine Learning Overview | |
 |4| [23 Jan] <br> Sci-kit learn | [25 Jan] <br> Classification : KNN and Logistic Classifiers | |
