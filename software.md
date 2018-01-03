@@ -97,4 +97,4 @@ I have not tested this for any other text editor (i.e. nano/vim/atom/etc), but I
 ## Final note for Windows 10 users.
 There is a newish feature for Windows 10 that allows you to run Ubuntu apps natively inside of Windows.  You can get it from the Microsoft Store for free here:
 * https://www.microsoft.com/en-us/store/p/ubuntu/9nblggh4msv6
-Dave uses this on a Windows 10 machine he has at home and it works great for `git` and other `bash` stuff.
+Dave uses this on a Windows 10 machine he has at home and it works great for `git` and other `bash` stuff. This is a viable option for Windows users but not as well tested at the `gitbash` tools described above.
