@@ -63,7 +63,7 @@ If everything has worked correctly, it should automatically launch your default 
 
 ## Text editor
 Windows users will install the basic ```nano``` editor.  After a few classes, you may
-decide that you want to try out more advacned editors.  Some options are
+decide that you want to try out more advanced editors.  Some options are
  - [Sublime](http://sublimetext.com)
  - [atom](http://atom.io)
 
@@ -93,3 +93,8 @@ If you want, you can combine the above step with the previous step. This has now
 
 I have not tested this for any other text editor (i.e. nano/vim/atom/etc), but I imagine a similar script in similar directories should have similar results. 
 ***
+
+## Final note for Windows 10 users.
+There is a newish feature for Windows 10 that allows you to run Ubuntu apps natively inside of Windows.  You can get it from the Microsoft Store for free here:
+* https://www.microsoft.com/en-us/store/p/ubuntu/9nblggh4msv6
+Dave uses this on a Windows 10 machine he has at home and it works great for `git` and other `bash` stuff.
