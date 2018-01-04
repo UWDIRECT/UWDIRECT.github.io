@@ -26,8 +26,8 @@ collection: main
 |:------------|:-------------|:----------------|:-------------------|:-------------|
 |1| | [4 Jan] <br> Why are we here and the command line.| |
 |2| [9 Jan] <br> Data Visualization [Python] | [11 Jan] <br> Statistics I : Descriptive Statistics and Distributions |  |
-|3| [16 Jan] <br> Statistics II : Hypothesis Testing | [18 Jan] <br> Machine Learning Overview | |
-|4| [23 Jan] <br> Guest Lecture(Gaussian Mixture Models)/Sci-kit learn | [25 Jan] <br> Classification : KNN and Logistic Classifiers | |
+|3| [16 Jan] <br> Statistics II : Hypothesis Testing | [18 Jan] <br> Machine Learning Overview/Sci-kit Learn | |
+|4| [23 Jan] <br> Jacob Schreiber (Pomegranate) | [25 Jan] <br> Classification : KNN and Logistic Classifiers | |
 |5| [30 Jan] <br> Regression 1 | [1 Feb] <br> Regression 2 | |
 |6| [6 Feb] <br> Ridge/Lasso | [8 Feb] <br> Bootstrap/Resample | |
 |7| [13 Feb] <br> Cross-Validation | [15 Feb] <br> Project pitches and approval | |
