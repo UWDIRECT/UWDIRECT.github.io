@@ -5,6 +5,7 @@ collection: main
 ---
 
 ## 546 / SEDS topics
+### HW due Thursday midnight
 
 | Week  | Tuesday Topic | Thursday Topic | References | Assignment |
 |:------------|:-------------|:----------------|:-------------------|:-------------|
@@ -21,6 +22,7 @@ collection: main
 |Finals Week| | TBD, Data Science Studio:<br>Project poster presentations | | |
 
 ## 545 / DSMCER topics  
+### HW due Thursday midnight
 
 | Week  | Tuesday Topic | Thursday Topic | References | Assignment |
 |:------------|:-------------|:----------------|:-------------------|:-------------|
