@@ -4,11 +4,11 @@ title: Syllabus
 collection: main
 ---
 
-## SEDS topics
+## 546 / SEDS topics
 
 | Week  | Tuesday Topic | Thursday Topic | References | Assignment |
 |:------------|:-------------|:----------------|:-------------------|:-------------|
-|1| | [4 Jan] <br> Introduction and Data Essentials| |
+|1| | [4 Jan] <br>[Intro & Command Line](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi18_content/SEDS/L1.Intro_Command_Line.pptx?raw=true)| |
 |2| [9 Jan] <br> Data Analysis with Python | [11 Jan] <br> Procedural Python |  |
 |3| [16 Jan] <br> Version Control I | [18 Jan] <br> Exceptions & Debugging | |
 |4| [23 Jan] <br> Laura Dorsey (CoMotion) | [25 Jan] <br> Jupyter Notebook in Depth | |
@@ -20,11 +20,11 @@ collection: main
 |10| [6 Mar] <br> Machine Learning Basics | [8 Mar] <br> Project Summaries | |
 |Finals Week| | TBD, Data Science Studio:<br>Project poster presentations | | |
 
-## DSMCER topics  
+## 545 / DSMCER topics  
 
 | Week  | Tuesday Topic | Thursday Topic | References | Assignment |
 |:------------|:-------------|:----------------|:-------------------|:-------------|
-|1| | [4 Jan] <br> Why are we here and the command line.| |
+|1| | [4 Jan] <br> [Introduction to Data Science](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi18_content/DSMCER/L1_Intro_to_Data_Science.pdf) | |
 |2| [9 Jan] <br> Data Visualization [Python] | [11 Jan] <br> Statistics I : Descriptive Statistics and Distributions |  |
 |3| [16 Jan] <br> Statistics II : Hypothesis Testing | [18 Jan] <br> Machine Learning Overview/Sci-kit Learn | |
 |4| [23 Jan] <br> Jacob Schreiber (Pomegranate) | [25 Jan] <br> Classification : KNN and Logistic Classifiers | |
