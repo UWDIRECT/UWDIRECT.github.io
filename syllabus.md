@@ -8,16 +8,16 @@ collection: main
 
 | Week  | Tuesday Topic | Thursday Topic | References | Assignment |
 |:------------|:-------------|:----------------|:-------------------|:-------------|
-|1| | [4 Jan] <br>[Intro & Command Line](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi18_content/SEDS/L1.Intro_Command_Line.pptx?raw=true)| |
-|2| [9 Jan] <br> Data Analysis with Python | [11 Jan] <br> Procedural Python |  |
-|3| [16 Jan] <br> Version Control I | [18 Jan] <br> Exceptions & Debugging | |
-|4| [23 Jan] <br> Laura Dorsey (CoMotion) | [25 Jan] <br> Jupyter Notebook in Depth | |
-|5| [30 Jan] <br> Programming Style & Documentation | [1 Feb] <br> Writing Tests| |
-|6| [6 Feb] <br> Version Control II | [8 Feb] <br> Working in teams | |
-|7| [13 Feb] <br> Software Design | [15 Feb] <br> Visualization in Python | |
-|8| [20 Feb] <br> Structuring Data | [22 Feb] <br> Tech Reviews & Package Structuring | |
+|1| | [4 Jan] <br>[Intro & Command Line](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi18_content/SEDS/L1.Intro_Command_Line.pptx?raw=true)| [bash command reference](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi18_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf) | |
+|2| [9 Jan] <br> Intro to Python & Notebooks | [11 Jan] <br> Verson Control I | | [](Homework 1) |
+|3| [16 Jan] <br> Data Analysis with Python | [18 Jan] <br> Exceptions & Debugging | |
+|4| [23 Jan] <br> Laura Dorsey (CoMotion) | [25 Jan] <br> Exceptions & Debugging | |
+|5| [30 Jan] <br> Programming Style & Documentation | [1 Feb] <br> Writing Unit Tests| |
+|6| [6 Feb] <br> Version Control II | [8 Feb] <br> Project Matchmaking & Working in Teams | |
+|7| [13 Feb] <br> Software Design | [15 Feb] <br> Package Structuring | |
+|8| [20 Feb] <br> Data Management | [22 Feb] <br> Tech Reviews | |
 |9| [27 Feb] <br> Tech Reviews | [1 Mar] <br> Student Standups | |
-|10| [6 Mar] <br> Machine Learning Basics | [8 Mar] <br> Project Summaries | |
+|10| [6 Mar] <br> Student Standups | [8 Mar] <br> Project Summaries | |
 |Finals Week| | TBD, Data Science Studio:<br>Project poster presentations | | |
 
 ## 545 / DSMCER topics  
