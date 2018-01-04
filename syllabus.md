@@ -11,7 +11,7 @@ collection: main
 |:------------|:-------------|:----------------|:-------------------|:-------------|
 |1| | [4 Jan] <br>[Intro & Command Line](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi18_content/SEDS/L1.Intro_Command_Line.pptx?raw=true)| [bash command reference](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi18_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf) | |
 |2| [9 Jan] <br> Intro to Python & Notebooks | [11 Jan] <br> Verson Control I | | [](Homework 1) |
-|3| [16 Jan] <br> Data Analysis with Python | [18 Jan] <br> Exceptions & Debugging | |
+|3| [16 Jan] <br> Data Analysis with Python | [18 Jan] <br> Expanded Python | |
 |4| [23 Jan] <br> Laura Dorsey (CoMotion) | [25 Jan] <br> Exceptions & Debugging | |
 |5| [30 Jan] <br> Programming Style & Documentation | [1 Feb] <br> Writing Unit Tests| |
 |6| [6 Feb] <br> Version Control II | [8 Feb] <br> Project Matchmaking & Working in Teams | |
