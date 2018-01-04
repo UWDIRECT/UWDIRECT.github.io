@@ -27,7 +27,7 @@ collection: main
 | Week  | Tuesday Topic | Thursday Topic | References | Assignment |
 |:------------|:-------------|:----------------|:-------------------|:-------------|
 |1| | [4 Jan] <br> [Introduction to Data Science](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi18_content/DSMCER/L1_Intro_to_Data_Science.pdf) | [Data science review article](http://onlinelibrary.wiley.com/doi/10.1002/aic.15192/full) | [Homework 1]() |
-|2| [9 Jan] <br> Data Visualization [Python] | [11 Jan] <br> Statistics I : Descriptive Statistics and Distributions |  |
+|2| [9 Jan] <br> Data Visualization | [11 Jan] <br> Statistics I : Descriptive Statistics and Distributions |  |
 |3| [16 Jan] <br> Statistics II : Hypothesis Testing | [18 Jan] <br> Machine Learning Overview/Sci-kit Learn | |
 |4| [23 Jan] <br> Jacob Schreiber (Pomegranate) | [25 Jan] <br> Classification : KNN and Logistic Classifiers | |
 |5| [30 Jan] <br> Regression 1 | [1 Feb] <br> Regression 2 | |
