@@ -7,7 +7,7 @@ collection: main
 ## Office hours. 
 
 ### Prof. David Beck (dacb@uw.edu)
-* TBD
+* Between 546 and 545 on Tue and Thu
 * Place: Data Science Studio, 6th Floor PAB (except as noted)
 
 
