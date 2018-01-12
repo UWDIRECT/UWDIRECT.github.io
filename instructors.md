@@ -11,16 +11,12 @@ collection: main
 * Place: Data Science Studio, 6th Floor PAB (except as noted)
 
 
-### Nicholas (Nick) Montoni (montoni@uw.edu)
-* TBD
-* Place: Data Science Studio, 6th Floor PAB (except as noted)
-
-### Arushi Prakash (arushi3@uw.edu)
-* TBD
+### Nicholas (Nick) Montoni (montoni@uw.edu) and Arushi Prakash (arushi3@uw.edu)
+* Wednesday; 4 - 5 pm
 * Place: Data Science Studio, 6th Floor PAB (except as noted)
 
 ### Moke (Coco) Mao (maomoke@uw.edu)
-* TBD
+* Tuesday; 4 - 5 pm
 * Place: Data Science Studio, 6th Floor PAB (except as noted)
 
 
