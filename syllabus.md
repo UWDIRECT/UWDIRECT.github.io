@@ -5,7 +5,7 @@ collection: main
 ---
 
 ## 546 / SEDS topics
-Due Wed 11:59 PM
+Due Wed 11 59 PM
 
 | Week  | Tuesday Topic | Thursday Topic | References | Assignment |
 |:------------|:-------------|:----------------|:-------------------|:-------------|
@@ -22,7 +22,7 @@ Due Wed 11:59 PM
 |Finals Week| | TBD, Data Science Studio:<br>Project poster presentations | | |
 
 ## 545 / DSMCER topics  
-Due Wed 11:59 PM
+Due Wed 11 59 PM
 | Week  | Tuesday Topic | Thursday Topic | References | Assignment |
 |:------------|:-------------|:----------------|:-------------------|:-------------|
 |1| [4 Jan] <br> [Introduction to Data Science](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi18_content/DSMCER/L1_Intro_to_Data_Science.pdf) [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a7ff398a-5540-4288-b0d0-a85e01421b3a) | [Data science review article](http://onlinelibrary.wiley.com/doi/10.1002/aic.15192/full) | [Homework 1](https://classroom.github.com/a/8vkcoV8e) |
