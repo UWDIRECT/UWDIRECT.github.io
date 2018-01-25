@@ -5,12 +5,14 @@ collection: main
 ---
 
 ## 546 / SEDS topics
+Due Wed 11 59 PM   
+
 
 | Week  | Tuesday Topic | Thursday Topic | References | Assignment |
 |:------------|:-------------|:----------------|:-------------------|:-------------|
 |1| | [4 Jan] <br>[Intro & Command Line](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi18_content/SEDS/L1.Intro_Command_Line.pptx?raw=true) [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=012e38eb-2601-4d51-b338-a85e0172fb98) | [bash command reference](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi18_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf) | |
 |2| [9 Jan] <br> Intro to Python & Notebooks<br>[L2.Python.ipynb](https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi18_content/SEDS/L2.Python.ipynb)<br>[L2.Simple_Breakout.ipynb](https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi18_content/SEDS/L2.Simple_Breakout.ipynb) | [11 Jan] <br> [Version Control I](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi18_content/SEDS/L3.Version_Control_p2.pptx?raw=true) [(video, part 1)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=32ca4b50-7ac0-45c5-8148-a865014267f4) [(video, part 2)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d926a52-95f5-499f-bce4-a865017340af) | | |
-|3| [16 Jan] <br> Data Analysis with Python ([notebook1](https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi18_content/SEDS/L4.Procedural_Python.ipynb)) [(video, pt 1)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5a8606e1-f19f-4856-8bc3-a86a0142b91a), [(video, pt 2)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36370308-22c1-46d4-ada0-a86a01737839) | [18 Jan] <br> Expanded Python | | [Homework 1](https://classroom.github.com/a/Rd35Sn1m), [Homework 2](https://classroom.github.com/a/CQbe6UhF) due Wed Jan 25 5 pm
+|3| [16 Jan] <br> Data Analysis with Python ([notebook1](https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi18_content/SEDS/L4.Procedural_Python.ipynb)) [(video, pt 1)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5a8606e1-f19f-4856-8bc3-a86a0142b91a), [(video, pt 2)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36370308-22c1-46d4-ada0-a86a01737839) | [18 Jan] <br> Expanded Python |  [Homework 1](https://classroom.github.com/a/Rd35Sn1m), [Homework 2](https://classroom.github.com/a/CQbe6UhF) due Wed Jan 25 5 pm|
 |4| [23 Jan] <br> Laura Dorsey (CoMotion) | [25 Jan] <br> From nothing to something [notebook](https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi18_content/SEDS/L6.NothingToSomething.ipynb) | |
 |5| [30 Jan] <br> Programming Style & Documentation | [1 Feb] <br> Writing Unit Tests| |
 |6| [6 Feb] <br> Version Control II | [8 Feb] <br> Project Matchmaking & Working in Teams | |
@@ -21,12 +23,13 @@ collection: main
 |Finals Week| | TBD, Data Science Studio:<br>Project poster presentations | | |
 
 ## 545 / DSMCER topics  
+Due Wed 11 59 PM  
 
 | Week  | Tuesday Topic | Thursday Topic | References | Assignment |
 |:------------|:-------------|:----------------|:-------------------|:-------------|
-|1| | [4 Jan] <br> [Introduction to Data Science](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi18_content/DSMCER/L1_Intro_to_Data_Science.pdf) [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a7ff398a-5540-4288-b0d0-a85e01421b3a) | [Data science review article](http://onlinelibrary.wiley.com/doi/10.1002/aic.15192/full) | [Homework 1](https://classroom.github.com/a/8vkcoV8e) |
-|2| [9 Jan] <br> See SEDS | [11 Jan] <br> See SEDS |  |
-|3| [16 Jan] <br> See SEDS | [18 Jan] <br> [Data Visualization and Pandas](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi18_content/DSMCER/L5.Visualization.pptx?raw=true), [Pandas Notebook](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi18_content/DSMCER/L4.Pandas.ipynb), [Visualization Notebook](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi18_content/DSMCER/L5.Visualization.ipynb) [(video, pt1)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb3d3d26-e17e-4ff5-b146-a86c01409360), [(video, pt2)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1efe3ae0-a067-4dfe-bc31-a86c01742b3b)  | | [Homework 2](https://classroom.github.com/a/bZoozAaF) due Wed Jan 30 at 5PM
+|1| [4 Jan] <br> [Introduction to Data Science](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi18_content/DSMCER/L1_Intro_to_Data_Science.pdf) [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a7ff398a-5540-4288-b0d0-a85e01421b3a) | [Data science review article](http://onlinelibrary.wiley.com/doi/10.1002/aic.15192/full) | [Homework 1](https://classroom.github.com/a/8vkcoV8e) |
+|2| [9 Jan] <br> See SEDS | [11 Jan] <br> See SEDS |  |  
+|3| [16 Jan] <br> See SEDS | [18 Jan] <br> [Data Visualization and Pandas](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi18_content/DSMCER/L5.Visualization.pptx?raw=true), [Pandas Notebook](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi18_content/DSMCER/L4.Pandas.ipynb), [Visualization Notebook](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi18_content/DSMCER/L5.Visualization.ipynb) [(video, pt1)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb3d3d26-e17e-4ff5-b146-a86c01409360), [(video, pt2)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1efe3ae0-a067-4dfe-bc31-a86c01742b3b)  | [Homework 2 (https://classroom.github.com/a/bZoozAaF) due Wed Jan 25 at 11 59 PM | 
 |4| [23 Jan] <br> Jacob Schreiber (Pomegranate) | [25 Jan] <br> [Statistics I : Descriptive Statistics and Distributions](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi18_content/DSMCER/L6.Descriptive_Statistics.pptx?raw=true) [notebook](https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi18_content/DSMCER/L6.Descriptive_Statistics.ipynb) | [Reading](https://www.nature.com/articles/nmeth.2613) | |
 |5| [30 Jan] <br> Statistics II : Hypothesis Testing <br> Classification : KNN and Logistic Classifiers | [1 Feb] <br> Regression  | |
 |6| [6 Feb] <br> Ridge/Lasso | [8 Feb] <br> Bootstrap/Resample | |
