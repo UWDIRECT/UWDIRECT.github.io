@@ -1,3 +1,5 @@
+Enter grades here: https://docs.google.com/spreadsheets/d/1mZ8heeuwZblQ6kDOGF-4ShAGKDxPUhrOLzXHg4DUU0s/edit#gid=0  
+
 ## SEDS
 
 * HW 1 [due ] - Nick Montoni
