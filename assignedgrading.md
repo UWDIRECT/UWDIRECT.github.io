@@ -1,7 +1,7 @@
 ## SEDS
 
 * HW 1 [due ] - Nick Montoni
-* HW 2 [due ] - Arushi
+* HW 2 [due ] - Arushi [completed Feb 4]
 * HW 3 [due Feb 7] - Dave
 
 
