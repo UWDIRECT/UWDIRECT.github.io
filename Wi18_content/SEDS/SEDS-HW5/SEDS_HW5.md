@@ -9,3 +9,4 @@ Evaluation rubric:
 2. Did you enumerate all of the use cases?  There should be at least three.
 3. Did you identify and design components to support your use cases?
 4. Did you try to reuse components?
+5. Did you exhaust the list of components to primitive components?
