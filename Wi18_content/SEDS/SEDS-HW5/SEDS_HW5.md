@@ -1,5 +1,7 @@
 # First group homework!
 
+Due Feb. 22 11:59 PM
+
 In your GitHub repo for your class project, under the docs directory, create a design directory or something similar, put in your use case and component specifications as Markdown files.  You can have images, workflows, interaction diagrams, etc.
 
 Evaluation rubric:
