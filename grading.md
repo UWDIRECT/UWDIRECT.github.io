@@ -51,5 +51,8 @@ there will be adjustments for significant discrepancies in the relative
 contributions of team members.  The latter will be assessed by commit 
 logs and by a peer assesment survey students will take at the end of the quarter. 
 Separate, defined graded components will be given for SEDS and DSMfCER.
-Projects are due by midnight March 12 (TBD), 2018.
+
+Projects are due by midnight March 12 (TBD), 2018.  
+
+Poster Presentation will take place on Mar 14, 2018 at the Data Science Studio (4:30-6:30 pm)
 
