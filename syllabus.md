@@ -17,9 +17,9 @@ Due Wed 11 59 PM
 |5| [30 Jan] <br> [Unit Tests](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi18_content/SEDS/L7.Testing.pptx?raw=true) [notebook](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi18_content/SEDS/L7.Testing.ipynb) [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=686cc5f8-cf55-467a-b6cf-a8780142261d) <br> [Programming Style &  Documentation](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi18_content/SEDS/L8.Style_and_Documentation.pptx?raw=true) [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=23bb8b04-7573-4914-864e-a87801730ce2) | [1 Feb] <br> See DSMCER |  | [Homework 3](https://classroom.github.com/a/ubFUBd-5) | 
 |6| [6 Feb] <br> See DSMCER  | [8 Feb] <br> See DSMCER |  |
 |7| [13 Feb] <br> [Version Control II](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi18_content/SEDS/L9.Version_Control_p2.pptx?raw=true) | [15 Feb] <br> [Software Design](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi18_content/SEDS/L10.Software_Design.pptx?raw=true) <br>[Communication](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi18_content/SEDS/L10.Communication.pptx?raw=true)| | [Homework 4](https://classroom.github.com/a/OGzTI_r_)|
-|8| [20 Feb] <br> [Package Structure](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi18_content/SEDS/L11.Project_Structure.pdf) <br> | [22 Feb] <br> Tech Reviews | | [Homework 5](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi18_content/SEDS/SEDS-HW5/SEDS_HW5.md) |
-|9| [27 Feb] <br> Data Management | [1 Mar] <br> Student Standups | |
-|10| [6 Mar] <br> Student Standups | [8 Mar] <br> Project Summaries | |
+|8| [20 Feb] <br> [Package Structure](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi18_content/SEDS/L11.Project_Structure.pdf) <br> | [22 Feb] <br> Tech Reviews<br>[Virtualization](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi18_content/SEDS/L12.Virtualization.pptx?raw=true) | | [Homework 5](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi18_content/SEDS/SEDS-HW5/SEDS_HW5.md) |
+|9| [27 Feb] <br> Student Standups | [1 Mar] <br> Student Standups | |
+|10| [6 Mar] <br> Student Standups | [8 Mar] <br> Student Standups | |
 |Finals Week| | TBD, Data Science Studio:<br>Project poster presentations | | |
 
 ## 545 / DSMCER topics  
