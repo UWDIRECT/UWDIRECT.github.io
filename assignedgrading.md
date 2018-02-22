@@ -6,6 +6,7 @@ Enter grades here: https://docs.google.com/spreadsheets/d/1mZ8heeuwZblQ6kDOGF-4S
 * HW 2 [due ] - Arushi [completed Feb 4]
 * HW 3 [due Feb 7] - Coco
 * HW 4 [due Feb 22nd] - Arushi
+* HW 5 [due Feb 22nd] - Dave
 
 ## DSCMCER
 * HW 1 [due ] - Dave [completed Jan ...]
