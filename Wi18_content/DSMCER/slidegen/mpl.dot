@@ -1,7 +1,8 @@
+
 digraph G {
 
         rankdir=LR
-	splines=line
+	    splines=line
         nodesep=.05;
         
         node [label=""];
@@ -23,7 +24,7 @@ digraph G {
 	subgraph cluster_2 {
 		color=white;
 		node [style=solid,color=magenta, shape=circle];
-		l2_1 l2_3 l2_3 l2_4;
+		l2_1 l2_2 l2_3 l2_4;
 		label = "layer 2";
 	}
 
@@ -34,25 +35,31 @@ digraph G {
 		label="output";
 	}
 
-	x1 -> l1_1; x1 -> l1_2; x1 -> l1_3;
-	x2 -> l1_1; x2 -> l1_2; x2 -> l1_3;
-	x3 -> l1_1; x3 -> l1_2; x3 -> l1_3;
-
- l1_1 -> l2_1
- l1_1 -> l2_2
- l1_1 -> l2_3
- l1_1 -> l2_4
- l1_2 -> l2_1
- l1_2 -> l2_2
- l1_2 -> l2_3
- l1_2 -> l2_4
- l1_3 -> l2_1
- l1_3 -> l2_2
- l1_3 -> l2_3
- l1_3 -> l2_4
- l2_1 -> output
- l2_2 -> output
- l2_3 -> output
- l2_4 -> output
+    x1 -> l1_1
+    x1 -> l1_2
+    x1 -> l1_3
+    x2 -> l1_1
+    x2 -> l1_2
+    x2 -> l1_3
+    x3 -> l1_1
+    x3 -> l1_2
+    x3 -> l1_3
+    l1_1 -> l2_1
+    l1_1 -> l2_2
+    l1_1 -> l2_3
+    l1_1 -> l2_4
+    l1_2 -> l2_1
+    l1_2 -> l2_2
+    l1_2 -> l2_3
+    l1_2 -> l2_4
+    l1_3 -> l2_1
+    l1_3 -> l2_2
+    l1_3 -> l2_3
+    l1_3 -> l2_4
+    l2_1 -> output
+    l2_2 -> output
+    l2_3 -> output
+    l2_4 -> output
 
 }
+

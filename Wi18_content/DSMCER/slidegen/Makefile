@@ -1,4 +1,13 @@
-all: mpl.svg
+all: mpl.png
 
-mpl.svg:
-	dot -Tsvg -O mpl.dot
+mpl.dot: dotgen.py
+	python dotgen.py > mpl.dot
+
+mpl.svg: mpl.dot
+	dot -Tsvg -ompl.svg mpl.dot
+
+mpl.png: mpl.svg
+	convert mpl.svg mpl.png
+
+clean:
+	\rm -rf mpl.png mpl.svg mpl.dot
