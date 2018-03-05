@@ -56,10 +56,10 @@ digraph G {
     l1_3 -> l2_2
     l1_3 -> l2_3
     l1_3 -> l2_4
-    l2_1 -> output
-    l2_2 -> output
-    l2_3 -> output
-    l2_4 -> output
+    l2_1 -> o1
+    l2_2 -> o1
+    l2_3 -> o1
+    l2_4 -> o1
 
 }
 
