@@ -29,7 +29,7 @@ digraph G {
 
 	subgraph cluster_3 {
 		color=white;
-		node [style=solid,color=output, shape=circle];
+		node [style=solid,color=black, shape=circle];
 		o1
 		label="output";
 	}
