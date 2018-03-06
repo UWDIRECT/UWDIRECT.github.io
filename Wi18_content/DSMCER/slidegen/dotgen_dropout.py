@@ -20,7 +20,7 @@ preamble_0 = """
 
         subgraph cluster_0 {
 		color=white;
-                node [style=solid,color=blue4, shape=point];
+                node [style=solid,color=blue4, shape=circle];
 		label = "inputs";
 """
 preamble_1 = """
