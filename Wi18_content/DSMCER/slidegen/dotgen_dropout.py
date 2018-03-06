@@ -2,6 +2,7 @@ import sys
 
 x = ["x1", "x2", "x3"]
 l1 = ["l1_1", "l1_2", "l1_3"]
+l2 = ["l2_1", "l2_2", "l2_3", "l2_4", "l2_5", "l2_6"]
 l2d1 = ["l2_1d", "l2_2", "l2_3d", "l2_4", "l2_5d", "l2_6"]
 l2d2 = ["l2_1", "l2_2d", "l2_3", "l2_4d", "l2_5", "l2_6d"]
 l2d3 = ["l2_1", "l2_2d", "l2_3d", "l2_4d", "l2_5", "l2_6"]
@@ -101,6 +102,7 @@ def generate_graph(filename, layers):
             layer_connect(layers[i], layers[i+1], f)
         print(postfix, file=f)
 
+generate_graph("dropout_full.dot", [x, l1, l2, o])
 generate_graph("dropout1.dot", [x, l1, l2d1, o])
 generate_graph("dropout2.dot", [x, l1, l2d2, o])
 generate_graph("dropout3.dot", [x, l1, l2d3, o])
