@@ -7,7 +7,7 @@ l2d2 = ["l2_1", "l2_2d", "l2_3", "l2_4d", "l2_5", "l2_6d"]
 l2d3 = ["l2_1", "l2_2d", "l2_3d", "l2_4d", "l2_5", "l2_6"]
 o = ["o1", "o2"]
 
-preamble = """
+preamble_pre = """
 digraph G {
 
         rankdir=LR
@@ -59,7 +59,7 @@ def layer_connect(l1, l2, f=sys.stdout):
     for i in l1:
         for j in l2:
             if i.endswith('d') or j.endswith('d'):
-                print("    %s -> %s [style='dotted']" % (i, j), file=f)
+                print("    %s -> %s [style=dotted]" % (i, j), file=f)
             else:
                 print("    %s -> %s" % (i, j), file=f)
 
@@ -68,35 +68,35 @@ def generate_preamble(filename, layers):
         print(preamble_pre, file=f)
         print(preamble_0, file=f)
         for node in layers[0]:
-            if node.ends_with('d'):
-                print("        %s [style='dotted']")
+            if node.endswith('d'):
+                print("        %s [style=dotted]" % node, file=f)
             else:
-                print("        %s")
+                print("        %s" % node, file=f)
         print(preamble_1, file=f)
         for node in layers[1]:
-            if node.ends_with('d'):
-                print("        %s [style='dotted']")
+            if node.endswith('d'):
+                print("        %s [style=dotted]" % node, file=f)
             else:
-                print("        %s")
+                print("        %s" % node, file=f)
         print(preamble_2, file=f)
         for node in layers[2]:
-            if node.ends_with('d'):
-                print("        %s [style='dotted']")
+            if node.endswith('d'):
+                print("        %s [style=dotted]" % node, file=f)
             else:
-                print("        %s")
+                print("        %s" % node, file=f)
         print(preamble_3, file=f)
         for node in layers[3]:
-            if node.ends_with('d'):
-                print("        %s [style='dotted']")
+            if node.endswith('d'):
+                print("        %s [style=dotted]" % node, file=f)
             else:
-                print("        %s")
+                print("        %s" % node, file=f)
         print(preamble_post, file=f)
 
 
 def generate_graph(filename, layers):
+    generate_preamble(filename, layers)
     with open(filename, 'a', encoding='utf-8') as f:
         l = len(layers)
-        print(preamble, file=f)
         for i in range(l-1):
             layer_connect(layers[i], layers[i+1], f)
         print(postfix, file=f)
