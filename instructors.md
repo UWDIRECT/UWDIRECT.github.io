@@ -11,10 +11,10 @@ collection: main
 * Place: Data Science Studio, 6th Floor PAB (except as noted)
 
 ### Prof. Jim Pfaendtner (jpfaendt@uw.edu)
-* Time: TBD
-* Place: TBD
+* ~~Time: TBD~~
+* ~~Place: TBD~~
 
 ### Chad Curtis (ccurtis7@uw.edu)
-* Time: TBD
-* Place: TBD
+* ~~Time: TBD~~
+* ~~Place: TBD~~
 

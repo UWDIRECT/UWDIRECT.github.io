@@ -24,7 +24,7 @@ Due to the holiday schedule in Winter quarter, homework may be assigned either o
 Twenty percent will be deducted from homework received up to a week after its due date.
 No credit will be given for homework more than one week late (unless there is special permission
 from the instructors).
-All homework, including those with extensions, must be submitted no later than midnight March 9, 2018. 
+~~All homework, including those with extensions, must be submitted no later than midnight March 9, 2018. ~~
 
 ## A Note about collaboration
 
@@ -53,7 +53,7 @@ contributions of team members.  The latter will be assessed by commit
 logs and by a peer assesment survey students will take at the end of the quarter. 
 Separate, defined graded components will be given for SEDS and DSMfCER.
 
-Projects are due by midnight March 14, 2018.  
+~~Projects are due by midnight March 14, 2018.  ~~
 
-Poster Presentation will take place on Mar 14, 2018 at the Data Science Studio (4:30-6:30 pm)
+~~Poster Presentation will take place on Mar 14, 2018 at the Data Science Studio (4:30-6:30 pm)~~
 
