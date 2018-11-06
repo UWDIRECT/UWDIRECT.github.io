@@ -77,7 +77,7 @@ Note that word processors, e.g. Microsoft Word, is _not_ a text editor.  Real te
 editors for software development have syntax highlighting, and even integrate with
 version control and style checkers.
 
-#Instructions for Running a Text Editor from GIt Bash on Windows 10
+## Instructions for Running a Text Editor from Git Bash on Windows 10
 
 These notes were contributed by a student in 2017:
 
