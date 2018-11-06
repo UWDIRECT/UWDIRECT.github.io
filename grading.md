@@ -39,11 +39,12 @@ stand ups, technology reviews and project summaries.
 
 ## Course Project
 
-A significant portion of the course grade is based on a single **joint** project that includes concepts from both DIRECT classes. This will be an open ended project related to clean energy and require, at minimum, creation of a new software project and application of one or more Data Science methods.
+A significant portion of the course grade is based on a single **joint** project that includes concepts from both DIRECT classes. This will be an open ended project related to clean energy and/or molecular data science and require, at minimum, creation of a new software project and application of one or more Data Science methods.
 Projects will be graded based on:
 - the poster presentation
-- documentation (especially function and design specifications)
+- documentation (especially use cases & function and design specifications)
 - the features implemented
+- appropriate use of data science methodology
 - code quality
 
 Grades for the project will be assigned to the entire team, although
