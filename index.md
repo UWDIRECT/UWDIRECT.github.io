@@ -6,7 +6,9 @@ collection: main
 
 ## Instructors
 
-- Prof. David Beck (dacb@uw.edu)
+- Profs. David Beck (dacb@uw.edu)
+- Profs. Jim Pfaendtner (jpfaendt@uw.edu)
+- Chad Curtis (ccurtis7@uw.edu)
 
 ## Teaching Assistants
 
@@ -15,7 +17,7 @@ collection: main
 - Moke (Coco) Mao (maomoke@uw.edu)
 
 
-## Logistics for 2018
+## Logistics for 2019
 
 - Software Engineering for Molecular Data Scientists (ChemE 546)
     - Tue & Thr
