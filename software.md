@@ -34,6 +34,12 @@ To fix this, do the following:
 * Click ``Agree`` to agree to the terms
 For more information see this [link](http://mac-how-to.wonderhowto.com/how-to/install-command-line-developer-tools-without-xcode-0168115/)
 
+## Note for Windows 10 users.
+There is a newish feature for Windows 10 that allows you to run Ubuntu apps natively inside of Windows.  You can get it from the Microsoft Store for free here:
+* (Installation instructions for Ubuntu under Windows 10)[https://www.microsoft.com/en-us/store/p/ubuntu/9nblggh4msv6]<br>
+Dave uses this on a Windows 10 machine he has at home and it works great for `git` and other `bash` stuff. This is a viable option for Windows users but not as well tested at the `gitbash` tools described above.
+
+### Alternate tools for Windows
 Windows users should install the Software Carpentry recommended software:
 Please follow these instructions on YouTube: [https://www.youtube.com/watch?v=339AEqk9c-8](https://www.youtube.com/watch?v=339AEqk9c-8).
 Make sure you install gitbash _and_ the text editor (SWCarpentryInstaller).
@@ -94,7 +100,3 @@ If you want, you can combine the above step with the previous step. This has now
 I have not tested this for any other text editor (i.e. nano/vim/atom/etc), but I imagine a similar script in similar directories should have similar results. 
 ***
 
-## Final note for Windows 10 users.
-There is a newish feature for Windows 10 that allows you to run Ubuntu apps natively inside of Windows.  You can get it from the Microsoft Store for free here:
-* https://www.microsoft.com/en-us/store/p/ubuntu/9nblggh4msv6
-Dave uses this on a Windows 10 machine he has at home and it works great for `git` and other `bash` stuff. This is a viable option for Windows users but not as well tested at the `gitbash` tools described above.
