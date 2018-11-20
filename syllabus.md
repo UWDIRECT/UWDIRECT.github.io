@@ -20,7 +20,7 @@ Due Wed 11 59 PM
 |8| [20 Feb] <br> [Package Structure](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi18_content/SEDS/L11.Project_Structure.pdf) <br> | [22 Feb] <br> Tech Reviews<br>[Virtualization](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi18_content/SEDS/L12.Virtualization.pptx?raw=true) | | [Homework 5](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi18_content/SEDS/SEDS-HW5/SEDS_HW5.md) |
 |9| [27 Feb] <br>Student Standups<br> [Virtualization](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi18_content/SEDS/L12.Virtualization.pptx?raw=true) | [1 Mar] <br> Student Standups | |
 |10| [6 Mar] <br> Student Standups | [8 Mar] <br> Student Standups | |
-|Finals Week| | March 14, 4:30 - 6:20, NanoES Lobby<br>Project poster presentations | | |
+|Finals Week| March 19, 4:30 - 6:20, Location TBD<br>Project poster presentations | | | |
 
 ## 545 / DSMCER topics  
 Due Wed 11 59 PM  
@@ -37,7 +37,7 @@ Due Wed 11 59 PM
 |8| [20 Feb] <br> [Bootstrapping & Regularlization](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi18_content/DSMCER/L11.SubsetsRegularlization.pptx?raw=true)<br>[notebook](https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi18_content/DSMCER/L11.SubsetsRegularlization.ipynb)<br>[(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fc1db81f-6e2e-460a-abad-a88d01423336) | [22 Feb] <br>  | ISL, Chapter 5, 6 | [Homework 4](https://classroom.github.com/a/2RgZrZeH) |
 |9| [27 Feb] [Decision Trees](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi18_content/DSMCER/L12.Decision_Trees.pptx?raw=true)<br>[(notebook)](https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi18_content/DSMCER/L12.Decision_Trees.ipynb)<br>[(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2d9edc2f-da54-43fb-9ec8-a8940147b50d)| [1 Mar] <br> [SVM & Unsupervised Learning](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi18_content/DSMCER/L13.SVM_Unsupervised.pptx?raw=true)<br>[notebook](https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi18_content/DSMCER/L13.SVM.ipynb) | ISL, Chapter 8, 9 |
 |10| [6 Mar] <br> [Neural Networks](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi18_content/DSMCER/L14.Neural_Networks.pptx?raw=true)<br>[notebook](https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi18_content/DSMCER/L14.Neural_Networks.ipynb) <br> [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0d7d5a58-8e05-40eb-be7f-a89b0141c7c8)  | [8 Mar] <br> Capstone project (re)overview | [NN & Deep Learning](http://neuralnetworksanddeeplearning.com)<br>[Early stopping - but when?](http://page.mi.fu-berlin.de/prechelt/Biblio/stop_tricks1997.pdf) |
-|Finals Week| | March 14, 4:30 - 6:20, NanoES Lobby<br>Project poster presentations | | |
+|Finals Week|  March 19, 4:30 - 6:20, Location TBD<br>Project poster presentations | | | |
 
 
 * ISL = Introduction to Statistical Learning by James et al. [Free PDF](http://www-bcf.usc.edu/~gareth/ISL/)
