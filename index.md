@@ -12,9 +12,9 @@ collection: main
 
 ## Teaching Assistants
 
-- Nicholas (Nick) Montoni (montoni@uw.edu)
-- Arushi Prakash (arushi3@uw.edu)
-- Moke (Coco) Mao (maomoke@uw.edu)
+- Ted Cohen (tacohen@uw.edu)
+- Torin Stetina (torins@uw.edu)
+- Caitlyn Wolf (caitwolf@uw.edu)
 
 
 ## Logistics for 2019
