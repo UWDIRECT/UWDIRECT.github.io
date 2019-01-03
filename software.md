@@ -37,7 +37,7 @@ For more information see this [link](http://mac-how-to.wonderhowto.com/how-to/in
 ## Note for Windows 10 users.
 There is a newish feature for Windows 10 that allows you to run Ubuntu apps natively inside of Windows.  You can get it from the Microsoft Store for free here:
 * (Installation instructions for Ubuntu under Windows 10)[https://www.microsoft.com/en-us/store/p/ubuntu/9nblggh4msv6]<br>
-Dave uses this on a Windows 10 machine he has at home and it works great for `git` and other `bash` stuff. This is a viable option for Windows users but not as well tested at the `gitbash` tools described below.
+Students from previous years and related courses (CSE 583 & DATA 515) have used this and it works great for `git` and other `bash` stuff. This is a viable option for Windows users but not as well tested at the `gitbash` tools described below.  Having said that, it is strongly recommended to try this option before `gitbash` below as that tool chain is on a deprecation roadmap.
 
 ### Alternate tools for Windows
 Windows users should install the Software Carpentry recommended software:
@@ -49,14 +49,14 @@ Links to the installers for Windows:
 
 ## Conda & Python
 Python will be the primary programming language used in the courses.  It is recommended
-that Python 3.5 be used.  Even if you have an existing installation of Python, it is
+that Python 3.7 be used.  Even if you have an existing installation of Python, it is
 required that you install Python with Conda.  Conda is a system for installing and 
 otherwise managing python packages and their dependenices.
-We recommend students use Miniconda3.5.
+We recommend students use Miniconda3.7.  If you have an older conda 3.5 or later install that will probably work fine.  Versions of conda that are based on Python 2 will be very problematic if not useless for the class.
 See [http://conda.pydata.org/miniconda.html](http://conda.pydata.org/miniconda.html)
 for instructions for downloading and installing miniconda. 
-(You should use the instructions for your OS and Python 3.5.)
-Below are detailed instructions after you have installed miniconda:
+(You should use the instructions for your OS and Python 3.7.)
+Below are detailed instructions after you have installed miniconda to verify it is working as intended:
 
 1. Update conda's listing of packages for your system:
 - $ conda update conda
@@ -65,7 +65,7 @@ Below are detailed instructions after you have installed miniconda:
 3. Type ipython notebook in the terminal to start the notebook
 - $ jupyter notebook
 
-If everything has worked correctly, it should automatically launch your default browser
+If everything has worked correctly, it should automatically launch your default browser.
 
 ## Text editor
 Windows users will install the basic ```nano``` editor.  After a few classes, you may

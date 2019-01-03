@@ -7,7 +7,6 @@ collection: main
 ## Instructors
 
 - Profs. David Beck (dacb@uw.edu)
-- Profs. Jim Pfaendtner (jpfaendt@uw.edu)
 - Chad Curtis (ccurtis7@uw.edu)
 
 ## Teaching Assistants
