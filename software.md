@@ -36,7 +36,7 @@ For more information see this [link](http://mac-how-to.wonderhowto.com/how-to/in
 
 ## Note for Windows 10 users.
 There is a newish feature for Windows 10 that allows you to run Ubuntu apps natively inside of Windows.  You can get it from the Microsoft Store for free here:
-* (Installation instructions for Ubuntu under Windows 10)[https://www.microsoft.com/en-us/store/p/ubuntu/9nblggh4msv6]<br>
+* [Installation instructions for Ubuntu under Windows 10](https://www.microsoft.com/en-us/store/p/ubuntu/9nblggh4msv6)<br>
 Students from previous years and related courses (CSE 583 & DATA 515) have used this and it works great for `git` and other `bash` stuff. This is a viable option for Windows users but not as well tested at the `gitbash` tools described below.  Having said that, it is strongly recommended to try this option before `gitbash` below as that tool chain is on a deprecation roadmap.
 
 ### Alternate tools for Windows
