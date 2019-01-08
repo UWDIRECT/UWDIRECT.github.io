@@ -27,7 +27,7 @@ Due Wed 11 59 PM
 
 | Week  | Tuesday Topic | Thursday Topic | References | Assignment |
 |:------------|:-------------|:----------------|:-------------------|:-------------|
-|1| [8 Jan] <br> [Introduction to Data Science](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi19_content/DSMCER/L1_Intro_to_Data_Science.pdf)[(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=910b1b2e-b963-452f-8895-a9cf01408f04) | [10 Jan] <br> See SEDS | [Beck et al, 2016](https://onlinelibrary.wiley.com/doi/full/10.1002/aic.15192) | [DSMCER Homework 1](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi19_content/DSMCER/DSMCER%20Homework%201.docx), Due Wed. Jan 16 |
+|1| [8 Jan] <br> [Introduction to Data Science](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi19_content/DSMCER/L1_Intro_to_Data_Science.pdf) [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=910b1b2e-b963-452f-8895-a9cf01408f04) | [10 Jan] <br> See SEDS | [Beck et al, 2016](https://onlinelibrary.wiley.com/doi/full/10.1002/aic.15192) | [DSMCER Homework 1](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi19_content/DSMCER/DSMCER%20Homework%201.docx), Due Wed. Jan 16 |
 |2| [15 Jan] <br> See SEDS | [17 Jan] <br> See SEDS |  |  
 |3| [22 Jan] <br> Data Visualization | [24 Jan] <br> Stats Part I (Descriptive Stats)  | | DSMCER Homework 2, Due Wed. Jan 30 |
 |4| [29 Jan] <br> Stats Part II (Distributions) | [31 Jan] <br> Stats Part III (Hypothesis Testing) | | DSMCER Homework 3, Due Wed. Feb 6
