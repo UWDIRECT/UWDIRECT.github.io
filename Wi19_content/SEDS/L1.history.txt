@@ -1,0 +1,124 @@
+ls
+ls -l
+ls -help
+ls --help
+ls -h
+ls --help
+ls -lh
+ls -l
+ls -lh
+cd Desktop/
+ls
+mkdir HCEPDB
+cd HCEPDB/
+s
+ls
+ls 
+ls -l
+ls -la
+ls ..
+ls ../..
+ls
+ls -la
+nano
+nano
+nano
+nano README.txt
+ls 
+nano README.txt 
+cat README.txt 
+more README.txt 
+nano README.txt 
+cat README.txt 
+more README.txt 
+less README.txt 
+head README.txt 
+tail README.txt 
+head --help
+head -n 1
+head -n 1 README.txt 
+tail --help
+tail -n 1 README.txt 
+ls README.txt 
+touch foo.bar
+ls
+ls -l
+ls *
+ls -l *
+ls -l *.txt
+ls 
+rm foo.bar
+ls -l
+mv README.txt README
+ls -l
+cp README README.txt
+ls -l
+rm README
+ls -l
+ls ~
+mv ~/Downloads/HCEPDB_moldata.zip .
+ls -l
+ls -lh
+rm HCEPDB_moldata.zip 
+curl http://faculty.washington.edu/dacb/HCEPDB_moldata.zip
+curl --help
+curl --help
+curl http://faculty.washington.edu/dacb/HCEPDB_moldata.zip -o HCEPDB_moldata.zip
+history
+ls -l
+unzip HCEPDB_moldata.zip 
+head HCEPDB_moldata.csv 
+open -a /Applications/Microsoft\ Office\ 2011/Microsoft\ Excel.app HCEPDB_moldata.csv
+ls
+ls
+ls
+ls -l > foo
+cat foo
+curl http://faculty.washington.edu/dacb/HCEPDB_moldata.zip > HCEPDB_moldata.zip
+ls
+cd ..
+rmdir
+rmdir HCEPDB/
+cd HCEPDB/
+rm *
+ls -l
+cd ..
+rmdir HCEPDB/
+nano setup.sh
+cat setup.sh 
+nano setup.sh 
+echo "foobar"
+echo "Dave is awesome"
+nano setup.sh 
+cat setup.sh 
+bash setup.sh 
+ls
+nano setup.sh 
+cd HCEPDB/
+ls
+conda
+conda > conda.usage
+more conda.usage 
+git
+git > git.usage
+more git.usage 
+less git.usage 
+ls
+jupyter --help
+jupyter notebook
+history
+cd Desktop/
+ls
+cd HCEPDB/
+ls
+grep C=C HCEPDB_moldata.csv 
+nano foobar
+uniq foobar 
+nano foobar
+sort foobar 
+sort foobar  > foobar.1
+uniq foobar.1
+find ./ -name '.bash_profile'
+cd
+find ./ -name '.bash_profile'
+find / -name '.bash_profile'
