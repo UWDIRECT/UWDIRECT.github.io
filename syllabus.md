@@ -10,7 +10,7 @@ Due Wed 11 59 PM
 
 | Week  | Tuesday Topic | Thursday Topic | References | Assignment |
 |:------------|:-------------|:----------------|:-------------------|:-------------|
-|1| [8 Jan] <br> Intro & Command Line | [10 Jan] <br> Morning: Command Line, cont. & Git Part I <br> <br> Afternoon: Intro to Python & Notebooks | [bash command line reference](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi19_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf) | [SEDS Homework 1](https://github.com/uwdirect-2018/seds-hw1), Due Wed. Jan 16
+|1| [8 Jan] <br> [Intro & Command Line](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi19_content/SEDS/L1.Intro_Command_Line.pptx) | [10 Jan] <br> Morning: Command Line, cont. & Git Part I <br> <br> Afternoon: Intro to Python & Notebooks | [bash command line reference](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi19_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf) | [SEDS Homework 1](https://github.com/uwdirect-2018/seds-hw1), Due Wed. Jan 16
 |2| [15 Jan] <br> Morning: Git Part II <br> <br> Afternoon: Data Analysis with Python | [17 Jan] <br> Morning: Expanded Python <br> <br> Afternoon: Unit Tests & Programming Style | | SEDS Homework 2, Due Wed. Jan 23
 |3| [22 Jan] <br> Version Control Part I | [24 Jan] <br> Version Control Part II  | | SEDS Homework 3, Due Wed. Jan 30
 |4| [29 Jan] <br> Package Structure | [31 Jan] <br> Software Design | |
