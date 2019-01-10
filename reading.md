@@ -4,6 +4,10 @@ title: Reading
 collection: main
 ---
 
+In addition to the resources below, the course also has a wiki and question / answer forum as a GitHub wiki and issues pages.
+* [wiki](https://github.com/UWDIRECT/wiki/wiki)
+* [question/answer/issue](https://github.com/UWDIRECT/wiki/issues)
+
 ## Machine Learning 
 * Repository of free or open-source texts on machine learning <a href="https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md" target="_blank"> link</a>
 * Bias-Variance Trade-off explained <a href="http://scott.fortmann-roe.com/docs/BiasVariance.html">link</a>
