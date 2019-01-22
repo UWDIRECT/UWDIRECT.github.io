@@ -14,7 +14,7 @@ Due Wed 11 59 PM
 |2| [15 Jan] <br> Morning: [Version control](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi19_content/SEDS/L3.Version_Control.pptx), part I ([video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=083bb22f-efad-473a-a3d8-a9d601412337))<br> <br> Afternoon: More version control!([video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1ab0be05-0b61-4eeb-81ea-a9d601745b57)) | [17 Jan] <br> Version control, part II.5 & submitting homework<br>Python & Pandas [L4.Python.ipynb](https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi19_content/SEDS/L4.Python.ipynb) ([video1](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a113c2b8-a244-4207-a759-a9d801413775), [video2](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3088055e-9c4c-4b32-8d62-a9d80172fe5b))  | [Setting up an editor in git](http://swcarpentry.github.io/git-novice/02-setup/index.html) | SEDS Homework 2, Due Wed. Jan 23
 |3| [22 Jan] <br> Procedural Python | [24 Jan] <br> Unit Tests & Programming Style | | SEDS Homework 3, Due Wed. Jan 30
 |4| [29 Jan] <br> Package Structure | [31 Jan] <br> Software Design | |
-|5| [5 Feb] <br> Project Overview & Matchmaking <br> | [7 Feb] <br> Project Pitches & Approval | | SEDS Homework 4, Due Wed. Feb 13 | 
+|5| [5 Feb] <br> Project Overview & Matchmaking <br> | [7 Feb] <br> Project Pitches & Approval | | SEDS Homework 4, Due Wed. Feb 13 |
 |6| [12 Feb] <br> See DSMCER  | [14 Feb] <br> See DSMCER |  |
 |7| [19 Feb] <br> TBD | [21 Feb] <br> TBD | | |
 |8| [26 Feb] <br> Virtualization Part I | [28 Feb] <br> Virtualization Part II | ||
@@ -29,7 +29,7 @@ Due Wed 11 59 PM
 |:------------|:-------------|:----------------|:-------------------|:-------------|
 |1| [8 Jan] <br> [Introduction to Data Science](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi19_content/DSMCER/L1_Intro_to_Data_Science.pdf) [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=910b1b2e-b963-452f-8895-a9cf01408f04) | [10 Jan] <br> See SEDS | [Beck et al, 2016](https://onlinelibrary.wiley.com/doi/full/10.1002/aic.15192) | [DSMCER Homework 1](https://classroom.github.com/a/WEWMwMYb), Due Wed. Jan 16 |
 |2| [15 Jan] <br> See SEDS | [17 Jan] <br> See SEDS |  |  
-|3| [22 Jan] <br> Data Visualization | [24 Jan] <br> Stats Part I (Descriptive Stats)  | | DSMCER Homework 2, Due Wed. Jan 30 |
+|3| [22 Jan] <br> [Data Visualization](https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi19_content/DSMCER/L2_Visualization.ipynb) | [24 Jan] <br> Stats Part I (Descriptive Stats)  | | DSMCER Homework 2, Due Wed. Jan 30 |
 |4| [29 Jan] <br> Stats Part II (Distributions) | [31 Jan] <br> Stats Part III (Hypothesis Testing) | | DSMCER Homework 3, Due Wed. Feb 6
 |5| [5 Feb] <br> Machine Learning Intro & KNNs | [7 Feb] <br> Regression  |
 |6| [12 Feb] <br> Morning: Bootstrapping Part I <br> <br> Afternoon: Image Analysis Part I | [14 Feb] <br> Morning: Bootstapping Part II & Regularization <br> <br> Afternoon: Image Analysis Part II | | DSMCER Homework 4, Due Wed. Feb 20
