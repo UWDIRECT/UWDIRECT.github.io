@@ -29,7 +29,7 @@ Due Wed 11 59 PM
 |:------------|:-------------|:----------------|:-------------------|:-------------|
 |1| [8 Jan] <br> [Introduction to Data Science](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi19_content/DSMCER/L1_Intro_to_Data_Science.pdf) [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=910b1b2e-b963-452f-8895-a9cf01408f04) | [10 Jan] <br> See SEDS | [Beck et al, 2016](https://onlinelibrary.wiley.com/doi/full/10.1002/aic.15192) | [DSMCER Homework 1](https://classroom.github.com/a/WEWMwMYb), Due Thu. Jan 17 |
 |2| [15 Jan] <br> See SEDS | [17 Jan] <br> See SEDS |  |  
-|3| [22 Jan] <br> [Data Visualization](https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi19_content/DSMCER/L2_Visualization.ipynb) | [24 Jan] <br> Stats Part I (Descriptive Stats)  | | DSMCER Homework 2, Due Thurs. Jan 31 |
+|3| [22 Jan] <br> [Data Visualization](https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi19_content/DSMCER/L2_Visualization.ipynb) | [24 Jan] <br> [Stats Part I (Descriptive Stats)](https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi19_content/DSMCER/L3_Descriptive_Statistics.ipynb)  | | [DSMCER Homework 2](https://classroom.github.com/a/1Xq7zd9y), Due Thurs. Jan 31 |
 |4| [29 Jan] <br> Stats Part II (Distributions) | [31 Jan] <br> Stats Part III (Hypothesis Testing) | | DSMCER Homework 3, Due Wed. Feb 6
 |5| [5 Feb] <br> Machine Learning Intro & KNNs | [7 Feb] <br> Regression  |
 |6| [12 Feb] <br> Morning: Bootstrapping Part I <br> <br> Afternoon: Image Analysis Part I | [14 Feb] <br> Morning: Bootstapping Part II & Regularization <br> <br> Afternoon: Image Analysis Part II | | DSMCER Homework 4, Due Wed. Feb 20
