@@ -6,8 +6,8 @@ collection: main
 
 ## Instructors
 
-- Profs. David Beck (dacb@uw.edu)
-- Chad Curtis (ccurtis7@uw.edu)
+- Prof. David Beck (dacb@uw.edu)
+- Prof. Ting Cao (tingcao@uw.edu)
 
 ## Teaching Assistants
 
@@ -16,7 +16,7 @@ collection: main
 - Caitlyn Wolf (caitwolf@uw.edu)
 
 
-## Logistics for 2019
+## Logistics for 2020
 
 - Software Engineering for Molecular Data Scientists (ChemE 546)
     - Tue & Thr
