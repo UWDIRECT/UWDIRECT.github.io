@@ -27,7 +27,7 @@ All homework, including those with extensions, must be submitted no later than m
 
 ## A Note about collaboration
 
-My expectation is that everything you type in a Python notebook is your own work. Any instances of "copy-paste" from the web or another person's notebook should be clearly cited. Of course you may look at examples but it is my strong preference that you refrain from copy-paste and type everything in. There is a learning reason for this, which I am happy to discuss in office hours or on slack.
+Our expectation is that everything you type in a Python notebook is your own work. Any instances of "copy-paste" from the web or another person's notebook should be clearly cited. Of course you may look at examples but it is our strong preference that you refrain from copy-paste and type everything in. There is a learning reason for this, which we are happy to discuss in office hours or on slack.
 
 We will follow UW academic misconduct policy for any suspected instances of cheating on HW or projects. Any confirmed instance of cheating results in a zero on a HW assignment. Any 2nd confirmed instance of cheating results in a zero for the entire course grade.
 
