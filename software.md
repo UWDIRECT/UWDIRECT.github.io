@@ -40,7 +40,7 @@ There is a newish feature for Windows 10 that allows you to run Ubuntu apps nati
 Students from previous years and related courses (CSE 583 & DATA 515) have used this and it works great for `git` and other `bash` stuff. 
 <br>**In addition** we strongly recommend installing the improved Windows Terminal from the Microsoft App Store.  This is considerably better than the standard windows shell window and works great with WSL.
 
-These instructions show how to setup a really solid Windows development environment including Python and WSL: https://towardsdatascience.com/setting-up-a-data-science-environment-using-windows-subsystem-for-linux-wsl-c4b390803dd
+These instructions show how to setup a really solid Windows development environment including Python and WSL: [https://towardsdatascience.com/setting-up-a-data-science-environment-using-windows-subsystem-for-linux-wsl-c4b390803dd](https://towardsdatascience.com/setting-up-a-data-science-environment-using-windows-subsystem-for-linux-wsl-c4b390803dd)
 
 ## Conda & Python
 Python will be the primary programming language used in the courses.  It is recommended
