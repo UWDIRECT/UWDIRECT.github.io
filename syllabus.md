@@ -59,8 +59,7 @@ DSMCER background color: #b2df8a-->
     <th style="width: 20%">Tuesday</th>
     <th style="width: 20%">Wednesday</th>
     <th style="width: 20%">Thursday</th>
-    <th style="width: 20%">Friday</th>
-  </tr>
+    <th style="width: 20%">Friday</th></tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Jan 6 <br/> 
     	<span style="background-color:#b2df8a">DSMCER Day 1</span> </td>
@@ -70,8 +69,7 @@ DSMCER background color: #b2df8a-->
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td>Jan 9 <br/> 
     	<span style="background-color:#a6cee3">SEDS</span> </td>
-    <td>Jan 10 <br/>
-  </tr>
+    <td>Jan 10 <br/></tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Jan 13 <br/> 
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
@@ -107,7 +105,10 @@ DSMCER background color: #b2df8a-->
   </tr>
 </table>
 
+
 ### February 2020
+
+
 <table style="width:100%; text-align:center" id="feb">
   <tr style="text-align: center; background-color:white">
     <th style="width: 20%">Monday</th>
@@ -162,7 +163,10 @@ DSMCER background color: #b2df8a-->
   </tr>
 </table>
 
+
 ### March 2020
+
+
 <table style="width:100%; text-align:center" id="mar">
   <tr style="text-align: center; background-color:white">
     <th style="width: 20%">Monday</th>
