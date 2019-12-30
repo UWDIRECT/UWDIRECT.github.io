@@ -45,9 +45,166 @@ Due Wed 11 59 PM
 {: rules="groups"}
 -->
 
-## SEDS/DSMCER Schedule
+## <span style="background-color:#a6cee3">SEDS</span> and <span style="background-color:#b2df8a">DSMCER</span> Schedule
 
-Schedule is in progress; please check back in soon.
+
+<!--SEDS background color: #a6cee3
+DSMCER background color: #b2df8a-->
+
+
+### January 2020
+<table style="width:100%; text-align:center" id="jan">
+  <tr style="text-align: center; background-color:white">
+    <th style="width: 20%">Monday</th>
+    <th style="width: 20%">Tuesday</th>
+    <th style="width: 20%">Wednesday</th>
+    <th style="width: 20%">Thursday</th>
+    <th style="width: 20%">Friday</th>
+  </tr>
+  <tr style="text-align: center; background-color:white; vertical-align: top">
+    <td>Jan 6 <br/> 
+    	<span style="background-color:#b2df8a">DSMCER Day 1</span> </td>
+    <td>Jan 7 <br/> 
+    	<span style="background-color:#a6cee3">SEDS Day 1</span> </td>
+    <td>Jan 8 <br/> 
+    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    <td>Jan 9 <br/> 
+    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    <td>Jan 10 <br/>
+  </tr>
+  <tr style="text-align: center; background-color:white; vertical-align: top">
+    <td>Jan 13 <br/> 
+    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    <td>Jan 14 <br/> 
+    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    <td>Jan 15 <br/> 
+    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    <td>Jan 16 <br/> 
+    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    <td>Jan 17 <br/>
+  </tr>
+  <tr style="text-align: center; background-color:white; vertical-align: top">
+    <td>Jan 20 <br/> 
+    	<span style="font-weight:bold">NO CLASS<br>Martin Luther King Jr. Day</span> </td>
+    <td>Jan 21 <br/> 
+    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    <td>Jan 22 <br/> 
+    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    <td>Jan 23 <br/> 
+    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    <td>Jan 24 <br/>
+  </tr>
+  <tr style="text-align: center; background-color:white; vertical-align: top">
+    <td>Jan 27 <br/> 
+    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    <td>Jan 28 <br/> 
+    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    <td>Jan 29 <br/> 
+    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    <td>Jan 30 <br/> 
+    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    <td>Jan 31 <br/>
+  </tr>
+</table>
+
+### February 2020
+<table style="width:100%; text-align:center" id="feb">
+  <tr style="text-align: center; background-color:white">
+    <th style="width: 20%">Monday</th>
+    <th style="width: 20%">Tuesday</th>
+    <th style="width: 20%">Wednesday</th>
+    <th style="width: 20%">Thursday</th>
+    <th style="width: 20%">Friday</th>
+  </tr>
+  <tr style="text-align: center; background-color:white; vertical-align: top">
+    <td>Feb 3 <br/> 
+    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    <td>Feb 4 <br/> 
+    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    <td>Feb 5 <br/> 
+    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    <td>Feb 6 <br/> 
+    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    <td>Feb 7 <br/>
+  </tr>
+  <tr style="text-align: center; background-color:white; vertical-align: top">
+    <td>Feb 10 <br/> 
+    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    <td>Feb 11 <br/> 
+    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    <td>Feb 12 <br/> 
+    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    <td>Feb 13 <br/> 
+    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    <td>Feb 14 <br/>
+  </tr>
+  <tr style="text-align: center; background-color:white; vertical-align: top">
+    <td>Feb 17 <br/> 
+    	<span style="font-weight:bold">NO CLASS<br>Presidents Day</span> </td>
+    <td>Feb 18 <br/> 
+    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    <td>Feb 19 <br/> 
+    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    <td>Feb 20 <br/> 
+    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    <td>Feb 21 <br/>
+  </tr>
+  <tr style="text-align: center; background-color:white; vertical-align: top">
+    <td>Feb 24 <br/> 
+    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    <td>Feb 25 <br/> 
+    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    <td>Feb 26 <br/> 
+    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    <td>Feb 27 <br/> 
+    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    <td>Feb 28 <br/>
+  </tr>
+</table>
+
+### March 2020
+<table style="width:100%; text-align:center" id="mar">
+  <tr style="text-align: center; background-color:white">
+    <th style="width: 20%">Monday</th>
+    <th style="width: 20%">Tuesday</th>
+    <th style="width: 20%">Wednesday</th>
+    <th style="width: 20%">Thursday</th>
+    <th style="width: 20%">Friday</th>
+  </tr>
+  <tr style="text-align: center; background-color:white; vertical-align: top">
+    <td>Mar 2 <br/> 
+    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    <td>Mar 3 <br/> 
+    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    <td>Mar 4 <br/> 
+    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    <td>Mar 5 <br/> 
+    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    <td>Mar 6 <br/>
+  </tr>
+  <tr style="text-align: center; background-color:white; vertical-align: top">
+    <td>Mar 9 <br/> 
+    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    <td>Mar 10 <br/> 
+    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    <td>Mar 11 <br/> 
+    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    <td>Mar 12 <br/> 
+    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    <td>Mar 13 <br/>
+  </tr>
+  <tr style="text-align: center; background-color:white; vertical-align: top">
+    <th colspan="5"> Finals Week </th>
+  </tr>
+  <tr style="text-align: center; background-color:white; vertical-align: top">
+    <td>Mar 16 </td>
+    <td>Mar 17 </td>
+    <td>Mar 18 </td>
+    <td>Mar 19 </td>
+    <td>Mar 20 </td>
+  </tr>
+</table>
+
 
 ## Additional Information
 
