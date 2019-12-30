@@ -59,7 +59,8 @@ DSMCER background color: #b2df8a-->
     <th style="width: 20%">Tuesday</th>
     <th style="width: 20%">Wednesday</th>
     <th style="width: 20%">Thursday</th>
-    <th style="width: 20%">Friday</th></tr>
+    <th style="width: 20%">Friday</th>
+  </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Jan 6 <br/> 
     	<span style="background-color:#b2df8a">DSMCER Day 1</span> </td>
@@ -69,7 +70,8 @@ DSMCER background color: #b2df8a-->
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td>Jan 9 <br/> 
     	<span style="background-color:#a6cee3">SEDS</span> </td>
-    <td>Jan 10 <br/></tr>
+    <td>Jan 10 </td>
+  </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Jan 13 <br/> 
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
@@ -79,7 +81,7 @@ DSMCER background color: #b2df8a-->
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td>Jan 16 <br/> 
     	<span style="background-color:#a6cee3">SEDS</span> </td>
-    <td>Jan 17 <br/>
+    <td>Jan 17 </td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Jan 20 <br/> 
@@ -90,7 +92,7 @@ DSMCER background color: #b2df8a-->
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td>Jan 23 <br/> 
     	<span style="background-color:#a6cee3">SEDS</span> </td>
-    <td>Jan 24 <br/>
+    <td>Jan 24 </td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Jan 27 <br/> 
@@ -101,7 +103,7 @@ DSMCER background color: #b2df8a-->
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td>Jan 30 <br/> 
     	<span style="background-color:#a6cee3">SEDS</span> </td>
-    <td>Jan 31 <br/>
+    <td>Jan 31 </td>
   </tr>
 </table>
 
@@ -126,7 +128,7 @@ DSMCER background color: #b2df8a-->
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td>Feb 6 <br/> 
     	<span style="background-color:#a6cee3">SEDS</span> </td>
-    <td>Feb 7 <br/>
+    <td>Feb 7 </td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Feb 10 <br/> 
@@ -137,7 +139,7 @@ DSMCER background color: #b2df8a-->
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td>Feb 13 <br/> 
     	<span style="background-color:#a6cee3">SEDS</span> </td>
-    <td>Feb 14 <br/>
+    <td>Feb 14 </td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Feb 17 <br/> 
@@ -148,7 +150,7 @@ DSMCER background color: #b2df8a-->
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td>Feb 20 <br/> 
     	<span style="background-color:#a6cee3">SEDS</span> </td>
-    <td>Feb 21 <br/>
+    <td>Feb 21 </td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Feb 24 <br/> 
@@ -159,7 +161,7 @@ DSMCER background color: #b2df8a-->
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td>Feb 27 <br/> 
     	<span style="background-color:#a6cee3">SEDS</span> </td>
-    <td>Feb 28 <br/>
+    <td>Feb 28 </td>
   </tr>
 </table>
 
@@ -184,7 +186,7 @@ DSMCER background color: #b2df8a-->
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td>Mar 5 <br/> 
     	<span style="background-color:#a6cee3">SEDS</span> </td>
-    <td>Mar 6 <br/>
+    <td>Mar 6 </td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Mar 9 <br/> 
@@ -195,7 +197,7 @@ DSMCER background color: #b2df8a-->
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td>Mar 12 <br/> 
     	<span style="background-color:#a6cee3">SEDS</span> </td>
-    <td>Mar 13 <br/>
+    <td>Mar 13 </td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <th colspan="5"> Finals Week </th>
