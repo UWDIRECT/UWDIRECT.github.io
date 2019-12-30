@@ -45,8 +45,12 @@ Due Wed 11 59 PM
 {: rules="groups"}
 -->
 
-## <span style="background-color:#a6cee3">SEDS</span> and <span style="background-color:#b2df8a">DSMCER</span> Schedule
+## <span style="background-color:#a6cee3">SEDS (546)</span> and <span style="background-color:#b2df8a">DSMCER (545)</span> Schedule
 
+
+**Monday/Wednesday** <br>11:30 AM - 12:50 PM in [NanoES](http://uw.edu/maps/?nan) 181
+
+**Tuesday/Thursday** <br>2:30 PM - 3:50 PM in [Odegaard Undergraduate Library](http://uw.edu/maps?oug) 136
 
 <!--SEDS background color: #a6cee3
 DSMCER background color: #b2df8a-->
