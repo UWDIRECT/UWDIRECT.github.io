@@ -12,6 +12,7 @@ collection: main
 ## Teaching Assistants
 
 - Ted Cohen (tacohen@uw.edu)
+- Jimin Qian (jiminq@uw.edu)
 - Torin Stetina (torins@uw.edu)
 - Caitlyn Wolf (caitwolf@uw.edu)
 
@@ -21,13 +22,13 @@ collection: main
 - Software Engineering for Molecular Data Scientists (ChemE 546)
     - Tue & Thr
     - 2:30 - 3:50
-    - [Odegaard Undergraduate Library](http://uw.edu/maps?oug) 141
+    - [Odegaard Undergraduate Library](http://uw.edu/maps?oug) 136
 
 
 - Data Science Methods for Clean Energy Research (ChemE 545)
-    - Tue & Thr
+    - Mon & Wed
     - 11:30 - 12:50
-    - [Odegaard Undergraduate Library](http://uw.edu/maps?oug) 141
+    - [NanoES](http://uw.edu/maps/?nan) 181
 
 
 ## Course Descriptions
