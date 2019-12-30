@@ -35,17 +35,12 @@ To fix this, do the following:
 For more information see this [link](http://mac-how-to.wonderhowto.com/how-to/install-command-line-developer-tools-without-xcode-0168115/)
 
 ## Note for Windows 10 users.
-There is a newish feature for Windows 10 that allows you to run Ubuntu apps natively inside of Windows.  You can get it from the Microsoft Store for free here:
+There is a newish feature for Windows 10 that allows you to run Ubuntu apps natively inside of Windows called Windows Subsystem for Linux (WSL).  You can get it from the Microsoft Store for free here:
 * [Installation instructions for Ubuntu under Windows 10](https://www.microsoft.com/en-us/store/p/ubuntu/9nblggh4msv6)<br>
-Students from previous years and related courses (CSE 583 & DATA 515) have used this and it works great for `git` and other `bash` stuff. This is a viable option for Windows users but not as well tested at the `gitbash` tools described below.  Having said that, it is strongly recommended to try this option before `gitbash` below as that tool chain is on a deprecation roadmap.
+Students from previous years and related courses (CSE 583 & DATA 515) have used this and it works great for `git` and other `bash` stuff. 
+<br>**In addition** we strongly recommend installing the improved Windows Terminal from the Microsoft App Store.  This is considerably better than the standard windows shell window and works great with WSL.
 
-### Alternate tools for Windows
-Windows users should install the Software Carpentry recommended software:
-Please follow these instructions on YouTube: [https://www.youtube.com/watch?v=339AEqk9c-8](https://www.youtube.com/watch?v=339AEqk9c-8).
-Make sure you install gitbash _and_ the text editor (SWCarpentryInstaller).
-Links to the installers for Windows:
-* GitBASH: [https://git-for-windows.github.io](https://git-for-windows.github.io)
-* Software Carpentry Installer: [https://github.com/swcarpentry/windows-installer/releases/](https://github.com/swcarpentry/windows-installer/releases/)
+These instructions show how to setup a really solid Windows development environment including Python and WSL: https://towardsdatascience.com/setting-up-a-data-science-environment-using-windows-subsystem-for-linux-wsl-c4b390803dd
 
 ## Conda & Python
 Python will be the primary programming language used in the courses.  It is recommended
@@ -76,27 +71,4 @@ decide that you want to try out more advanced editors.  Some options are
 Note that word processors, e.g. Microsoft Word, is _not_ a text editor.  Real text
 editors for software development have syntax highlighting, and even integrate with
 version control and style checkers.
-
-## Instructions for Running a Text Editor from Git Bash on Windows 10
-
-These notes were contributed by a student in 2017:
-
-***
-These instructions assume that you already have already downloaded and installed Git Bash and Sublime for Windows 10. I have not attempted this with other text editors, but I hazard to guess the instructions are similar. These instructions are culled from Stack Overflow and Here.
-
-In order to execute your text editor from Git Bash (not the default bash on Windows), open up Notepad and create the following file named Subl:
-#!/bin/sh
-"C:\Program Files\Sublime Text 3\sublime_text.exe" $1 &
-In the above block of code, the line between “…” is the path where your text editor executable is installed. Save Subl wherever you want. I recommend to your desktop, so it is easy to find. Notice that Subl is likely saved as a text (Subl.txt) file. We want to get rid of the extension. However, the Windows gui doesn’t allow us to access the file extensions, so we have to do the following steps.
-
-Next, run the Window’s command terminal (cmd) as an administrator. Navigate to where you saved Subl.txt (i.e. C:\Users\Andrew\Desktop). We want to get rid of that .txt extension. Use the copy command as follows:
-C:\Users\…\Desktop>copy Subl.txt Subl
-Now we have Subl with no extension. We now want to move it into our Git Bash bin directory, so that when we type Subl new_text_file.txt in Git Bash, it opens up new_text_file.txt using Sublime or your particular text editor. 
-
-First, find the path of where your Git Bash bin directory is. The path is likely C:\Program Files\Git\usr\bin or “C:\Program Files (x86)\Git\bin” depending on if you did the 64 or 32-bit installation. Still in the Windows command terminal (running as an administrator), type the following: 
-C:\Users\...\Desktop>move Subl “C:\Program Files\Git\usr\bin”
-If you want, you can combine the above step with the previous step. This has now moved the script Subl to the specified bin directory. Now, in Git Bash you should be able to simply type Subl new_text_file.txt and it will create (if it doesn’t yet exist) or open up new_text_file.txt using Sublime. 
-
-I have not tested this for any other text editor (i.e. nano/vim/atom/etc), but I imagine a similar script in similar directories should have similar results. 
-***
 
