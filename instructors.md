@@ -20,11 +20,8 @@ collection: main
 
 ## Office Hours
 
-Office hour dates/times are in progress; please check back in soon.
+The instructional team will provide the following weekly office hours, held at the [Data Science Studio](https://escience.washington.edu/wrf-data-science-studio/), 6th floor of PAB (except as noted):
 
+- Tuesday at 1:30 to 2:20 PM
+- Thursday at 10:30 to 11:20 AM
 
-<!--## Office hours 
-The instructional team will provide the following office hours:
-* Time: Between 546 and 545 on Tue, Thu
-* Place: Data Science Studio, 6th Floor PAB (except as noted)
--->
