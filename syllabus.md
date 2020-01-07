@@ -35,12 +35,12 @@ DSMCER background color: #b2df8a-->
     <td>Jan 6 <br/> 
     	<span style="background-color:#b2df8a">Course introduction</span> </td>
     <td>Jan 7 <br/> 
-    	<span style="background-color:#a6cee3">[Command line, part 1](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L1.Intro_Command_Line.pptx)<br/>([video])()</span> </td>
+    	<span style="background-color:#a6cee3"><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L1.Intro_Command_Line.pptx">Command line, part 1</A>)<br/><A HREF="">(video)</A></span> </td>
     <td>Jan 8 <br/> 
-    	<span style="background-color:#b2df8a">[Command line, part 2](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L1.Intro_Command_Line.pptx)</span> </td>
+    	<span style="background-color:#b2df8a"><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L1.Intro_Command_Line.pptx">Command line, part 2</A>)<br/><A HREF="">(video)</A></span> </td>
     <td>Jan 9 <br/> 
-    	<span style="background-color:#a6cee3">SEDS</span> </td>
-    <td>[DSMCER assigned reading](https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.15192)<br/>[bash command line reference](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi19_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf)<br/>[DSMCER Homework 1](https://docs.google.com/document/d/1Ypo5QcCInFlOqm2GknYK4aYfZ1ALCFzcpy3aTa5nzz0/edit?usp=sharing)</td>
+    	<span style="background-color:#a6cee3">Intro to Python & Notebooks</span> </td>
+    <td><A HREF="https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.15192">DSMCER assigned reading</A><br/><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi19_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf">bash command line reference</A><br/><a HREF="https://docs.google.com/document/d/1Ypo5QcCInFlOqm2GknYK4aYfZ1ALCFzcpy3aTa5nzz0/edit?usp=sharing">DSMCER Homework 1</A></td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Jan 13 <br/> 
