@@ -35,11 +35,11 @@ DSMCER background color: #b2df8a-->
     <td>Jan 6 <br/> 
     	<span style="background-color:#b2df8a">Course Introduction</span> </td>
     <td>Jan 7 <br/> 
-    	<span style="background-color:#a6cee3"><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L1.1.Command_Line.pptx">Command line, part 1</A><br/><A HREF="">(video)</A></span></td>
+    	<span style="background-color:#a6cee3"><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L1.1.Command_Line.pptx">Command line, part 1</A><br/><A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a4df1313-530c-4ff0-a802-ab3b01750434">(video)</A></span></td>
     <td>Jan 8 <br/> 
     	<span style="background-color:#a6cee3"><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L1.1.Command_Line.pptx">Command line, part 2</A><br/><A HREF="">(video)</A></span></td>
     <td>Jan 9 <br/> 
-    	<span style="background-color:#a6cee3">Intro to Python & Notebooks</span> </td>
+    	<span style="background-color:#a6cee3"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/SEDS/L2.Simple_Breakout.ipynb">Intro to Python & Notebooks</A><br/><A HREF="">(video)</A></span> </td>
     <td><UL>
     	<LI><A HREF="https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.15192">DSMCER assigned reading</A></LI>
     	<LI><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi19_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf">bash command line reference</A></LI>
