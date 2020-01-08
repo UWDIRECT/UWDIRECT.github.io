@@ -29,29 +29,32 @@ DSMCER background color: #b2df8a-->
     <th style="width: 20%">Tuesday</th>
     <th style="width: 20%">Wednesday</th>
     <th style="width: 20%">Thursday</th>
-    <th style="width: 20%">References<br/>Homework</th>
+    <th style="width: 20%">References<br/>& Homework</th>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Jan 6 <br/> 
-    	<span style="background-color:#b2df8a">Course introduction</span> </td>
+    	<span style="background-color:#b2df8a">Course Introduction</span> </td>
     <td>Jan 7 <br/> 
-    	<span style="background-color:#a6cee3"><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L1.1.Intro_Command_Line.pptx">Command line, part 1</A>)<br/><A HREF="">(video)</A></span> </td>
+    	<span style="background-color:#a6cee3"><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L1.1.Command_Line.pptx">Command line, part 1</A><br/><A HREF="">(video)</A></span></td>
     <td>Jan 8 <br/> 
-    	<span style="background-color:#b2df8a"><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L1.1.Intro_Command_Line.pptx">Command line, part 2</A>)<br/><A HREF="">(video)</A></span> </td>
+    	<span style="background-color:#a6cee3"><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L1.1.Command_Line.pptx">Command line, part 2</A><br/><A HREF="">(video)</A></span></td>
     <td>Jan 9 <br/> 
     	<span style="background-color:#a6cee3">Intro to Python & Notebooks</span> </td>
-    <td><UL><LI><A HREF="https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.15192">DSMCER assigned reading</A></LI><LI><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi19_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf">bash command line reference</A></LI><LI><a HREF="https://docs.google.com/document/d/1Ypo5QcCInFlOqm2GknYK4aYfZ1ALCFzcpy3aTa5nzz0/edit?usp=sharing">DSMCER Homework 1</A></LI></td>
+    <td><UL>
+    	<LI><A HREF="https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.15192">DSMCER assigned reading</A></LI>
+    	<LI><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi19_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf">bash command line reference</A></LI>
+    	<LI><a HREF="https://docs.google.com/document/d/1Ypo5QcCInFlOqm2GknYK4aYfZ1ALCFzcpy3aTa5nzz0/edit?usp=sharing">DSMCER Homework 1</A></LI></UL></td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Jan 13 <br/> 
-    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    	<span style="background-color:#a6cee3">SEDS Material</span> </td>
     <td>Jan 14 <br/> 
-    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    	<span style="background-color:#a6cee3">SEDS Material</span> </td>
     <td>Jan 15 <br/> 
-    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    	<span style="background-color:#a6cee3">SEDS Material</span> </td>
     <td>Jan 16 <br/> 
-    	<span style="background-color:#a6cee3">SEDS</span> </td>
-    <td>Jan 17 </td>
+    	<span style="background-color:#a6cee3">SEDS Material</span> </td>
+    <td></td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Jan 20 <br/> 
@@ -62,7 +65,7 @@ DSMCER background color: #b2df8a-->
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td>Jan 23 <br/> 
     	<span style="background-color:#a6cee3">SEDS</span> </td>
-    <td>Jan 24 </td>
+    <td></td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Jan 27 <br/> 
@@ -73,7 +76,7 @@ DSMCER background color: #b2df8a-->
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td>Jan 30 <br/> 
     	<span style="background-color:#a6cee3">SEDS</span> </td>
-    <td>Jan 31 </td>
+    <td></td>
   </tr>
 </table>
 
@@ -87,7 +90,7 @@ DSMCER background color: #b2df8a-->
     <th style="width: 20%">Tuesday</th>
     <th style="width: 20%">Wednesday</th>
     <th style="width: 20%">Thursday</th>
-    <th style="width: 20%">Friday</th>
+    <th style="width: 20%">References<br/>& Homework</th>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Feb 3 <br/> 
@@ -98,7 +101,7 @@ DSMCER background color: #b2df8a-->
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td>Feb 6 <br/> 
     	<span style="background-color:#a6cee3">SEDS</span> </td>
-    <td>Feb 7 </td>
+    <td></td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Feb 10 <br/> 
@@ -109,7 +112,7 @@ DSMCER background color: #b2df8a-->
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td>Feb 13 <br/> 
     	<span style="background-color:#a6cee3">SEDS</span> </td>
-    <td>Feb 14 </td>
+    <td></td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Feb 17 <br/> 
@@ -120,7 +123,7 @@ DSMCER background color: #b2df8a-->
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td>Feb 20 <br/> 
     	<span style="background-color:#a6cee3">SEDS</span> </td>
-    <td>Feb 21 </td>
+    <td></td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Feb 24 <br/> 
@@ -131,7 +134,7 @@ DSMCER background color: #b2df8a-->
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td>Feb 27 <br/> 
     	<span style="background-color:#a6cee3">SEDS</span> </td>
-    <td>Feb 28 </td>
+    <td></td>
   </tr>
 </table>
 
@@ -145,7 +148,7 @@ DSMCER background color: #b2df8a-->
     <th style="width: 20%">Tuesday</th>
     <th style="width: 20%">Wednesday</th>
     <th style="width: 20%">Thursday</th>
-    <th style="width: 20%">Friday</th>
+    <th style="width: 20%">References<br/>& Homework</th>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Mar 2 <br/> 
@@ -156,7 +159,7 @@ DSMCER background color: #b2df8a-->
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td>Mar 5 <br/> 
     	<span style="background-color:#a6cee3">SEDS</span> </td>
-    <td>Mar 6 </td>
+    <td></td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Mar 9 <br/> 
@@ -167,7 +170,7 @@ DSMCER background color: #b2df8a-->
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td>Mar 12 <br/> 
     	<span style="background-color:#a6cee3">SEDS</span> </td>
-    <td>Mar 13 </td>
+    <td></td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <th colspan="5"> Finals Week </th>
@@ -177,7 +180,7 @@ DSMCER background color: #b2df8a-->
     <td>Mar 17 </td>
     <td>Mar 18 </td>
     <td>Mar 19 </td>
-    <td>Mar 20 </td>
+    <td></td>
   </tr>
 </table>
 
