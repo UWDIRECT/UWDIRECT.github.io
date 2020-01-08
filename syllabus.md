@@ -11,6 +11,10 @@ The instructional team will provide the following weekly office hours, held at t
 - **Tuesday** at 1:30 PM - 2:20 PM  
 - **Thursday** at 10:30 AM - 11:20 AM  
 
+## Homework
+
+All homework assignments will be due on **Tuesdays at 11:59 PM** unless otherwise noted.
+
 ## <span style="background-color:#a6cee3">SEDS (546)</span> and <span style="background-color:#b2df8a">DSMCER (545)</span> Schedule
 
 
