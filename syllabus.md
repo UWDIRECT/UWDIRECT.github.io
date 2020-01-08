@@ -41,7 +41,7 @@ DSMCER background color: #b2df8a-->
     <td>Jan 7 <br/> 
     	<span style="background-color:#a6cee3"><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L1.1.Command_Line.pptx">Command line, part 1</A><br/><A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a4df1313-530c-4ff0-a802-ab3b01750434">(video)</A></span></td>
     <td>Jan 8 <br/> 
-    	<span style="background-color:#a6cee3"><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L1.1.Command_Line.pptx">Command line, part 2</A><br/><A HREF="">(video)</A></span></td>
+    	<span style="background-color:#a6cee3"><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L1.1.Command_Line.pptx">Command line, part 2</A><br/><A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1502144b-80c0-4144-af9a-ab3c014179b1">(video)</A></span></td>
     <td>Jan 9 <br/> 
     	<span style="background-color:#a6cee3"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/SEDS/L2.Simple_Breakout.ipynb">Intro to Python & Notebooks</A><br/><A HREF="">(video)</A></span> </td>
     <td><UL>
