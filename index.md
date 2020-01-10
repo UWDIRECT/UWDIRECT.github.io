@@ -19,13 +19,13 @@ collection: main
 
 ## Logistics for 2020
 
-- Software Engineering for Molecular Data Scientists (ChemE 546)
+- Software Engineering for Molecular Data Scientists (SEMDS, ChemE 546)
     - Tue & Thr
     - 2:30 - 3:50
     - [Odegaard Undergraduate Library](http://uw.edu/maps?oug) 136
 
 
-- Data Science Methods for Clean Energy Research (ChemE 545)
+- Data Science Methods for Clean Energy Research (DSMCER, ChemE 545)<br>Also known as Molecular Data Science Survey
     - Mon & Wed
     - 11:30 - 12:50
     - [NanoES](http://uw.edu/maps/?nan) 181
