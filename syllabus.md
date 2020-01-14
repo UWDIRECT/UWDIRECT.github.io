@@ -53,7 +53,7 @@ DSMCER background color: #b2df8a-->
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Jan 13 <br/> 
-    	<span style="background-color:#a6cee3"><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L3.Version_Control.pptx">Version control, part 1</A><br/><A HREF="">(video)</A></span> </td>
+    	<span style="background-color:#a6cee3"><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L3.Version_Control.pptx">Version control, part 1</A><br/><A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b4d6c6c4-b7fe-4353-b2de-ab410141b55a">(video)</A></span> </td>
     <td>Jan 14 <br/> 
     	<span style="background-color:#a6cee3"><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L3.Version_Control.pptx">Version control, part 2</A><br/>Submitting homework in class.<br/><A HREF="">(video)</A></span> </td>
     <td>Jan 15 <br/> 
