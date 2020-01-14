@@ -47,7 +47,7 @@ DSMCER background color: #b2df8a-->
     <td><UL>
     	<LI><A HREF="https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.15192">DSMCER assigned reading</A></LI>
     	<LI><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi19_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf">bash command line reference</A></LI>
-    	<LI><a HREF="https://docs.google.com/document/d/1Ypo5QcCInFlOqm2GknYK4aYfZ1ALCFzcpy3aTa5nzz0/edit?usp=sharing">DSMCER Homework 1</A></LI>
+    	<LI><a HREF="https://classroom.github.com/a/oqV5DZF2">DSMCER Homework 1</A></LI>
     	<LI><a HREF="https://docs.google.com/document/d/1rzP02Vm4LKmuprnskMZjI1s7l4HkGzbqb5nHU0WyS0s/edit?usp=sharing">SEMDS Homework 1</A></LI>
 			</UL></td>
   </tr>
