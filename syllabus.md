@@ -47,8 +47,8 @@ DSMCER background color: #b2df8a-->
     <td><UL>
     	<LI><A HREF="https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.15192">DSMCER assigned reading</A></LI>
     	<LI><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi19_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf">bash command line reference</A></LI>
-    	<LI><a HREF="https://classroom.github.com/a/oqV5DZF2">DSMCER Homework 1</A></LI>
-    	<LI><a HREF="https://docs.google.com/document/d/1rzP02Vm4LKmuprnskMZjI1s7l4HkGzbqb5nHU0WyS0s/edit?usp=sharing">SEMDS Homework 1</A></LI>
+    	<LI><a HREF="https://classroom.github.com/a/oqV5DZF2">DSMCER Homework 1 (Due 1/14 11:59 PM)</A></LI>
+    	<LI><a HREF="https://classroom.github.com/a/k-5fCOKt">SEMDS Homework 1 (Due 1/22 11:59 PM)</A></LI>
 			</UL></td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
@@ -57,9 +57,9 @@ DSMCER background color: #b2df8a-->
     <td>Jan 14 <br/> 
     	<span style="background-color:#a6cee3"><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L3.Version_Control.pptx">Version control, part 2</A><br/>Submitting homework in class.<br/><A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3d20d1ba-c695-4e20-aee7-ab4201730de9">(video)</A></span> </td>
     <td>Jan 15 <br/> 
-    	<span style="background-color:#a6cee3">Python</span> </td>
+    	<span style="background-color:#a6cee3"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/SEDS/L4.Python.ipynb">Python & Pandas</A><br/><A HREf="">(video)</A></span> </td>
     <td>Jan 16 <br/> 
-    	<span style="background-color:#a6cee3">More Python</span> </td>
+    	<span style="background-color:#a6cee3"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/SEDS/L5.Procedural_Python.ipynb">Procedural Python</A><br/><A HREf="">(video)</A></span> </td>
     <td></td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
