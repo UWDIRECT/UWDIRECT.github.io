@@ -57,7 +57,7 @@ DSMCER background color: #b2df8a-->
     <td>Jan 14 <br/> 
     	<span style="background-color:#a6cee3"><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L3.Version_Control.pptx">Version control, part 2</A><br/>Submitting homework in class.<br/><A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3d20d1ba-c695-4e20-aee7-ab4201730de9">(video)</A></span> </td>
     <td>Jan 15 <br/> 
-    	<span style="background-color:#a6cee3"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/SEDS/L4.Python.ipynb">Python & Pandas</A><br/><A HREf="">(video)</A></span> </td>
+    	<span style="background-color:#a6cee3"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/SEDS/L4.Python.ipynb">Python & Pandas</A><br/><A HREf="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3f5d8794-289a-4cd2-855e-ab4301422ec5">(video)</A></span> </td>
     <td>Jan 16 <br/> 
     	<span style="background-color:#a6cee3"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/SEDS/L5.Procedural_Python.ipynb">Procedural Python</A><br/><A HREf="">(video)</A></span> </td>
     <td></td>
