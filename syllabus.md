@@ -72,7 +72,7 @@ DSMCER background color: #b2df8a-->
     <td>Jan 23 <br/> 
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td><ul><li><A HREF="https://classroom.github.com/a/uMHEAeek">SEMDS Homework 2 (Due 1/28 @ 11:59 PM)</A></li>
-			<li><A HREF="">DSMCER Homework 2</A></li>
+			<li><A HREF="https://classroom.github.com/a/mMuO9vEL">DSMCER Homework 2</A></li>
 			</ul>
 			</td>
   </tr>
