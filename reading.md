@@ -19,7 +19,7 @@ In addition to the resources below, the course also has a wiki and question / an
 * Python Data Science Handbook <a href="https://jakevdp.github.io/PythonDataScienceHandbook/"> link </a>
 
 ## Markdown 
-* Markdown Cheat Sheet - A Simple Visual Guide <a href="https://beegit.com/markdown-cheat-sheet"> link </a>
+* Markdown Cheat Sheet - A Simple Visual Guide <a href="https://www.markdownguide.org/cheat-sheet/"> link </a>
 * General Markdown tutorial <a href="http://commonmark.org/help/tutorial/"> link </a>
 
 ## Editors
