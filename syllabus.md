@@ -66,12 +66,15 @@ DSMCER background color: #b2df8a-->
     <td>Jan 20 <br/> 
     	<span style="font-weight:bold">NO CLASS<br>Martin Luther King Jr. Day</span> </td>
     <td>Jan 21 <br/> 
-    	<span style="background-color:#a6cee3"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/SEDS/L5.Procedural_Python.ipynb">Procedural Python</A><br/><A HREf="">(video)</A></span> </td>
+    	<span style="background-color:#a6cee3"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/SEDS/L5.Procedural_Python.ipynb">Procedural Python</A><br/><A HREf="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=74b3f07d-b4bf-4dc5-ab7f-ab490172e1e3">(video)</A></span> </td>
     <td>Jan 22 <br/> 
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td>Jan 23 <br/> 
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
-    <td><A HREF="https://classroom.github.com/a/uMHEAeek">SEMDS Homework 2 (Due 1/28 @ 11:59 PM)</A>
+    <td><ul><li><A HREF="https://classroom.github.com/a/uMHEAeek">SEMDS Homework 2 (Due 1/28 @ 11:59 PM)</A></li>
+			<li><A HREF="">DSMCER Homework 2</A></li>
+			</ul>
+			</td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Jan 27 <br/> 
