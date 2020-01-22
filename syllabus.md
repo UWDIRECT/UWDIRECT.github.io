@@ -37,7 +37,7 @@ DSMCER background color: #b2df8a-->
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Jan 6 <br/> 
-    	<span style="background-color:#b2df8a">Course Introduction</span> </td>
+    	<span style="background-color:#b2df8a"><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L1_Intro_to_Data_Science.pptx">Course Introduction</A></span> </td>
     <td>Jan 7 <br/> 
     	<span style="background-color:#a6cee3"><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L1.1.Command_Line.pptx">Command line, part 1</A><br/><A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a4df1313-530c-4ff0-a802-ab3b01750434">(video)</A></span></td>
     <td>Jan 8 <br/> 
