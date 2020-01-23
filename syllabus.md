@@ -68,7 +68,7 @@ DSMCER background color: #b2df8a-->
     <td>Jan 21 <br/> 
     	<span style="background-color:#a6cee3"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/SEDS/L5.Procedural_Python.ipynb">Procedural Python</A><br/><A HREf="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=74b3f07d-b4bf-4dc5-ab7f-ab490172e1e3">(video)</A></span> </td>
     <td>Jan 22 <br/> 
-    	<span style="background-color:#b2df8a"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L2_Visualization.pptx">Data Visualization</A><br/><A HREf="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=079695e3-d852-484a-96a3-ab4a014207f0">(video)</span> </td>
+    	<span style="background-color:#b2df8a"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L2_Visualization.pptx">Data Visualization</A><br/><A HREf="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=079695e3-d852-484a-96a3-ab4a014207f0">(video)</A></span> </td>
     <td>Jan 23 <br/> 
     	<span style="background-color:#b2df8a"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L2_Visualization.ipynb">Data Visualization</A></span> </td>
     <td><ul><li><A HREF="https://classroom.github.com/a/uMHEAeek">SEMDS Homework 2 (Due 1/28 @ 11:59 PM)</A></li>
