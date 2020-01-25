@@ -72,7 +72,7 @@ DSMCER background color: #b2df8a-->
     <td>Jan 23 <br/> 
     	<span style="background-color:#b2df8a"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L2_Visualization.ipynb">Data Visualization</A></span> </td>
     <td><ul><li><A HREF="https://classroom.github.com/a/uMHEAeek">SEMDS Homework 2 (Due 1/28 @ 11:59 PM)</A></li>
-			<li><A HREF="https://classroom.github.com/a/mMuO9vEL">DSMCER Homework 2</A></li>
+			<li><A HREF="https://classroom.github.com/a/mMuO9vEL">DSMCER Homework 2 (Due 1/30 @ 11:50 PM)</A></li>
 			</ul>
 			</td>
   </tr>
