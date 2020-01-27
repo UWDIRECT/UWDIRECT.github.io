@@ -70,7 +70,7 @@ DSMCER background color: #b2df8a-->
     <td>Jan 22 <br/> 
     	<span style="background-color:#b2df8a"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L2_Visualization.pptx">Data Visualization</A><br/><A HREf="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=079695e3-d852-484a-96a3-ab4a014207f0">(video)</A></span> </td>
     <td>Jan 23 <br/> 
-    	<span style="background-color:#b2df8a"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L2_Visualization.ipynb">Data Visualization</A><br/><A HREf="hhttps://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04300ec1-6326-4788-9899-ab4b01739dbb">(video)</A></span> </td>
+    	<span style="background-color:#b2df8a"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L2_Visualization.ipynb">Data Visualization</A><br/><A HREf="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04300ec1-6326-4788-9899-ab4b01739dbb">(video)</A></span> </td>
     <td><ul><li><A HREF="https://classroom.github.com/a/uMHEAeek">SEMDS Homework 2 (Due 1/28 @ 11:59 PM)</A></li>
 			<li><A HREF="https://classroom.github.com/a/mMuO9vEL">DSMCER Homework 2 (Due 1/30 @ 11:50 PM)</A></li>
 			</ul>
