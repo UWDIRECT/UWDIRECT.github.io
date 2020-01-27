@@ -78,7 +78,7 @@ DSMCER background color: #b2df8a-->
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Jan 27 <br/> 
-    	<span style="background-color:#b2df8a">Descriptive Statistics</span> </td>
+    	<span style="background-color:#b2df8a"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L3_Descriptive_Statistics.ipynb">Descriptive Statistics</A></span> </td>
     <td>Jan 28 <br/> 
     	<span style="background-color:#a6cee3">SEDS</span> </td>
     <td>Jan 29 <br/> 
