@@ -80,7 +80,7 @@ DSMCER background color: #b2df8a-->
     <td>Jan 27 <br/> 
     	<span style="background-color:#b2df8a"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L3_Descriptive_Statistics.ipynb">Descriptive Statistics</A><br/><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L34_Descriptive_Statistics_Distribution.pptx">Descriptive Statistics and Distribution slides</A></span> </td>
     <td>Jan 28 <br/> 
-    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    	<span style="background-color:#b2df8a"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L4_Distributions.ipynb">Distribution</A></span> </td>
     <td>Jan 29 <br/> 
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td>Jan 30 <br/> 
