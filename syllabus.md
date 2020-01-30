@@ -84,7 +84,7 @@ DSMCER background color: #b2df8a-->
     <td>Jan 29 <br/> 
     	<span style="background-color:#b2df8a">Distribution and <A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L5p1_Error_Bar.pptx"> Error Bar</A></span> </td>
     <td>Jan 30 <br/> 
-    	<span style="background-color:#b2df8a">hypothesis testing</span> </td>
+    	<span style="background-color:#b2df8a"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L5_Hypothesis_testing.ipynb">hypothesis testing</A></span> </td>
     <td></td>
   </tr>
 </table>
