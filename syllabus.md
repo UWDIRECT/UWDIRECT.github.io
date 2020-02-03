@@ -116,7 +116,7 @@ DSMCER background color: #b2df8a-->
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td>Feb 6 <br/> 
     	<span style="background-color:#a6cee3">SEDS</span> </td>
-    <td></td>
+    <td> <li><A HREF="https://classroom.github.com/a/FqrRZxMS">DSMCER Homework 3 (Due 2/10 @ 11:50 PM)</A></li> </td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Feb 10 <br/> 
