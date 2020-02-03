@@ -105,7 +105,7 @@ DSMCER background color: #b2df8a-->
     <td>Feb 3 <br/> 
     	<span style="background-color:#a6cee3">
 				<A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something</A>
-				<A HREf="">(video)</A>
+				<A HREf="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fff9e3e3-0489-4599-9475-ab56014194a0">(video)</A>
 			</span>
 		</td>
 
