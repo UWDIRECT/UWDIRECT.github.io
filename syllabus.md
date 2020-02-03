@@ -70,7 +70,7 @@ DSMCER background color: #b2df8a-->
     <td>Jan 22 <br/> 
     	<span style="background-color:#b2df8a"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L2_Visualization.pptx">Data Visualization</A><br/><A HREf="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=079695e3-d852-484a-96a3-ab4a014207f0">(video)</A></span> </td>
     <td>Jan 23 <br/> 
-    	<span style="background-color:#b2df8a"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L2_Visualization.ipynb">Data Visualization</A></span> </td>
+    	<span style="background-color:#b2df8a"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L2_Visualization.ipynb">Data Visualization</A><br/><A HREf="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04300ec1-6326-4788-9899-ab4b01739dbb">(video)</A></span> </td>
     <td><ul><li><A HREF="https://classroom.github.com/a/uMHEAeek">SEMDS Homework 2 (Due 1/28 @ 11:59 PM)</A></li>
 			<li><A HREF="https://classroom.github.com/a/mMuO9vEL">DSMCER Homework 2 (Due 1/30 @ 11:50 PM)</A></li>
 			</ul>
@@ -78,13 +78,13 @@ DSMCER background color: #b2df8a-->
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Jan 27 <br/> 
-    	<span style="background-color:#b2df8a">Descriptive Statistics</span> </td>
+    	<span style="background-color:#b2df8a"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L3_Descriptive_Statistics.ipynb">Descriptive Statistics</A><br/><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L34_Descriptive_Statistics_Distribution.pptx">Descriptive Statistics and Distribution slides</A><br/><A HREf="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=12484c78-19f5-4f66-9b63-ab4f01427668#">(video)</A></span> </td>
     <td>Jan 28 <br/> 
-    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    	<span style="background-color:#b2df8a"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L4_Distributions.ipynb">Distribution</A><br/><A HREf="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=78c6f1f6-5302-4d9d-acd6-ab500173cb0e#">(video)</A></span> </td>
     <td>Jan 29 <br/> 
-    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    	<span style="background-color:#b2df8a">Distribution and <A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L5p1_Error_Bar.pptx"> Error Bar</A><br/><A HREf="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81c7a49e-485d-4415-a86f-ab510141b4fd#">(video)</A></span> </td>
     <td>Jan 30 <br/> 
-    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    	<span style="background-color:#b2df8a"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L5_Hypothesis_testing.ipynb">hypothesis testing</A><br/><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L5_Hypothesis_testing.pptx">guest lecture slides</A></span> </td>
     <td></td>
   </tr>
 </table>
