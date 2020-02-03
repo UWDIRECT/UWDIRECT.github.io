@@ -108,8 +108,6 @@ DSMCER background color: #b2df8a-->
 				<A HREf="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fff9e3e3-0489-4599-9475-ab56014194a0">(video)</A>
 			</span>
 		</td>
-
-
     <td>Feb 4 <br/> 
     	<span style="background-color:#a6cee3">SEDS</span> </td>
     <td>Feb 5 <br/> 
