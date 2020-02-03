@@ -103,7 +103,13 @@ DSMCER background color: #b2df8a-->
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Feb 3 <br/> 
-    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    	<span style="background-color:#a6cee3">
+				<A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something</A>
+				<A HREf="">(video)</A>
+			</span>
+		</td>
+
+
     <td>Feb 4 <br/> 
     	<span style="background-color:#a6cee3">SEDS</span> </td>
     <td>Feb 5 <br/> 
