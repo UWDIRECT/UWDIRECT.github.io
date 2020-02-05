@@ -111,7 +111,9 @@ DSMCER background color: #b2df8a-->
     <td>Feb 4 <br/> 
     	<span style="background-color:#a6cee3"><UL><LI>Project overview, pitches, and matchmaking</LI><LI>Unit testing</LI></UL><A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=14b433b0-95d8-4011-a572-ab5701747b8c">(video)</A></span> </td>
     <td>Feb 5 <br/> 
-    	<span style="background-color:#a6cee3">Project matchmaking and verification</span> </td>
+    	<span style="background-color:#a6cee3">Project matchmaking and verification
+				<A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9440e563-c7ea-4dfa-8822-ab58014200e5">(video)</A>
+		</span> </td>
     <td>Feb 6 <br/> 
     	<span style="background-color:#a6cee3">Testing and verification</span> </td>
     <td><ul><li><A HREF="https://classroom.github.com/a/FqrRZxMS">DSMCER Homework 3 (Due 2/10 @ 11:50 PM)</A></li><LI><A HREF="https://classroom.github.com/a/-Umw2T4h">SEMDS Homework 3 (Due 2/12 @ 11:59 PM)</A></LI> 
