@@ -113,7 +113,7 @@ DSMCER background color: #b2df8a-->
     <td>Feb 5 <br/> 
     	<span style="background-color:#a6cee3">Project matchmaking and verification</span> </td>
     <td>Feb 6 <br/> 
-    	<span style="background-color:#a6cee3">Documentation and Style</span> </td>
+    	<span style="background-color:#a6cee3">Testing and verification</span> </td>
     <td><ul><li><A HREF="https://classroom.github.com/a/FqrRZxMS">DSMCER Homework 3 (Due 2/10 @ 11:50 PM)</A></li><LI><A HREF="https://classroom.github.com/a/-Umw2T4h">SEMDS Homework 3 (Due 2/12 @ 11:59 PM)</A></LI> 
         </ul></td>
   </tr>
