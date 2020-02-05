@@ -109,7 +109,7 @@ DSMCER background color: #b2df8a-->
 			</span>
 		</td>
     <td>Feb 4 <br/> 
-    	<span style="background-color:#a6cee3"><UL><LI>Project overview, pitches, and matchmaking</LI><LI>Unit testing</LI></UL><A HREF="">(video)</A></span> </td>
+    	<span style="background-color:#a6cee3"><UL><LI>Project overview, pitches, and matchmaking</LI><LI>Unit testing</LI></UL><A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=14b433b0-95d8-4011-a572-ab5701747b8c">(video)</A></span> </td>
     <td>Feb 5 <br/> 
     	<span style="background-color:#a6cee3">Project matchmaking and verification</span> </td>
     <td>Feb 6 <br/> 
