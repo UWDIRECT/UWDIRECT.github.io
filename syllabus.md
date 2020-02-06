@@ -115,8 +115,8 @@ DSMCER background color: #b2df8a-->
 				<A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9440e563-c7ea-4dfa-8822-ab58014200e5">(video)</A>
 		</span> </td>
     <td>Feb 6 <br/> 
-    	<span style="background-color:#a6cee3">Testing and verification</span> </td>
-    <td><ul><li><A HREF="https://classroom.github.com/a/FqrRZxMS">DSMCER Homework 3 (Due 2/10 @ 11:50 PM)</A></li><LI><A HREF="https://classroom.github.com/a/-Umw2T4h">SEMDS Homework 3 (Due 2/12 @ 11:59 PM)</A></LI> 
+    	<span style="background-color:#a6cee3">Testing and verification <A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea936d09-3bec-4d31-8809-ab5901731013">(video)</A></span> </td>
+    <td><ul><li><A HREF="https://classroom.github.com/a/FqrRZxMS">DSMCER Homework 3 (Due 2/10 @ 11:50 PM)</A></li><LI><A HREF="https://classroom.github.com/a/-Umw2T4h">SEMDS Homework 3 (Due 2/13 @ 11:59 PM)</A></LI> 
         </ul></td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
