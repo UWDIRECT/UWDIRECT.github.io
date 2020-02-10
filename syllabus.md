@@ -121,7 +121,7 @@ DSMCER background color: #b2df8a-->
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Feb 10 <br/> 
-    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    	<span style="background-color:#b2df8a">Machine learning and <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L6_MLIntro.ipynb"> KNN </A></span> </td>
     <td>Feb 11 <br/> 
     	<span style="background-color:#a6cee3">SEDS</span> </td>
     <td>Feb 12 <br/> 
