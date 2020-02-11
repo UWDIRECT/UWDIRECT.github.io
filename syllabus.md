@@ -140,7 +140,11 @@ DSMCER background color: #b2df8a-->
 				</ul>
 			</span>
 		</td>
-    <td></td>
+				<ul>
+				<li><A HREF="https://classroom.github.com/a/QsVqEX1R">SEMDS Homework 4 - the BIG one</A></li>
+				</ul>
+    <td>
+		</td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Feb 17 <br/> 
