@@ -125,14 +125,14 @@ DSMCER background color: #b2df8a-->
     <td>Feb 11 <br/> 
     	<span style="background-color:#b2df8a"><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L7p1_SimpleRegression.ipynb">Simple linear regression </A></span> </td>
     <td>Feb 12 <br/> 
-    	<span style="background-color:#a6cee3">
+    	<span style="background-color:#a6cee3">SEMDS
 				<ul>
 					<li><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi20_content/SEDS/L8.Style_and_Documentation.pptx?raw=true">Documentation and style</A> <A HREF="">(video)</A></li>
 				</ul>
 			</span>
     </td>
     <td>Feb 13 <br/> 
-    	<span style="background-color:#a6cee3">SEDS
+    	<span style="background-color:#a6cee3">SEMDS
 				<ul>
 					<li><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi20_content/SEDS/L10.Software_Design.pptx?raw=true">Software design</A> <A HREF="">(video)</A></li>
 					<li><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi20_content/SEDS/L10.Communication.pptx?raw=true">Communicating about code</A> <A HREF="">(video)</A></li>
