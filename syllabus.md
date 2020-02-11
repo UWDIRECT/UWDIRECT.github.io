@@ -127,6 +127,7 @@ DSMCER background color: #b2df8a-->
     <td>Feb 12 <br/> 
     	<span style="background-color:#a6cee3">SEMDS
 				<ul>
+					<li>Running unit tests from `.py` files</li>
 					<li><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi20_content/SEDS/L8.Style_and_Documentation.pptx?raw=true">Documentation and style</A> <A HREF="">(video)</A></li>
 				</ul>
 			</span>
