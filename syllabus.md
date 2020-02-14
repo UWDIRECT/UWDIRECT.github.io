@@ -128,16 +128,16 @@ DSMCER background color: #b2df8a-->
     	<span style="background-color:#a6cee3">SEMDS
 				<ul>
 					<li>Running unit tests from `.py` files</li>
-					<li><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi20_content/SEDS/L8.Style_and_Documentation.pptx?raw=true">Documentation and style</A> <A HREF="">(video)</A></li>
+					<li><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi20_content/SEDS/L8.Style_and_Documentation.pptx?raw=true">Documentation and style</A> <A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=306b8365-acd6-47fb-b55a-ab5f0141db50">(video)</A></li>
 				</ul>
 			</span>
     </td>
     <td>Feb 13 <br/> 
     	<span style="background-color:#a6cee3">SEMDS
 				<ul>
-					<li><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi20_content/SEDS/L10.Software_Design.pptx?raw=true">Software design</A> <A HREF="">(video)</A></li>
-					<li><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi20_content/SEDS/L10.Communication.pptx?raw=true">Communicating about code</A> <A HREF="">(video)</A></li>
-					<li><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L9.Project_Structure.pdf">Project structure & CI</A> <A HREF="">(video)</A></li>
+					<li><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi20_content/SEDS/L10.Software_Design.pptx?raw=true">Software design</A> <A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89e9d4be-b1eb-4168-aee4-ab6001731b28">(video)</A></li>
+					<li><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi20_content/SEDS/L10.Communication.pptx?raw=true">Communicating about code</A> <A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89e9d4be-b1eb-4168-aee4-ab6001731b28">(video)</A></li>
+					<li><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L9.Project_Structure.pdf">Project structure & CI</A> <A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89e9d4be-b1eb-4168-aee4-ab6001731b28">(video)</A></li>
 				</ul>
 			</span>
 		</td>
