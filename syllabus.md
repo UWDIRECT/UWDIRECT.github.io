@@ -151,11 +151,11 @@ DSMCER background color: #b2df8a-->
     <td>Feb 17 <br/> 
     	<span style="font-weight:bold">NO CLASS<br>Presidents Day</span> </td>
     <td>Feb 18 <br/> 
-    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td>Feb 19 <br/> 
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td>Feb 20 <br/> 
-    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    	<span style="background-color:#a6cee3">Technology reviews</span> </td>
     <td></td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
