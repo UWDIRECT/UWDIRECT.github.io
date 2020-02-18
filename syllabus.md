@@ -151,9 +151,9 @@ DSMCER background color: #b2df8a-->
     <td>Feb 17 <br/> 
     	<span style="font-weight:bold">NO CLASS<br>Presidents Day</span> </td>
     <td>Feb 18 <br/> 
-    	<span style="background-color:#b2df8a">Multiple linear regression </span> </td>
+    	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L7_Regression.ipynb"> Multiple linear regression </A> and logistic regression </span> </td>
     <td>Feb 19 <br/> 
-    	<span style="background-color:#b2df8a">Desicion tree</span> </td>
+    	<span style="background-color:#b2df8a">Resampling</span> </td>
     <td>Feb 20 <br/> 
     	<span style="background-color:#a6cee3">Technology reviews</span> </td>
     <td></td>
