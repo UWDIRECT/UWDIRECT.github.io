@@ -121,9 +121,9 @@ DSMCER background color: #b2df8a-->
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Feb 10 <br/> 
-    	<span style="background-color:#b2df8a">Machine learning and <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L6_MLIntro.ipynb"> KNN </A></span> </td>
+    	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L6_MLIntro_20.pptx"> Machine learning (slides) </A> and <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L6_MLIntro.ipynb"> KNN (notebook) </A></span> </td>
     <td>Feb 11 <br/> 
-    	<span style="background-color:#b2df8a"><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L7p1_SimpleRegression.ipynb">Simple linear regression </A></span> </td>
+    	<span style="background-color:#b2df8a"><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L7p1_SimpleRegression.ipynb">Simple linear regression (notebook) </A> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L7p1_simpleRegression_20.pptx"> (slides) </A> </span> </td>
     <td>Feb 12 <br/> 
     	<span style="background-color:#a6cee3">SEMDS
 				<ul>
@@ -151,9 +151,9 @@ DSMCER background color: #b2df8a-->
     <td>Feb 17 <br/> 
     	<span style="font-weight:bold">NO CLASS<br>Presidents Day</span> </td>
     <td>Feb 18 <br/> 
-    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    	<span style="background-color:#b2df8a">Multiple linear regression </span> </td>
     <td>Feb 19 <br/> 
-    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    	<span style="background-color:#b2df8a">Desicion tree</span> </td>
     <td>Feb 20 <br/> 
     	<span style="background-color:#a6cee3">Technology reviews</span> </td>
     <td></td>
