@@ -153,14 +153,14 @@ DSMCER background color: #b2df8a-->
     <td>Feb 18 <br/> 
     	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L7_Regression.ipynb"> Multiple linear regression </A> and logistic regression </span> </td>
     <td>Feb 19 <br/> 
-    	<span style="background-color:#b2df8a">Resampling</span> </td>
+    	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L8_Resampling.ipynb"> Resampling </A> </span> </td>
     <td>Feb 20 <br/> 
     	<span style="background-color:#a6cee3">Technology reviews</span> </td>
     <td></td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Feb 24 <br/> 
-    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    	<span style="background-color:#b2df8a">Decision Tree</span> </td>
     <td>Feb 25 <br/> 
     	<span style="background-color:#a6cee3">SEDS</span> </td>
     <td>Feb 26 <br/> 
