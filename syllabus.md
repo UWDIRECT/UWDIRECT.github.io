@@ -164,10 +164,11 @@ DSMCER background color: #b2df8a-->
     <td>Feb 25 <br/> 
     	<span style="background-color:#a6cee3"></span><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L11.Version_Control_p2.pptx">Version control, part 2</A></td>
     <td>Feb 26 <br/> 
-    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    	<span style="background-color:#b2df8a">SVM</span> </td>
     <td>Feb 27 <br/> 
     	<span style="background-color:#a6cee3">Student standups<BR><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L12.Virtualization.pptx">Virtualization & conda</A><BR><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L13.Continuous_Integration.pptx">Continuous Integration</A><BR><A HREF="https://github.com/dacb/codebase_conda">Example repository</A></span> </td>
-    <td></td>
+    <td><ul><li><A HREF="https://classroom.github.com/a/SuL2RAQm">DSMCER Homework 4 (Due 3/3 @ 11:50 PM)</A></li>
+        </ul></td>
   </tr>
 </table>
 
