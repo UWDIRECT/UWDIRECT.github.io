@@ -160,7 +160,7 @@ DSMCER background color: #b2df8a-->
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Feb 24 <br/> 
-    	<span style="background-color:#b2df8a">  <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L9_DecisionTrees.ipynb"> Decision Tree </A> </span> </td>
+    	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L9_DecisionTrees.ipynb"> Decision Tree </A> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L9_DecisionTrees_20.pptx"> (slides) </A> </span> </td>
     <td>Feb 25 <br/> 
     	<span style="background-color:#a6cee3"></span><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L11.Version_Control_p2.pptx">Version control, part 2</A></td>
     <td>Feb 26 <br/> 
