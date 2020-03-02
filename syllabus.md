@@ -186,7 +186,8 @@ DSMCER background color: #b2df8a-->
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Mar 2 <br/> 
-    	<span style="background-color:#b2df8a">Unsupervised Learning: PCA, clustering, and SOM (Jimin Qian) </span> </td>
+    	<span style="background-color:#b2df8a">Unsupervised Learning: PCA, clustering, and SOM (Jimin Qian) 
+	    <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L11_PCA_KMeans.ipynb">  (notebook) </A> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/PCA_clustering_SOM.pptx"> (slides) </A> </span> </td>
     <td>Mar 3 <br/> 
     	<span style="background-color:#a6cee3">SEDS</span> </td>
     <td>Mar 4 <br/> 
