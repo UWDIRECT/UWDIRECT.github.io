@@ -193,7 +193,7 @@ DSMCER background color: #b2df8a-->
     <td>Mar 4 <br/> 
     	<span style="background-color:#b2df8a">Database Management Systems & SQL (Caitlyn Wolf)</span> </td>
     <td>Mar 5 <br/> 
-    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    	<span style="background-color:#b2df8a"> NN </span> </td>
     <td></td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
