@@ -151,7 +151,7 @@ DSMCER background color: #b2df8a-->
     <td>Feb 17 <br/> 
     	<span style="font-weight:bold">NO CLASS<br>Presidents Day</span> </td>
     <td>Feb 18 <br/> 
-    	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L7_Regression.ipynb"> Multiple linear regression </A> and logistic regression </span> </td>
+    	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L7_Regression.ipynb"> Multiple linear regression and logistic regression (notebook) </A> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L7p2_multiRegression_20.pptx"> (slides) </A> </span> </td>
     <td>Feb 19 <br/> 
     	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L8_Resampling.ipynb"> Resampling </A> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L8_Resampling_20.pptx"> (slides) </A> </span> </td>
     <td>Feb 20 <br/> 
@@ -164,7 +164,7 @@ DSMCER background color: #b2df8a-->
     <td>Feb 25 <br/> 
     	<span style="background-color:#a6cee3"></span><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L11.Version_Control_p2.pptx">Version control, part 2</A><BR><A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=33ee92aa-5d59-47fd-bb44-ab6c0176415e">(video)</A></td>
     <td>Feb 26 <br/> 
-    	<span style="background-color:#b2df8a">SVM</span> </td>
+    	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L10_SVMs.ipynb"> SVM (notebook) </A> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L10_SvM_20.pptx"> (slides) </A> </span> </td>
     <td>Feb 27 <br/> 
     	<span style="background-color:#a6cee3">Student standups<BR><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L12.Virtualization.pptx">Virtualization & conda</A><BR><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L13.Continuous_Integration.pptx">Continuous Integration</A><BR><A HREF="https://github.com/dacb/codebase_conda">Example repository</A></span> </td>
     <td><ul><li><A HREF="https://classroom.github.com/a/SuL2RAQm">DSMCER Homework 4 (Due 3/3 @ 11:50 PM)</A></li>
@@ -186,13 +186,14 @@ DSMCER background color: #b2df8a-->
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Mar 2 <br/> 
-    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    	<span style="background-color:#b2df8a">Unsupervised Learning: PCA, clustering, and SOM (Jimin Qian) 
+	    <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L11_PCA_KMeans.ipynb">  (notebook) </A> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/PCA_clustering_SOM.pptx"> (slides) </A> </span> </td>
     <td>Mar 3 <br/> 
     	<span style="background-color:#a6cee3">Standups<BR>Continuous integration implementation</span> </td>
     <td>Mar 4 <br/> 
-    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    	<span style="background-color:#b2df8a">Database Management Systems & SQL (Caitlyn Wolf)</span> </td>
     <td>Mar 5 <br/> 
-    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    	<span style="background-color:#b2df8a"> NN </span> </td>
     <td></td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
