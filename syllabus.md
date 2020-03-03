@@ -189,7 +189,7 @@ DSMCER background color: #b2df8a-->
     	<span style="background-color:#b2df8a">Unsupervised Learning: PCA, clustering, and SOM (Jimin Qian) 
 	    <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L11_PCA_KMeans.ipynb">  (notebook) </A> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/PCA_clustering_SOM.pptx"> (slides) </A> </span> </td>
     <td>Mar 3 <br/> 
-    	<span style="background-color:#a6cee3">Standups<BR>Continuous integration implementation</span> </td>
+    	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L12_Image_Analysis.ipynb"> Imagea analysis (notebook) </A> <BR> Standups </span> </td>
     <td>Mar 4 <br/> 
     	<span style="background-color:#b2df8a">Database Management Systems & SQL (Caitlyn Wolf)</span> </td>
     <td>Mar 5 <br/> 
