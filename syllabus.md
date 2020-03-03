@@ -188,7 +188,7 @@ DSMCER background color: #b2df8a-->
     <td>Mar 2 <br/> 
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td>Mar 3 <br/> 
-    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    	<span style="background-color:#a6cee3">Standups<BR>Continuous integration implementation</span> </td>
     <td>Mar 4 <br/> 
     	<span style="background-color:#b2df8a">DSMCER</span> </td>
     <td>Mar 5 <br/> 
