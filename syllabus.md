@@ -121,7 +121,7 @@ DSMCER background color: #b2df8a-->
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Feb 10 <br/> 
-    	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L6_MLIntro_20.pptx"> Machine learning (slides) </A> and <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L6_MLIntro.ipynb"> KNN (notebook) </A></span> </td>
+    	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L6_MLIntro_20.pptx"> Machine learning (slides) </A> and <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L6_MLIntro.ipynb"> KNN (notebook) </A> <A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=873ce680-4680-40b8-bf5c-ab5d0141bda7">(video)</A> </span> </td>
     <td>Feb 11 <br/> 
     	<span style="background-color:#b2df8a"><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L7p1_SimpleRegression.ipynb">Simple linear regression (notebook) </A> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L7p1_simpleRegression_20.pptx"> (slides) </A> </span> </td>
     <td>Feb 12 <br/> 
@@ -153,18 +153,18 @@ DSMCER background color: #b2df8a-->
     <td>Feb 18 <br/> 
     	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L7_Regression.ipynb"> Multiple linear regression and logistic regression (notebook) </A> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L7p2_multiRegression_20.pptx"> (slides) </A> </span> </td>
     <td>Feb 19 <br/> 
-    	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L8_Resampling.ipynb"> Resampling (notebook) </A> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L8_Resampling_20.pptx"> (slides) </A> </span> </td>
+    	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L8_Resampling.ipynb"> Resampling (notebook) </A> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L8_Resampling_20.pptx"> (slides) </A> <A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=932d0a74-b666-4025-969f-ab66014151ba"> (video) </span> </td>
     <td>Feb 20 <br/> 
     	<span style="background-color:#a6cee3">Technology reviews</span> </td>
     <td></td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Feb 24 <br/> 
-    	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L9_DecisionTrees.ipynb"> Decision Tree (notebook) </A> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L9_DecisionTrees_20.pptx"> (slides) </A> </span> </td>
+    	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L9_DecisionTrees.ipynb"> Decision Tree (notebook) </A> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L9_DecisionTrees_20.pptx"> (slides) </A> <A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8be36176-7b91-4226-874c-ab6b01411221"> (video) </A> </span> </td>
     <td>Feb 25 <br/> 
     	<span style="background-color:#a6cee3"></span><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L11.Version_Control_p2.pptx">Version control, part 2</A><BR><A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=33ee92aa-5d59-47fd-bb44-ab6c0176415e">(video)</A></td>
     <td>Feb 26 <br/> 
-    	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L10_SVMs.ipynb"> SVM (notebook) </A> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L10_SvM_20.pptx"> (slides) </A> </span> </td>
+    	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L10_SVMs.ipynb"> SVM (notebook) </A> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L10_SvM_20.pptx"> (slides) </A>  <A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e71834bf-c0a4-4f8a-a3e6-ab6d0141b916"> (video) </A> </span> </td>
     <td>Feb 27 <br/> 
     	<span style="background-color:#a6cee3">Student standups<BR><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L12.Virtualization.pptx">Virtualization & conda</A><BR><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L13.Continuous_Integration.pptx">Continuous Integration</A><BR><A HREF="https://github.com/dacb/codebase_conda">Example repository</A></span> </td>
     <td><ul><li><A HREF="https://classroom.github.com/a/SuL2RAQm">DSMCER Homework 4 (Due 3/5 @ 11:50 PM)</A></li>
