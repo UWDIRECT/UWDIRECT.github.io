@@ -153,7 +153,7 @@ DSMCER background color: #b2df8a-->
     <td>Feb 18 <br/> 
     	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L7_Regression.ipynb"> Multiple linear regression and logistic regression (notebook) </A> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L7p2_multiRegression_20.pptx"> (slides) </A> </span> </td>
     <td>Feb 19 <br/> 
-    	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L8_Resampling.ipynb"> Resampling (notebook) </A> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L8_Resampling_20.pptx"> (slides) </A> <A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=932d0a74-b666-4025-969f-ab66014151ba"> (video) </span> </td>
+    	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L8_Resampling.ipynb"> Resampling (notebook) </A> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L8_Resampling_20.pptx"> (slides) </A> <A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=932d0a74-b666-4025-969f-ab66014151ba"> (video) </A> </span> </td>
     <td>Feb 20 <br/> 
     	<span style="background-color:#a6cee3">Technology reviews</span> </td>
     <td></td>
