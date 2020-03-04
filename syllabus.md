@@ -78,13 +78,13 @@ DSMCER background color: #b2df8a-->
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Jan 27 <br/> 
-    	<span style="background-color:#b2df8a"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L3_Descriptive_Statistics.ipynb">Descriptive Statistics</A><br/><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L34_Descriptive_Statistics_Distribution.pptx">Descriptive Statistics and Distribution slides</A><br/><A HREf="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=12484c78-19f5-4f66-9b63-ab4f01427668#">(video)</A></span> </td>
+    	<span style="background-color:#b2df8a"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L3_Descriptive_Statistics.ipynb">Descriptive Statistics (notebook)</A><br/><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L34_Descriptive_Statistics_Distribution.pptx">Descriptive Statistics and Distribution slides</A><br/><A HREf="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=12484c78-19f5-4f66-9b63-ab4f01427668#">(video)</A></span> </td>
     <td>Jan 28 <br/> 
-    	<span style="background-color:#b2df8a"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L4_Distributions.ipynb">Distribution</A><br/><A HREf="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=78c6f1f6-5302-4d9d-acd6-ab500173cb0e#">(video)</A></span> </td>
+    	<span style="background-color:#b2df8a"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L4_Distributions.ipynb">Distribution (notebook) </A><br/><A HREf="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=78c6f1f6-5302-4d9d-acd6-ab500173cb0e#">(video)</A></span> </td>
     <td>Jan 29 <br/> 
     	<span style="background-color:#b2df8a">Distribution and <A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L5p1_Error_Bar.pptx"> Error Bar</A><br/><A HREf="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81c7a49e-485d-4415-a86f-ab510141b4fd#">(video)</A></span> </td>
     <td>Jan 30 <br/> 
-    	<span style="background-color:#b2df8a"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L5_Hypothesis_testing.ipynb">hypothesis testing</A><br/><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L5_Hypothesis_testing.pptx">guest lecture slides</A></span> </td>
+    	<span style="background-color:#b2df8a"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L5_Hypothesis_testing.ipynb">hypothesis testing (notebook) </A><br/><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/DSMCER/L5_Hypothesis_testing.pptx">guest lecture slides</A></span> </td>
     <td></td>
   </tr>
 </table>
@@ -153,14 +153,14 @@ DSMCER background color: #b2df8a-->
     <td>Feb 18 <br/> 
     	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L7_Regression.ipynb"> Multiple linear regression and logistic regression (notebook) </A> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L7p2_multiRegression_20.pptx"> (slides) </A> </span> </td>
     <td>Feb 19 <br/> 
-    	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L8_Resampling.ipynb"> Resampling </A> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L8_Resampling_20.pptx"> (slides) </A> </span> </td>
+    	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L8_Resampling.ipynb"> Resampling (notebook) </A> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L8_Resampling_20.pptx"> (slides) </A> </span> </td>
     <td>Feb 20 <br/> 
     	<span style="background-color:#a6cee3">Technology reviews</span> </td>
     <td></td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Feb 24 <br/> 
-    	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L9_DecisionTrees.ipynb"> Decision Tree </A> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L9_DecisionTrees_20.pptx"> (slides) </A> </span> </td>
+    	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L9_DecisionTrees.ipynb"> Decision Tree (notebook) </A> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L9_DecisionTrees_20.pptx"> (slides) </A> </span> </td>
     <td>Feb 25 <br/> 
     	<span style="background-color:#a6cee3"></span><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L11.Version_Control_p2.pptx">Version control, part 2</A><BR><A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=33ee92aa-5d59-47fd-bb44-ab6c0176415e">(video)</A></td>
     <td>Feb 26 <br/> 
