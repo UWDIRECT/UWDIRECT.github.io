@@ -193,7 +193,7 @@ DSMCER background color: #b2df8a-->
     <td>Mar 4 <br/> 
     	<span style="background-color:#b2df8a"> Caitlyn Wolf: Database Management Systems & SQL (<A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/DBMS_CMW.pdf">slides</A>) </span> </td>
     <td>Mar 5 <br/> 
-    	<span style="background-color:#b2df8a"> NN </span> </td>
+    	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L13_Neural_Networks.ipynb"> Neural Networks </A> </span> </td>
     <td></td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
