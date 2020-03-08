@@ -40,7 +40,7 @@ stand ups, technology reviews and project summaries.
 
 A significant portion of the course grade is based on a single **joint** project that includes concepts from both DIRECT classes. This will be an open ended project related to clean energy and/or molecular data science and require, at minimum, creation of a new software project and application of one or more Data Science methods.
 Projects will be graded based on:
-- the poster presentation
+- the final presentation
 - documentation (especially use cases & function and design specifications)
 - the features implemented
 - appropriate use of data science methodology
@@ -52,7 +52,7 @@ contributions of team members.  The latter will be assessed by commit
 logs and by a peer assesment survey students will take at the end of the quarter. 
 Separate, defined graded components will be given for SEDS and DSMfCER.
 
-Project deadline and poster presentation dates are still to be determined, but will be posted soon.
+Project deadline and final presentation dates can be found on the syllabus page.
 
 <!--are due by midnight March 19, 2019 - 4:30 - 6:20 PM.
 
