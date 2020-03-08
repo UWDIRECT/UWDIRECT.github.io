@@ -9,7 +9,9 @@ collection: main
 The instructional team will provide the following weekly office hours, held at the [Data Science Studio](https://escience.washington.edu/wrf-data-science-studio/), 6th floor of PAB (except as noted):
 
 - **Tuesday** at 1:30 PM - 2:20 PM  
-- **Thursday** at 10:30 AM - 11:20 AM  
+- **Thursday** at 10:30 AM - 11:20 AM 
+
+Office hours on 3/10 and 3/12 will be hosted on Zoom due to the recent public health situation. 
 
 ## Homework
 
@@ -198,22 +200,22 @@ DSMCER background color: #b2df8a-->
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Mar 9 <br/> 
-    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    	<span style="background-color:#a6cee3"> Zoom only: Standup & Project review (check the Google spreadsheet) </span> </td>
     <td>Mar 10 <br/> 
-    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    	<span style="background-color:#a6cee3"> Zoom only: Extended office hour (by appointment on the Google spreadsheet) </span> </td>
     <td>Mar 11 <br/> 
-    	<span style="background-color:#b2df8a">DSMCER</span> </td>
+    	<span style="background-color:#a6cee3"> Zoom only: Standup & Project Review (check the Google spreadsheet) </span> </td>
     <td>Mar 12 <br/> 
-    	<span style="background-color:#a6cee3">SEDS</span> </td>
+    	<span style="background-color:#a6cee3"> Zoom only: Extended office hour (by appointment on the Google spreadsheet) </span> </td>
     <td></td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
-    <th colspan="5"> Finals Week </th>
+    <th colspan="5"> Final Presentations (Zoom only. No poster needed. Please check the Google spreadsheet for your 10 mins time slot) </th>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
     <td>Mar 16 </td>
-    <td>Mar 17 </td>
-    <td>Mar 18 </td>
+    <td>Mar 17 4:30 pm - 6:00 pm </td>
+    <td>Mar 18 2:30 pm - 3:50 pm </td>
     <td>Mar 19 </td>
     <td></td>
   </tr>
