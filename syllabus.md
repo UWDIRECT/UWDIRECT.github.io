@@ -168,7 +168,7 @@ DSMCER background color: #b2df8a-->
     <td>Feb 26 <br/> 
     	<span style="background-color:#b2df8a"> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L10_SVMs.ipynb"> SVM (notebook) </A> <A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L10_SvM_20.pptx"> (slides) </A>  <A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e71834bf-c0a4-4f8a-a3e6-ab6d0141b916"> (video) </A> </span> </td>
     <td>Feb 27 <br/> 
-    	<span style="background-color:#a6cee3">Student standups<BR><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L12.Virtualization.pptx">Virtualization & conda</A><BR><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L13.Continuous_Integration.pptx">Continuous Integration</A><BR><A HREF="https://github.com/dacb/codebase_conda">Example repository</A></span> </td>
+    	<span style="background-color:#a6cee3">Student standups<BR><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L12.Virtualization.pptx">Virtualization & conda</A><BR><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L13.Continuous_Integration.pptx">Continuous Integration</A><BR><A HREF="https://github.com/dacb/codebase_conda">Example repository</A><BR><A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a751019-a532-487c-98af-ab6e0173059c">(video)</A></span> </td>
     <td><ul><li><A HREF="https://classroom.github.com/a/SuL2RAQm">DSMCER Homework 4 (Due 3/5 @ 11:50 PM)</A></li>
         </ul></td>
   </tr>
