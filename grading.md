@@ -29,7 +29,9 @@ All homework, including those with extensions, must be submitted no later than m
 
 Our expectation is that everything you type in a Python notebook is your own work. Any instances of "copy-paste" from the web or another person's notebook should be clearly cited. Of course you may look at examples but it is our strong preference that you refrain from copy-paste and type everything in. There is a learning reason for this, which we are happy to discuss in office hours or on slack.
 
-We will follow UW academic misconduct policy for any suspected instances of cheating on HW or projects. Any confirmed instance of cheating results in a zero on a HW assignment. Any 2nd confirmed instance of cheating results in a zero for the entire course grade.
+Engineering is a profession demanding a high level of personal honesty, integrity and responsibility. Therefore, it is essential that engineering students, in fulfillment of their academic requirements and in preparation to enter the engineering profession, shall adhere to the University of Washington’s Student Code of Conduct.
+
+Any student in this course suspected of academic misconduct (e.g., cheating, plagiarism, or falsification) will be reported to the College of Engineering Dean’s Office and the University’s Office of Community Standards and Student conduct. (See CoE website for more detailed explanation of the academic misconduct adjudication process). Any student found to have committed academic misconduct will receive a 0-grade on impacted academic work (e.g., assignments, project, or exams).
 
 ## Class Participation
 
