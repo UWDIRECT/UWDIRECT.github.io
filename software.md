@@ -54,11 +54,11 @@ for instructions for downloading and installing miniconda.
 Below are detailed instructions after you have installed miniconda to verify it is working as intended:
 
 1. Update conda's listing of packages for your system:
-- $ conda update conda
+- `$ conda update conda`
 2. Install IPython notebook and all its requirements
-- $ conda install jupyter
+- `$ conda install jupyter`
 3. Type ipython notebook in the terminal to start the notebook
-- $ jupyter notebook
+- `$ jupyter notebook`
 
 If everything has worked correctly, it should automatically launch your default browser.
 
