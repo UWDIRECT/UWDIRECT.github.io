@@ -17,18 +17,17 @@ collection: main
 - Caitlyn Wolf (caitwolf@uw.edu)
 
 
-## Logistics for 2020
+## Logistics for 2021
+
+- Data Science Methods for Clean Energy Research (DSMCER, ChemE 545)<br>Also known as Molecular Data Science Survey
+    - Tue & Thr
+    - 11:30 - 12:50
+    - See Canvas for Zoom information.
 
 - Software Engineering for Molecular Data Scientists (SEMDS, ChemE 546)
     - Tue & Thr
     - 2:30 - 3:50
-    - [Odegaard Undergraduate Library](http://uw.edu/maps?oug) 136
-
-
-- Data Science Methods for Clean Energy Research (DSMCER, ChemE 545)<br>Also known as Molecular Data Science Survey
-    - Mon & Wed
-    - 11:30 - 12:50
-    - [NanoES](http://uw.edu/maps/?nan) 181
+    - See Canvas for Zoom information.
 
 
 ## Course Descriptions
