@@ -21,6 +21,5 @@ collection: main
 
 The instructional team will provide the following weekly office hours, held at on Zoom.
 
-- Tuesday at 1:00 to 2:00 PM
-- Thursday at 1:00 to 2:00 AM
-
+- Monday at 1:00 to 2:00 PM
+- Wednesday at 1:00 to 2:00 PM
