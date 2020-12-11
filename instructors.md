@@ -9,18 +9,17 @@ collection: main
 ### Instructors
 
 - Prof. David Beck (dacb@uw.edu)
-- Prof. Ting Cao (tingcao@uw.edu)
+- Prof. Stéphanie Valleau (valleau@uw.edu)
 
 ### Teaching Assistants
 
-- Ted Cohen (tacohen@uw.edu)
-- Jimin Qian (jiminq@uw.edu)
-- Torin Stetina (torins@uw.edu)
-- Caitlyn Wolf (caitwolf@uw.edu)
+- Sabiha Rustam (sabiha3@uw.edu)
+- Nisarg Joshi (nisargj@uw.edu)
+
 
 ## Office Hours
 
-The instructional team will provide the following weekly office hours, held at the [Data Science Studio](https://escience.washington.edu/wrf-data-science-studio/), 6th floor of PAB (except as noted):
+The instructional team will provide the following weekly office hours, held at on Zoom.
 
 - Tuesday at 1:30 to 2:20 PM
 - Thursday at 10:30 to 11:20 AM
