@@ -7,15 +7,11 @@ collection: main
 ## Instructors
 
 - Prof. David Beck (dacb@uw.edu)
-- Prof. Ting Cao (tingcao@uw.edu)
+- Prof. Stéphanie Valleau (valleau@uw.edu)
 
 ## Teaching Assistants
 
-- Ted Cohen (tacohen@uw.edu)
-- Jimin Qian (jiminq@uw.edu)
-- Torin Stetina (torins@uw.edu)
-- Caitlyn Wolf (caitwolf@uw.edu)
-
+- Sabiha Rustam (sabiha3@uw.edu)
 
 ## Logistics for 2021
 
