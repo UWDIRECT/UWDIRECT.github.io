@@ -13,6 +13,10 @@ collection: main
 
 - Sabiha Rustam (sabiha3@uw.edu)
 
+## Course Grader
+
+- Nisarg Joshi (nisargj@uw.edu)
+
 ## Logistics for 2021
 
 - Data Science Methods for Clean Energy Research (DSMCER, ChemE 545)<br>Also known as Molecular Data Science Survey
