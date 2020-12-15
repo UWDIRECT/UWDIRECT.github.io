@@ -134,12 +134,12 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-	<td >Tue AM<br/><a>(video)</a></td>
-	<td >Thu AM<br /><a>(video)</a></td>
+	<td >Project overview & ideation<br/><a>(video)</a></td>
+	<td >Project verification<br /><a>(video)</a></td>
 </tr>
 <tr align="center" valign="top">
-<td >Tue PM<br /><a>(video)</a></td>
-<td >Thu PM<br /><a>(video)</a></td>
+<td >Project pitches & matchmaking<br /><a>(video)</a></td>
+<td ><span style="background-color:#a6cee3">Unit testing, part 1<a>(video)</a></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -151,7 +151,6 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3"><u>Feb 12</u></td>
 <td rowspan="3">
 </td>
-</tr>
 <tr align="center" valign="top">
 	<td >Tue AM<br/><a>(video)</a></td>
 	<td >Thu AM<br /><a>(video)</a></td>
@@ -159,6 +158,7 @@ DSMCER background color: #b2df8a-->
 <tr align="center" valign="top">
 <td >Tue PM<br /><a>(video)</a></td>
 <td >Thu PM<br /><a>(video)</a></td>
+</tr>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
