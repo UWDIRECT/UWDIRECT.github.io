@@ -26,19 +26,19 @@ DSMCER background color: #b2df8a-->
     <th style="width: 20%">References<br/>& Homework</th>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
-    <td>Jan 6 <br/> 
+    <td>Jan 4 <br/> 
     	<span style="background-color:#b2df8a"><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/DSMCER/L1_Intro_to_Data_Science.pptx">Course Introduction</A></span> </td>
-    <td>Jan 7 <br/> 
+    <td>Jan 5 <br/> 
     	<span style="background-color:#a6cee3"><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L1.1.Command_Line.pptx">Command line, part 1</A><br/><A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a4df1313-530c-4ff0-a802-ab3b01750434">(video)</A></span></td>
-    <td>Jan 8 <br/> 
+    <td>Jan 6 <br/> 
     	<span style="background-color:#a6cee3"><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi20_content/SEDS/L1.1.Command_Line.pptx">Command line, part 2</A><br/><A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1502144b-80c0-4144-af9a-ab3c014179b1">(video)</A></span></td>
-    <td>Jan 9 <br/> 
+    <td>Jan 7 <br/> 
     	<span style="background-color:#a6cee3"><A HREF="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi20_content/SEDS/L2.Simple_Breakout.ipynb">Intro to Python & Notebooks</A><br/><A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3480e1fc-6c03-4596-9efa-ab3d0172f04f">(video)</A></span> </td>
     <td><UL>
     	<LI><A HREF="https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.15192">DSMCER assigned reading</A></LI>
     	<LI><A HREF="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi19_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf">bash command line reference</A></LI>
-    	<LI><a HREF="https://classroom.github.com/a/oqV5DZF2">DSMCER Homework 1 (Due 1/14 11:59 PM)</A></LI>
-    	<LI><a HREF="https://classroom.github.com/a/k-5fCOKt">SEMDS Homework 1 (Due 1/22 11:59 PM)</A></LI>
+    	<LI><a HREF="https://classroom.github.com/a/oqV5DZF2">DSMCER Homework 1 (Due 1/13 11:59 PM)</A></LI>
+    	<LI><a HREF="https://classroom.github.com/a/k-5fCOKt">SEMDS Homework 1 (Due 1/18 11:59 PM)</A></LI>
 			</UL></td>
   </tr>
   <tr style="text-align: center; background-color:white; vertical-align: top">
