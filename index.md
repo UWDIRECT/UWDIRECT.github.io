@@ -12,9 +12,6 @@ collection: main
 ## Teaching Assistants
 
 - Sabiha Rustam (sabiha3@uw.edu)
-
-## Course Grader
-
 - Nisarg Joshi (nisargj@uw.edu)
 
 ## Logistics for 2021
@@ -45,7 +42,7 @@ These two courses teach graduate students the software engineering and molecular
 - Developing unit tests that validate important aspects of the project implementation, and, more broadly, using test-driven development to build software.
 - Searching, evaluating, and integrating into a project an externally developed Python packages as well as creating your own Python packages.
 
-*In DSM-CER students will learn the following skills*: 
+*In DSMCER students will learn the following skills*: 
 
 - Statistical reasoning and methods including distributions, hypothesis testing and error analysis for multiple data types
 - Modern data visualization methods
