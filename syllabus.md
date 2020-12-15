@@ -112,6 +112,162 @@ DSMCER background color: #b2df8a-->
 </tbody>
 </table>
 
+### February 2021
+<table style="border-collapse: collapse; width: 100%; " border="1">
+<tbody>
+<tr>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
+<th>References &amp; <br />Homework</th>
+</tr>
+<!-- this is a new week -->
+<tr valign="top">
+<td rowspan="3"><u>Feb 1</u></td>
+<td rowspan="1"><u>Feb 2</u></td>
+<td rowspan="3"><u>Feb 3</u></td>
+<td rowspan="1"><u>Feb 4</u></td>
+<td rowspan="3"><u>Feb 5</u></td>
+<td rowspan="3">
+</td>
+</tr>
+<tr align="center" valign="top">
+	<td >Tue AM<br/><a>(video)</a></td>
+	<td >Thu AM<br /><a>(video)</a></td>
+</tr>
+<tr align="center" valign="top">
+<td >Tue PM<br /><a>(video)</a></td>
+<td >Thu PM<br /><a>(video)</a></td>
+</tr>
+<!-- end of week -->
+<!-- this is a new week -->
+<tr valign="top">
+<td rowspan="3"><u>Feb 8</u></td>
+<td rowspan="1"><u>Feb 9</u></td>
+<td rowspan="3"><u>Feb 10</u></td>
+<td rowspan="1"><u>Feb 11</u></td>
+<td rowspan="3"><u>Feb 12</u></td>
+<td rowspan="3">
+</td>
+</tr>
+<tr align="center" valign="top">
+	<td >Tue AM<br/><a>(video)</a></td>
+	<td >Thu AM<br /><a>(video)</a></td>
+</tr>
+<tr align="center" valign="top">
+<td >Tue PM<br /><a>(video)</a></td>
+<td >Thu PM<br /><a>(video)</a></td>
+</tr>
+<!-- end of week -->
+<!-- this is a new week -->
+<tr valign="top">
+<td rowspan="3"><u>Feb 15</u></td>
+<td rowspan="1"><u>Feb 16</u></td>
+<td rowspan="3"><u>Feb 17</u></td>
+<td rowspan="1"><u>Feb 18</u></td>
+<td rowspan="3"><u>Feb 19</u></td>
+<td rowspan="3">
+</td>
+</tr>
+<tr align="center" valign="top">
+	<td >Tue AM<br/><a>(video)</a></td>
+	<td >Thu AM<br /><a>(video)</a></td>
+</tr>
+<tr align="center" valign="top">
+<td >Tue PM<br /><a>(video)</a></td>
+<td >Thu PM<br /><a>(video)</a></td>
+</tr>
+<!-- end of week -->
+<!-- this is a new week -->
+<tr valign="top">
+<td rowspan="3"><u>Feb 22</u></td>
+<td rowspan="1"><u>Feb 23</u></td>
+<td rowspan="3"><u>Feb 24</u></td>
+<td rowspan="1"><u>Feb 25</u></td>
+<td rowspan="3"><u>Feb 26</u></td>
+<td rowspan="3">
+</td>
+</tr>
+<tr align="center" valign="top">
+	<td >Tue AM<br/><a>(video)</a></td>
+	<td >Thu AM<br /><a>(video)</a></td>
+</tr>
+<tr align="center" valign="top">
+<td >Tue PM<br /><a>(video)</a></td>
+<td >Thu PM<br /><a>(video)</a></td>
+</tr>
+<!-- end of week -->
+</tbody>
+</table>
+
+### March 2021
+<table style="border-collapse: collapse; width: 100%; " border="1">
+<tbody>
+<tr>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
+<th>References &amp; <br />Homework</th>
+</tr>
+<!-- this is a new week -->
+<tr valign="top">
+<td rowspan="3"><u>Mar 1</u></td>
+<td rowspan="1"><u>Mar 2</u></td>
+<td rowspan="3"><u>Mar 3</u></td>
+<td rowspan="1"><u>Mar 4</u></td>
+<td rowspan="3"><u>Mar 5</u></td>
+<td rowspan="3">
+</td>
+</tr>
+<tr align="center" valign="top">
+	<td >Tue AM<br/><a>(video)</a></td>
+	<td >Thu AM<br /><a>(video)</a></td>
+</tr>
+<tr align="center" valign="top">
+<td >Tue PM<br /><a>(video)</a></td>
+<td >Thu PM<br /><a>(video)</a></td>
+</tr>
+<!-- end of week -->
+<!-- this is a new week -->
+<tr valign="top">
+<td rowspan="3"><u>Mar 8</u></td>
+<td rowspan="1"><u>Mar 9</u></td>
+<td rowspan="3"><u>Mar 10</u></td>
+<td rowspan="1"><u>Mar 11</u></td>
+<td rowspan="3"><u>Mar 12</u></td>
+<td rowspan="3">
+</td>
+</tr>
+<tr align="center" valign="top">
+	<td >Tue AM<br/><a>(video)</a></td>
+	<td >Thu AM<br /><a>(video)</a></td>
+</tr>
+<tr align="center" valign="top">
+<td >Tue PM<br /><a>(video)</a></td>
+<td >Thu PM<br /><a>(video)</a></td>
+</tr>
+<!-- end of week -->
+<!-- this is a new week -->
+<tr valign="top">
+<td rowspan="2"><u>Mar 15</u></td>
+<td rowspan="1"><u>Mar 16</u></td>
+<td rowspan="2"><u>Mar 17</u></td>
+<td rowspan="1"><u>Mar 18</u></td>
+<td rowspan="2"><u>Mar 19</u></td>
+<td rowspan="2">
+</td>
+</tr>
+<tr align="center" valign="top">
+<td >4:30 – 6:20PM<br><b>Final presentations!</b></td>
+<td ></td>
+</tr>
+<!-- end of week -->
+</tbody>
+</table>
 
 ## Additional Information
 
