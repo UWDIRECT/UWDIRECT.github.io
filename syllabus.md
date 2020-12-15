@@ -4,25 +4,13 @@ title: Syllabus
 collection: main
 ---
 
-## Office Hours
-
-The instructional team will provide the following weekly office hours, held at the [Data Science Studio](https://escience.washington.edu/wrf-data-science-studio/), 6th floor of PAB (except as noted):
-
-- **Tuesday** at 1:30 PM - 2:20 PM  
-- **Thursday** at 10:30 AM - 11:20 AM 
-
-Office hours on 3/10 and 3/12 will be hosted on Zoom due to the recent public health situation. 
-
 ## Homework
 
-All homework assignments will be due on **Tuesdays at 11:59 PM** unless otherwise noted.
+All homework assignments will be due on **Wednesdays at 11:59 PM** unless otherwise noted in the syllabus below.
 
 ## <span style="background-color:#a6cee3">SEDS (546)</span> and <span style="background-color:#b2df8a">DSMCER (545)</span> Schedule
 
-
-**Monday/Wednesday** <br>11:30 AM - 12:50 PM in [NanoES](http://uw.edu/maps/?nan) 181
-
-**Tuesday/Thursday** <br>2:30 PM - 3:50 PM in [Odegaard Undergraduate Library](http://uw.edu/maps?oug) 136
+See the courses' Canvas pages for Zoom links.
 
 <!--SEDS background color: #a6cee3
 DSMCER background color: #b2df8a-->
