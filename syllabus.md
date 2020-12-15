@@ -39,17 +39,17 @@ DSMCER background color: #b2df8a-->
 <li><a href="https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.15192">DSMCER assigned reading</a></li>
 <li><a href="https://githuDIRECT.github.io/raw/master/Wi21_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf">bash command line reference</a></li>
 <li><a>DSMCER Homework 1 (Due 1/13 11:59 PM)</a></li>
-<li><a>SEMDS Homework 1 (Due 1/18 11:59 PM)</a></li>
+<li><a><span style="background-color:#a6cee3">SEMDS Homework 1 (Due 1/18 11:59 PM)</span></a></li>
 </ul>
 </td>
 </tr>
 <tr align="center" valign="top">
-	<td >Course Overview<br/>Software checkup<br/><a>(video)</a></td>
-	<td >Command line, part 2<br /><a>(video)</a></td>
+	<td >Course Overview<br/><i>Software checkup</i><br/><a>(video)</a></td>
+	<td ><span style="background-color:#a6cee3">Command line, part 2<br /><a>(video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
-<td >Command line, part 1<br /><a>(video)</a></td>
-<td >Intro to Python &amp; Notebooks<br /><a>(video)</a></td>
+<td ><span style="background-color:#a6cee3">Command line, part 1<br /><a>(video)</a></span></td>
+<td ><span style="background-color:#a6cee3">Intro to Python &amp; Notebooks<br /><a>(video)</a></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -63,12 +63,12 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-	<td >Version control, part 1<br/><a>(video)</a></td>
-	<td >Python & Pandas<br /><a>(video)</a></td>
+	<td ><span style="background-color:#a6cee3">Version control, part 1<br/><a>(video)</a></span></td>
+	<td ><span style="background-color:#a6cee3">Python & Pandas<br /><a>(video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
-	<td >Version control, part 2<br/>Submitting homework in class!<br /><a>(video)</a></td>
-<td >Procedural Python<br /><a>(video)</a></td>
+	<td ><span style="background-color:#a6cee3">Version control, part 2<br/><b>Submitting homework in class!</b><br /><a>(video)</span></a></td>
+  <td ><span style="background-color:#a6cee3">Procedural Python<br /><a>(video)</a></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -82,12 +82,12 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-	<td >Tue AM<br/><a>(video)</a></td>
-	<td >Thu AM<br /><a>(video)</a></td>
+	<td ><span style="background-color:#a6cee3">Procedural Python<a>(video)</a></span></td>
+	<td ><span style="background-color:#b2df8a">Data visualization, part 2<a>(video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
-<td >Tue PM<br /><a>(video)</a></td>
-<td >Thu PM<br /><a>(video)</a></td>
+	<td ><span style="background-color:#b2df8a">Data visualization, part 1<a>(video)</a></span></td>
+	<td ><span style="background-color:#b2df8a">Descriptive statistics<a>(video)</a></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -101,12 +101,12 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-	<td >Tue AM<br/><a>(video)</a></td>
-	<td >Thu AM<br /><a>(video)</a></td>
+	<td ><span style="background-color:#b2df8a">Distributions & error bars<a>(video)</a></span></td>
+	<td ><span style="background-color:#a6cee3">From nothing to something, part 2<a>(video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
-<td >Tue PM<br /><a>(video)</a></td>
-<td >Thu PM<br /><a>(video)</a></td>
+	<td ><span style="background-color:#a6cee3">From nothing to something, part 1<a>(video)</a></span></td>
+	<td ><span style="background-color:#b2df8a">Hypothesis testing<a>(video)</a></span></td>
 </tr>
 <!-- end of week -->
 </tbody>
