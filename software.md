@@ -4,27 +4,52 @@ title: Software
 collection: main
 ---
 
-The courses make use of a number of software packages that students
-will install on their computers.  The software needs to be installed
-before you show up for day 1 of class.
-
+The course makes use of a number of software packages that students will install on their computers.
 The following software are available for Windows, Mac, and Linux.
 
+**Please try to install all of this software on your computer before the first day of class.**
 
-## Bash shell and git version control software
-Part of learning advanced software development and data science is
-becoming fluent with the bash shell and version control (git).
-The bash shell provides a scripting environment that
-is often used to manipulate files, install programs, and
-basic data analysis.
-The git version control system (along with the github website)
-are widely used for sharing codes and collaborative development
-of software.
-Bash and git are part of Linux and Mac OSX. No installs are required.
+## 1. Ensure you have access to a Unix-style terminal.
 
-### Mac OSX note: Some students reported an error with ``git``:
+### MacOS and Linux operating systems
+
+Use your operating system's program search (MacOS: spotlight search, Cmd-Space. Ubuntu: Ubuntu button in upper-left corner) up and search for `Terminal`.
+
+You should get a window with a command prompt. Command prompt might have different words / characters, followed by a `$` and cursor for text input. Late 2018 and newer MacOS computers default to `zsh` instead of `bash`. This difference will briefly be covered in class, but you can run `bash` [+ Enter] in the terminal if you choose to use that instead.
+
+### Windows 10 (Windows Linux Subsystem)
+
+All Windows users should note that the Windows command lines, cmd and PowerShell, differ greatly from the ``bash`` or ``zsh`` command prompt that software developers commonly use. From here on out, we will use "terminal" to refer to the Unix-style unless clearly and explicitly stated otherwise.
+
+Note: Windows Linux Subsystem (WSL2) is preferred over older Git Bash solution below. It's faster, more similar to what you'll see in class and has a more complete set of Unix programs.
+
+We suggest following these instructions for [installing a WSL distribution](https://docs.microsoft.com/en-us/windows/wsl/install-win10) and [setting up that distribution](https://docs.microsoft.com/en-us/windows/wsl/initialize-distro).  Follow the _Manual Installation Steps_.
+
+Some tips:
+* Windows Subsystem for Linux 2 (WSL2) is preferred.  WSL2 has better performance and is what the instructor's use.
+* We highly suggest using the Ubuntu 18.04 distribution. Ubuntu is one of the more beginner-friendly Linux distros and the instructor is also able to record screen captures for this setup.
+* We suggest setting your Linux distribution username and password to match your Windows ones. This will reduce confusion!
+
+### Older versions of Windows (deprecated!):
+
+Windows users should install the Software Carpentry recommended software:
+Please follow these instructions on YouTube: [https://www.youtube.com/watch?v=339AEqk9c-8](https://www.youtube.com/watch?v=339AEqk9c-8).
+Make sure you install gitbash _and_ the text editor (SWCarpentryInstaller).
+Links to the installers for Windows:
+* GitBASH: [https://git-for-windows.github.io](https://git-for-windows.github.io)
+* Software Carpentry Installer: [https://github.com/swcarpentry/windows-installer/releases/](https://github.com/swcarpentry/windows-installer/releases/)
+
+The instructors and TAs will have a hard time supporting you if you use this software.
+
+## 2. Ensure that Git is installed.
+
+Type `git --version` into the terminal. If the terminal prints out any version number, you are successful. For example, my Macbook Pro returns `git version 2.24.1 (Apple Git-126)` and my Windows 10 WSL system returns `s`.
+
+### Mac OS Note: Some students reported an error with ``git``:
 ```
-xcode-select: note: no developer tools were found at '/Applications/Xcode.app', requesting install. Choose an option in the dialog to download the command line developer tools.
+xcode-select: note: no developer tools were found at
+'/Applications/Xcode.app', requesting install. Choose an option
+in the dialog to download the command line developer tools.
 ```
 To fix this, do the following:
 
@@ -34,41 +59,33 @@ To fix this, do the following:
 * Click ``Agree`` to agree to the terms
 For more information see this [link](http://mac-how-to.wonderhowto.com/how-to/install-command-line-developer-tools-without-xcode-0168115/)
 
-## Note for Windows 10 users.
-There is a newish feature for Windows 10 that allows you to run Ubuntu apps natively inside of Windows called Windows Subsystem for Linux (WSL).  You can get it from the Microsoft Store for free here:
-* [Installation instructions for Ubuntu under Windows 10](https://www.microsoft.com/en-us/store/p/ubuntu/9nblggh4msv6)<br>
-Students from previous years and related courses (CSE 583 & DATA 515) have used this and it works great for `git` and other `bash` stuff. 
-<br>**In addition** we strongly recommend installing the improved Windows Terminal from the Microsoft App Store.  This is considerably better than the standard windows shell window and works great with WSL.
+### Github.com
 
-These instructions show how to setup a really solid Windows development environment including Python and WSL: [https://towardsdatascience.com/setting-up-a-data-science-environment-using-windows-subsystem-for-linux-wsl-c4b390803dd](https://towardsdatascience.com/setting-up-a-data-science-environment-using-windows-subsystem-for-linux-wsl-c4b390803dd)
+Also create a Github.com username. This is a free account. We will discuss more on the Version Control I lecture.
 
-## Conda & Python
-Python will be the primary programming language used in the courses.  It is recommended
-that Python 3.7 be used.  Even if you have an existing installation of Python, it is
-required that you install Python with Conda.  Conda is a system for installing and 
-otherwise managing python packages and their dependenices.
-We recommend students use Miniconda3.7.  If you have an older conda 3.5 or later install that will probably work fine.  Versions of conda that are based on Python 2 will be very problematic if not useless for the class.
-See [http://conda.pydata.org/miniconda.html](http://conda.pydata.org/miniconda.html)
-for instructions for downloading and installing miniconda. 
-(You should use the instructions for your OS and Python 3.7.)
-Below are detailed instructions after you have installed miniconda to verify it is working as intended:
+## 3. Installing Python via Anaconda / Miniconda
+We recommend that you use the most recent version of Python 3.  Earlier versions of Python 3 work as well.  There are some differences between Python 2 and Python 3, and many systems only include Python 2.7 as a standard installation.  A Python installation for this course will be managed by the [conda](https://conda.io/docs/) package management system, described below.
 
-1. Update conda's listing of packages for your system:
-- `$ conda update conda`
-2. Install IPython notebook and all its requirements
-- `$ conda install jupyter`
-3. Type ipython notebook in the terminal to start the notebook
-- `$ jupyter notebook`
+Anaconda is a system for installing and otherwise managing Python and other software packages. Anaconda installs  See [http://conda.pydata.org/miniconda.html](http://conda.pydata.org/miniconda.html) for instructions for downloading and installing miniconda for your OS, selecting the Python 3 series installer.
 
-If everything has worked correctly, it should automatically launch your default browser.
+**Windows Subsystem for Linux** If you are using Windows 10 and WSL2, you should open the Ubuntu shell and follow the instructions on the miniconda website for Linux, not Windows.  If you install the Windows version of miniconda you will find your Windows 10 version of miniconda does not work under WSL2.  There is a way to fix this, but it is probably easier to just follow these instructions.
 
-## Text editor
-Windows users will install the basic ```nano``` editor.  After a few classes, you may
-decide that you want to try out more advanced editors.  Some options are
- - [Sublime](http://sublimetext.com)
- - [atom](http://atom.io)
+Below are detailed instructions **after** you have installed Miniconda (or the full Anaconda):
+1. Update conda's listing of packages for your system: $``conda update conda``
+2. Install Jupyter notebook and its requirements: $``conda install jupyter notebook``
+3. Test that Jupyter notebooks run using the terminal to start the notebook: $``jupyter notebook``
 
-Note that word processors, e.g. Microsoft Word, is _not_ a text editor.  Real text
-editors for software development have syntax highlighting, and even integrate with
-version control and style checkers.
+If everything has worked correctly, it should print a URL to the console that opens an empty notebook. Depending on settings, it may automatically open the notebook server in your default browser.
 
+## 4. Install a terminal text editor.
+We highly suggest installing Nano, an easy to use text editor in the terminal.
+
+### Linux operating systems (including WSL and Git Bash on Windows!)
+For Ubuntu distributions, try $`sudo apt-get install nano`. For others, $`yum install nano`.
+
+### MacOS operating system:
+MacOS doesn't have a pre-installed package manager for their Unix programs. The best option is Homebrew with [full instructions on the website](https://brew.sh/).
+
+Students can also select a graphical text editor of their choice, such as Notebook (Windows), vim (all platforms), and Sublime (all platforms). A text editor is different from word processing programs, like MS Word, in that text editors often recognize program syntax and do no formatting.
+
+If you'd also like a graphical text editor but don't already have a favorite, we recommend installing either [atom](http://atom.io/) or [Sublime](http://www.sublimetext.com/), which are both available for all platforms.
