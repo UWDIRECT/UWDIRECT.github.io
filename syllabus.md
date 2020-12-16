@@ -152,12 +152,12 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3">
 </td>
 <tr align="center" valign="top">
-	<td >Tue AM<br/><a>(video)</a></td>
-	<td >Thu AM<br /><a>(video)</a></td>
+<td ><span style="background-color:#a6cee3">Unit testing, part 2<a>(video)</a></span></td>
+	<td ><span style="background-color:#b2df8a">Intro to ML & KNNs<a>(video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
-<td >Tue PM<br /><a>(video)</a></td>
-<td >Thu PM<br /><a>(video)</a></td>
+<td ><span style="background-color:#a6cee3">Software design<a>(video)</a></span></td>
+	<td ><span style="background-color:#b2df8a">Simple linear regression<a>(video)</a></span></td>
 </tr>
 </tr>
 <!-- end of week -->
@@ -172,12 +172,12 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-	<td >Tue AM<br/><a>(video)</a></td>
-	<td >Thu AM<br /><a>(video)</a></td>
+	<td ><span style="background-color:#b2df8a">Multiple linear regression<a>(video)</a></span></td>
+	<td ><span style="background-color:#b2df8a">Bootstrapping & resampling<a>(video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
-<td >Tue PM<br /><a>(video)</a></td>
-<td >Thu PM<br /><a>(video)</a></td>
+<td ><span style="background-color:#a6cee3">Communicating about code<a>(video)</a></span></td>
+<td ><span style="background-color:#a6cee3">Technology reviews<a>(video)</a></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -191,12 +191,12 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-	<td >Tue AM<br/><a>(video)</a></td>
-	<td >Thu AM<br /><a>(video)</a></td>
+	<td ><span style="background-color:#b2df8a">Decision Trees & Random Forests<a>(video)</a></span></td>
+	<td ><span style="background-color:#b2df8a">Support Vector Machines<a>(video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
-<td >Tue PM<br /><a>(video)</a></td>
-<td >Thu PM<br /><a>(video)</a></td>
+<td ><span style="background-color:#a6cee3">Version control, part 3<a>(video)</a></span></td>
+<td ><span style="background-color:#a6cee3">Virtualization and continuous integration<a>(video)</a></span></td>
 </tr>
 <!-- end of week -->
 </tbody>
@@ -224,12 +224,12 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-	<td >Tue AM<br/><a>(video)</a></td>
-	<td >Thu AM<br /><a>(video)</a></td>
+	<td ><span style="background-color:#b2df8a">Unsupervised methods (clustering)<a>(video)</a></span></td>
+	<td ><span style="background-color:#b2df8a">Neural networks<a>(video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
-<td >Tue PM<br /><a>(video)</a></td>
-<td >Thu PM<br /><a>(video)</a></td>
+	<td ><span style="background-color:#b2df8a">Image analytics<a>(video)</a></span></td>
+<td ><span style="background-color:#a6cee3">Standups & consultation<a>(video)</a></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -243,12 +243,12 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-	<td >Tue AM<br/><a>(video)</a></td>
-	<td >Thu AM<br /><a>(video)</a></td>
+<td ><span style="background-color:#a6cee3">Enrichment 1 (Viz with Altair)<a>(video)</a></span></td>
+<td ><span style="background-color:#a6cee3">Enrichment 2 (SQL)<a>(video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
-<td >Tue PM<br /><a>(video)</a></td>
-<td >Thu PM<br /><a>(video)</a></td>
+<td ><span style="background-color:#a6cee3">Standups & consultation<a>(video)</a></span></td>
+<td ><span style="background-color:#a6cee3">Standups & consultation<a>(video)</a></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
