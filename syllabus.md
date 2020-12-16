@@ -17,6 +17,7 @@ DSMCER background color: #b2df8a-->
 
 
 ### January 2021
+
 <table style="border-collapse: collapse; width: 100%; " border="1">
 <tbody>
 <tr>
@@ -113,6 +114,7 @@ DSMCER background color: #b2df8a-->
 </table>
 
 ### February 2021
+
 <table style="border-collapse: collapse; width: 100%; " border="1">
 <tbody>
 <tr>
@@ -159,7 +161,6 @@ DSMCER background color: #b2df8a-->
 <td ><span style="background-color:#a6cee3">Software design<a>(video)</a></span></td>
 	<td ><span style="background-color:#b2df8a">Simple linear regression<a>(video)</a></span></td>
 </tr>
-</tr>
 <!-- end of week -->
 <!-- this is a new week -->
 <tr valign="top">
@@ -203,6 +204,7 @@ DSMCER background color: #b2df8a-->
 </table>
 
 ### March 2021
+
 <table style="border-collapse: collapse; width: 100%; " border="1">
 <tbody>
 <tr>
