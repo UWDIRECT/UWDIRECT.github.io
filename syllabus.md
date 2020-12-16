@@ -15,7 +15,6 @@ See the courses' Canvas pages for Zoom links.
 <!--SEDS background color: #a6cee3
 DSMCER background color: #b2df8a-->
 
-
 ### January 2021
 
 <table style="border-collapse: collapse; width: 100%; " border="1">
@@ -45,8 +44,8 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-	<td >Course Overview<br/><i>Software checkup</i><br/><a>(video)</a></td>
-	<td ><span style="background-color:#a6cee3">Command line, part 2<br /><a>(video)</a></span></td>
+<td >Course Overview<br/><i>Software checkup</i><br/><a>(video)</a></td>
+<td ><span style="background-color:#a6cee3">Command line, part 2<br /><a>(video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3">Command line, part 1<br /><a>(video)</a></span></td>
@@ -64,17 +63,17 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-	<td ><span style="background-color:#a6cee3">Version control, part 1<br/><a>(video)</a></span></td>
-	<td ><span style="background-color:#a6cee3">Python & Pandas<br /><a>(video)</a></span></td>
+<td ><span style="background-color:#a6cee3">Version control, part 1<br/><a>(video)</a></span></td>
+<td ><span style="background-color:#a6cee3">Python & Pandas<br /><a>(video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
-	<td ><span style="background-color:#a6cee3">Version control, part 2<br/><b>Submitting homework in class!</b><br /><a>(video)</span></a></td>
-  <td ><span style="background-color:#a6cee3">Procedural Python<br /><a>(video)</a></span></td>
+<td ><span style="background-color:#a6cee3">Version control, part 2<br/><b>Submitting homework in class!</b><br /><a>(video)</a></span></td>
+<td ><span style="background-color:#a6cee3">Procedural Python<br /><a>(video)</a></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
 <tr valign="top">
-	<td rowspan="3"><u>Jan 18</u><br/>SEDS Homework 1 due</td>
+<td rowspan="3"><u>Jan 18</u><br/>SEDS Homework 1 due</td>
 <td rowspan="1"><u>Jan 19</u></td>
 <td rowspan="3"><u>Jan 20</u></td>
 <td rowspan="1"><u>Jan 21</u></td>
@@ -83,12 +82,12 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-	<td ><span style="background-color:#a6cee3">Procedural Python<a>(video)</a></span></td>
-	<td ><span style="background-color:#b2df8a">Data visualization, part 2<a>(video)</a></span></td>
+<td ><span style="background-color:#a6cee3">Procedural Python<a>(video)</a></span></td>
+<td ><span style="background-color:#b2df8a">Data visualization, part 2<a>(video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
-	<td ><span style="background-color:#b2df8a">Data visualization, part 1<a>(video)</a></span></td>
-	<td ><span style="background-color:#b2df8a">Descriptive statistics<a>(video)</a></span></td>
+<td ><span style="background-color:#b2df8a">Data visualization, part 1<a>(video)</a></span></td>
+<td ><span style="background-color:#b2df8a">Descriptive statistics<a>(video)</a></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -102,12 +101,12 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-	<td ><span style="background-color:#b2df8a">Distributions & error bars<a>(video)</a></span></td>
-	<td ><span style="background-color:#a6cee3">From nothing to something, part 2<a>(video)</a></span></td>
+<td ><span style="background-color:#b2df8a">Distributions & error bars<a>(video)</a></span></td>
+<td ><span style="background-color:#a6cee3">From nothing to something, part 2<a>(video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
-	<td ><span style="background-color:#a6cee3">From nothing to something, part 1<a>(video)</a></span></td>
-	<td ><span style="background-color:#b2df8a">Hypothesis testing<a>(video)</a></span></td>
+<td ><span style="background-color:#a6cee3">From nothing to something, part 1<a>(video)</a></span></td>
+<td ><span style="background-color:#b2df8a">Hypothesis testing<a>(video)</a></span></td>
 </tr>
 <!-- end of week -->
 </tbody>
@@ -136,8 +135,8 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-	<td >Project overview & ideation<br/><a>(video)</a></td>
-	<td >Project verification<br /><a>(video)</a></td>
+<td >Project overview & ideation<br/><a>(video)</a></td>
+<td >Project verification<br /><a>(video)</a></td>
 </tr>
 <tr align="center" valign="top">
 <td >Project pitches & matchmaking<br /><a>(video)</a></td>
@@ -155,11 +154,11 @@ DSMCER background color: #b2df8a-->
 </td>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3">Unit testing, part 2<a>(video)</a></span></td>
-	<td ><span style="background-color:#b2df8a">Intro to ML & KNNs<a>(video)</a></span></td>
+<td ><span style="background-color:#b2df8a">Intro to ML & KNNs<a>(video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3">Software design<a>(video)</a></span></td>
-	<td ><span style="background-color:#b2df8a">Simple linear regression<a>(video)</a></span></td>
+<td ><span style="background-color:#b2df8a">Simple linear regression<a>(video)</a></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -173,8 +172,8 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-	<td ><span style="background-color:#b2df8a">Multiple linear regression<a>(video)</a></span></td>
-	<td ><span style="background-color:#b2df8a">Bootstrapping & resampling<a>(video)</a></span></td>
+<td ><span style="background-color:#b2df8a">Multiple linear regression<a>(video)</a></span></td>
+<td ><span style="background-color:#b2df8a">Bootstrapping & resampling<a>(video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3">Communicating about code<a>(video)</a></span></td>
@@ -192,8 +191,8 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-	<td ><span style="background-color:#b2df8a">Decision Trees & Random Forests<a>(video)</a></span></td>
-	<td ><span style="background-color:#b2df8a">Support Vector Machines<a>(video)</a></span></td>
+<td ><span style="background-color:#b2df8a">Decision Trees & Random Forests<a>(video)</a></span></td>
+<td ><span style="background-color:#b2df8a">Support Vector Machines<a>(video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3">Version control, part 3<a>(video)</a></span></td>
@@ -226,11 +225,11 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-	<td ><span style="background-color:#b2df8a">Unsupervised methods (clustering)<a>(video)</a></span></td>
-	<td ><span style="background-color:#b2df8a">Neural networks<a>(video)</a></span></td>
+<td ><span style="background-color:#b2df8a">Unsupervised methods (clustering)<a>(video)</a></span></td>
+<td ><span style="background-color:#b2df8a">Neural networks<a>(video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
-	<td ><span style="background-color:#b2df8a">Image analytics<a>(video)</a></span></td>
+<td ><span style="background-color:#b2df8a">Image analytics<a>(video)</a></span></td>
 <td ><span style="background-color:#a6cee3">Standups & consultation<a>(video)</a></span></td>
 </tr>
 <!-- end of week -->
@@ -270,7 +269,6 @@ DSMCER background color: #b2df8a-->
 <!-- end of week -->
 </tbody>
 </table>
-
 
 
 ## Additional Information
