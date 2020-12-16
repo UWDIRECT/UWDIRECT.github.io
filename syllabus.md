@@ -269,10 +269,14 @@ DSMCER background color: #b2df8a-->
 </tbody>
 </table>
 
+
+
 ## Additional Information
+
 
 ### Religious Accommodations Policy
 Washington state law requires that UW develop a policy for accommodation of student absences or significant hardship due to reasons of faith or conscience, or for organized religious activities. The UW’s policy, including more information about how to request an accommodation, is available at [Religious Accommodations Policy](https://registrar.washington.edu/staffandfaculty/religious-accommodations-policy/). Accommodations must be requested within the first two weeks of this course using the [Religious Accommodations Request form](https://registrar.washington.edu/students/religious-accommodations-request/).
+
 
 ### Access and Accommodations
 Your experience in this class is important to us. If you have already established accommodations with Disability Resources for Students (DRS), please communicate your approved accommodations to the instructors at your earliest convenience so we can discuss your needs in this course.
