@@ -152,6 +152,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3"><u>Feb 12</u></td>
 <td rowspan="3">
 </td>
+</tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3">Unit testing, part 2</span></td>
 <td ><span style="background-color:#b2df8a">Intro to ML & KNNs</span></td>
