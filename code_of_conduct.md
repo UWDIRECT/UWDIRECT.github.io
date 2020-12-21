@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Code of Conduct
+weight: 2
 collection: main
 ---
 

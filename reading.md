@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Reading
+weight: 10
 collection: main
 ---
 

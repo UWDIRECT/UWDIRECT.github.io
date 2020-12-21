@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Grading
+weight: 4
 collection: main
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Software
+weight: 20
 collection: main
 ---
 

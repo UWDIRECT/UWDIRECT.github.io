@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Instructors
+weight: 1
 collection: main
 ---
 
