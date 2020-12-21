@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home
+weight: 0
 collection: main
 ---
 

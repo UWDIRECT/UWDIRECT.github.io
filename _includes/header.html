@@ -15,13 +15,15 @@
       </a>
 
       <div class="trigger">
-        {% for thispage in site.pages %}
+			 {% assign pages = site.pages | sort:"weight" %}
+        {% for thispage in pages %}
           {% if thispage.title %}
             {% if thispage.collection == page.collection %}
               <a class="page-link" href="{{ thispage.url | prepend: site.baseurl }}">{{ thispage.title }}</a>
             {% endif %}
           {% endif %}
         {% endfor %}
+			 
       </div>
     </nav>
 
