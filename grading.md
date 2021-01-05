@@ -20,11 +20,11 @@ Course project: 55%
 There will be about 4 homeworks;
 The homeworks will be assigned in the first part of the course and students will submit
 their homework using GitHub. **You must have created a GitHub account before class starts.**
-To receive full credit, homework must be posted by **11:59 PM Pacific Time** on the due date. For Winter 2020, homework assignments will typically be due on **Tuesdays** unless otherwise noted.
+To receive full credit, homework must be posted by **11:59 PM Pacific Time** on the due date. For Winter 2021, homework assignments will typically be due on **Tuesdays** unless otherwise noted on the syllabus.
 <!--Due to the holiday schedule in Winter quarter, homework may be assigned either on a Tuesday or a Thursday.-->  The instructors and TAs will then provide feedback via GitHub issues.  You will have a week to respond to the feedback by a homework revision to make up any points not received on the first submission.  If you choose to go this route (and you should), you will need to @mention the TA or instructor who first reviewed your homework.
 Twenty percent will be deducted from homework received up to a week after its due date.
 No credit will be given for homework more than one week late (unless there is special permission from the instructors).
-All homework, including those with extensions, must be submitted no later than midnight March 17, 2020.
+All homework, including those with extensions, must be submitted no later than midnight March 15, 2021.
 
 ## A Note about collaboration
 
@@ -56,7 +56,3 @@ logs and by a peer assesment survey students will take at the end of the quarter
 Separate, defined graded components will be given for SEDS and DSMfCER.
 
 Project deadline and final presentation dates can be found on the syllabus page.
-
-<!--are due by midnight March 19, 2019 - 4:30 - 6:20 PM.
-
-Poster Presentation will take place on Mar 19, 2019 in the NanoES building... Ask Chad!-->
