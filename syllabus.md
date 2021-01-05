@@ -11,7 +11,7 @@ All homework assignments will be due on **Wednesdays at 11:59 PM** unless otherw
 
 ## <span style="background-color:#a6cee3">SEDS (546)</span> and <span style="background-color:#b2df8a">DSMCER (545)</span> Schedule
 
-## See the courses' Canvas pages for Zoom links.
+<!-- See the courses' Canvas pages for Zoom links. -->
 Zoom links:
 * [CHEME/CHEM/MSE 545 (AM class)](https://washington.zoom.us/j/92586146731)
 * [CHEME/CHEM/MSE 546 (PM class)](https://washington.zoom.us/j/99605747979)
