@@ -20,12 +20,12 @@ collection: main
 - Data Science Methods for Clean Energy Research (DSMCER, ChemE 545)<br>Also known as Molecular Data Science Survey
     - Tue & Thr
     - 11:30 - 12:50
-    - See Canvas for Zoom information.
+    - [Zoom link](https://washington.zoom.us/j/92586146731)
 
 - Software Engineering for Molecular Data Scientists (SEMDS, ChemE 546)
     - Tue & Thr
     - 2:30 - 3:50
-    - See Canvas for Zoom information.
+    - [Zoom link](https://washington.zoom.us/j/99605747979)
 
 
 ## Course Descriptions
