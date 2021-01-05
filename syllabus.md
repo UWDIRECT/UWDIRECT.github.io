@@ -48,7 +48,7 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td >Course Overview<br/><i>Software checkup</i><br/></td>
+<td ><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi21_content/DSMCER/L1_Intro_to_Data_Science.pptx?raw=true">Course Overview</a><br/><i>Software checkup</i><br/></td>
 <td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi21_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line, part 2</a><br /></span></td>
 </tr>
 <tr align="center" valign="top">
