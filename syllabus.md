@@ -38,19 +38,19 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3">
 <ul>
 <li><a href="https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.15192">DSMCER assigned reading</a></li>
-<li><a href="https://githuDIRECT.github.io/raw/master/Wi21_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf">bash command line reference</a></li>
-<li><a>DSMCER Homework 1 (Due 1/13 11:59 PM)</a></li>
-<li><span style="background-color:#a6cee3">SEMDS Homework 1 (Due 1/18 11:59 PM)</span></li>
+<li><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf">bash command line reference</a></li>
+<li><a href="https://docs.google.com/document/d/1Ypo5QcCInFlOqm2GknYK4aYfZ1ALCFzcpy3aTa5nzz0/edit?usp=sharing">DSMCER Homework 1 (Due 1/13 11:59 PM)</a></li>
+<li><span style="background-color:#a6cee3"><a href="https://docs.google.com/document/d/1rzP02Vm4LKmuprnskMZjI1s7l4HkGzbqb5nHU0WyS0s/edit?usp=sharing">SEMDS Homework 1 (Due 1/18 11:59 PM)</a></span></li>
 </ul>
 </td>
 </tr>
 <tr align="center" valign="top">
 <td >Course Overview<br/><i>Software checkup</i><br/></td>
-<td ><span style="background-color:#a6cee3">Command line, part 2<br /></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi21_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line, part 2</a><br /></span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3">Command line, part 1<br /></span></td>
-<td ><span style="background-color:#a6cee3">Intro to Python &amp; Notebooks<br /></span></td>
+<td ><span style="background-color:#a6cee3"><A href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi21_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line, part 1</a><br /></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L2.Simple_Breakout.ipynb">Intro to Python &amp; Notebooks</a><br /></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -64,12 +64,12 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3">Version control, part 1<br/></span></td>
-<td ><span style="background-color:#a6cee3">Python & Pandas<br /></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi21_content/SEDS/L3.Version_Control.pptx?raw=true">Version control, part 1</a><br/></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L4.Python.ipynb">Python & Pandas</a><br /></span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3">Version control, part 2<br/><b>Submitting homework in class!</b><br/></span></td>
-<td ><span style="background-color:#a6cee3">Procedural Python<br /></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi21_content/SEDS/L3.Version_Control.pptx?raw=true">Version control, part 2</a><br/><b>Submitting homework in class!</b><br/></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L5.Procedural_Python.ipynb">Procedural Python</a><br /></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
