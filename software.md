@@ -24,7 +24,7 @@ All Windows users should note that the Windows command lines, cmd and PowerShell
 
 Note: Windows Linux Subsystem (WSL2) is preferred over older Git Bash solution below. It's faster, more similar to what you'll see in class and has a more complete set of Unix programs.
 
-We suggest following these instructions for [installing a WSL distribution](https://docs.microsoft.com/en-us/windows/wsl/install-win10) and [setting up that distribution](https://docs.microsoft.com/en-us/windows/wsl/initialize-distro).  Follow the _Manual Installation Steps_.
+We suggest following these instructions for [installing a WSL distribution](https://www.omgubuntu.co.uk/how-to-install-wsl2-on-windows-10) and possibly [setting up that distribution](https://docs.microsoft.com/en-us/windows/wsl/initialize-distro).  
 
 Some tips:
 * Windows Subsystem for Linux 2 (WSL2) is preferred.  WSL2 has better performance and is what the instructor's use.
