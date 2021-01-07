@@ -51,7 +51,7 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi21_content/DSMCER/L1_Intro_to_Data_Science.pptx?raw=true">Course Overview</a><br/><i>Software checkup</i><br/></td>
-<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi21_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line, part 2</a><br /></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi21_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line, part 2</a><br /><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=707ff4ca-0154-4c24-aef7-aca901417d01">(video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3"><A href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi21_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line, part 1</a><br /><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d087e347-79c8-4ffa-972c-aca701739059">(video)</a></span></td>
