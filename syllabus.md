@@ -69,7 +69,7 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi21_content/SEDS/L3.Version_Control.pptx?raw=true">Version control, part 1</a><br/></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi21_content/SEDS/L3.Version_Control.pptx?raw=true">Version control, part 1</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=68c14994-f96e-40bd-b818-acae0141dcdc">(video)</a></span></td>
 <td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L4.Python.ipynb">Python & Pandas</a><br /></span></td>
 </tr>
 <tr align="center" valign="top">
