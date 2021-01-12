@@ -65,7 +65,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3"><u>Jan 13</u><br/>DSMCER Homework 1 due</td>
 <td rowspan="1"><u>Jan 14</u></td>
 <td rowspan="3"><u>Jan 15</u></td>
-<td rowspan="3"><a href="http://swcarpentry.github.io/git-novice/">Version Control with Git</a>
+<td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="http://swcarpentry.github.io/git-novice/">Version Control with Git</a></span></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
