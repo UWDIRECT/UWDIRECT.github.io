@@ -73,7 +73,7 @@ DSMCER background color: #b2df8a-->
 <td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L4.Python.ipynb">Python & Pandas</a><br /></span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi21_content/SEDS/L3.Version_Control.pptx?raw=true">Version control, part 2</a><br/><b>Submitting homework in class!</b><br/></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi21_content/SEDS/L3.Version_Control.pptx?raw=true">Version control, part 2</a><br/><b>Submitting homework in class!</b><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a7074a7c-1270-44bb-b019-acae01731dbe">(video)</a></span></td>
 <td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L5.Procedural_Python.ipynb">Procedural Python</a><br /></span></td>
 </tr>
 <!-- end of week -->
