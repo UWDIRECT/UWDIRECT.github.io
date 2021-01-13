@@ -17,6 +17,8 @@ collection: main
 
 ## Logistics for 2021
 
+Zoom meeting ID numbers can be found on the Canvas course webpages, under the Zoom tab
+
 - Data Science Methods for Clean Energy Research (DSMCER, ChemE 545)<br>Also known as Molecular Data Science Survey
     - Tue & Thr
     - 11:30 - 12:50
