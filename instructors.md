@@ -23,5 +23,5 @@ collection: main
 The instructional team will provide the following weekly office hours, held at on Zoom.
 
 Zoom links (see Canvas course pages for Zoom meeting ID numbers):
-* [Monday at 1:00 to 2:00 PM]
-* [Wednesday at 1:00 to 2:00 PM]
+* Monday at 1:00 to 2:00 PM
+* Wednesday at 1:00 to 2:00 PM
