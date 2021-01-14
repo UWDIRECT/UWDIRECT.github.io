@@ -44,7 +44,7 @@ DSMCER background color: #b2df8a-->
 <li><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf">bash command line reference</a></span></li>
 <li><span style="background-color:#b2df8a"><a href="https://docs.google.com/document/d/1Ypo5QcCInFlOqm2GknYK4aYfZ1ALCFzcpy3aTa5nzz0/edit?usp=sharing">DSMCER Homework 1 (Due 1/13 11:59 PM)</a> <a href="https://classroom.github.com/a/MZCfve8h">GitHub for DSMCER HW1</a></span></li>
 <!-- This is the link for DSMCER HW 1 in our classroom: https://classroom.github.com/a/MZCfve8h -->
-<li><span style="background-color:#a6cee3"><a href="https://docs.google.com/document/d/1rzP02Vm4LKmuprnskMZjI1s7l4HkGzbqb5nHU0WyS0s/edit?usp=sharing">SEMDS Homework 1 (Due 1/18 11:59 PM)</a> <a href="https://classroom.github.com/a/hDUJkLmY">GitHub for SEMDS HW1</a></span></li>
+<li><span style="background-color:#a6cee3"><a href="https://docs.google.com/document/d/1rzP02Vm4LKmuprnskMZjI1s7l4HkGzbqb5nHU0WyS0s/edit?usp=sharing">SEMDS Homework 1 (Due 1/20 11:59 PM)</a> <a href="https://classroom.github.com/a/hDUJkLmY">GitHub for SEMDS HW1</a></span></li>
 <!-- This is the link for SEDS HW 1 in our classroom: https://classroom.github.com/a/hDUJkLmY -->
 </ul>
 </td>
@@ -79,9 +79,9 @@ DSMCER background color: #b2df8a-->
 <!-- end of week -->
 <!-- this is a new week -->
 <tr valign="top">
-<td rowspan="3"><u>Jan 18</u><br/>SEDS Homework 1 due</td>
+<td rowspan="3"><u>Jan 18</u></td>
 <td rowspan="1"><u>Jan 19</u></td>
-<td rowspan="3"><u>Jan 20</u></td>
+<td rowspan="3"><u>Jan 20</u><br/>SEDS Homework 1 due</td>
 <td rowspan="1"><u>Jan 21</u></td>
 <td rowspan="3"><u>Jan 22</u></td>
 <td rowspan="3">
