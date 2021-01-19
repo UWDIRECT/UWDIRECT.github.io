@@ -92,7 +92,7 @@ DSMCER background color: #b2df8a-->
 <td ><span style="background-color:#b2df8a">Data visualization, part 2</span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#b2df8a">Data visualization, part 1</span></td>
+<td ><span style="background-color:#b2df8a"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L2_Visualization.ipynb">Data visualization, part 1</span></td>
 <td ><span style="background-color:#b2df8a">Descriptive statistics</span></td>
 </tr>
 <!-- end of week -->
