@@ -89,10 +89,11 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/SEDS/L4.Python.ipynb">Python & Pandas</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=92416f7b-4fc7-471a-bbc3-acb50142356e">(video)</a></span></td>
-<td ><span style="background-color:#b2df8a">Data visualization, part 1 <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L2_Visualization.pptx"> (slides,</a><br/><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L2_Visualization.ipynb"> notebook)</a></span></td>
+<td ><span style="background-color:#b2df8a">Descriptive statistics</span></td>
 </tr>  
 <tr align="center" valign="top">
-<td ><span style="background-color:#b2df8a">Descriptive statistics</span></td>
+<td ><span style="background-color:#b2df8a">Data visualization, part 1 <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L2_Visualization.pptx"> (slides,</a><br/><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L2_Visualization.ipynb"> notebook)</a></span></td>
+
 <td ><span style="background-color:#b2df8a">Data visualization, part 2</span></td>
 </tr>
 
