@@ -84,7 +84,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3"><u>Jan 20</u><br/>SEDS Homework 1 due</td>
 <td rowspan="1"><u>Jan 21</u></td>
 <td rowspan="3"><u>Jan 22</u></td>
-<td rowspan="3"><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/DaEgO3K7">SEMDS Homework 2 (Due 1/27 11:59 PM)</a></span></li>
+<td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/DaEgO3K7">SEMDS Homework 2 (Due 1/27 11:59 PM)</a></span></li><li><span style="background-color:#b2df8a"><a href="https://www-nature-com.offcampus.lib.washington.edu/articles/nmeth.2613">Nature article: The importance of being uncertain.</a></span></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
