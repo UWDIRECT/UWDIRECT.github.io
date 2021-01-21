@@ -93,7 +93,7 @@ DSMCER background color: #b2df8a-->
 </tr>  
 <tr align="center" valign="top">
 <td ><span style="background-color:#b2df8a">Data visualization, part 1 <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L2_Visualization.pptx"> (slides,</a><a href="https://washington.zoom.us/rec/play/KDyt5698F14bmMm0mjkUQGN_xCwhEg9YU6wx9XxxZbVfmXbyVLEXvLJtaz4jG3goMFQUAbz0PSK22vNR.-QqBIKnYYWl9WuAS"> video, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L2_Visualization.ipynb"> notebook)</a></span></td>
-<td ><span style="background-color:#b2df8a">Descriptive statistics</span></td>
+<td ><span style="background-color:#b2df8a">Descriptive statistics<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L3_Descriptive_Statistics.ipynb">(notebook)</a></span></td>
 </tr>
 
 
