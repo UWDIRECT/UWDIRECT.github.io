@@ -84,7 +84,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3"><u>Jan 20</u><br/>SEDS Homework 1 due</td>
 <td rowspan="1"><u>Jan 21</u></td>
 <td rowspan="3"><u>Jan 22</u></td>
-<td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/DaEgO3K7">SEMDS Homework 2 (Due 1/27 11:59 PM)</a></span></li><li><span style="background-color:#b2df8a"><a href="https://www-nature-com.offcampus.lib.washington.edu/articles/nmeth.2613">Nature article: The importance of being uncertain.</a></span></li></ul>
+<td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/DaEgO3K7">SEMDS Homework 2 (Due 1/27 11:59 PM)</a></span></li><li><span style="background-color:#b2df8a"><a href="https://www-nature-com.offcampus.lib.washington.edu/articles/nmeth.2613">Nature article: The importance of being uncertain.</a></span></li><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/RcMYwgQg">DSMCER Homework 2 (Due 2/1 11:59 PM)</a></span></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
@@ -93,7 +93,8 @@ DSMCER background color: #b2df8a-->
 </tr>  
 <tr align="center" valign="top">
 <td ><span style="background-color:#b2df8a">Data visualization, part 1 <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L2_Visualization.pptx"> (slides,</a><a href="https://washington.zoom.us/rec/play/KDyt5698F14bmMm0mjkUQGN_xCwhEg9YU6wx9XxxZbVfmXbyVLEXvLJtaz4jG3goMFQUAbz0PSK22vNR.-QqBIKnYYWl9WuAS"> video, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L2_Visualization.ipynb"> notebook)</a></span></td>
-<td ><span style="background-color:#b2df8a">Descriptive statistics<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L3_Descriptive_Statistics.pdf"> (slides, </a><a href="https://washington.zoom.us/rec/play/ugTTmomeLTDSzbBwDuQP6ywnlEyWmDePTLwGG7zZJanpMT_GBYFGaL9p-Ua0Pv2jwI_--RSi1YNQM_7a.BVWBsXXl_qRG802b">video, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L3_Descriptive_Statistics.ipynb">notebook)</a></span></td>
+<td ><span style="background-color:#b2df8a">Descriptive statistics<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L3_Descriptive_Statistics.pdf"> (slides, </a><a href="https://washington.zoom.us/rec/play/ugTTmomeLTDSzbBwDuQP6ywnlEyWmDePTLwGG7zZJanpMT_GBYFGaL9p-Ua0Pv2jwI_--RSi1YNQM_7a.BVWBsXXl_qRG802b">video, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L3_Descriptive_Statistics.ipynb">notebook)</a>
+</span></td>
 </tr>
 
 
@@ -134,7 +135,7 @@ DSMCER background color: #b2df8a-->
 </tr>
 <!-- this is a new week -->
 <tr valign="top">
-<td rowspan="3"><u>Feb 1</u></td>
+<td rowspan="3"><u>Feb 1</u><br/>DSMCER Homework 2 due</td>
 <td rowspan="1"><u>Feb 2</u></td>
 <td rowspan="3"><u>Feb 3</u></td>
 <td rowspan="1"><u>Feb 4</u></td>
