@@ -111,11 +111,11 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#b2df8a">Distributions & error bars <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L4_Distributions.ipynb">(notebook)</a></span></td>
-<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something, part 2</a></span></td>
+<td >In-class course evaluation survey.<br/><span style="background-color:#b2df8a">Hypothesis testing</span></td>
 </tr>
 <tr align="center" valign="top">
+<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something, part 2</a></span></td>
 <td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something, part 1</a></span></td>
-<td ><span style="background-color:#b2df8a">Hypothesis testing</span></td>
 </tr>
 <!-- end of week -->
 </tbody>
