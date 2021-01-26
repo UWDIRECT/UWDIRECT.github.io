@@ -110,7 +110,7 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#b2df8a">Distributions & error bars</span></td>
+<td ><span style="background-color:#b2df8a">Distributions & error bars <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L4_Distributions.ipynb">(notebook)</a></span></td>
 <td ><span style="background-color:#a6cee3">From nothing to something, part 2</span></td>
 </tr>
 <tr align="center" valign="top">
