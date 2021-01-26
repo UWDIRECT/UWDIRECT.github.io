@@ -110,7 +110,7 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#b2df8a">Distributions & error bars<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L4_Distributions_Error_Bars.pdf">(slides, </a><a href="https://washington.zoom.us/rec/play/l_9Mre4s0YSc5umCNN9SfMP-0ZAxZrb-wrP1fHgOWe6eb3iyUBu9JAIUbjoLwrbPLZbkx_-k0n1RDFQO.Jq8rOE-e769KMGRT">video, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L4_Distributions.ipynb"> notebook)</a></span></td>
+<td ><span style="background-color:#b2df8a">Distributions & error bars<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L4_Distributions_Error_Bars.pdf"> (slides, </a><a href="https://washington.zoom.us/rec/play/l_9Mre4s0YSc5umCNN9SfMP-0ZAxZrb-wrP1fHgOWe6eb3iyUBu9JAIUbjoLwrbPLZbkx_-k0n1RDFQO.Jq8rOE-e769KMGRT">video, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L4_Distributions.ipynb"> notebook)</a></span></td>
 <td >In-class course evaluation survey.<br/><span style="background-color:#b2df8a">Hypothesis testing</span></td>
 </tr>
 <tr align="center" valign="top">
