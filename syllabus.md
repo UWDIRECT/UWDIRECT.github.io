@@ -111,11 +111,11 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#b2df8a">Distributions & error bars<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L4_Distributions_Error_Bars.pdf"> (slides, </a><a href="https://washington.zoom.us/rec/play/l_9Mre4s0YSc5umCNN9SfMP-0ZAxZrb-wrP1fHgOWe6eb3iyUBu9JAIUbjoLwrbPLZbkx_-k0n1RDFQO.Jq8rOE-e769KMGRT">video, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L4_Distributions.ipynb"> notebook)</a></span></td>
-<td >In-class course evaluation survey.<br/><span style="background-color:#b2df8a">Distributions - part 2 <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L4_Distributions.ipynb">(distributions notebook)</a> Hypothesis testing - part 1 </span></td>
+<td >In-class course evaluation survey.<br/><span style="background-color:#b2df8a">Distributions - part 2 <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L4_Distributions.ipynb">(distributions notebook)</a> Hypothesis testing - part 1 <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L5_Hypothesis_testing.ipynb"> (hypothesis testing notebook, <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/puppy_data.zip">data)</a> </span></td>
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something, part 1</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a60cd4e9-0517-4a0b-a10d-acbc01757fc6">(video)</a></span></td>
-<td ><span style="background-color:#a6cee3">Hypothesis testing - part 2 <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something, part 2</a></span></td>
+<td ><span style="background-color:#a6cee3">Hypothesis testing - part 2   <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L5_Hypothesis_testing.ipynb"> (hypothesis testing notebook, <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/puppy_data.zip">data)</a> <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something, part 2</a></span></td>
 </tr>
 <!-- end of week -->
 </tbody>
