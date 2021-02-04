@@ -140,7 +140,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3"><u>Feb 3</u></td>
 <td rowspan="1"><u>Feb 4</u></td>
 <td rowspan="3"><u>Feb 5</u></td>
-<td rowspan="3">
+<td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/bZNJEwMp">SEMDS Homework 3</a></span></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
@@ -173,7 +173,7 @@ DSMCER background color: #b2df8a-->
 <!-- end of week -->
 <!-- this is a new week -->
 <tr valign="top">
-<td rowspan="3"><u>Feb 15</u></td>
+<td rowspan="3"><u>Feb 15</u><br/>SEMDS Homework 3 Due</td>
 <td rowspan="1"><u>Feb 16</u></td>
 <td rowspan="3"><u>Feb 17</u></td>
 <td rowspan="1"><u>Feb 18</u></td>
