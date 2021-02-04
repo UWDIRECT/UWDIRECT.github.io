@@ -145,7 +145,7 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td >Project overview & ideation<br/></td>
-<td >Project verification<br /></td>
+<td ><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi21_content/SEDS/Use_cases.pptx?raw=true">Use cases</a><br/>Project verification<br /></td>
 </tr>
 <tr align="center" valign="top">
 <td >Project pitches & matchmaking<br /></td>
