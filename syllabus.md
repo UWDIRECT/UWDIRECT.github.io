@@ -149,7 +149,7 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td >Project pitches & matchmaking<br /></td>
-<td ><span style="background-color:#a6cee3">Unit testing, part 1</span></td>
+<td ><span style="background-color:#a6cee3"><A href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something, part 2</a></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -163,7 +163,7 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3">Unit testing, part 2</span></td>
+<td ><span style="background-color:#a6cee3">Unit testing</span></td>
 <td ><span style="background-color:#b2df8a">Intro to ML & KNNs</span></td>
 </tr>
 <tr align="center" valign="top">
