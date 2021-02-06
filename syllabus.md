@@ -140,7 +140,8 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3"><u>Feb 3</u></td>
 <td rowspan="1"><u>Feb 4</u></td>
 <td rowspan="3"><u>Feb 5</u></td>
-<td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/bZNJEwMp">SEMDS Homework 3</a></span></li></ul>
+<td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/bZNJEwMp">SEMDS Homework 3</a></span></li>
+<li><a href="https://classroom.github.com/a/GiDQ1jOX">DSMCER Homework 3 (Due 2/12 11:59 PM)</a></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
