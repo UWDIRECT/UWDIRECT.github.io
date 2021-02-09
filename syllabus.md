@@ -178,7 +178,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="1"><u>Feb 16</u></td>
 <td rowspan="3"><u>Feb 17</u></td>
 <td rowspan="1"><u>Feb 18</u></td>
-<td rowspan="3"><u>Feb 19</u></td>
+<td rowspan="3"><u>Feb 19</u><br/>Draft of Use Cases and Component Specification due!</td>
 <td rowspan="3">
 </td>
 </tr>
