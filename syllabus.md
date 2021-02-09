@@ -168,7 +168,7 @@ DSMCER background color: #b2df8a-->
 <td ><span style="background-color:#b2df8a">Intro to ML & KNNs</span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L10.Software_Design.pptx">Software design</a></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L10.Software_Design.pptx">Software design</a><br/><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L10.Communication.pptx">Communicating about code</a></span></td>
 <td ><span style="background-color:#b2df8a">Simple linear regression</span></td>
 </tr>
 <!-- end of week -->
@@ -187,7 +187,7 @@ DSMCER background color: #b2df8a-->
 <td ><span style="background-color:#b2df8a">Bootstrapping & resampling</span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3">Communicating about code</span></td>
+<td ><span style="background-color:#a6cee3">Version control, part 3</span></td>
 <td ><span style="background-color:#a6cee3">Technology reviews</span></td>
 </tr>
 <!-- end of week -->
