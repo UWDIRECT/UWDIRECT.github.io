@@ -164,7 +164,7 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/SEDS/L7.Testing.ipynb">Unit testing</a></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/SEDS/L7.Testing.ipynb">Unit testing</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=03bd2933-6af5-4b76-a21b-acca0141ccd9">(video)</a></span></td>
 <td ><span style="background-color:#b2df8a">Intro to ML & KNNs</span></td>
 </tr>
 <tr align="center" valign="top">
