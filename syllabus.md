@@ -150,7 +150,7 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td >Project pitches & matchmaking<br /></td>
-<td ><span style="background-color:#a6cee3"><A href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something, part 2</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81cebe92-2c9d-44c4-91bb-acc50175e48c">(video1</a><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6aa2c87c-68e7-4028-822f-acc50186cef4">, video2)</a></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something, part 2</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81cebe92-2c9d-44c4-91bb-acc50175e48c">(video1</a><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6aa2c87c-68e7-4028-822f-acc50186cef4">, video2)</a></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -164,8 +164,8 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3">Unit testing</span></td>
-<td ><span style="background-color:#b2df8a">Intro to ML & KNNs</span></td>
+<td ><span style="background-color:#a6cee3">Unit testing<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L6_Intro_to_ML.pdf">(slides, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L6_Intro_to_ML_KNN.ipynb">notebook)</a></span></td>
+<td ><span style="background-color:#b2df8a">Intro to ML & KNNs<a</span></td>
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3">Software design</span></td>
