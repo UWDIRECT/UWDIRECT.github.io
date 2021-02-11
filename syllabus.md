@@ -165,7 +165,7 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/SEDS/L7.Testing.ipynb">Unit testing</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=03bd2933-6af5-4b76-a21b-acca0141ccd9">(video)</a></span></td>
-<td ><span style="background-color:#b2df8a">Intro to ML & KNNs<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L6_Intro_to_ML.pdf">(slides, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L6_Intro_to_ML_KNN.ipynb">notebook)</a></span></td>
+<td ><span style="background-color:#b2df8a">Intro to ML & KNNs<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L6_Intro_to_ML.pdf">(slides, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L6_Intro_ML_KNN.ipynb"> notebook)</a></span></td>
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L10.Software_Design.pptx">Software design</a><br/><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L10.Communication.pptx">Communicating about code</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=049040f0-4ef2-473d-8048-acca01739ed6">(video)</a></span></td>
