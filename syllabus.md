@@ -164,21 +164,26 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
+<<<<<<< HEAD
 <td ><span style="background-color:#a6cee3">Unit testing<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L6_Intro_to_ML.pdf">(slides, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L6_Intro_to_ML_KNN.ipynb">notebook)</a></span></td>
 <td ><span style="background-color:#b2df8a">Intro to ML & KNNs<a</span></td>
+=======
+<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/SEDS/L7.Testing.ipynb">Unit testing</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=03bd2933-6af5-4b76-a21b-acca0141ccd9">(video)</a></span></td>
+<td ><span style="background-color:#b2df8a">Intro to ML & KNNs</span></td>
+>>>>>>> dd6c1717189775dbc93b94107600c395b7a1d8fe
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3">Software design</span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L10.Software_Design.pptx">Software design</a><br/><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L10.Communication.pptx">Communicating about code</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=049040f0-4ef2-473d-8048-acca01739ed6">(video)</a></span></td>
 <td ><span style="background-color:#b2df8a">Simple linear regression</span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
 <tr valign="top">
-<td rowspan="3"><u>Feb 15</u><br/>SEMDS Homework 3 Due</td>
+<td rowspan="3"><u>Feb 15</u><br/><span style="background-color:#a6cee3">SEMDS Homework 3 Due</span></td>
 <td rowspan="1"><u>Feb 16</u></td>
 <td rowspan="3"><u>Feb 17</u></td>
 <td rowspan="1"><u>Feb 18</u></td>
-<td rowspan="3"><u>Feb 19</u></td>
+<td rowspan="3"><u>Feb 19</u><br/><span style="background-color:#a6cee3">Draft of Use Cases and Component Specification due!</span></td>
 <td rowspan="3">
 </td>
 </tr>
@@ -187,7 +192,7 @@ DSMCER background color: #b2df8a-->
 <td ><span style="background-color:#b2df8a">Bootstrapping & resampling</span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3">Communicating about code</span></td>
+<td ><span style="background-color:#a6cee3">Version control, part 3</span></td>
 <td ><span style="background-color:#a6cee3">Technology reviews</span></td>
 </tr>
 <!-- end of week -->
