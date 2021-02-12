@@ -165,11 +165,11 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/SEDS/L7.Testing.ipynb">Unit testing</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=03bd2933-6af5-4b76-a21b-acca0141ccd9">(video)</a></span></td>
-<td ><span style="background-color:#b2df8a">Intro to ML & KNNs <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L6_Intro_to_ML.pdf">(slides, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L6_Intro_ML_KNN.ipynb"> notebook)</a></span></td>
+<td ><span style="background-color:#b2df8a">Intro to ML & KNNs <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L6_Intro_to_ML.pdf">(slides, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L6_Intro_ML_KNN.ipynb"> notebook, </a><a href="https://washington.zoom.us/rec/play/IN7X4cdd8_Vpv70pE9rW-urQG-v8t7cd7SYavh3axbCJgLD7JnxAVXHl2-SBJJ5Kl9PSAD7eRo2Te2I.1-AbfgplGq4PN358">video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L10.Software_Design.pptx">Software design</a><br/><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L10.Communication.pptx">Communicating about code</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=049040f0-4ef2-473d-8048-acca01739ed6">(video)</a></span></td>
-<td ><span style="background-color:#b2df8a">Simple linear regression <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L7_linear_regression.ipynb">(notebook, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/datasets/running_cheetah.csv">data) </a></span></td>
+<td ><span style="background-color:#b2df8a">Simple linear regression <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L7_linear_regression.ipynb">(notebook, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/datasets/running_cheetah.csv">data, </a><a href="https://washington.zoom.us/rec/play/CXVr_li3phKPZZUpXwH_tvcDipx1MkyL_sVoq6ChqutpkQavnumSVDNiUv6Am-wF8CwDXpIZvjK9qOMd.A-vEJ-3sHl5Y83kS">video)</a></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
