@@ -160,7 +160,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3"><u>Feb 10</u></td>
 <td rowspan="1"><u>Feb 11</u></td>
 <td rowspan="3"><u>Feb 12</u></td>
-<td rowspan="3"><ul><li><a href="http://www.statlearning.com/">Introduction to Statistical Learning PDF</a></li><li>Git Merge Docs</li></ul>
+<td rowspan="3"><ul><li><a href="http://www.statlearning.com/">Introduction to Statistical Learning PDF</a></li><li><a href="https://www.atlassian.com/git/tutorials/using-branches/git-merge">Git Merge Docs</a></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
