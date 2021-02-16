@@ -160,7 +160,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3"><u>Feb 10</u></td>
 <td rowspan="1"><u>Feb 11</u></td>
 <td rowspan="3"><u>Feb 12</u></td>
-<td rowspan="3">
+<td rowspan="3"><ul><li><a href="http://www.statlearning.com/">Introduction to Statistical Learning PDF</a></li><li><a href="https://www.atlassian.com/git/tutorials/using-branches/git-merge">Git Merge Docs</a></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
@@ -187,7 +187,7 @@ DSMCER background color: #b2df8a-->
 <td ><span style="background-color:#b2df8a">Bootstrapping & resampling</span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3">Version control, part 3</span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L11.Version_Control_p2.pptx">Version control, part 3</a></span></td>
 <td ><span style="background-color:#a6cee3">Technology reviews</span></td>
 </tr>
 <!-- end of week -->
