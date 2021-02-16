@@ -183,7 +183,7 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#b2df8a">Multiple linear regression<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L8_multiple_linear_regression.pdf">(slides,  </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L8_multiple_linear_regression.ipynb"> notebook)</a></span></td>
+<td ><span style="background-color:#b2df8a">Multiple linear regression<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L8_multiple_linear_regression.pdf"> (slides,  </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L8_multiple_linear_regression.ipynb"> notebook)</a></span></td>
 <td ><span style="background-color:#b2df8a">Bootstrapping & resampling</span></td>
 </tr>
 <tr align="center" valign="top">
