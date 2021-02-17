@@ -187,7 +187,7 @@ DSMCER background color: #b2df8a-->
 <td ><span style="background-color:#b2df8a">Bootstrapping & resampling</span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L11.Version_Control_p2.pptx">Version control, part 3</a></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L11.Version_Control_p2.pptx">Version control, part 3</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6fc34c1d-2f7b-4bc8-9223-acd101747abd">(video)</a></span></td>
 <td ><span style="background-color:#a6cee3">Technology reviews</span></td>
 </tr>
 <!-- end of week -->
