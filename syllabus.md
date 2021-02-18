@@ -184,7 +184,7 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#b2df8a">Multiple linear regression<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L8_multiple_linear_regression.pdf"> (slides,  </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L8_multiple_linear_regression.ipynb"> notebook, </a><a href="https://washington.zoom.us/rec/play/t5BT7mgexoZYxT9t1KZeRuOvE0PKyHCDrth0wMCqo6UzZoZtHOV6tN1jkiHwM_VDELaSTe8Dakpmakz1.C-8QhDstZWRxZRJ0"> video)</a></span></td>
-<td ><span style="background-color:#b2df8a">Bootstrapping & resampling</span></td>
+<td ><span style="background-color:#b2df8a">Bootstrapping & resampling <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L9_Resampling.ipynb">(notebook,</a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/datasets/running_cheetah.csv"> data)</a></span></td>
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L11.Version_Control_p2.pptx">Version control, part 3</a></span></td>
