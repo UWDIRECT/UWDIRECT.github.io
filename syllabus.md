@@ -187,7 +187,7 @@ DSMCER background color: #b2df8a-->
 <td ><span style="background-color:#b2df8a">Bootstrapping & resampling <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L9_Resampling.ipynb">(notebook,</a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/datasets/running_cheetah.csv"> data)</a></span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L11.Version_Control_p2.pptx">Version control, part 3</a></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L11.Version_Control_p2.pptx">Version control, part 3</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6fc34c1d-2f7b-4bc8-9223-acd101747abd">(video)</a></span></td>
 <td ><span style="background-color:#a6cee3">Technology reviews</span></td>
 </tr>
 <!-- end of week -->
@@ -206,7 +206,7 @@ DSMCER background color: #b2df8a-->
 <td ><span style="background-color:#b2df8a">Support Vector Machines</span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3">Version control, part 3</span></td>
+<td ><span style="background-color:#a6cee3"><a href="Wi21_content/SEDS/L8.Style_and_Documentation.pptx">Documentation and Style</a></span></td>
 <td ><span style="background-color:#a6cee3">Virtualization and continuous integration</span></td>
 </tr>
 <!-- end of week -->
