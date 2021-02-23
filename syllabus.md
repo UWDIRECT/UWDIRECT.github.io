@@ -202,7 +202,7 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#b2df8a">Decision Trees & Random Forests</span></td>
+<td ><span style="background-color:#b2df8a">Decision Trees & Random Forests<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L10_Decision_trees.ipynb"> (notebook)</a></span></td>
 <td ><span style="background-color:#b2df8a">Support Vector Machines</span></td>
 </tr>
 <tr align="center" valign="top">
