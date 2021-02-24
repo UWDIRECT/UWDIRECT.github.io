@@ -198,11 +198,11 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3"><u>Feb 24</u></td>
 <td rowspan="1"><u>Feb 25</u></td>
 <td rowspan="3"><u>Feb 26</u></td>
-<td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/frSKktLk">SEMDS Homework 4, the big one</a></span></li></ul>
+<td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/frSKktLk">SEMDS Homework 4, the big one</a></span></li><li><a href="https://google.github.io/styleguide/pyguide.html">Google Python Style Guide</a></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><a href="Wi21_content/SEDS/L8.Style_and_Documentation.pptx">Documentation and Style</a></span></td>
+<td ><span style="background-color:#a6cee3"><a href="Wi21_content/SEDS/L8.Style_and_Documentation.pptx">Documentation and Style</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e6047411-e2f4-4b12-a385-acd80146eb3e">(video)</a></span></td>
 <td ><span style="background-color:#b2df8a">Support Vector Machines</span></td>
 </tr>
 <tr align="center" valign="top">
