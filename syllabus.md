@@ -206,7 +206,7 @@ DSMCER background color: #b2df8a-->
 <td ><span style="background-color:#b2df8a">Support Vector Machines</span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#b2df8a">Decision Trees & Random Forests<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L10_Decision_trees.ipynb"> (notebook)</a></span></td>
+<td ><span style="background-color:#b2df8a">Decision Trees & Random Forests<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L10_Decision_trees.ipynb"> (notebook, </a><a href="https://washington.zoom.us/rec/play/AM-ssqyMJihaIeFQhG_UvmCTtM5t5Y7dd4_uOkFdjDfIFnrkmibG6B4dzVO0_woK_l2xvbEMoBAVMfeW.5JeN8YcoAoE--BTn">video)</a></span></td>
 <td ><span style="background-color:#a6cee3">Virtualization and continuous integration</span></td>
 </tr>
 <!-- end of week -->
