@@ -198,15 +198,15 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3"><u>Feb 24</u></td>
 <td rowspan="1"><u>Feb 25</u></td>
 <td rowspan="3"><u>Feb 26</u></td>
-<td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/frSKktLk">SEMDS Homework 4, the big one</a></span></li><li><a href="https://google.github.io/styleguide/pyguide.html">Google Python Style Guide</a></li></ul>
+<td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/frSKktLk">SEMDS Homework 4, the big one</a></span></li><li><a href="https://classroom.github.com/a/OMchHegb"> DSMCER Homework 4 (Due 3/5 11:59 PM)</a></li><li><a href="https://google.github.io/styleguide/pyguide.html">Google Python Style Guide</a></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3"><a href="Wi21_content/SEDS/L8.Style_and_Documentation.pptx">Documentation and Style</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e6047411-e2f4-4b12-a385-acd80146eb3e">(video)</a></span></td>
-<td ><span style="background-color:#b2df8a">Support Vector Machines</span></td>
+<td ><span style="background-color:#b2df8a">Support Vector Machines <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L11_SVM.ipynb">(notebook, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/sv_utils.py">utils)</a></span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#b2df8a">Decision Trees & Random Forests<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L10_Decision_trees.ipynb"> (notebook)</a></span></td>
+<td ><span style="background-color:#b2df8a">Decision Trees & Random Forests<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L10_Decision_trees.ipynb"> (notebook, </a><a href="https://washington.zoom.us/rec/play/AM-ssqyMJihaIeFQhG_UvmCTtM5t5Y7dd4_uOkFdjDfIFnrkmibG6B4dzVO0_woK_l2xvbEMoBAVMfeW.5JeN8YcoAoE--BTn">video)</a></span></td>
 <td ><span style="background-color:#a6cee3">Virtualization and continuous integration</span></td>
 </tr>
 <!-- end of week -->
@@ -231,7 +231,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="1"><u>Mar 2</u></td>
 <td rowspan="3"><u>Mar 3</u><br/><span style="background-color:#a6cee3">SEMDS Homework 3 Due</span></td>
 <td rowspan="1"><u>Mar 4</u></td>
-<td rowspan="3"><u>Mar 5</u></td>
+<td rowspan="3"><u>Mar 5</u><br/><span style="background-color:#b2df8a">DSMCER Homework 4 Due</span></td>
 <td rowspan="3">
 </td>
 </tr>
