@@ -203,7 +203,7 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3"><a href="Wi21_content/SEDS/L8.Style_and_Documentation.pptx">Documentation and Style</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e6047411-e2f4-4b12-a385-acd80146eb3e">(video)</a></span></td>
-<td ><span style="background-color:#b2df8a">Support Vector Machines</span></td>
+<td ><span style="background-color:#b2df8a">Support Vector Machines <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L11_SVM.ipynb">(notebook, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/sv_utils.py">utils)</a></span></td>
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#b2df8a">Decision Trees & Random Forests<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L10_Decision_trees.ipynb"> (notebook, </a><a href="https://washington.zoom.us/rec/play/AM-ssqyMJihaIeFQhG_UvmCTtM5t5Y7dd4_uOkFdjDfIFnrkmibG6B4dzVO0_woK_l2xvbEMoBAVMfeW.5JeN8YcoAoE--BTn">video)</a></span></td>
