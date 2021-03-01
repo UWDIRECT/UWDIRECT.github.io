@@ -236,7 +236,7 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3">Standups & consultation</span></td>
+<td ><span style="background-color:#a6cee3">Standups, <a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L9.Project_Structure.pdf">project structure</a>, and consultation</span></td>
 <td ><span style="background-color:#b2df8a">Unsupervised learning</span></td>
 </tr>
 <tr align="center" valign="top">
