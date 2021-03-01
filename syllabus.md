@@ -236,12 +236,12 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#b2df8a">Unsupervised methods (clustering)</span></td>
-<td ><span style="background-color:#b2df8a">Neural networks</span></td>
+<td ><span style="background-color:#a6cee3">Standups & consultation</span></td>
+<td ><span style="background-color:#b2df8a">Unsupervised learning</span></td>
 </tr>
 <tr align="center" valign="top">
+<td ><span style="background-color:#b2df8a">Neural networks</span></td>
 <td ><span style="background-color:#b2df8a">Image analytics</span></td>
-<td ><span style="background-color:#a6cee3">Standups & consultation</span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
