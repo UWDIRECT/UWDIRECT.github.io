@@ -240,7 +240,7 @@ DSMCER background color: #b2df8a-->
 <td ><span style="background-color:#b2df8a">Unsupervised learning</span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#b2df8a">Neural networks</span></td>
+<td ><span style="background-color:#b2df8a">Neural networks <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L12_Neural_Networks.pdf">(slides</a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L12_Neural_Networks.ipynb">, notebook)</a></span></td>
 <td ><span style="background-color:#b2df8a">Image analytics</span></td>
 </tr>
 <!-- end of week -->
