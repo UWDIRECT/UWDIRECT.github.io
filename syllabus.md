@@ -255,12 +255,12 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3">Enrichment 1 (Viz with Altair)</span></td>
+<td ><span style="background-color:#b2df8a">Image analysis - Invited Lecturer: Chad Curtis</span></td>
 <td ><span style="background-color:#a6cee3">Enrichment 2 (SQL)</span></td>
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3">Standups & consultation</span></td>
-<td ><span style="background-color:#a6cee3">Standups & consultation</span></td>
+<td ><span style="background-color:#a6cee3">Enrichment 1 (Viz with Altair)</span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
