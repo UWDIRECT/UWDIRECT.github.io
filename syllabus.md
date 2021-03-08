@@ -237,7 +237,7 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3">Standups, <a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L9.Project_Structure.pdf">project structure</a>, and consultation</span></td>
-<td ><span style="background-color:#b2df8a">Neural networks - part 2<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L12_Neural_Networks.ipynb"> (notebook, </a><a href=https://washington.zoom.us/rec/play/pjHcBAdkZzCVXZs_JxbqcNKlFM_Nbbr16eYLX9YpYbfoUsG4bs3Wa0PvlfV0k-NXoYAHHmhJb8pz4ZLi.-hgUGm2IX-QsVDIg>video)</a></span></td>
+<td ><span style="background-color:#b2df8a">Neural networks - part 2<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L12_Neural_Networks.ipynb"> (notebook, </a><a href="https://washington.zoom.us/rec/play/pjHcBAdkZzCVXZs_JxbqcNKlFM_Nbbr16eYLX9YpYbfoUsG4bs3Wa0PvlfV0k-NXoYAHHmhJb8pz4ZLi.-hgUGm2IX-QsVDIg">video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#b2df8a">Neural networks <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L12_Neural_Networks.pdf">(slides</a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L12_Neural_Networks.ipynb">, notebook, </a><a href="https://washington.zoom.us/rec/play/rjr26BTbxYUgRkJ3OLYOg2uUlIBKeJHPHHMb4itc9oiAvKN77dbOt8m61BGV3oIYREefP2BBFKxRwEt2.zvZ837dmf1BFhB37">video)</a></span></td>
