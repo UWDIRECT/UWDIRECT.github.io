@@ -274,8 +274,8 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td >4:30 – 6:20PM<br><b>Final presentations!</b></td>
-<td ></td>
+<td >4:30 – 6:20PM<br><b>Final presentations, part 1!</b></td>
+<td >4:30 – 6:20PM<br><b>Final presentations, part 2!</b></td>
 </tr>
 <!-- end of week -->
 </tbody>
