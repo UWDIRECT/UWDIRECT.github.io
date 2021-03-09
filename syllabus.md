@@ -236,7 +236,7 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3">Standups, <a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L9.Project_Structure.pdf">project structure</a>, and consultation</span></td>
+<td ><span style="background-color:#a6cee3">Standups, <a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L9.Project_Structure.pdf">project structure</a></br><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ede023f2-20b1-4a8d-9a46-acdf014bd3c8">(video)</a>, and consultation</span></td>
 <td ><span style="background-color:#b2df8a">Neural networks - part 2<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L12_Neural_Networks.ipynb"> (notebook, </a><a href="https://washington.zoom.us/rec/play/pjHcBAdkZzCVXZs_JxbqcNKlFM_Nbbr16eYLX9YpYbfoUsG4bs3Wa0PvlfV0k-NXoYAHHmhJb8pz4ZLi.-hgUGm2IX-QsVDIg">video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
