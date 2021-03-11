@@ -255,7 +255,7 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#b2df8a">Image analysis - Invited Lecturer: Chad Curtis</span><br/><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/GuestLecture_Image_Analysis_filled.ipynb"> (notebook, </a><a href="">video)</a></td>
+<td ><span style="background-color:#b2df8a">Image analysis - Invited Lecturer: Chad Curtis</span><br/><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/GuestLecture_Image_Analysis_filled.ipynb"> (notebook, </a><a href="https://washington.zoom.us/rec/play/pOKl6enALnlAa5SY4REXL1UJgW6mS-ozcfKW0E4Fn2xfbh9SkDWADW-iUnslLsdqOthiKa7AwSbz-yXZ.30rSao1IBbls5xTs">video)</a></td>
 <td ><span style="background-color:#a6cee3">Enrichment 1 (Viz with Altair)</span></td>
 </tr>
 <tr align="center" valign="top">
