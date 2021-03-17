@@ -236,7 +236,7 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3">Standups, <a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L9.Project_Structure.pdf">project structure</a></br><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ede023f2-20b1-4a8d-9a46-acdf014bd3c8">(video)</a>, and consultation</span></td>
+<td ><span style="background-color:#a6cee3">Standups, <a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/L9.Project_Structure.pdf">project structure</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ede023f2-20b1-4a8d-9a46-acdf014bd3c8">(video)</a>, and consultation</span></td>
 <td ><span style="background-color:#b2df8a">Neural networks - part 2<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/L12_Neural_Networks.ipynb"> (notebook, </a><a href="https://washington.zoom.us/rec/play/pjHcBAdkZzCVXZs_JxbqcNKlFM_Nbbr16eYLX9YpYbfoUsG4bs3Wa0PvlfV0k-NXoYAHHmhJb8pz4ZLi.-hgUGm2IX-QsVDIg">video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
@@ -256,7 +256,7 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#b2df8a">Image analysis - Invited Lecturer: Chad Curtis</span><br/><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/DSMCER/GuestLecture_Image_Analysis_filled.ipynb"> (notebook, </a><a href="https://washington.zoom.us/rec/play/pOKl6enALnlAa5SY4REXL1UJgW6mS-ozcfKW0E4Fn2xfbh9SkDWADW-iUnslLsdqOthiKa7AwSbz-yXZ.30rSao1IBbls5xTs">video)</a></td>
-<td ><span style="background-color:#a6cee3">Enrichment 1 (Viz with Altair)</span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi21_content/SEDS/L14.Viz_with_Altair.ipynb">Viz with Altair</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00ea7e62-bf08-438f-8011-ace8014217d3">(video)</a></span> </td>
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3">Standups & consultation</span></td>
