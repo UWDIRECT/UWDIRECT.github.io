@@ -267,7 +267,7 @@ DSMCER background color: #b2df8a-->
 <tr valign="top">
 <td rowspan="2"><u>Mar 15</u></td>
 <td rowspan="1"><u>Mar 16</u><br/>4:30 – 6:20PM<br/><b>Final presentations, part 1!</b></td>
-<td rowspan="2"><u>Mar 17</u><br/>4:30 – 6:20PM<br/><b>Final presentations, part 2!</b><br/><span style="color:Tomato;"><b> 11:59 PM <br/> Deadline to push final version of project code on github</b</span></td>
+<td rowspan="2"><u>Mar 17</u><br/>4:30 – 6:20PM<br/><b>Final presentations, part 2!</b><br/><span style="color:#ff6347"> <b> 11:59 PM <br/> Deadline to push final version of project code on github</b></span></td>
 <td rowspan="1"><u>Mar 18</u></td>
 <td rowspan="2"><u>Mar 19</u></td>
 <td rowspan="2">
