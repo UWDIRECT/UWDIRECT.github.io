@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Capstone547
+title: Capstone
 weight: 50
 collection: main
 ---
@@ -18,3 +18,18 @@ Zoom meeting ID numbers can be found on the Canvas course web page, under the Zo
     - Fri
     - 9:30 - 12:20
 
+## Schedule for Spring 2021
+
+|Day|Activity  |
+|--|--|
+|April 2|Team dynamics & sponsor engagement|
+|April 8|Project management & standups|
+|April 16|Standups & consultation|
+|April 23|Standups & consultation|
+|April 30|Standups & consultation|
+|May 7|Standups & consultation|
+|May 14|Standups & consultation|
+|May 21|Standups & consultation|
+|May 28|Standups & consultation|
+|June 4|Standups & consultation|
+|Wed. June 9<br>12:30-2:20| Final presentations!|
