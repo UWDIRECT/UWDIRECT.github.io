@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Capstone547
-weight: 0
+weight: 50
 collection: main
 ---
 
