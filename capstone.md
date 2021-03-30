@@ -22,8 +22,8 @@ Zoom meeting ID numbers can be found on the Canvas course web page, under the Zo
 
 |Day|Activity  |
 |--|--|
-|April 2|Team dynamics & sponsor engagement|
-|April 8|Project management & standups|
+|April 2|a. Intro to Project Management: emphasis on mutual goal and milestone setting with Project Sponsors. b. Guest: Managing Global Projects and Teams at BASF c. Establishing your team's operating norms.|
+|April 8| Intro to Project Management, part 2. & Standups|
 |April 16|Standups & consultation|
 |April 23|Standups & consultation|
 |April 30|Standups & consultation|
