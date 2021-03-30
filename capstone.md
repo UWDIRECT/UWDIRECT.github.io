@@ -27,9 +27,9 @@ Zoom meeting ID numbers can be found on the Canvas course web page, under the Zo
 |April 16|Standups & consultation|
 |April 23|Standups & consultation|
 |April 30|Standups & consultation|
-|May 7|Standups & consultation|
-|May 14|Standups & consultation|
+|May 7|Pitch clinic, part 1|
+|May 14|Pitch clinic, part 2|
 |May 21|Standups & consultation|
 |May 28|Standups & consultation|
 |June 4|Standups & consultation|
-|Wed. June 9<br>12:30-2:20| Final presentations!|
+|Wed. June 9<br>12:30-2:20|Final presentations!|
