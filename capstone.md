@@ -20,16 +20,16 @@ Zoom meeting ID numbers can be found on the Canvas course web page, under the Zo
 
 ## Schedule for Spring 2021
 
-|Day|Activity  |
-|--|--|
-|April 2|a. Intro to Project Management: emphasis on mutual goal and milestone setting with Project Sponsors. b. Guest: Managing Global Projects and Teams at BASF c. Establishing your team's operating norms.|
-|April 8| Intro to Project Management, part 2. & Standups|
-|April 16|Standups & consultation|
-|April 23|Standups & consultation|
-|April 30|Standups & consultation|
-|May 7|Pitch clinic, part 1|
-|May 14|Pitch clinic, part 2|
-|May 21|Standups & consultation|
-|May 28|Standups & consultation|
-|June 4|Standups & consultation|
-|Wed. June 9<br>12:30-2:20|Final presentations!|
+|Day|Activity  |Timeline|
+|--|--|--|
+|April 2|a. Intro to Project Management: emphasis on mutual goal and milestone setting with Project Sponsors. b. Guest: Managing Global Projects and Teams at BASF c. Establishing your team's operating norms.|Meet with your stakeholder / sponsor.  Create repository.  Build use cases and begin design|
+|April 8| Intro to Project Management, part 2. & Standups|Finalize design and assign initial tasks including technology reviews and literature survey.|
+|April 16|Standups & consultation||
+|April 23|Standups & consultation||
+|April 30|Standups & consultation||
+|May 7|Pitch clinic, part 1||
+|May 14|Pitch clinic, part 2||
+|May 21|Standups & consultation||
+|May 28|Standups & consultation||
+|June 4|Standups & consultation|Prepare final presentation materials and finalize repository|
+|Wed. June 9<br>12:30-2:20|Final presentations!|Party!|
