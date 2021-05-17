@@ -29,7 +29,7 @@ Zoom meeting ID numbers can be found on the Canvas course web page, under the Zo
 |April 30|Standups & consultation||
 |May 7|Standups & Pitch clinic, part 1||
 |May 14|Standups & Pitch clinic, part 2||
-|May 21|Standups & consultation||
+|May 21|Standups & Informational interviews and job searches w/ special guests Wes Tatum and Yousef Baioumy||
 |May 28|Standups & Visual Studio Code overview (Microsoft)||
 |June 4|Standups & consultation|Prepare final presentation materials and finalize repository|
 |Wed. June 9<br>12:30-2:20|Final presentations!|Party!|
