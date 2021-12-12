@@ -33,18 +33,18 @@ DSMCER background color: #b2df8a-->
 </tr>
 <!-- this is a new week -->
 <tr valign="top">
-<td rowspan="3"><u>Jan 4</u></td>
-<td rowspan="1"><u>Jan 5</u></td>
-<td rowspan="3"><u>Jan 6</u></td>
-<td rowspan="1"><u>Jan 7</u></td>
-<td rowspan="3"><u>Jan 8</u></td>
+<td rowspan="3"><u>Jan 3</u></td>
+<td rowspan="1"><u>Jan 4</u></td>
+<td rowspan="3"><u>Jan 5</u></td>
+<td rowspan="1"><u>Jan 6</u></td>
+<td rowspan="3"><u>Jan 7</u></td>
 <td rowspan="3">
 <ul>
 <li><span style="background-color:#b2df8a"><a href="https://aiche-onlinelibrary-wiley-com.offcampus.lib.washington.edu/doi/epdf/10.1002/aic.15192">DSMCER assigned reading</a></span></li>
 <li><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi21_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf">bash command line reference</a></span></li>
-<li><span style="background-color:#b2df8a"><a href="https://docs.google.com/document/d/1Ypo5QcCInFlOqm2GknYK4aYfZ1ALCFzcpy3aTa5nzz0/edit?usp=sharing">DSMCER Homework 1 (Due 1/13 11:59 PM)</a> <a href="https://classroom.github.com/a/MZCfve8h">GitHub for DSMCER HW1</a></span></li>
+<li><span style="background-color:#b2df8a"><a href="https://docs.google.com/document/d/1Ypo5QcCInFlOqm2GknYK4aYfZ1ALCFzcpy3aTa5nzz0/edit?usp=sharing">DSMCER Homework 1 (Due 1/12 11:59 PM)</a> <a href="https://classroom.github.com/a/MZCfve8h">GitHub for DSMCER HW1</a></span></li>
 <!-- This is the link for DSMCER HW 1 in our classroom: https://classroom.github.com/a/MZCfve8h -->
-<li><span style="background-color:#a6cee3"><a href="https://docs.google.com/document/d/1rzP02Vm4LKmuprnskMZjI1s7l4HkGzbqb5nHU0WyS0s/edit?usp=sharing">SEMDS Homework 1 (Due 1/20 11:59 PM)</a> <a href="https://classroom.github.com/a/hDUJkLmY">GitHub for SEMDS HW1</a></span></li>
+<li><span style="background-color:#a6cee3"><a href="https://docs.google.com/document/d/1rzP02Vm4LKmuprnskMZjI1s7l4HkGzbqb5nHU0WyS0s/edit?usp=sharing">SEMDS Homework 1 (Due 1/19 11:59 PM)</a> <a href="https://classroom.github.com/a/hDUJkLmY">GitHub for SEMDS HW1</a></span></li>
 <!-- This is the link for SEDS HW 1 in our classroom: https://classroom.github.com/a/hDUJkLmY -->
 </ul>
 </td>
@@ -60,11 +60,11 @@ DSMCER background color: #b2df8a-->
 <!-- end of week -->
 <!-- this is a new week -->
 <tr valign="top">
-<td rowspan="3"><u>Jan 11</u></td>
-<td rowspan="1"><u>Jan 12</u></td>
-<td rowspan="3"><u>Jan 13</u><br/>DSMCER Homework 1 due</td>
-<td rowspan="1"><u>Jan 14</u></td>
-<td rowspan="3"><u>Jan 15</u></td>
+<td rowspan="3"><u>Jan 10</u></td>
+<td rowspan="1"><u>Jan 11</u></td>
+<td rowspan="3"><u>Jan 12</u><br/>DSMCER Homework 1 due</td>
+<td rowspan="1"><u>Jan 13</u></td>
+<td rowspan="3"><u>Jan 14</u></td>
 <td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="http://swcarpentry.github.io/git-novice/">Version Control with Git</a></span></li></ul>
 </td>
 </tr>
@@ -79,12 +79,12 @@ DSMCER background color: #b2df8a-->
 <!-- end of week -->
 <!-- this is a new week -->
 <tr valign="top">
-<td rowspan="3"><u>Jan 18</u></td>
-<td rowspan="1"><u>Jan 19</u></td>
-<td rowspan="3"><u>Jan 20</u><br/>SEDS Homework 1 due</td>
-<td rowspan="1"><u>Jan 21</u></td>
-<td rowspan="3"><u>Jan 22</u></td>
-<td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/DaEgO3K7">SEMDS Homework 2 (Due 1/27 11:59 PM)</a></span></li><li><span style="background-color:#b2df8a"><a href="https://www-nature-com.offcampus.lib.washington.edu/articles/nmeth.2613">Nature article: The importance of being uncertain.</a></span></li><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/RcMYwgQg">DSMCER Homework 2 (Due 2/1 11:59 PM)</a></span></li></ul>
+<td rowspan="3"><u>Jan 17</u></td>
+<td rowspan="1"><u>Jan 18</u></td>
+<td rowspan="3"><u>Jan 19</u><br/>SEDS Homework 1 due</td>
+<td rowspan="1"><u>Jan 20</u></td>
+<td rowspan="3"><u>Jan 21</u></td>
+<td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/DaEgO3K7">SEMDS Homework 2 (Due 1/26 11:59 PM)</a></span></li><li><span style="background-color:#b2df8a"><a href="https://www-nature-com.offcampus.lib.washington.edu/articles/nmeth.2613">Nature article: The importance of being uncertain.</a></span></li><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/RcMYwgQg">DSMCER Homework 2 (Due 1/31 11:59 PM)</a></span></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
@@ -101,11 +101,11 @@ DSMCER background color: #b2df8a-->
 <!-- end of week -->
 <!-- this is a new week -->
 <tr valign="top">
-<td rowspan="3"><u>Jan 25</u></td>
-<td rowspan="1"><u>Jan 26</u></td>
-<td rowspan="3"><u>Jan 27</u><br/>SEDS Homework 2 due</td>
-<td rowspan="1"><u>Jan 28</u></td>
-<td rowspan="3"><u>Jan 29</u></td>
+<td rowspan="3"><u>Jan 24</u></td>
+<td rowspan="1"><u>Jan 25</u></td>
+<td rowspan="3"><u>Jan 26</u><br/>SEDS Homework 2 due</td>
+<td rowspan="1"><u>Jan 27</u></td>
+<td rowspan="3"><u>Jan 28</u></td>
 <td rowspan="3">
 </td>
 </tr>
@@ -135,13 +135,13 @@ DSMCER background color: #b2df8a-->
 </tr>
 <!-- this is a new week -->
 <tr valign="top">
-<td rowspan="3"><u>Feb 1</u><br/>DSMCER Homework 2 due</td>
-<td rowspan="1"><u>Feb 2</u></td>
-<td rowspan="3"><u>Feb 3</u></td>
-<td rowspan="1"><u>Feb 4</u></td>
-<td rowspan="3"><u>Feb 5</u></td>
+<td rowspan="3"><u>Jan 31</u><br/>DSMCER Homework 2 due</td>
+<td rowspan="1"><u>Feb 1</u></td>
+<td rowspan="3"><u>Feb 2</u></td>
+<td rowspan="1"><u>Feb 3</u></td>
+<td rowspan="3"><u>Feb 4</u></td>
 <td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/bZNJEwMp">SEMDS Homework 3</a></span></li>
-<li><a href="https://classroom.github.com/a/GiDQ1jOX">DSMCER Homework 3 (Due 2/12 11:59 PM)</a></li></ul>
+<li><a href="https://classroom.github.com/a/GiDQ1jOX">DSMCER Homework 3 (Due 2/11 11:59 PM)</a></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
@@ -155,11 +155,11 @@ DSMCER background color: #b2df8a-->
 <!-- end of week -->
 <!-- this is a new week -->
 <tr valign="top">
-<td rowspan="3"><u>Feb 8</u></td>
-<td rowspan="1"><u>Feb 9</u></td>
-<td rowspan="3"><u>Feb 10</u></td>
-<td rowspan="1"><u>Feb 11</u></td>
-<td rowspan="3"><u>Feb 12</u></td>
+<td rowspan="3"><u>Feb 7</u></td>
+<td rowspan="1"><u>Feb 8</u></td>
+<td rowspan="3"><u>Feb 9</u></td>
+<td rowspan="1"><u>Feb 10</u></td>
+<td rowspan="3"><u>Feb 11</u></td>
 <td rowspan="3"><ul><li><a href="http://www.statlearning.com/">Introduction to Statistical Learning PDF</a></li><li><a href="https://www.atlassian.com/git/tutorials/using-branches/git-merge">Git Merge Docs</a></li></ul>
 </td>
 </tr>
@@ -174,11 +174,11 @@ DSMCER background color: #b2df8a-->
 <!-- end of week -->
 <!-- this is a new week -->
 <tr valign="top">
-<td rowspan="3"><u>Feb 15</u><br/><span style="background-color:#a6cee3">SEMDS Homework 3 Due</span></td>
-<td rowspan="1"><u>Feb 16</u></td>
-<td rowspan="3"><u>Feb 17</u></td>
-<td rowspan="1"><u>Feb 18</u></td>
-<td rowspan="3"><u>Feb 19</u><br/><span style="background-color:#a6cee3">Draft of Use Cases and Component Specification due!</span></td>
+<td rowspan="3"><u>Feb 14</u><br/><span style="background-color:#a6cee3">SEMDS Homework 3 Due</span></td>
+<td rowspan="1"><u>Feb 15</u></td>
+<td rowspan="3"><u>Feb 16</u></td>
+<td rowspan="1"><u>Feb 17</u></td>
+<td rowspan="3"><u>Feb 18</u><br/><span style="background-color:#a6cee3">Draft of Use Cases and Component Specification due!</span></td>
 <td rowspan="3">
 </td>
 </tr>
@@ -193,12 +193,12 @@ DSMCER background color: #b2df8a-->
 <!-- end of week -->
 <!-- this is a new week -->
 <tr valign="top">
-<td rowspan="3"><u>Feb 22</u></td>
-<td rowspan="1"><u>Feb 23</u></td>
-<td rowspan="3"><u>Feb 24</u></td>
-<td rowspan="1"><u>Feb 25</u></td>
-<td rowspan="3"><u>Feb 26</u></td>
-<td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/frSKktLk">SEMDS Homework 4, the big one</a></span></li><li><a href="https://classroom.github.com/a/OMchHegb"> DSMCER Homework 4 (Due 3/5 11:59 PM)</a></li><li><a href="https://google.github.io/styleguide/pyguide.html">Google Python Style Guide</a></li></ul>
+<td rowspan="3"><u>Feb 21</u></td>
+<td rowspan="1"><u>Feb 22</u></td>
+<td rowspan="3"><u>Feb 23</u></td>
+<td rowspan="1"><u>Feb 24</u></td>
+<td rowspan="3"><u>Feb 25</u></td>
+<td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/frSKktLk">SEMDS Homework 4, the big one</a></span></li><li><a href="https://classroom.github.com/a/OMchHegb"> DSMCER Homework 4 (Due 3/4 11:59 PM)</a></li><li><a href="https://google.github.io/styleguide/pyguide.html">Google Python Style Guide</a></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
@@ -227,11 +227,11 @@ DSMCER background color: #b2df8a-->
 </tr>
 <!-- this is a new week -->
 <tr valign="top">
-<td rowspan="3"><u>Mar 1</u></td>
-<td rowspan="1"><u>Mar 2</u></td>
-<td rowspan="3"><u>Mar 3</u><br/><span style="background-color:#a6cee3">SEMDS Homework 4 Due</span></td>
-<td rowspan="1"><u>Mar 4</u></td>
-<td rowspan="3"><u>Mar 5</u><br/><span style="background-color:#b2df8a">DSMCER Homework 4 Due</span></td>
+<td rowspan="3"><u>Feb 28</u></td>
+<td rowspan="1"><u>Mar 1</u></td>
+<td rowspan="3"><u>Mar 2</u><br/><span style="background-color:#a6cee3">SEMDS Homework 4 Due</span></td>
+<td rowspan="1"><u>Mar 3</u></td>
+<td rowspan="3"><u>Mar 4</u><br/><span style="background-color:#b2df8a">DSMCER Homework 4 Due</span></td>
 <td rowspan="3">
 </td>
 </tr>
@@ -246,11 +246,11 @@ DSMCER background color: #b2df8a-->
 <!-- end of week -->
 <!-- this is a new week -->
 <tr valign="top">
-<td rowspan="3"><u>Mar 8</u></td>
-<td rowspan="1"><u>Mar 9</u></td>
-<td rowspan="3"><u>Mar 10</u></td>
-<td rowspan="1"><u>Mar 11</u></td>
-<td rowspan="3"><u>Mar 12</u></td>
+<td rowspan="3"><u>Mar 7</u></td>
+<td rowspan="1"><u>Mar 8</u></td>
+<td rowspan="3"><u>Mar 9</u></td>
+<td rowspan="1"><u>Mar 10</u></td>
+<td rowspan="3"><u>Mar 11</u></td>
 <td rowspan="3">
 </td>
 </tr>
@@ -265,11 +265,11 @@ DSMCER background color: #b2df8a-->
 <!-- end of week -->
 <!-- this is a new week -->
 <tr valign="top">
-<td rowspan="2"><u>Mar 15</u></td>
-<td rowspan="1"><u>Mar 16</u><br/>4:30 – 6:20PM<br/><b>Final presentations, part 1!</b></td>
-<td rowspan="2"><u>Mar 17</u><br/>4:30 – 6:20PM<br/><b>Final presentations, part 2!</b><br/><span style="color:#ff6347"> <b> 11:59 PM <br/> Deadline to push final version of project code on github</b></span></td>
-<td rowspan="1"><u>Mar 18</u></td>
-<td rowspan="2"><u>Mar 19</u></td>
+<td rowspan="2"><u>Mar 14</u></td>
+<td rowspan="1"><u>Mar 15</u><br/>4:30 – 6:20PM<br/><b>Final presentations, part 1!</b></td>
+<td rowspan="2"><u>Mar 16</u><br/>4:30 – 6:20PM<br/><b>Final presentations, part 2!</b><br/><span style="color:#ff6347"> <b> 11:59 PM <br/> Deadline to push final version of project code on github</b></span></td>
+<td rowspan="1"><u>Mar 17</u></td>
+<td rowspan="2"><u>Mar 18</u></td>
 <td rowspan="2">
 </td>
 </tr>
