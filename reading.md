@@ -26,8 +26,5 @@ In addition to the resources below, the course also has a wiki and question / an
 ## Editors
 * Setting up different editorr <a href="http://swcarpentry.github.io/git-novice/02-setup/"> link </a>
 
-## Datasets
-* HCEPDB Dataset <a href="http://faculty.washington.edu/dacb/HCEPDB_moldata.zip"> link </a>
-
 ## Other sources...
 * Machine learning in materials science: recent progress and emerging applications <a href="https://ws680.nist.gov/publication/get_pdf.cfm?pub_id=915933"> link </a>

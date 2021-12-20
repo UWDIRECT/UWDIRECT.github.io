@@ -18,7 +18,7 @@ Use your operating system's program search (MacOS: spotlight search, Cmd-Space. 
 
 You should get a window with a command prompt. Command prompt might have different words / characters, followed by a `$` and cursor for text input. Late 2018 and newer MacOS computers default to `zsh` instead of `bash`. This difference will briefly be covered in class, but you can run `bash` [+ Enter] in the terminal if you choose to use that instead.
 
-### Windows 10 (Windows Linux Subsystem)
+### Windows 10/11 (Windows Subsystem for Linux)
 
 All Windows users should note that the Windows command lines, cmd and PowerShell, differ greatly from the ``bash`` or ``zsh`` command prompt that software developers commonly use. From here on out, we will use "terminal" to refer to the Unix-style unless clearly and explicitly stated otherwise.
 
@@ -28,7 +28,7 @@ We suggest following these instructions for [installing a WSL distribution](http
 
 Some tips:
 * Windows Subsystem for Linux 2 (WSL2) is preferred.  WSL2 has better performance and is what the instructor's use.
-* We highly suggest using the Ubuntu 18.04 distribution. Ubuntu is one of the more beginner-friendly Linux distros and the instructor is also able to record screen captures for this setup.
+* We highly suggest using the Ubuntu 20.04 distribution. Ubuntu is one of the more beginner-friendly Linux distros and the instructor is also able to record screen captures for this setup.
 * We suggest setting your Linux distribution username and password to match your Windows ones. This will reduce confusion!
 
 ### Older versions of Windows (deprecated!):
@@ -44,7 +44,7 @@ The instructors and TAs will have a hard time supporting you if you use this sof
 
 ## 2. Ensure that Git is installed.
 
-Type `git --version` into the terminal. If the terminal prints out any version number, you are successful. For example, my Macbook Pro returns `git version 2.24.1 (Apple Git-126)` and my Windows 10 WSL system returns `s`.
+Type `git --version` into the terminal. If the terminal prints out any version number, you are successful. For example, my Macbook Pro returns `git version 2.24.1 (Apple Git-126)` and my Windows 10/11 WSL system returns `s`.
 
 ### Mac OS Note: Some students reported an error with ``git``:
 ```
@@ -69,7 +69,7 @@ We recommend that you use the most recent version of Python 3.  Earlier versions
 
 Anaconda is a system for installing and otherwise managing Python and other software packages. Anaconda installs  See [http://conda.pydata.org/miniconda.html](http://conda.pydata.org/miniconda.html) for instructions for downloading and installing miniconda for your OS, selecting the Python 3 series installer.
 
-**Windows Subsystem for Linux** If you are using Windows 10 and WSL2, you should open the Ubuntu shell and follow the instructions on the miniconda website for Linux, not Windows.  If you install the Windows version of miniconda you will find your Windows 10 version of miniconda does not work under WSL2.  There is a way to fix this, but it is probably easier to just follow these instructions.
+**Windows Subsystem for Linux** If you are using Windows 10/11 and WSL2, you should open the Ubuntu shell and follow the instructions on the miniconda website for Linux, not Windows.  If you install the Windows version of miniconda you will find your Windows 10/11 version of miniconda does not work under WSL2.  There is a way to fix this, but it is probably easier to just follow these instructions.
 
 Below are detailed instructions **after** you have installed Miniconda (or the full Anaconda):
 1. Update conda's listing of packages for your system: $``conda update conda``
