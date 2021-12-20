@@ -15,7 +15,7 @@ collection: main
 - Evam Alan Komp (evankomp@uw.edu)
 - Nisarg Joshi (nisargj@uw.edu)
 
-## Logistics for 2021
+## Logistics for 2022
 
 Room: [OUG 136](https://www.washington.edu/classroom/OUG+136)<br>**NOTE**: You need a valid Husky Card to enter Odegaard Undergraduate Library.
 
