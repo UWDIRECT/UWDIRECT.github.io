@@ -12,16 +12,16 @@ collection: main
 
 ## Teaching Assistants
 
-- Sabiha Rustam (sabiha3@uw.edu)
+- Evam Alan Komp (evankomp@uw.edu)
 - Nisarg Joshi (nisargj@uw.edu)
 
 ## Logistics for 2021
 
-Zoom meeting ID numbers can be found on the Canvas course webpages, under the Zoom tab
+Room: [OUG 136](https://www.washington.edu/classroom/OUG+136)<br>**NOTE**: You need a valid Husky Card to enter Odegaard Undergraduate Library.
 
 - Data Science Methods for Clean Energy Research (DSMCER, ChemE 545)<br>Also known as Molecular Data Science Survey
     - Tue & Thr
-    - 11:30 - 12:50
+    - 12:30 - 1:50
 
 - Software Engineering for Molecular Data Scientists (SEMDS, ChemE 546)
     - Tue & Thr
