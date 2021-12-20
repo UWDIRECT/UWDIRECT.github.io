@@ -21,7 +21,7 @@ Room: [OUG 136](https://www.washington.edu/classroom/OUG+136)<br>**NOTE**: You n
 
 - Data Science Methods for Clean Energy Research (DSMCER, ChemE 545)<br>Also known as Molecular Data Science Survey
     - Tue & Thr
-    - 12:30 - 1:50
+    - 11:30 - 12:50
 
 - Software Engineering for Molecular Data Scientists (SEMDS, ChemE 546)
     - Tue & Thr

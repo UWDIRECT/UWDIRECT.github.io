@@ -14,7 +14,7 @@ collection: main
 
 ### Teaching Assistants
 
-- Sabiha Rustam (sabiha3@uw.edu)
+- Evan Alan Komp (evankomp@uw.edu)
 - Nisarg Joshi (nisargj@uw.edu)
 
 
@@ -23,5 +23,5 @@ collection: main
 The instructional team will provide the following weekly office hours, held at on Zoom.
 
 Zoom links (see Canvas course pages for Zoom meeting ID numbers):
-* Monday at 1:00 to 2:00 PM
-* Wednesday at 1:00 to 2:00 PM
+* Monday at 1:00 to 2:00 PM (Evan)
+* Wednesday at 1:00 to 2:00 PM (Nisarg)
