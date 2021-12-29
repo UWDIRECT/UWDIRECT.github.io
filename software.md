@@ -20,7 +20,7 @@ You should get a window with a command prompt. Command prompt might have differe
 
 ### Windows 10/11 (Windows Subsystem for Linux)
 
-All Windows users should note that the Windows command lines, cmd and PowerShell, differ greatly from the ``bash`` or ``zsh`` command prompt that software developers commonly use. From here on out, we will use "terminal" to refer to the Unix-style unless clearly and explicitly stated otherwise.
+All Windows users should note that the Windows command lines: cmd and PowerShell, differ greatly from the ``bash`` or ``zsh`` command prompt that software developers commonly use. From here on out, we will use "terminal" to refer to the Unix-style (``bash``) unless clearly and explicitly stated otherwise.
 
 Note: Windows Linux Subsystem (WSL2) is preferred over older Git Bash solution below. It's faster, more similar to what you'll see in class and has a more complete set of Unix programs.
 
