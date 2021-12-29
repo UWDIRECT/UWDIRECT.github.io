@@ -17,6 +17,10 @@ collection: main
 
 ## Logistics for 2022
 
+### Important note for the first week of class (Jan. 4 & 6)
+UW has declared that the first week of classes in Winter 2022 will be online.  The Zoom information was sent to you in an email and posted as an announcement in Canvas.  You will be required to log into your UW NetID to join the Zoom.
+
+### Upon return to the classroom
 Room: [OUG 136](https://www.washington.edu/classroom/OUG+136)<br>**NOTE**: You need a valid Husky Card to enter Odegaard Undergraduate Library.
 
 - Data Science Methods for Clean Energy Research (DSMCER, ChemE 545)<br>Also known as Molecular Data Science Survey
