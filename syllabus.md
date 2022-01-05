@@ -49,7 +49,7 @@ DSMCER background color: #b2df8a-->
 <td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line, part 2</a><br /><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=707ff4ca-0154-4c24-aef7-aca901417d01">(video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><A href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line, part 1</a><br /><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d087e347-79c8-4ffa-972c-aca701739059">(video)</a></span></td>
+<td ><span style="background-color:#a6cee3"><A href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line, part 1</a><br /><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6c1785eb-300e-42e9-879b-ae130176c013">(video)</a></span></td>
 <td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L2.Simple_Breakout.ipynb">Intro to Python &amp; Notebooks</a><br /><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9308dd7f-a852-435d-9acb-aca90172c808">(video)</a></span></td>
 </tr>
 <!-- end of week -->
