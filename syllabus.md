@@ -64,11 +64,11 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/L3.Version_Control.pptx?raw=true">Version control, part 1</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=68c14994-f96e-40bd-b818-acae0141dcdc">(video)</a></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/L3.Version_Control.pptx?raw=true">Version control, part 1</a><br/><a href="https://washington.zoom.us/rec/play/AIArBWqwb_x44iAVphhGjzXhL70229grOz48dwXWz2NbMzg4Fk6XyX6GpN91uSytwP4KjEN6qu9l-d2V.FU02__a1yiNzIYDM">(video)</a></span></td>
 <td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L5.Procedural_Python.ipynb">Procedural Python</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8ceac5c4-76d3-42df-8eaa-acb00141e729">(video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/L3.Version_Control.pptx?raw=true">Version control, part 2</a><br/><b>Submitting homework in class!</b><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a7074a7c-1270-44bb-b019-acae01731dbe">(video)</a></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/L3.Version_Control.pptx?raw=true">Version control, part 2</a><br/><b>Submitting homework in class!</b><br/><a href="https://washington.zoom.us/rec/play/Sxb-8vFaOMApI2r6taviL3oG72WQLLm80rI6ZDiwA25qvi4SGimpMj2PGtUllD1LJVJ-1nGgvcGgBR0S.iBo5zTSkeMnbqgDj">(video)</a></span></td>
 <td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L5.Procedural_Python.ipynb">Procedural Python</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=326001db-160e-4129-bee4-acb001732df7">(video)</a></span></td>
 </tr>
 <!-- end of week -->
