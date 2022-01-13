@@ -65,7 +65,7 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/L3.Version_Control.pptx?raw=true">Version control, part 1</a><br/><a href="https://washington.zoom.us/rec/play/AIArBWqwb_x44iAVphhGjzXhL70229grOz48dwXWz2NbMzg4Fk6XyX6GpN91uSytwP4KjEN6qu9l-d2V.FU02__a1yiNzIYDM">(video)</a></span></td>
-<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L5.Procedural_Python.ipynb">Procedural Python</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8ceac5c4-76d3-42df-8eaa-acb00141e729">(video)</a></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L5.Procedural_Python.ipynb">Procedural Python</a><br/><a href="https://washington.zoom.us/rec/play/IsYEXWaJVX4_Vs5dbEfeMQgNGXwbm4qcIVN1k25c9wNo3924EyQmrGzlZPuAaRl_k__cxQHajAd0qird.M8dA3CgdDCQGsoqE">(video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/L3.Version_Control.pptx?raw=true">Version control, part 2</a><br/><b>Submitting homework in class!</b><br/><a href="https://washington.zoom.us/rec/play/Sxb-8vFaOMApI2r6taviL3oG72WQLLm80rI6ZDiwA25qvi4SGimpMj2PGtUllD1LJVJ-1nGgvcGgBR0S.iBo5zTSkeMnbqgDj">(video)</a></span></td>
