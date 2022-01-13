@@ -46,10 +46,10 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/DSMCER/L1_Intro_to_Data_Science.pdf?raw=true">Course Overview</a><br/><i>Software checkup</i><br/></td>
-<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line, part 2</a><br /><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=707ff4ca-0154-4c24-aef7-aca901417d01">(video)</a></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line, part 2</a><br /><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b3ee6da2-a51c-4d97-9cc9-ae15014431da">(video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><A href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line, part 1</a><br /><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b3ee6da2-a51c-4d97-9cc9-ae15014431da">(video)</a></span></td>
+<td ><span style="background-color:#a6cee3"><A href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line, part 1</a><br /><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=707ff4ca-0154-4c24-aef7-aca901417d01">(video)</a></span></td>
 <td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L2.Simple_Breakout.ipynb">Intro to Python &amp; Notebooks</a><br /><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ac3e34e8-2248-4504-ab4f-ae1501733f99">(video)</a></span></td>
 </tr>
 <!-- end of week -->
