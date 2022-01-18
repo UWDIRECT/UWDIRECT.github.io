@@ -83,7 +83,7 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L4.Python.ipynb">Python & Pandas</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=92416f7b-4fc7-471a-bbc3-acb50142356e">(video)</a></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L4.Python.ipynb">Python & Pandas</a><br/><a href="https://washington.zoom.us/rec/play/tzqpeQceiqUEjfiM3anTL4mb2r-Q5MouRL1reZ_1DSSU2DDY6z4QiwDGckslnjoxES10xrKy9y4k5SFX.9JXfGoMfc5hO0tIX">(video)</a></span></td>
 <td ><span style="background-color:#b2df8a">Data visualization, part 2 <a href="https://washington.zoom.us/rec/play/2ep0HPg8lPLB4rKgX4A5ynv58jnuE7ny5FdjTfVHVkTG4zuAQz-7lkSmW0pFLA11pu16AekY3Eui8Cji.oelc6uh0Lw729aVf">(video, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L2_Visualization_updated.ipynb">notebook, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/datasets/2015.csv">dataset1, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/datasets/2017.csv">dataset2)</a></span></td>
 </tr>  
 <tr align="center" valign="top">
