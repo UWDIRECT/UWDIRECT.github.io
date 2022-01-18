@@ -35,7 +35,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3"><u>Jan 7</u></td>
 <td rowspan="3">
 <ul>
-<li><span style="background-color:#b2df8a"><a href="https://aiche-onlinelibrary-wiley-com.offcampus.lib.washington.edu/doi/epdf/10.1002/aic.15192">DSMCER assigned reading</a></span></li>
+<li><span style="background-color:#b2df8a"><a href="https://aiche-onlinelibrary-wiley-com.offcampus.lib.washington.edu/doi/10.1002/aic.15192">DSMCER assigned reading</a></span></li>
 <li><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf">bash command line reference</a></span></li>
 <li><span style="background-color:#b2df8a"><a href="https://docs.google.com/document/d/1Ypo5QcCInFlOqm2GknYK4aYfZ1ALCFzcpy3aTa5nzz0/edit?usp=sharing">DSMCER Homework 1 (Due 1/12 11:59 PM)</a> <a href="https://classroom.github.com/a/MZCfve8h">GitHub for DSMCER HW1</a></span></li>
 <!-- This is the link for DSMCER HW 1 in our classroom: https://classroom.github.com/a/MZCfve8h -->
@@ -46,11 +46,11 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/DSMCER/L1_Intro_to_Data_Science.pdf?raw=true">Course Overview</a><br/><i>Software checkup</i><br/></td>
-<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line, part 2</a><br /><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=707ff4ca-0154-4c24-aef7-aca901417d01">(video)</a></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line, part 2</a><br /><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b3ee6da2-a51c-4d97-9cc9-ae15014431da">(video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><A href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line, part 1</a><br /><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d087e347-79c8-4ffa-972c-aca701739059">(video)</a></span></td>
-<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L2.Simple_Breakout.ipynb">Intro to Python &amp; Notebooks</a><br /><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9308dd7f-a852-435d-9acb-aca90172c808">(video)</a></span></td>
+<td ><span style="background-color:#a6cee3"><A href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line, part 1</a><br /><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=707ff4ca-0154-4c24-aef7-aca901417d01">(video)</a></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L2.Simple_Breakout.ipynb">Intro to Python &amp; Notebooks</a><br /><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ac3e34e8-2248-4504-ab4f-ae1501733f99">(video)</a></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -64,21 +64,21 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/L3.Version_Control.pptx?raw=true">Version control, part 1</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=68c14994-f96e-40bd-b818-acae0141dcdc">(video)</a></span></td>
-<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L5.Procedural_Python.ipynb">Procedural Python</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8ceac5c4-76d3-42df-8eaa-acb00141e729">(video)</a></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/L3.Version_Control.pptx?raw=true">Version control, part 1</a><br/><a href="https://washington.zoom.us/rec/play/AIArBWqwb_x44iAVphhGjzXhL70229grOz48dwXWz2NbMzg4Fk6XyX6GpN91uSytwP4KjEN6qu9l-d2V.FU02__a1yiNzIYDM">(video)</a></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L5.Procedural_Python.ipynb">Procedural Python</a><br/><a href="https://washington.zoom.us/rec/play/IsYEXWaJVX4_Vs5dbEfeMQgNGXwbm4qcIVN1k25c9wNo3924EyQmrGzlZPuAaRl_k__cxQHajAd0qird.M8dA3CgdDCQGsoqE">(video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/L3.Version_Control.pptx?raw=true">Version control, part 2</a><br/><b>Submitting homework in class!</b><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a7074a7c-1270-44bb-b019-acae01731dbe">(video)</a></span></td>
-<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L5.Procedural_Python.ipynb">Procedural Python</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=326001db-160e-4129-bee4-acb001732df7">(video)</a></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/L3.Version_Control.pptx?raw=true">Version control, part 2</a><br/><b>Submitting homework in class!</b><br/><a href="https://washington.zoom.us/rec/play/Sxb-8vFaOMApI2r6taviL3oG72WQLLm80rI6ZDiwA25qvi4SGimpMj2PGtUllD1LJVJ-1nGgvcGgBR0S.iBo5zTSkeMnbqgDj">(video)</a></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L5.Procedural_Python.ipynb">Procedural Python</a><br/><a href="https://washington.zoom.us/rec/play/eFNamhPrgy3YGCInr1WITY1Bf4tTthlDAAshWcPb57nPo36imP5omOuqfIpZLGtCWBSNKFx31tlR2MAn.oJoa1IgCtMdP1zZV">(video)</a></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
 <tr valign="top">
 <td rowspan="3"><u>Jan 17</u></td>
 <td rowspan="1"><u>Jan 18</u></td>
-<td rowspan="3"><u>Jan 19</u><br/>SEDS Homework 1 due</td>
+<td rowspan="3"><u>Jan 19</u></td>
 <td rowspan="1"><u>Jan 20</u></td>
-<td rowspan="3"><u>Jan 21</u></td>
+<td rowspan="3"><u>Jan 21</u><br/>SEDS Homework 1 due</td>
 <td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/DaEgO3K7">SEMDS Homework 2 (Due 1/26 11:59 PM)</a></span></li><li><span style="background-color:#b2df8a"><a href="https://www-nature-com.offcampus.lib.washington.edu/articles/nmeth.2613">Nature article: The importance of being uncertain.</a></span></li><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/RcMYwgQg">DSMCER Homework 2 (Due 1/31 11:59 PM)</a></span></li></ul>
 </td>
 </tr>
