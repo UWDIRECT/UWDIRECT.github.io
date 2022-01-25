@@ -106,11 +106,15 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#b2df8a">Distributions & error bars<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L4_Distributions_Error_Bars.pdf"> (slides, </a><a href="https://washington.zoom.us/rec/play/l_9Mre4s0YSc5umCNN9SfMP-0ZAxZrb-wrP1fHgOWe6eb3iyUBu9JAIUbjoLwrbPLZbkx_-k0n1RDFQO.Jq8rOE-e769KMGRT">video, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L4_Distributions.ipynb"> notebook)</a></span></td>
-<td >In-class course evaluation survey.<br/><span style="background-color:#b2df8a">Distributions - part 2 <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L4_Distributions.ipynb">(notebook, </a><a href="https://washington.zoom.us/rec/play/SpmA0OxQCu80MarspSug4pM46N1rdetX7BnBRUYI2zqFV9rdcRLwo2POER1xErFyYJz3R-yV2kiVyhaM.MkEA5O3wGMjR54Yf">video)</a><br/>Hypothesis testing - part 1 <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L5_Hypothesis_testing.pdf">(slides</a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L5_Hypothesis_testing.ipynb">, notebook, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/datasets/puppy_data.zip">data)</a> </span></td>
+<td ><br/><span style="background-color:#b2df8a">Distributions - part 2 <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L4_Distributions.ipynb">(notebook, </a><a href="https://washington.zoom.us/rec/play/SpmA0OxQCu80MarspSug4pM46N1rdetX7BnBRUYI2zqFV9rdcRLwo2POER1xErFyYJz3R-yV2kiVyhaM.MkEA5O3wGMjR54Yf">video)</a><br/>Hypothesis testing - part 1 <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L5_Hypothesis_testing.pdf">(slides</a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L5_Hypothesis_testing.ipynb">, notebook, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/datasets/puppy_data.zip">data)</a> </span></td>
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something, part 1</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a60cd4e9-0517-4a0b-a10d-acbc01757fc6">(video)</a></span></td>
+<<<<<<< HEAD
 <td ><span style="background-color:#b2df8a">Hypothesis testing - part 2 <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L5_Hypothesis_testing.ipynb"> (notebook, </a><a href="https://washington.zoom.us/rec/play/uyM2AB1GkKoy4ptj6ZLh-Cv6AlKCql7s8kFO1lXT45_E8cp_7uVT9WosfRRU5jgaoDJiHxsAnLMniBSD.EADBaXX7cKMTOryY"> video, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/datasets/puppy_data.zip">data)</a><br/><span style="background-color:#a6cee3"> <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something, part 2</a></span></td>
+=======
+<td ><span style="background-color:#a6cee3">Hypothesis testing - part 2 <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L5_Hypothesis_testing.ipynb"> (notebook, </a><a href="https://washington.zoom.us/rec/play/uyM2AB1GkKoy4ptj6ZLh-Cv6AlKCql7s8kFO1lXT45_E8cp_7uVT9WosfRRU5jgaoDJiHxsAnLMniBSD.EADBaXX7cKMTOryY"> video, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/datasets/puppy_data.zip">data)</a></span><br/><span stype="background-color:#b2df8a"> <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something, part 2</a></span></td>
+>>>>>>> 4f566bd7125eaba091ef22f3096bddb3be288716
 </tr>
 <!-- end of week -->
 </tbody>
@@ -141,7 +145,7 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td >Project overview & ideation<br/></td>
-<td ><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/Use_cases.pptx?raw=true">Use cases</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9553db67-53cd-47b7-8d7d-acc501431f52">(video)</a><br/>Project verification<br /></td>
+<td ><span style="background-color:#b2df8a"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/Use_cases.pptx?raw=true">Use cases</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9553db67-53cd-47b7-8d7d-acc501431f52">(video)</a></span><br/>Project verification<br /></td>
 </tr>
 <tr align="center" valign="top">
 <td >Project pitches & matchmaking<br /></td>
