@@ -159,7 +159,7 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/debugging_exceptions_testing/Debugging.ipynb">Debugging</a><br/><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/debugging_exceptions_testing/Exceptions.ipynb">Exceptions</a><br/><a href="">(video)</a></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/debugging_exceptions_testing/Debugging.ipynb">Debugging</a><br/><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/debugging_exceptions_testing/Exceptions.ipynb">Exceptions</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a40d7fec-aa98-4337-a352-ae3601426587">(video)</a></span></td>
 <td ><span style="background-color:#b2df8a">Intro to ML & KNNs <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L6_Intro_to_ML.pdf">(slides, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L6_Intro_ML_KNN.ipynb"> notebook, </a><a href="https://washington.zoom.us/rec/play/IN7X4cdd8_Vpv70pE9rW-urQG-v8t7cd7SYavh3axbCJgLD7JnxAVXHl2-SBJJ5Kl9PSAD7eRo2Te2I.1-AbfgplGq4PN358">video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
