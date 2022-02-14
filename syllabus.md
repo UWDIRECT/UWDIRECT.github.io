@@ -164,7 +164,7 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/debugging_exceptions_testing/Unit-tests.ipynb">Unit tests & TEST DRIVEN DEVELOPMENT</a><br/><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/L10.Communication.pptx">Communicating about code</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=850c0a8e-8440-423f-8d5a-ae360173b7d5">(video)</a></span></td>
-<td ><span style="background-color:#b2df8a">Simple linear regression <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L7_linear_regression.ipynb">(notebook, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/datasets/running_cheetah.csv">data, </a><a href="https://washington.zoom.us/rec/play/CXVr_li3phKPZZUpXwH_tvcDipx1MkyL_sVoq6ChqutpkQavnumSVDNiUv6Am-wF8CwDXpIZvjK9qOMd.A-vEJ-3sHl5Y83kS">video)</a></span></td>
+<td ><span style="background-color:#b2df8a">Simple linear regression <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L7_linear_regression.ipynb">(notebook, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/datasets/running_cheetah.csv">data, </a><a href="https://washington.zoom.us/rec/play/gyIqTGjs0iP3B2hwAJXFUNXv3uk5WdwYJRWXO8tc82ESAUP_Sjy8p7A48jcLwjMZBR2Tj0jQ9sHm0mA1.OkAD3x7saUm8Hwnl">video)</a></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
