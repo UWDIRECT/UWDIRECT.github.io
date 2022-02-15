@@ -163,7 +163,7 @@ DSMCER background color: #b2df8a-->
 <td ><span style="background-color:#b2df8a">Intro to ML & KNNs <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L6_Intro_to_ML.pdf">(slides, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L6_Intro_ML_KNN.ipynb"> notebook, </a><a href="https://washington.zoom.us/rec/play/_uuAhQHJ66MLLM3JW_7GXsRzziBV8Rnjo7cvB970c8z5ZjZEGL6MdKpYNwaRe4WDIKQhPYfADQ2S2AHc._KkoZC1pqeXhF1Tk?autoplay=true&startTime=1644521467000">video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/debugging_exceptions_testing/Unit-tests.ipynb">Unit tests & TEST DRIVEN DEVELOPMENT</a><br/><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/L10.Communication.pptx">Communicating about code</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=850c0a8e-8440-423f-8d5a-ae360173b7d5">(video)</a></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/debugging_exceptions_testing/Unit-tests.ipynb">Unit tests & TEST DRIVEN DEVELOPMENT</a><br/></span></td>
 <td ><span style="background-color:#b2df8a">Simple linear regression <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L7_linear_regression.ipynb">(notebook, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/datasets/running_cheetah.csv">data, </a><a href="https://washington.zoom.us/rec/play/gyIqTGjs0iP3B2hwAJXFUNXv3uk5WdwYJRWXO8tc82ESAUP_Sjy8p7A48jcLwjMZBR2Tj0jQ9sHm0mA1.OkAD3x7saUm8Hwnl">video)</a></span></td>
 </tr>
 <!-- end of week -->
@@ -182,8 +182,8 @@ DSMCER background color: #b2df8a-->
 <td ><span style="background-color:#b2df8a">Bootstrapping & resampling <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L9_Resampling.ipynb">(notebook,</a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/datasets/running_cheetah.csv"> data, </a><a href="https://washington.zoom.us/rec/play/rqoDUBBXhT8Z8qIQTP0C36CROHiJLipTlRzNyoXt8ZfnyUjR38EjsWfCkY0y3Nm_UTBPzzxNkjr0eW24.fDgWXehlN6pTSseT">video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/L11.Version_Control_p2.pptx">Version control, part 3</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6fc34c1d-2f7b-4bc8-9223-acd101747abd">(video)</a></span></td>
-<td ><span style="background-color:#a6cee3">Technology reviews</span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/L10.Communication.pptx">Communicating about code</a><br/><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/L11.Version_Control_p2.pptx">Version control, part 3</a><br/><a href="">(video)</a></span></td>
+<td ><span style="background-color:#a6cee3"><a href="Wi22_content/SEDS/L8.Style_and_Documentation.pptx">Documentation and Style</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e6047411-e2f4-4b12-a385-acd80146eb3e">(video)</a></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -197,7 +197,7 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><a href="Wi22_content/SEDS/L8.Style_and_Documentation.pptx">Documentation and Style</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e6047411-e2f4-4b12-a385-acd80146eb3e">(video)</a></span></td>
+<td ><span style="background-color:#a6cee3">Technology Reviews</span></td>
 <td ><span style="background-color:#b2df8a">Support Vector Machines <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L11_SVM.ipynb">(notebook, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/sv_utils.py">utils, </a><a href="https://washington.zoom.us/rec/play/oC8SG8OqNwJUyMdyo5Z4dyDOhCnH5Mg70QrCLZoym7ODej5HCqX7ExtoZemioYRDI4O1OCm1LA4Ic7qu.wftwT3qO_2PFDJPN">video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
