@@ -178,7 +178,7 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#b2df8a">Multiple linear regression<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L8_multiple_linear_regression.pdf"> (slides,  </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L8_multiple_linear_regression.ipynb"> notebook, </a><a href="https://washington.zoom.us/rec/play/t5BT7mgexoZYxT9t1KZeRuOvE0PKyHCDrth0wMCqo6UzZoZtHOV6tN1jkiHwM_VDELaSTe8Dakpmakz1.C-8QhDstZWRxZRJ0"> video)</a></span></td>
+<td ><span style="background-color:#b2df8a">Multiple linear regression<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L8_multiple_linear_regression.pdf"> (slides,  </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L8_multiple_linear_regression.ipynb"> notebook, </a><a href="https://washington.zoom.us/rec/play/FG7p3wvXtg3EDIJKUNkdyUfwo_0mbkIwUHSbbZ4qcMy0PGnekn9LfUiVUcXnprJoWJ4PAtw9Le0BFiRi.9mSxmOwKSVreBxi2"> video)</a></span></td>
 <td ><span style="background-color:#b2df8a">Bootstrapping & resampling <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L9_Resampling.ipynb">(notebook,</a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/datasets/running_cheetah.csv"> data, </a><a href="https://washington.zoom.us/rec/play/rqoDUBBXhT8Z8qIQTP0C36CROHiJLipTlRzNyoXt8ZfnyUjR38EjsWfCkY0y3Nm_UTBPzzxNkjr0eW24.fDgWXehlN6pTSseT">video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
