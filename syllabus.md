@@ -182,7 +182,7 @@ DSMCER background color: #b2df8a-->
 <td ><span style="background-color:#b2df8a">Bootstrapping & resampling <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L9_Resampling.ipynb">(notebook,</a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/datasets/running_cheetah.csv"> data, </a><a href="https://washington.zoom.us/rec/play/rqoDUBBXhT8Z8qIQTP0C36CROHiJLipTlRzNyoXt8ZfnyUjR38EjsWfCkY0y3Nm_UTBPzzxNkjr0eW24.fDgWXehlN6pTSseT">video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/L10.Communication.pptx">Communicating about code</a><br/><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/L11.Version_Control_p2.pptx">Version control, part 3</a><br/><a href="">(video)</a></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/L10.Communication.pptx">Communicating about code</a><br/><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/L11.Version_Control_p2.pptx">Version control, part 3</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04b95fc4-06bb-477b-bf2e-ae3d0173a826">(video)</a></span></td>
 <td ><span style="background-color:#a6cee3"><a href="Wi22_content/SEDS/L8.Style_and_Documentation.pptx">Documentation and Style</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e6047411-e2f4-4b12-a385-acd80146eb3e">(video)</a></span></td>
 </tr>
 <!-- end of week -->
