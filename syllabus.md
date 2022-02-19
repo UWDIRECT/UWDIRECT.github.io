@@ -179,11 +179,11 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#b2df8a">Multiple linear regression<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L8_multiple_linear_regression.pdf"> (slides,  </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L8_multiple_linear_regression.ipynb"> notebook, </a><a href="https://washington.zoom.us/rec/play/FG7p3wvXtg3EDIJKUNkdyUfwo_0mbkIwUHSbbZ4qcMy0PGnekn9LfUiVUcXnprJoWJ4PAtw9Le0BFiRi.9mSxmOwKSVreBxi2"> video)</a></span></td>
-<td ><span style="background-color:#b2df8a">Bootstrapping & resampling <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L9_Resampling.ipynb">(notebook,</a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/datasets/running_cheetah.csv"> data, </a><a href="https://washington.zoom.us/rec/play/rqoDUBBXhT8Z8qIQTP0C36CROHiJLipTlRzNyoXt8ZfnyUjR38EjsWfCkY0y3Nm_UTBPzzxNkjr0eW24.fDgWXehlN6pTSseT">video)</a></span></td>
+<td ><span style="background-color:#b2df8a">Bootstrapping & resampling <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L9_Resampling.ipynb">(notebook,</a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/datasets/running_cheetah.csv"> data, </a><a href="https://washington.zoom.us/rec/play/JzAWg05vQ2u_WJ-dkG6b7aKcu-hi1IxXCmxVtp72_EHLvNgMKPORwD6_BWOsvvCCY0Z6cZh-3Vj-qW6g.wCZ3pHQXWjn6rMMP">video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/L10.Communication.pptx">Communicating about code</a><br/><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/L11.Version_Control_p2.pptx">Version control, part 3</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04b95fc4-06bb-477b-bf2e-ae3d0173a826">(video)</a></span></td>
-<td ><span style="background-color:#a6cee3"><a href="Wi22_content/SEDS/L8.Style_and_Documentation.pptx">Documentation and Style</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e6047411-e2f4-4b12-a385-acd80146eb3e">(video)</a></span></td>
+<td ><span style="background-color:#a6cee3"><a href="Wi22_content/SEDS/L8.Style_and_Documentation.pptx">Documentation and Style</a><br/><a href="https://washington.zoom.us/rec/play/lXGAq2eCrBkJ-h-KgHFMnnVtZB4m-OYdm2s60-48wdk8kKRkTMQqIkb1djnYw4esoWVFBTWCJfsjbR8w.zllQ2bCOMS_hK1AN">(video)</a></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
