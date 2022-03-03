@@ -236,7 +236,8 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#b2df8a">Neural networks <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L12_Neural_Networks.pdf">(slides</a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L12_Neural_Networks.ipynb">, notebook, </a><a href="https://washington.zoom.us/rec/play/rjr26BTbxYUgRkJ3OLYOg2uUlIBKeJHPHHMb4itc9oiAvKN77dbOt8m61BGV3oIYREefP2BBFKxRwEt2.zvZ837dmf1BFhB37">video)</a></span></td>
-<td ><span style="background-color:#b2df8a">Unsupervised Machine Learning<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L13_Unsupervised_ML.pdf"> (slides, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L13_PCA_KMeans.ipynb">notebook, </a><a href="https://washington.zoom.us/rec/play/D-cwPyU4fJtANbiz0AOE_DK-LtG3jiUYK0PFKtUtUU6osFJLYs2dFhQKp4XzwkzzBYCbIig05j0Yah4e.MISsPlin8t7JDZtK">video)</a></span></td>
+<td ><span style="background-color:#b2df8a">Hyperparameter Optimization <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/Guest_Lecture_Hyperparameter_Optimization.ipynb"> notebook </a>
+</span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -250,7 +251,7 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#b2df8a">Image analysis - Invited Lecturer: Chad Curtis</span><br/><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/GuestLecture_Image_Analysis_filled.ipynb"> (notebook, </a><a href="https://washington.zoom.us/rec/play/pOKl6enALnlAa5SY4REXL1UJgW6mS-ozcfKW0E4Fn2xfbh9SkDWADW-iUnslLsdqOthiKa7AwSbz-yXZ.30rSao1IBbls5xTs">video)</a></td>
+<td ><span style="background-color:#b2df8a">Unsupervised Machine Learning<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L13_Unsupervised_ML.pdf"> (slides, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L13_PCA_KMeans.ipynb">notebook, </a><a href="https://washington.zoom.us/rec/play/D-cwPyU4fJtANbiz0AOE_DK-LtG3jiUYK0PFKtUtUU6osFJLYs2dFhQKp4XzwkzzBYCbIig05j0Yah4e.MISsPlin8t7JDZtK">video)</a></span></td>
 <td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L14.Viz_with_Altair.ipynb">Viz with Altair</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00ea7e62-bf08-438f-8011-ace8014217d3">(video)</a></span> </td>
 </tr>
 <tr align="center" valign="top">
