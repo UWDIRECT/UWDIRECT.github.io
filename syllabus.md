@@ -240,7 +240,7 @@ DSMCER background color: #b2df8a-->
 <td ><span style="background-color:#b2df8a">Unsupervised Machine Learning<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L13_Unsupervised_ML.pdf"> (slides, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L13_PCA_KMeans.ipynb">notebook, </a><a href="https://washington.zoom.us/rec/play/D-cwPyU4fJtANbiz0AOE_DK-LtG3jiUYK0PFKtUtUU6osFJLYs2dFhQKp4XzwkzzBYCbIig05j0Yah4e.MISsPlin8t7JDZtK">video)</a></span></td>
 =======
 <td ><span style="background-color:#b2df8a">Neural networks <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L12_Neural_Networks.pdf">(slides</a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L12_Neural_Networks.ipynb">, notebook, </a><a href="https://washington.zoom.us/rec/play/rjr26BTbxYUgRkJ3OLYOg2uUlIBKeJHPHHMb4itc9oiAvKN77dbOt8m61BGV3oIYREefP2BBFKxRwEt2.zvZ837dmf1BFhB37">video)</a></span></td>
-<td ><span style="background-color:#b2df8a">Hyperparameter Optimization <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/Guest_Lecture_Hyperparameter_Optimization.ipynb"> notebook </a>
+<td ><span style="background-color:#b2df8a">Hyperparameter Optimization <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/Guest_Lecture_Hyperparameter_Optimization.ipynb"> (notebook, </a><a href="https://washington.zoom.us/rec/play/dALAuOmoJU1YDAi1SOBOOXe4wkH4gyVFQGgd4Mm7FOvdhGcttOukN4owj0wHMqSF0u_Ou6lHDzbBvHXP.09dix0stAEdgpIeV">video)</a>
 </span></td>
 >>>>>>> 01b977a5b656b08cd75d45ef83a2a9688314a036
 </tr>
