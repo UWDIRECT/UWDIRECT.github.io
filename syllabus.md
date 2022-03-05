@@ -164,7 +164,7 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/debugging_exceptions_testing/Unit-tests.ipynb">Unit tests & TEST DRIVEN DEVELOPMENT</a><br/></span></td>
-<td ><span style="background-color:#b2df8a">Simple linear regression <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L7_linear_regression.ipynb">(notebook, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/datasets/running_cheetah.csv">data, </a><a href="https://washington.zoom.us/rec/play/gyIqTGjs0iP3B2hwAJXFUNXv3uk5WdwYJRWXO8tc82ESAUP_Sjy8p7A48jcLwjMZBR2Tj0jQ9sHm0mA1.OkAD3x7saUm8Hwnl">video)</a></span></td>
+<td ><span style="background-color:#b2df8a">Simple linear regression <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L7_linear_regression.ipynb">(notebook, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/datasets/running_cheetah.csv">data, </a><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=850c0a8e-8440-423f-8d5a-ae360173b7d5">video)</a></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -202,7 +202,7 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#b2df8a">Decision Trees & Random Forests<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L10_Decision_trees.ipynb"> (notebook, </a><a href="https://washington.zoom.us/rec/play/4gU0B2uy7B3xBknASDvh1WXGk8lCzucJ8u1gcCqUPn8RkvZV7Hds4Lv90qpdgkZeReli4DcHmP836uAX.iug2MeRfwlCVG05W?autoplay=true&startTime=1645568809000">video part 1, </a><a href="https://washington.zoom.us/rec/play/wSEeSkauJ2Cdeni00jE31z32PjyocspWuuZabJfT6Znf1ynisYtt4yilEhzfKg9P8azDHyvS-m6EAuWq.t_6mizXiuwJ22RtT?autoplay=true&startTime=1645571188000">video part 2)</a></span></td>
-<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/L9.Project_Structure.pdf">project structure</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ede023f2-20b1-4a8d-9a46-acdf014bd3c8">(video)</a><br/><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/L12.Virtualization.pptx">Virtualization</a> and <a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/L13.Continuous_Integration.pptx">continuous integration</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=504b58d1-8eea-4e51-8aae-acda0173864d">(video)</a></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/L9.Project_Structure.pdf">project structure</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ede023f2-20b1-4a8d-9a46-acdf014bd3c8">(video)</a><br/><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/L12.Virtualization.pptx">Virtualization</a> and <a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/L13.Continuous_Integration.pptx">continuous integration</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3343312b-59ba-4312-9be4-ae4b01498dc2">(video)</a></span></td>
 </tr>
 <!-- end of week -->
 </tbody>
@@ -235,8 +235,14 @@ DSMCER background color: #b2df8a-->
 <td ><span style="background-color:#b2df8a">Neural networks - part 2<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L12_Neural_Networks.ipynb"> (notebook, </a><a href="https://washington.zoom.us/rec/play/0Un1BNfkKX2UZHgsRrHKnyDwMwV6_s4zJ9_jRybHG-ejvECqUSccKBVPjB3xmr_rWDf2fh6kczGsHUon.Y3TVFLXWNDsgR_Js">video)</a></span></td>
 </tr>
 <tr align="center" valign="top">
+<<<<<<< HEAD
 <td ><span style="background-color:#b2df8a">Neural networks <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L12_Neural_Networks.pdf">(slides</a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L12_Neural_Networks.ipynb">, notebook, </a><a href="https://washington.zoom.us/rec/play/tPk971opMO_jzOvjpI_3ZxelWGCJTuPXjSIvva5qOsYwEAsR7mJkTWg9XpzqTMbxLsGWJseH56BuEMrL.tKHnww_sbKz4rqGD">video)</a></span></td>
 <td ><span style="background-color:#b2df8a">Unsupervised Machine Learning<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L13_Unsupervised_ML.pdf"> (slides, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L13_PCA_KMeans.ipynb">notebook, </a><a href="https://washington.zoom.us/rec/play/D-cwPyU4fJtANbiz0AOE_DK-LtG3jiUYK0PFKtUtUU6osFJLYs2dFhQKp4XzwkzzBYCbIig05j0Yah4e.MISsPlin8t7JDZtK">video)</a></span></td>
+=======
+<td ><span style="background-color:#b2df8a">Neural networks <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L12_Neural_Networks.pdf">(slides</a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L12_Neural_Networks.ipynb">, notebook, </a><a href="https://washington.zoom.us/rec/play/rjr26BTbxYUgRkJ3OLYOg2uUlIBKeJHPHHMb4itc9oiAvKN77dbOt8m61BGV3oIYREefP2BBFKxRwEt2.zvZ837dmf1BFhB37">video)</a></span></td>
+<td ><span style="background-color:#b2df8a">Hyperparameter Optimization <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/Guest_Lecture_Hyperparameter_Optimization.ipynb"> notebook </a>
+</span></td>
+>>>>>>> 01b977a5b656b08cd75d45ef83a2a9688314a036
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -250,7 +256,7 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#b2df8a">Image analysis - Invited Lecturer: Chad Curtis</span><br/><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/GuestLecture_Image_Analysis_filled.ipynb"> (notebook, </a><a href="https://washington.zoom.us/rec/play/pOKl6enALnlAa5SY4REXL1UJgW6mS-ozcfKW0E4Fn2xfbh9SkDWADW-iUnslLsdqOthiKa7AwSbz-yXZ.30rSao1IBbls5xTs">video)</a></td>
+<td ><span style="background-color:#b2df8a">Unsupervised Machine Learning<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L13_Unsupervised_ML.pdf"> (slides, </a><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/DSMCER/L13_PCA_KMeans.ipynb">notebook, </a><a href="https://washington.zoom.us/rec/play/D-cwPyU4fJtANbiz0AOE_DK-LtG3jiUYK0PFKtUtUU6osFJLYs2dFhQKp4XzwkzzBYCbIig05j0Yah4e.MISsPlin8t7JDZtK">video)</a></span></td>
 <td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L14.Viz_with_Altair.ipynb">Viz with Altair</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00ea7e62-bf08-438f-8011-ace8014217d3">(video)</a></span> </td>
 </tr>
 <tr align="center" valign="top">
