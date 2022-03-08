@@ -140,7 +140,7 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td >Project overview & ideation<br/></td>
+<td ><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/Project_Overview.pptx">Project overview & ideation</a><br/></td>
 <td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/Use_cases.pptx?raw=true">Use cases</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9553db67-53cd-47b7-8d7d-acc501431f52">(video)</a></span><br/>Project verification<br /></td>
 </tr>
 <tr align="center" valign="top">
