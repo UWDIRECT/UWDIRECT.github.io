@@ -20,7 +20,7 @@ collection: main
 
 |Day|Activity  |Timeline|
 |--|--|--|
-|April 1|Establishing your team's operating norms.<br/>Intro to Project Management|Meet with your stakeholder / sponsor.  Create repository.  Build use cases and begin design|
+|April 1|Establishing your team's operating norms.<br/>Intro to Project Management [slides](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/Capstone/DIRECT%20project%20management%20and%20conflict%20resolution.pptx?raw=true)|Meet with your stakeholder / sponsor.  Create repository.  Build use cases and begin design|
 |April 8| Intro to Project Management, part 2. & Standups|Finalize design and assign initial tasks including technology reviews and literature survey.|
 |April 15|Standups & consultation||
 |April 22|Standups & consultation||
