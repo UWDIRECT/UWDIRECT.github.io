@@ -20,7 +20,7 @@ collection: main
 
 |Day|Activity  |Timeline|
 |--|--|--|
-|April 1|a. Intro to Project Management: emphasis on mutual goal and milestone setting with Project Sponsors. b. Guest: Managing Global Projects and Teams at BASF c. Establishing your team's operating norms.|Meet with your stakeholder / sponsor.  Create repository.  Build use cases and begin design|
+|April 1|Establishing your team's operating norms.<br/>Intro to Project Management|Meet with your stakeholder / sponsor.  Create repository.  Build use cases and begin design|
 |April 8| Intro to Project Management, part 2. & Standups|Finalize design and assign initial tasks including technology reviews and literature survey.|
 |April 15|Standups & consultation||
 |April 22|Standups & consultation||
