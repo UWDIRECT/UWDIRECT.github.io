@@ -14,7 +14,7 @@ collection: main
 - CHEME / CHEM / MSE 547: Molecular Data Science Capstone
     - Fri
     - 11:30 - 2:20
-    - [ECE 125](http://maps.google.com/maps?q=47.65356,-122.306255+(ECE)&z=18)
+    - [PAT 610C](http://uw.edu/maps/?pat)
 
 ## Schedule for Spring 2021
 
