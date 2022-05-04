@@ -30,4 +30,4 @@ collection: main
 |May 20|Standups & Informational interviews and job searches w/ special guests Wes Tatum and Yousef Baioumy||
 |May 27|Standups & Visual Studio Code overview (Microsoft)||
 |June 3|Standups & consultation|Prepare final presentation materials and finalize repository|
-|TBD|Final presentations!|Party!|
+|June 8|7:30-8:30PM NanoES Commons|Party!|
