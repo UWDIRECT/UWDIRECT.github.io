@@ -28,6 +28,6 @@ collection: main
 |May 6|No class.||
 |May 13|Standups & Pitch clinic, part 1||
 |May 20|Standups & Pitch clinic, part 2||
-|May 27|Standups & Visual Studio Code overview (Microsoft)||
+|May 27|Standups & Informational Interviews||
 |June 3|Standups & consultation|Prepare final presentation materials and finalize repository|
 |June 8|7:30-8:30PM NanoES Commons|Party!|
