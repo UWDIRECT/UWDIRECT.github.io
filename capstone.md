@@ -25,9 +25,9 @@ collection: main
 |April 15|Standups & consultation||
 |April 22|Standups & consultation||
 |April 29|Standups & consultation||
-|May 6|Standups & Pitch clinic, part 1||
-|May 13|Standups & Pitch clinic, part 2||
-|May 20|Standups & Informational interviews and job searches w/ special guests Wes Tatum and Yousef Baioumy||
+|May 6|No class.||
+|May 13|Standups & Pitch clinic, part 1||
+|May 20|Standups & Pitch clinic, part 2||
 |May 27|Standups & Visual Studio Code overview (Microsoft)||
 |June 3|Standups & consultation|Prepare final presentation materials and finalize repository|
 |June 8|7:30-8:30PM NanoES Commons|Party!|
