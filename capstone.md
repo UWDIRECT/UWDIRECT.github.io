@@ -30,4 +30,4 @@ collection: main
 |May 20|Standups & Pitch clinic, part 2||
 |May 27|Standups & Informational Interviews||
 |June 3|Standups & consultation|Prepare final presentation materials and finalize repository|
-|June 8|5:30-8:30PM NanoES Commons|Final presentations & party!|
+|June 8|6:30-8:30PM NanoES Commons|Final presentations & party!|
