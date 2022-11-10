@@ -7,7 +7,7 @@
   - These choices are called hyperparameters
   - question:
     - given that our data is labeled and our goal is to predict the label, how can we evaluate the model?
-    - > "loss" or error on new data
+    - > error on data
     - given what we saw about how a sample of data can be biased, what data should we compute error on
 2. sklearn brief intro (15 min)
   - lots of what we do in ML is done for us, you will see things from this package throughout the rest of the course
