@@ -13,6 +13,7 @@ Also rate on:
 3. Support vectors
 4. Tree methods
   - Random Forests
+5. Gaussian processes
 5. XGBoost
 
 6. Neural Networks (40 min)
