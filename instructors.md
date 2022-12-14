@@ -14,7 +14,7 @@ collection: main
 
 ### Teaching Assistants
 
-- Evan Alan Komp (evankomp@uw.edu)
+- Orion Dollar (odollar@uw.edu)
 - Nisarg Joshi (nisargj@uw.edu)
 
 
@@ -24,4 +24,4 @@ The instructional team will provide the following weekly office hours, held at o
 
 Zoom links (see Canvas course pages for Zoom meeting ID numbers):
 * Monday at 1:00 to 2:00 PM (Evan)
-* Wednesday at 1:00 to 2:00 PM (Nisarg)
+* Thursday at 9:00 to 10:00 AM (Orion)
