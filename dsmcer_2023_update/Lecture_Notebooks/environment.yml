@@ -133,6 +133,7 @@ dependencies:
   - pyperclip=1.8.2
   - pysocks=1.7.1
   - python=3.10.8
+  - rdkit
   - python-dateutil=2.8.2
   - python-levenshtein=0.20.8
   - python_abi=3.10
