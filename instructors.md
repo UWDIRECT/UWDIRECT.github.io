@@ -10,18 +10,17 @@ collection: main
 ### Instructors
 
 - Prof. David Beck (dacb@uw.edu)
-- Prof. Stéphanie Valleau (valleau@uw.edu)
+- Evan Komp (evankomp@uw.edu)
 
 ### Teaching Assistants
 
-- Evan Alan Komp (evankomp@uw.edu)
-- Nisarg Joshi (nisargj@uw.edu)
+- Nels Schimek (nlsschim@uw.edu)
+- Orion Dollar (odollar@uw.edu)
 
 
 ## Office Hours
 
-The instructional team will provide the following weekly office hours, held at on Zoom.
+The instructional team will provide the following weekly office hours.
 
-Zoom links (see Canvas course pages for Zoom meeting ID numbers):
-* Monday at 1:00 to 2:00 PM (Evan)
-* Wednesday at 1:00 to 2:00 PM (Nisarg)
+* Nels (TBD)
+* Orion (TBD)

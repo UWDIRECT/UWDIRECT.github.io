@@ -20,15 +20,15 @@ Course project: 55%
 There will be about 4 homeworks;
 The homeworks will be assigned in the first part of the course and students will submit
 their homework using GitHub. **You must have created a GitHub account before class starts.**
-To receive full credit, homework must be posted by **11:59 PM Pacific Time** on the due date. For Winter 2022, homework assignments will typically be due on **Wednessdays** unless otherwise noted on the syllabus.
-<!--Due to the holiday schedule in Winter quarter, homework may be assigned either on a Tuesday or a Thursday.-->  The instructors and TAs will then provide feedback via GitHub issues.  You will have a week to respond to the feedback by a homework revision to make up any points not received on the first submission.  If you choose to go this route (and you should), you will need to @mention the TA or instructor who first reviewed your homework.
+To receive full credit, homework must be posted by **11:59 PM Pacific Time** on the due date. For Winter 2023, homework assignments will typically be due on **Wednesdays** unless otherwise noted on the syllabus.
+<!--Due to the holiday schedule in Winter quarter, homework may be assigned either on a Tuesday or a Thursday.-->  The instructors and TAs will then provide feedback via GitHub issues.  You will have a week to respond to the feedback by a homework revision to make up any points not received on the first submission.  If you choose to go this route (and you should), __you will need to @mention the TA or instructor who first reviewed your homework.__
 Twenty percent will be deducted from homework received up to a week after its due date.
 No credit will be given for homework more than one week late (unless there is special permission from the instructors).
-All homework, including those with extensions, must be submitted no later than midnight March 15, 2022.
+All homework, including those with extensions, must be submitted no later than midnight March 15, 2023.
 
 ## A Note about collaboration
 
-Our expectation is that everything you type in a Python notebook is your own work. Any instances of "copy-paste" from the web or another person's notebook should be clearly cited. Of course you may look at examples but it is our strong preference that you refrain from copy-paste and type everything in. There is a learning reason for this, which we are happy to discuss in office hours or on slack.
+Our expectation is that everything you type in a Python notebook is your own work. Any instances of "copy-paste" from the web should be clearly cited. Of course you may look at examples but it is our strong preference that you refrain from copy-paste and type everything in. Secondly, while we encourage you all to work through homeworks together to foster a conceptual understanding and share coding tips, it is not permissible to copy code from another student's notebook. If we see this (changing variable names and moving things around is still detectable!) we will consider it plagiarism. There is a learning reason for this, which we are happy to discuss in office hours or on slack.
 
 Engineering is a profession demanding a high level of personal honesty, integrity and responsibility. Therefore, it is essential that engineering students, in fulfillment of their academic requirements and in preparation to enter the engineering profession, shall adhere to the University of Washington’s Student Code of Conduct.
 
@@ -37,7 +37,7 @@ Any student in this course suspected of academic misconduct (e.g., cheating, pla
 ## Class Participation
 
 Class participation will be graded based on project related presentations, e.g.
-stand ups, technology reviews and project summaries.
+stand ups, technology reviews and project summaries, as well as in exercises and polls.
 
 ## Course Project
 
