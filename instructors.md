@@ -14,7 +14,6 @@ collection: main
 
 ### Teaching Assistants
 
-<<<<<<< HEAD
 - Nels Schimek (nlsschim@uw.edu)
 - Orion Dollar (odollar@uw.edu)
 
@@ -23,8 +22,7 @@ collection: main
 
 The instructional team will provide the following weekly office hours.
 
-<<<<<<< HEAD
-* Monday at 9:30 to 10:30 AM (Evan)
+* Monday at 11:00 AM to Noon, BNS 241 (Evan)
 * Nels (TBD)
 * Thursday at 9:00 to 10:00 AM (Orion)
->>>>>>> master
+
