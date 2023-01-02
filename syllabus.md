@@ -37,15 +37,15 @@ DSMCER background color: #b2df8a-->
 <ul>
 <li><span style="background-color:#b2df8a"><a href="https://aiche-onlinelibrary-wiley-com.offcampus.lib.washington.edu/doi/10.1002/aic.15192">DSMCER assigned reading</a></span></li>
 <li><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf">bash command line reference</a></span></li>
-<li><span style="background-color:#b2df8a"><a href="https://docs.google.com/document/d/1Ypo5QcCInFlOqm2GknYK4aYfZ1ALCFzcpy3aTa5nzz0/edit?usp=sharing">DSMCER Homework 1 (Due 1/12 11:59 PM)</a> <a href="https://classroom.github.com/a/MZCfve8h">GitHub for DSMCER HW1</a></span></li>
+<li><span style="background-color:#b2df8a">DSMCER Homework 1 (Due 1/12 11:59 PM)</span></li>
 <!-- This is the link for DSMCER HW 1 in our classroom: https://classroom.github.com/a/MZCfve8h -->
-<li><span style="background-color:#a6cee3"><a href="https://docs.google.com/document/d/1rzP02Vm4LKmuprnskMZjI1s7l4HkGzbqb5nHU0WyS0s/edit?usp=sharing">SEMDS Homework 1 (Due 1/19 11:59 PM)</a> <a href="https://classroom.github.com/a/hDUJkLmY">GitHub for SEMDS HW1</a></span></li>
+<li><span style="background-color:#a6cee3"><a href="https://docs.google.com/document/d/1rzP02Vm4LKmuprnskMZjI1s7l4HkGzbqb5nHU0WyS0s/edit?usp=sharing">SEMDS Homework 1 (Due 1/19 11:59 PM)</a> GitHub for SEMDS HW1</span></li>
 <!-- This is the link for SEDS HW 1 in our classroom: https://classroom.github.com/a/hDUJkLmY -->
 </ul>
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/DSMCER/L1_Intro_to_Data_Science.pdf?raw=true">Course Overview</a><br/><i>Software checkup</i><br/></td>
+<td ><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/DSMCER/L0_Intro_to_Data_Science.pdf?raw=true">Course Overview</a><br/><i>Software checkup</i><br/></td>
 <td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line, part 2</a><br /></span></td>
 </tr>
 <tr align="center" valign="top">
