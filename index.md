@@ -8,7 +8,7 @@ collection: main
 ## Instructors
 
 - Prof. David Beck (dacb@uw.edu)
-- Evan Komp (evankomp@uw.edu)
+- Evan Komp (evankomp+dsmcer@uw.edu)
 
 ## Teaching Assistants
 
