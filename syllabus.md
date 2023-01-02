@@ -129,7 +129,7 @@ DSMCER background color: #b2df8a-->
 </tr>
 <!-- this is a new week -->
 <tr valign="top">
-<td rowspan="3"><u>Jan 30</u><br/>DSMCER Homework 2 due</td>
+<td rowspan="3"><u>Jan 30</u><br/><span style="background-color:#b2df8a">DSMCER Homework 2 due</span></td>
 <td rowspan="1"><u>Jan 31</u></td>
 <td rowspan="3"><u>Feb 1</u></td>
 <td rowspan="1"><u>Feb 2</u></td>
