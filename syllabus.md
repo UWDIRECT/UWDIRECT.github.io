@@ -9,6 +9,10 @@ collection: main
 
 All homework assignments will be due on **Friday at 11:59 PM** unless otherwise noted in the syllabus below.
 
+## Instructor command history
+
+We have a tool developed by Evan Komp that allows us to log our history of shell commands and immediately send them to a GitHub repository for students in the classroom to view and copy and paste.  You can find this history here: https://github.com/UWDIRECT/history/blob/main/history.txt
+
 ## <span style="background-color:#a6cee3">SEDS (546)</span> and <span style="background-color:#b2df8a">DSMCER (545)</span> Schedule
 
 <!--SEDS background color: #a6cee3
@@ -36,6 +40,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3">
 <ul>
 <li><span style="background-color:#b2df8a"><a href="https://www.annualreviews.org/doi/10.1146/annurev-chembioeng-101220-102232">DSMCER assigned reading</a></span></li>
+<<<<<<< HEAD
 <li><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf">bash command line reference</a></span></li>
 <li><span style="background-color:#b2df8a"><a href="https://docs.google.com/document/d/1Ypo5QcCInFlOqm2GknYK4aYfZ1ALCFzcpy3aTa5nzz0/edit?usp=sharing">DSMCER Homework 1 (Due 1/11 11:59 PM)</a><a href="https://classroom.github.com/a/2kEfqY3D">Github for DSMCER HW1</a></span></li>
 <li><span style="background-color:#a6cee3"><a href="https://docs.google.com/document/d/1rzP02Vm4LKmuprnskMZjI1s7l4HkGzbqb5nHU0WyS0s/edit?usp=sharing">SEMDS Homework 1 (Due 1/20 11:59 PM)</a> <a href="https://classroom.github.com/a/Zq6fEchJ">GitHub for SEMDS HW1</a></span></li>
@@ -44,11 +49,11 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/DSMCER/L0_Intro_to_Data_Science.pdf?raw=true">Course Overview</a><br/><i>Software checkup</i><br/></td>
-<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line, part 2</a><br /></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line, part 2</a><br /></span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><A href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line, part 1</a><br /></span></td>
-<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L2.Simple_Breakout.ipynb">Intro to Python &amp; Notebooks</a><br /> </span></td>
+<td ><span style="background-color:#a6cee3"><A href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line, part 1</a><br /></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L2.Simple_Breakout.ipynb">Intro to Python &amp; Notebooks</a><br /> </span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -62,12 +67,12 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/L3.Version_Control.pptx?raw=true">Version control, part 1</a><br/></span></td>
-<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L5.Procedural_Python.ipynb">Procedural Python</a><br/></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L3.Version_Control.pptx?raw=true">Version control, part 1</a><br/></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L5.Procedural_Python.ipynb">Procedural Python</a><br/></span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/L3.Version_Control.pptx?raw=true">Version control, part 2</a><br/><b>Submitting homework in class!</b><br/></span></td>
-<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L5.Procedural_Python.ipynb">Procedural Python</a><br/></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L3.Version_Control.pptx?raw=true">Version control, part 2</a><br/><b>Submitting homework in class!</b><br/></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L5.Procedural_Python.ipynb">Procedural Python</a><br/></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -81,7 +86,7 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L4.Python.ipynb">Python & Pandas</a><br/></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L4.Python.ipynb">Python & Pandas</a><br/></span></td>
 <td ><span style="background-color:#b2df8a">Data visualization, part 2</span></td>
 </tr>  
 <tr align="center" valign="top">
@@ -105,7 +110,7 @@ DSMCER background color: #b2df8a-->
 <td ><br/><span style="background-color:#b2df8a">Hypothesis testing<br/> </span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something, part 1</a></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something, part 1</a></span></td>
 <td ><span style="background-color:#b2df8a">Supervised ML intro</span></td>
 </tr>
 <!-- end of week -->
@@ -135,12 +140,12 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/Project_Overview.pptx">Project overview & ideation</a><br/></td>
-<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/SEDS/Use_cases.pptx?raw=true">Use cases</a><br/></span><br/>Project verification<br /></td>
+<td ><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/Project_Overview.pptx">Project overview & ideation</a><br/></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/Use_cases.pptx?raw=true">Use cases</a><br/></span><br/>Project verification<br /></td>
 </tr>
 <tr align="center" valign="top">
 <td >Project pitches & matchmaking<br /></td>
-<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something, part 2</a><br/></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something, part 2</a><br/></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -154,11 +159,11 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/debugging_exceptions_testing/Debugging.ipynb">Debugging</a><br/><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/debugging_exceptions_testing/Exceptions.ipynb">Exceptions</a><br/></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/debugging_exceptions_testing/Debugging.ipynb">Debugging</a><br/><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/debugging_exceptions_testing/Exceptions.ipynb">Exceptions</a><br/></span></td>
 <td ><span style="background-color:#b2df8a">Data splitting and Feature Eng. 1</span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/debugging_exceptions_testing/Unit-tests.ipynb">Unit tests & TEST DRIVEN DEVELOPMENT</a><br/></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/debugging_exceptions_testing/Unit-tests.ipynb">Unit tests & TEST DRIVEN DEVELOPMENT</a><br/></span></td>
 <td ><span style="background-color:#b2df8a">Simple linear regression </span></td>
 </tr>
 <!-- end of week -->
@@ -177,8 +182,8 @@ DSMCER background color: #b2df8a-->
 <td ><span style="background-color:#b2df8a">Multiple Linear Regression </span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/L10.Communication.pptx">Communicating about code</a><br/><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/L11.Version_Control_p2.pptx">Version control, part 3</a><br/></span></td>
-<td ><span style="background-color:#a6cee3"><a href="Wi22_content/SEDS/L8.Style_and_Documentation.pptx">Documentation and Style</a><br/></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/SEDS/L10.Communication.pptx">Communicating about code</a><br/><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/SEDS/L11.Version_Control_p2.pptx">Version control, part 3</a><br/></span></td>
+<td ><span style="background-color:#a6cee3"><a href="Wi23_content/SEDS/L8.Style_and_Documentation.pptx">Documentation and Style</a><br/></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -197,7 +202,7 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#b2df8a">Model Zoo and Boosting</span></td>
-<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/L9.Project_Structure.pdf">project structure</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ede023f2-20b1-4a8d-9a46-acdf014bd3c8">(video)</a><br/><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/L12.Virtualization.pptx">Virtualization</a> and <a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/L13.Continuous_Integration.pptx">continuous integration</a><br/></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/SEDS/L9.Project_Structure.pdf">project structure</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ede023f2-20b1-4a8d-9a46-acdf014bd3c8">(video)</a><br/><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/SEDS/L12.Virtualization.pptx">Virtualization</a> and <a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/SEDS/L13.Continuous_Integration.pptx">continuous integration</a><br/></span></td>
 </tr>
 <!-- end of week -->
 </tbody>
@@ -226,7 +231,7 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3">Standups, <a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/L9.Project_Structure.pdf">project structure</a><br/>, <a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/L12.Virtualization.pptx">Virtualization</a> and <a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/L13.Continuous_Integration.pptx">continuous integration</a><br/>, and consultation</span></td>
+<td ><span style="background-color:#a6cee3">Standups, <a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/SEDS/L9.Project_Structure.pdf">project structure</a><br/>, <a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/SEDS/L12.Virtualization.pptx">Virtualization</a> and <a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/SEDS/L13.Continuous_Integration.pptx">continuous integration</a><br/>, and consultation</span></td>
 <td ><span style="background-color:#b2df8a">Neural networks - part 2</span></td>
 </tr>
 <tr align="center" valign="top">
@@ -246,7 +251,7 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#b2df8a">Hyperparameter optimization</span></td>
-<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L14.Viz_with_Altair.ipynb">Viz with Altair</a><br/></span> </td>
+<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L14.Viz_with_Altair.ipynb">Viz with Altair</a><br/></span> </td>
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3">Standups & consultation</span></td>
