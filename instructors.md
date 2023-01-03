@@ -23,6 +23,6 @@ collection: main
 The instructional team will provide the following weekly office hours.
 
 * Monday at 11:00 AM to Noon, BNS 241 (Evan)
-* Tuesday at 9:00 to 10:00 AM (Nels - [ZoomLink](https://washington.zoom.us/my/nelsschimek)
+* Tuesday at 9:00 to 10:00 AM (Nels - [ZoomLink](https://washington.zoom.us/my/nelsschimek))
 * Thursday at 9:00 to 10:00 AM (Orion - [ZoomLink](https://washington.zoom.us/my/oriondollar))
 
