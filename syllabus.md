@@ -103,7 +103,7 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#b2df8a">Descriptive statistics, part 2</td>
+<td ><span style="background-color:#b2df8a">Descriptive statistics, part 2</span></td>
 <td ><br/><span style="background-color:#b2df8a">Hypothesis testing<br/> </span></td>
 </tr>
 <tr align="center" valign="top">
