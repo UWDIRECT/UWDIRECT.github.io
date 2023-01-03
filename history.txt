@@ -1,2 +1,3 @@
 cd UWDIRECT.github.io/
 git pull
+ls
