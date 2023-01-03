@@ -91,7 +91,6 @@ DSMCER background color: #b2df8a-->
 <td ><span style="background-color:#b2df8a">Descriptive statistics, part 1</span></td>
 </tr>
 
-
 <!-- end of week -->
 <!-- this is a new week -->
 <tr valign="top">
@@ -108,7 +107,7 @@ DSMCER background color: #b2df8a-->
 <td ><br/><span style="background-color:#b2df8a">Hypothesis testing<br/> </span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something, part 1</a><br/></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi22_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something, part 1</a></span></td>
 <td ><span style="background-color:#b2df8a">Supervised ML intro</span></td>
 </tr>
 <!-- end of week -->
