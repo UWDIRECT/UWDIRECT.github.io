@@ -79,7 +79,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3"><u>Jan 18</u></td>
 <td rowspan="1"><u>Jan 19</u></td>
 <td rowspan="3"><u>Jan 20</u><br/>SEDS Homework 1 due</td>
-<td rowspan="3"><ul><li><a href="https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf">Pandas Cheat Sheet</a></li><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/DaEgO3K7">SEMDS Homework 2 (Due 1/26 11:59 PM)</a></span></li><li><span style="background-color:#b2df8a"><a href="https://www-nature-com.offcampus.lib.washington.edu/articles/nmeth.2613">Nature article: The importance of being uncertain.</a></span></li></ul>
+<td rowspan="3"><ul><li><a href="https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf">Pandas Cheat Sheet</a></li><li><span style="background-color:#a6cee3">SEMDS Homework 2 (Due 1/26 11:59 PM)</span></li><li><span style="background-color:#b2df8a"><a href="https://www-nature-com.offcampus.lib.washington.edu/articles/nmeth.2613">Nature article: The importance of being uncertain.</a></span></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
@@ -99,7 +99,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3"><u>Jan 25</u><br/>SEDS Homework 2 due</td>
 <td rowspan="1"><u>Jan 26</u></td>
 <td rowspan="3"><u>Jan 27</u></td>
-<td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/RcMYwgQg">DSMCER Homework 2 (Due 1/30 11:59 PM)</a></span></li></ul>
+<td rowspan="3"><ul><li><span style="background-color:#a6cee3">DSMCER Homework 2 (Due 1/30 11:59 PM)</span></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
@@ -133,7 +133,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3"><u>Feb 1</u></td>
 <td rowspan="1"><u>Feb 2</u></td>
 <td rowspan="3"><u>Feb 3</u></td>
-<td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/bZNJEwMp">SEMDS Homework 3</a></span></li></ul>
+<td rowspan="3"><ul><li><span style="background-color:#a6cee3">SEMDS Homework 3</span></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
@@ -152,7 +152,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3"><u>Feb 8</u></td>
 <td rowspan="1"><u>Feb 9</u></td>
 <td rowspan="3"><u>Feb 10</u></td>
-<td rowspan="3"><ul><li><span style="background-color:#b2df8a"><a href="https://classroom.github.com/a/GiDQ1jOX">DSMCER Homework 3 (Due 2/15 11:59 PM)</a></span></li><li><a href="http://www.statlearning.com/">Introduction to Statistical Learning PDF</a></li><li><a href="https://www.atlassian.com/git/tutorials/using-branches/git-merge">Git Merge Docs</a></li></ul>
+<td rowspan="3"><ul><li><span style="background-color:#b2df8a">DSMCER Homework 3 (Due 2/15 11:59 PM)</span></li><li><a href="http://www.statlearning.com/">Introduction to Statistical Learning PDF</a></li><li><a href="https://www.atlassian.com/git/tutorials/using-branches/git-merge">Git Merge Docs</a></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
@@ -190,7 +190,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3"><u>Feb 22</u></td>
 <td rowspan="1"><u>Feb 23</u></td>
 <td rowspan="3"><u>Feb 24</u></td>
-<td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/frSKktLk">SEMDS Homework 4, the big one</a></span></li><li><span style="background-color:#b2df8a"><a href="https://classroom.github.com/a/OMchHegb"> DSMCER Homework 4 (Due 3/3 11:59 PM)</a></span></li><li><a href="https://google.github.io/styleguide/pyguide.html">Google Python Style Guide</a></li></ul>
+<td rowspan="3"><ul><li><span style="background-color:#a6cee3">SEMDS Homework 4, the big one</span></li><li><span style="background-color:#b2df8a"> DSMCER Homework 4 (Due 3/3 11:59 PM)</span></li><li><a href="https://google.github.io/styleguide/pyguide.html">Google Python Style Guide</a></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
@@ -273,6 +273,10 @@ DSMCER background color: #b2df8a-->
 
 
 ## Additional Information
+
+### Absence and COVID Policy
+
+Please let us know via email or privaye canvas message if you plan to miss a class. Please leverage this option if you test positive for COVID or otherwise are sick! Additionally, if you do have COVID, use the [reporting tool](https://www.ehs.washington.edu/system/files/resources/COVID-19-public-health-flowchart.pdf). If you miss a class (and and let us know ahead of time) we will provide supplimentary material.
 
 
 ### Religious Accommodations Policy
