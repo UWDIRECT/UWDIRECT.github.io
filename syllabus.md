@@ -35,7 +35,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3"><u>Jan 6</u></td>
 <td rowspan="3">
 <ul>
-<li><span style="background-color:#b2df8a"><a href="https://aiche-onlinelibrary-wiley-com.offcampus.lib.washington.edu/doi/10.1002/aic.15192">DSMCER assigned reading</a></span></li>
+<li><span style="background-color:#b2df8a"><a href="https://www.annualreviews.org/doi/10.1146/annurev-chembioeng-101220-102232">DSMCER assigned reading</a></span></li>
 <li><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf">bash command line reference</a></span></li>
 <li><span style="background-color:#b2df8a"><a href="https://docs.google.com/document/d/1Ypo5QcCInFlOqm2GknYK4aYfZ1ALCFzcpy3aTa5nzz0/edit?usp=sharing">DSMCER Homework 1 (Due 1/11 11:59 PM)</a>Github for DSMCER HW1</span></li>
 <!-- This is the link for DSMCER HW 1 in our classroom: https://classroom.github.com/a/MZCfve8h -->
