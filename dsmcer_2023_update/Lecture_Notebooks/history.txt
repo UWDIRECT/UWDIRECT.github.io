@@ -1,3 +1,4 @@
 cd Lecture_Notebooks/
 open L0_Intro_to_Data_Science.pptx 
 git pull
+conda deactivate
