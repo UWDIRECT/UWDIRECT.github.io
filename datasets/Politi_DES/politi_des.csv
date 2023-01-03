@@ -1,0 +1,601 @@
+,run,sample_id,new_ID,QAS,HBD,QAS_xf,HBD_xf,conductivity,cathodic_slope,anodic_slope,cathodic_potential,anodic_potential,potential_window
+0,0,S2_A1,run0_S2_A1,Choline Chloride,Ethylene Glycol,0.1,0.9,5.493,2.903,4.032,-1.556,1.133,2.689
+4,0,S2_B1,run0_S2_B1,Choline Chloride,Ethylene Glycol,0.2,0.8,5.672,3.355,2.399,-1.561,1.128,2.689
+8,0,S2_C1,run0_S2_C1,Choline Chloride,Ethylene Glycol,0.3,0.7,8.334,4.073,4.678,-1.648,1.127,2.775
+12,0,S2_D1,run0_S2_D1,Choline Chloride,Ethylene Glycol,0.35,0.65,7.23,4.042,4.23,-1.661,1.131,2.792
+16,0,S2_E1,run0_S2_E1,Choline Chloride,Ethylene Glycol,0.4,0.6,8.008,4.204,4.795,-1.67,1.145,2.815
+20,0,S2_F1,run0_S2_F1,Choline Chloride,Ethylene Glycol,0.45,0.55,4.267,3.308,3.556,-1.694,1.161,2.855
+24,0,S2_A2,run0_S2_A2,Choline Chloride,Ethylene Glycol,0.5,0.5,,,,,,
+25,0,S2_B2,run0_S2_B2,Choline Chloride,Ethylene Glycol,0.55,0.45,2.964,2.797,3.009,-1.714,1.166,2.881
+29,0,S2_C2,run0_S2_C2,Choline Chloride,Ethylene Glycol,0.6,0.4,,,,,,
+30,0,S2_D2,run0_S2_D2,Choline Chloride,Ethylene Glycol,0.7,0.3,,,,,,
+31,0,S2_E2,run0_S2_E2,Choline Chloride,Ethylene Glycol,0.8,0.2,,,,,,
+32,0,S2_F2,run0_S2_F2,Choline Chloride,Ethylene Glycol,0.9,0.1,,,,,,
+33,0,S2_A3,run0_S2_A3,Choline Chloride,Glycerol,0.1,0.9,0.468,0.603,0.678,-1.763,1.199,2.961
+37,0,S2_B3,run0_S2_B3,Choline Chloride,Glycerol,0.2,0.8,1.195,1.247,1.437,-1.785,1.171,2.956
+41,0,S2_C3,run0_S2_C3,Choline Chloride,Glycerol,0.3,0.7,1.717,1.778,2.083,-1.805,1.157,2.963
+45,0,S2_D3,run0_S2_D3,Choline Chloride,Glycerol,0.35,0.65,2.533,2.036,2.385,-1.78,1.153,2.933
+49,0,S2_E3,run0_S2_E3,Choline Chloride,Glycerol,0.4,0.6,2.037,2,2.471,-1.838,1.152,2.99
+53,0,S2_F3,run0_S2_F3,Choline Chloride,Glycerol,0.45,0.55,2.377,2.193,2.602,-1.84,1.155,2.995
+57,0,S2_A4,run0_S2_A4,Choline Chloride,Glycerol,0.5,0.5,3.033,2.634,3.201,-1.841,1.157,2.997
+61,0,S2_B4,run0_S2_B4,Choline Chloride,Glycerol,0.55,0.45,3.147,2.708,3.211,-1.836,1.167,3.003
+65,0,S2_C4,run0_S2_C4,Choline Chloride,Glycerol,0.6,0.4,3.119,2.829,3.113,-1.83,1.181,3.012
+69,0,S2_D4,run0_S2_D4,Choline Chloride,Glycerol,0.7,0.3,,,,,,
+70,0,S2_E4,run0_S2_E4,Choline Chloride,Glycerol,0.8,0.2,,,,,,
+71,0,S2_F4,run0_S2_F4,Choline Chloride,Glycerol,0.9,0.1,,,,,,
+72,0,S2_A5,run0_S2_A5,Choline Chloride,Acetamide,0.1,0.9,,,,,,
+73,0,S2_B5,run0_S2_B5,Choline Chloride,Acetamide,0.2,0.8,,,,,,
+74,0,S2_C5,run0_S2_C5,Choline Chloride,Acetamide,0.3,0.7,3.395,3.412,3.604,-1.678,1.105,2.783
+78,0,S2_D5,run0_S2_D5,Choline Chloride,Acetamide,0.35,0.65,3.408,3.403,3.367,-1.678,1.11,2.787
+82,0,S2_E5,run0_S2_E5,Choline Chloride,Acetamide,0.4,0.6,3.485,3.414,3.222,-1.678,1.124,2.802
+86,0,S2_F5,run0_S2_F5,Choline Chloride,Acetamide,0.45,0.55,3.269,3.279,3.04,-1.137,1.135,2.272
+90,0,S2_A6,run0_S2_A6,Choline Chloride,Acetamide,0.5,0.5,3.674,3.287,3.115,-1.686,1.143,2.829
+94,0,S2_B6,run0_S2_B6,Choline Chloride,Acetamide,0.55,0.45,,,,,,
+95,0,S2_C6,run0_S2_C6,Choline Chloride,Acetamide,0.6,0.4,,,,,,
+96,0,S2_D6,run0_S2_D6,Choline Chloride,Acetamide,0.7,0.3,,,,,,
+97,0,S2_E6,run0_S2_E6,Choline Chloride,Acetamide,0.8,0.2,,,,,,
+98,0,S2_F6,run0_S2_F6,Choline Chloride,Acetamide,0.9,0.1,,,,,,
+99,0,S2_A7,run0_S2_A7,Choline Chloride,"N,N-dimethylurea",0.1,0.9,,,,,,
+100,0,S2_B7,run0_S2_B7,Choline Chloride,"N,N-dimethylurea",0.2,0.8,,,,,,
+101,0,S2_C7,run0_S2_C7,Choline Chloride,"N,N-dimethylurea",0.3,0.7,,,,,,
+102,0,S2_D7,run0_S2_D7,Choline Chloride,"N,N-dimethylurea",0.35,0.65,,,,,,
+103,0,S2_E7,run0_S2_E7,Choline Chloride,"N,N-dimethylurea",0.4,0.6,,,,,,
+104,0,S2_F7,run0_S2_F7,Choline Chloride,"N,N-dimethylurea",0.45,0.55,,,,,,
+105,0,S2_A8,run0_S2_A8,Choline Chloride,"N,N-dimethylurea",0.5,0.5,,,,,,
+106,0,S2_B8,run0_S2_B8,Choline Chloride,"N,N-dimethylurea",0.55,0.45,,,,,,
+107,0,S2_C8,run0_S2_C8,Choline Chloride,"N,N-dimethylurea",0.6,0.4,,,,,,
+108,0,S2_D8,run0_S2_D8,Choline Chloride,"N,N-dimethylurea",0.7,0.3,,,,,,
+109,0,S2_E8,run0_S2_E8,Choline Chloride,"N,N-dimethylurea",0.8,0.2,,,,,,
+110,0,S2_F8,run0_S2_F8,Choline Chloride,"N,N-dimethylurea",0.9,0.1,,,,,,
+111,0,S3_A1,run0_S3_A1,Choline Chloride,3-phenylpropionic acid,0.1,0.9,0.026,0.055,0.024,,,
+115,0,S3_B1,run0_S3_B1,Choline Chloride,3-phenylpropionic acid,0.2,0.8,0.216,0.358,0.261,-3.091,1.252,4.343
+119,0,S3_C1,run0_S3_C1,Choline Chloride,3-phenylpropionic acid,0.3,0.7,0.417,0.61,0.568,-2.845,1.224,4.069
+123,0,S3_D1,run0_S3_D1,Choline Chloride,3-phenylpropionic acid,0.35,0.65,,,,,,
+124,0,S3_E1,run0_S3_E1,Choline Chloride,3-phenylpropionic acid,0.4,0.6,,,,,,
+125,0,S3_F1,run0_S3_F1,Choline Chloride,3-phenylpropionic acid,0.45,0.55,,,,,,
+126,0,S3_A2,run0_S3_A2,Choline Chloride,3-phenylpropionic acid,0.5,0.5,,,,,,
+127,0,S3_B2,run0_S3_B2,Choline Chloride,3-phenylpropionic acid,0.55,0.45,,,,,,
+128,0,S3_C2,run0_S3_C2,Choline Chloride,3-phenylpropionic acid,0.6,0.4,,,,,,
+129,0,S3_D2,run0_S3_D2,Choline Chloride,3-phenylpropionic acid,0.7,0.3,,,,,,
+130,0,S3_E2,run0_S3_E2,Choline Chloride,3-phenylpropionic acid,0.8,0.2,,,,,,
+131,0,S3_F2,run0_S3_F2,Choline Chloride,3-phenylpropionic acid,0.9,0.1,,,,,,
+132,0,S3_A3,run0_S3_A3,Choline Chloride,Urea,0.1,0.9,,,,,,
+133,0,S3_B3,run0_S3_B3,Choline Chloride,Urea,0.2,0.8,,,,,,
+134,0,S3_C3,run0_S3_C3,Choline Chloride,Urea,0.3,0.7,2.701,1.661,2.343,-1.855,1.241,3.095
+138,0,S3_D3,run0_S3_D3,Choline Chloride,Urea,0.35,0.65,3.521,1.965,2.747,-1.851,1.233,3.083
+142,0,S3_E3,run0_S3_E3,Choline Chloride,Urea,0.4,0.6,4.053,2.146,2.915,-1.839,1.228,3.067
+146,0,S3_F3,run0_S3_F3,Choline Chloride,Urea,0.45,0.55,4.225,2.13,2.969,-1.801,1.208,3.009
+150,0,S3_A4,run0_S3_A4,Choline Chloride,Urea,0.5,0.5,4.083,2.23,3.018,-1.811,1.218,3.029
+154,0,S3_B4,run0_S3_B4,Choline Chloride,Urea,0.55,0.45,4.863,2.677,3.301,-1.814,1.204,3.017
+158,0,S3_C4,run0_S3_C4,Choline Chloride,Urea,0.6,0.4,4.999,2.556,3.36,-1.804,1.211,3.016
+162,0,S3_D4,run0_S3_D4,Choline Chloride,Urea,0.7,0.3,,,,,,
+163,0,S3_E4,run0_S3_E4,Choline Chloride,Urea,0.8,0.2,,,,,,
+164,0,S3_F4,run0_S3_F4,Choline Chloride,Urea,0.9,0.1,,,,,,
+165,0,S3_A5,run0_S3_A5,Choline Chloride,L-serine,0.1,0.9,,,,,,
+166,0,S3_B5,run0_S3_B5,Choline Chloride,L-serine,0.2,0.8,,,,,,
+167,0,S3_C5,run0_S3_C5,Choline Chloride,L-serine,0.3,0.7,,,,,,
+168,0,S3_D5,run0_S3_D5,Choline Chloride,L-serine,0.35,0.65,,,,,,
+169,0,S3_E5,run0_S3_E5,Choline Chloride,L-serine,0.4,0.6,,,,,,
+170,0,S3_F5,run0_S3_F5,Choline Chloride,L-serine,0.45,0.55,,,,,,
+171,0,S3_A6,run0_S3_A6,Choline Chloride,L-serine,0.5,0.5,,,,,,
+172,0,S3_B6,run0_S3_B6,Choline Chloride,L-serine,0.55,0.45,,,,,,
+173,0,S3_C6,run0_S3_C6,Choline Chloride,L-serine,0.6,0.4,,,,,,
+174,0,S3_D6,run0_S3_D6,Choline Chloride,L-serine,0.7,0.3,,,,,,
+175,0,S3_E6,run0_S3_E6,Choline Chloride,L-serine,0.8,0.2,,,,,,
+176,0,S3_F6,run0_S3_F6,Choline Chloride,L-serine,0.9,0.1,,,,,,
+177,0,S3_A7,run0_S3_A7,Choline Chloride,4-amino triazole,0.1,0.9,,,,,,
+178,0,S3_B7,run0_S3_B7,Choline Chloride,4-amino triazole,0.2,0.8,,,,,,
+179,0,S3_C7,run0_S3_C7,Choline Chloride,4-amino triazole,0.3,0.7,3.202,3.142,1.981,-1.829,1.119,2.948
+183,0,S3_D7,run0_S3_D7,Choline Chloride,4-amino triazole,0.35,0.65,3.352,3.282,1.875,-1.848,1.138,2.987
+187,0,S3_E7,run0_S3_E7,Choline Chloride,4-amino triazole,0.4,0.6,2.958,3.071,1.875,-1.877,1.162,3.039
+191,0,S3_F7,run0_S3_F7,Choline Chloride,4-amino triazole,0.45,0.55,3.019,2.964,1.825,-1.853,1.17,3.023
+195,0,S3_A8,run0_S3_A8,Choline Chloride,4-amino triazole,0.5,0.5,3.698,3.214,2.027,-1.874,1.181,3.055
+199,0,S3_B8,run0_S3_B8,Choline Chloride,4-amino triazole,0.55,0.45,3.255,2.99,2.052,-1.881,1.194,3.074
+203,0,S3_C8,run0_S3_C8,Choline Chloride,4-amino triazole,0.6,0.4,,,,,,
+204,0,S3_D8,run0_S3_D8,Choline Chloride,4-amino triazole,0.7,0.3,,,,,,
+205,0,S3_E8,run0_S3_E8,Choline Chloride,4-amino triazole,0.8,0.2,,,,,,
+206,0,S3_F8,run0_S3_F8,Choline Chloride,4-amino triazole,0.9,0.1,,,,,,
+207,0,S5_A1,run0_S5_A1,Choline Chloride,Xylitol,0.1,0.9,0.002,0.003,0.003,,,
+211,0,S5_B1,run0_S5_B1,Choline Chloride,Xylitol,0.2,0.8,,,,,,
+212,0,S5_C1,run0_S5_C1,Choline Chloride,Xylitol,0.3,0.7,0.074,0.114,0.101,-2.438,1.436,3.874
+216,0,S5_D1,run0_S5_D1,Choline Chloride,Xylitol,0.35,0.65,0.144,0.227,0.207,-2.234,1.289,3.523
+220,0,S5_E1,run0_S5_E1,Choline Chloride,Xylitol,0.4,0.6,0.203,0.319,0.256,-2.112,1.275,3.388
+224,0,S5_F1,run0_S5_F1,Choline Chloride,Xylitol,0.45,0.55,0.266,0.427,0.386,-2.088,1.239,3.327
+228,0,S5_A2,run0_S5_A2,Choline Chloride,Xylitol,0.5,0.5,0.444,0.635,0.636,-1.992,1.184,3.176
+232,0,S5_B2,run0_S5_B2,Choline Chloride,Xylitol,0.55,0.45,0.603,0.795,0.849,-1.959,1.171,3.13
+236,0,S5_C2,run0_S5_C2,Choline Chloride,Xylitol,0.6,0.4,0.884,0.98,1.216,-1.926,1.175,3.102
+240,0,S5_D2,run0_S5_D2,Choline Chloride,Xylitol,0.7,0.3,,,,,,
+241,0,S5_E2,run0_S5_E2,Choline Chloride,Xylitol,0.8,0.2,,,,,,
+242,0,S5_F2,run0_S5_F2,Choline Chloride,Xylitol,0.9,0.1,,,,,,
+243,0,S5_A3,run0_S5_A3,Choline Chloride,Phenylacetic acid,0.1,0.9,,,,,,
+244,0,S5_B3,run0_S5_B3,Choline Chloride,Phenylacetic acid,0.2,0.8,0.391,0.176,0.126,,,
+248,0,S5_C3,run0_S5_C3,Choline Chloride,Phenylacetic acid,0.3,0.7,0.759,0.451,0.531,-3.207,1.231,4.439
+252,0,S5_D3,run0_S5_D3,Choline Chloride,Phenylacetic acid,0.35,0.65,0.673,0.33,0.378,,,
+256,0,S5_E3,run0_S5_E3,Choline Chloride,Phenylacetic acid,0.4,0.6,0.904,0.673,0.661,,,
+260,0,S5_F3,run0_S5_F3,Choline Chloride,Phenylacetic acid,0.45,0.55,,,,,,
+261,0,S5_A4,run0_S5_A4,Choline Chloride,Phenylacetic acid,0.5,0.5,,,,,,
+262,0,S5_B4,run0_S5_B4,Choline Chloride,Phenylacetic acid,0.55,0.45,,,,,,
+263,0,S5_C4,run0_S5_C4,Choline Chloride,Phenylacetic acid,0.6,0.4,,,,,,
+264,0,S5_D4,run0_S5_D4,Choline Chloride,Phenylacetic acid,0.7,0.3,,,,,,
+265,0,S5_E4,run0_S5_E4,Choline Chloride,Phenylacetic acid,0.8,0.2,,,,,,
+266,0,S5_F4,run0_S5_F4,Choline Chloride,Phenylacetic acid,0.9,0.1,,,,,,
+0,1,S2_A1,run1_S2_A1,Acetylcholine Chloride,Ethylene Glycol,0.1,0.9,10.469,3.732,4.97,-1.676,1.127,2.803
+4,1,S2_B1,run1_S2_B1,Acetylcholine Chloride,Ethylene Glycol,0.2,0.8,19.63,4.398,5.688,-1.742,1.119,2.86
+8,1,S2_C1,run1_S2_C1,Acetylcholine Chloride,Ethylene Glycol,0.3,0.7,13.736,4.191,5.758,-1.745,1.128,2.874
+12,1,S2_D1,run1_S2_D1,Acetylcholine Chloride,Ethylene Glycol,0.35,0.65,8.259,3.755,4.744,-1.741,1.144,2.885
+16,1,S2_E1,run1_S2_E1,Acetylcholine Chloride,Ethylene Glycol,0.4,0.6,8.76,3.811,4.811,-1.701,1.153,2.855
+20,1,S2_F1,run1_S2_F1,Acetylcholine Chloride,Ethylene Glycol,0.45,0.55,6.964,3.422,3.911,-1.702,1.168,2.87
+24,1,S2_A2,run1_S2_A2,Acetylcholine Chloride,Ethylene Glycol,0.5,0.5,5.014,3.073,3.186,-1.725,1.173,2.897
+28,1,S2_B2,run1_S2_B2,Acetylcholine Chloride,Ethylene Glycol,0.55,0.45,3.665,2.594,2.765,-1.793,1.176,2.968
+32,1,S2_C2,run1_S2_C2,Acetylcholine Chloride,Ethylene Glycol,0.6,0.4,2.799,2.333,2.565,-1.826,1.178,3.004
+36,1,S2_D2,run1_S2_D2,Acetylcholine Chloride,Ethylene Glycol,0.7,0.3,1.635,1.626,1.738,-1.757,1.202,2.959
+40,1,S2_E2,run1_S2_E2,Acetylcholine Chloride,Ethylene Glycol,0.8,0.2,1.094,1.219,1.278,-1.645,1.204,2.849
+44,1,S2_F2,run1_S2_F2,Acetylcholine Chloride,Ethylene Glycol,0.9,0.1,0.668,0.844,0.945,-1.655,1.217,2.871
+48,1,S2_A3,run1_S2_A3,Acetylcholine Chloride,Glycerol,0.1,0.9,0.507,0.705,0.688,-1.855,1.165,3.02
+52,1,S2_B3,run1_S2_B3,Acetylcholine Chloride,Glycerol,0.2,0.8,1.006,1.175,1.301,-1.838,1.156,2.994
+56,1,S2_C3,run1_S2_C3,Acetylcholine Chloride,Glycerol,0.3,0.7,1.455,1.446,1.567,-1.839,1.149,2.989
+60,1,S2_D3,run1_S2_D3,Acetylcholine Chloride,Glycerol,0.35,0.65,1.446,1.457,1.64,-1.853,1.155,3.008
+64,1,S2_E3,run1_S2_E3,Acetylcholine Chloride,Glycerol,0.4,0.6,1.345,1.455,1.62,-1.858,1.159,3.017
+68,1,S2_F3,run1_S2_F3,Acetylcholine Chloride,Glycerol,0.45,0.55,1.322,1.407,1.477,-1.841,1.166,3.008
+72,1,S2_A4,run1_S2_A4,Acetylcholine Chloride,Glycerol,0.5,0.5,1.16,1.261,1.315,-1.843,1.189,3.032
+76,1,S2_B4,run1_S2_B4,Acetylcholine Chloride,Glycerol,0.55,0.45,1.068,1.186,1.242,-1.844,1.195,3.039
+80,1,S2_C4,run1_S2_C4,Acetylcholine Chloride,Glycerol,0.6,0.4,0.985,1.114,1.174,-1.814,1.211,3.025
+84,1,S2_D4,run1_S2_D4,Acetylcholine Chloride,Glycerol,0.7,0.3,0.772,0.908,0.95,-1.811,1.199,3.01
+88,1,S2_E4,run1_S2_E4,Acetylcholine Chloride,Glycerol,0.8,0.2,0.69,0.818,0.897,-1.746,1.226,2.972
+92,1,S2_F4,run1_S2_F4,Acetylcholine Chloride,Glycerol,0.9,0.1,0.63,0.748,0.854,-1.756,1.23,2.985
+96,1,S2_A5,run1_S2_A5,Acetylcholine Chloride,Acetamide,0.1,0.9,,,,,,
+97,1,S2_B5,run1_S2_B5,Acetylcholine Chloride,Acetamide,0.2,0.8,2.665,3.636,3.67,-1.768,1.103,2.871
+101,1,S2_C5,run1_S2_C5,Acetylcholine Chloride,Acetamide,0.3,0.7,1.868,2.589,2.84,-1.784,1.135,2.918
+105,1,S2_D5,run1_S2_D5,Acetylcholine Chloride,Acetamide,0.35,0.65,1.647,2.428,2.597,-1.778,1.147,2.925
+109,1,S2_E5,run1_S2_E5,Acetylcholine Chloride,Acetamide,0.4,0.6,1.429,2.024,1.953,-1.784,1.15,2.934
+113,1,S2_F5,run1_S2_F5,Acetylcholine Chloride,Acetamide,0.45,0.55,1.307,1.75,1.538,-1.781,1.162,2.943
+117,1,S2_A6,run1_S2_A6,Acetylcholine Chloride,Acetamide,0.5,0.5,1.121,1.528,1.461,-1.8,1.164,2.964
+121,1,S2_B6,run1_S2_B6,Acetylcholine Chloride,Acetamide,0.55,0.45,0.921,1.373,1.536,-1.792,1.177,2.969
+125,1,S2_C6,run1_S2_C6,Acetylcholine Chloride,Acetamide,0.6,0.4,0.864,1.224,0.907,-1.794,1.182,2.976
+129,1,S2_D6,run1_S2_D6,Acetylcholine Chloride,Acetamide,0.7,0.3,0.8,1.088,0.907,-1.817,1.19,3.006
+133,1,S2_E6,run1_S2_E6,Acetylcholine Chloride,Acetamide,0.8,0.2,0.712,0.899,0.969,-1.809,1.206,3.016
+137,1,S2_F6,run1_S2_F6,Acetylcholine Chloride,Acetamide,0.9,0.1,0.63,0.813,0.809,-1.838,1.221,3.059
+141,1,S2_A7,run1_S2_A7,Acetylcholine Chloride,"N,N-dimethylurea",0.1,0.9,,,,,,
+142,1,S2_B7,run1_S2_B7,Acetylcholine Chloride,"N,N-dimethylurea",0.2,0.8,,,,,,
+143,1,S2_C7,run1_S2_C7,Acetylcholine Chloride,"N,N-dimethylurea",0.3,0.7,,,,,,
+144,1,S2_D7,run1_S2_D7,Acetylcholine Chloride,"N,N-dimethylurea",0.35,0.65,,,,,,
+145,1,S2_E7,run1_S2_E7,Acetylcholine Chloride,"N,N-dimethylurea",0.4,0.6,1.161,1.515,1.725,-1.87,1.178,3.049
+149,1,S2_F7,run1_S2_F7,Acetylcholine Chloride,"N,N-dimethylurea",0.45,0.55,0.993,1.465,1.7,-1.868,1.177,3.045
+153,1,S2_A8,run1_S2_A8,Acetylcholine Chloride,"N,N-dimethylurea",0.5,0.5,0.859,1.19,1.323,-1.881,1.187,3.069
+157,1,S2_B8,run1_S2_B8,Acetylcholine Chloride,"N,N-dimethylurea",0.55,0.45,0.826,1.164,1.228,-1.877,1.199,3.077
+161,1,S2_C8,run1_S2_C8,Acetylcholine Chloride,"N,N-dimethylurea",0.6,0.4,0.747,1.01,0.733,-1.886,1.201,3.087
+165,1,S2_D8,run1_S2_D8,Acetylcholine Chloride,"N,N-dimethylurea",0.7,0.3,0.673,0.927,0.841,-1.875,1.219,3.094
+169,1,S2_E8,run1_S2_E8,Acetylcholine Chloride,"N,N-dimethylurea",0.8,0.2,0.683,0.898,0.908,-1.863,1.207,3.071
+173,1,S2_F8,run1_S2_F8,Acetylcholine Chloride,"N,N-dimethylurea",0.9,0.1,0.634,0.819,0.852,-1.909,1.204,3.112
+177,1,S3_A1,run1_S3_A1,Acetylcholine Chloride,3-phenylpropionic acid,0.1,0.9,0.061,0.112,0.048,-1.722,1.641,3.362
+181,1,S3_B1,run1_S3_B1,Acetylcholine Chloride,3-phenylpropionic acid,0.2,0.8,0.19,0.321,0.217,-1.853,1.255,3.108
+185,1,S3_C1,run1_S3_C1,Acetylcholine Chloride,3-phenylpropionic acid,0.3,0.7,0.229,0.386,0.328,-1.897,1.187,3.083
+189,1,S3_D1,run1_S3_D1,Acetylcholine Chloride,3-phenylpropionic acid,0.35,0.65,0.179,0.366,0.324,-1.924,1.212,3.136
+193,1,S3_E1,run1_S3_E1,Acetylcholine Chloride,3-phenylpropionic acid,0.4,0.6,0.212,0.382,0.338,-1.935,1.22,3.155
+197,1,S3_F1,run1_S3_F1,Acetylcholine Chloride,3-phenylpropionic acid,0.45,0.55,0.206,0.38,0.336,-1.942,1.221,3.163
+201,1,S3_A2,run1_S3_A2,Acetylcholine Chloride,3-phenylpropionic acid,0.5,0.5,0.229,0.381,0.344,-1.918,1.227,3.145
+205,1,S3_B2,run1_S3_B2,Acetylcholine Chloride,3-phenylpropionic acid,0.55,0.45,0.258,0.44,0.388,-1.874,1.219,3.093
+209,1,S3_C2,run1_S3_C2,Acetylcholine Chloride,3-phenylpropionic acid,0.6,0.4,0.204,0.417,0.378,-1.877,1.227,3.103
+213,1,S3_D2,run1_S3_D2,Acetylcholine Chloride,3-phenylpropionic acid,0.7,0.3,0.23,0.425,0.404,-1.866,1.227,3.093
+217,1,S3_E2,run1_S3_E2,Acetylcholine Chloride,3-phenylpropionic acid,0.8,0.2,0.307,0.55,0.552,-1.839,1.221,3.06
+221,1,S3_F2,run1_S3_F2,Acetylcholine Chloride,3-phenylpropionic acid,0.9,0.1,0.421,0.63,0.645,-1.845,1.222,3.067
+225,1,S3_A3,run1_S3_A3,Acetylcholine Chloride,Urea,0.1,0.9,,,,,,
+226,1,S3_B3,run1_S3_B3,Acetylcholine Chloride,Urea,0.2,0.8,0.487,0.656,0.62,-1.972,1.311,3.284
+230,1,S3_C3,run1_S3_C3,Acetylcholine Chloride,Urea,0.3,0.7,0.475,0.628,0.578,-1.955,1.293,3.248
+234,1,S3_D3,run1_S3_D3,Acetylcholine Chloride,Urea,0.35,0.65,0.437,0.589,0.533,-1.918,1.302,3.22
+238,1,S3_E3,run1_S3_E3,Acetylcholine Chloride,Urea,0.4,0.6,0.455,0.591,0.511,-1.903,1.304,3.207
+242,1,S3_F3,run1_S3_F3,Acetylcholine Chloride,Urea,0.45,0.55,0.43,0.559,0.521,-1.874,1.309,3.183
+246,1,S3_A4,run1_S3_A4,Acetylcholine Chloride,Urea,0.5,0.5,0.397,0.575,0.542,-1.872,1.279,3.151
+250,1,S3_B4,run1_S3_B4,Acetylcholine Chloride,Urea,0.55,0.45,0.398,0.587,0.568,-1.869,1.263,3.132
+254,1,S3_C4,run1_S3_C4,Acetylcholine Chloride,Urea,0.6,0.4,0.422,0.587,0.545,-1.862,1.268,3.129
+258,1,S3_D4,run1_S3_D4,Acetylcholine Chloride,Urea,0.7,0.3,0.447,0.613,0.603,-1.84,1.245,3.085
+262,1,S3_E4,run1_S3_E4,Acetylcholine Chloride,Urea,0.8,0.2,0.475,0.638,0.611,-1.821,1.234,3.054
+266,1,S3_F4,run1_S3_F4,Acetylcholine Chloride,Urea,0.9,0.1,0.495,0.669,0.659,-1.791,1.238,3.029
+270,1,S3_A5,run1_S3_A5,Acetylcholine Chloride,L-serine,0.1,0.9,,,,,,
+271,1,S3_B5,run1_S3_B5,Acetylcholine Chloride,L-serine,0.2,0.8,,,,,,
+272,1,S3_C5,run1_S3_C5,Acetylcholine Chloride,L-serine,0.3,0.7,,,,,,
+273,1,S3_D5,run1_S3_D5,Acetylcholine Chloride,L-serine,0.35,0.65,,,,,,
+274,1,S3_E5,run1_S3_E5,Acetylcholine Chloride,L-serine,0.4,0.6,,,,,,
+275,1,S3_F5,run1_S3_F5,Acetylcholine Chloride,L-serine,0.45,0.55,,,,,,
+276,1,S3_A6,run1_S3_A6,Acetylcholine Chloride,L-serine,0.5,0.5,,,,,,
+277,1,S3_B6,run1_S3_B6,Acetylcholine Chloride,L-serine,0.55,0.45,,,,,,
+278,1,S3_C6,run1_S3_C6,Acetylcholine Chloride,L-serine,0.6,0.4,,,,,,
+279,1,S3_D6,run1_S3_D6,Acetylcholine Chloride,L-serine,0.7,0.3,,,,,,
+280,1,S3_E6,run1_S3_E6,Acetylcholine Chloride,L-serine,0.8,0.2,,,,,,
+281,1,S3_F6,run1_S3_F6,Acetylcholine Chloride,L-serine,0.9,0.1,,,,,,
+282,1,S3_A7,run1_S3_A7,Acetylcholine Chloride,4-amino triazole,0.1,0.9,,,,,,
+283,1,S3_B7,run1_S3_B7,Acetylcholine Chloride,4-amino triazole,0.2,0.8,1.37,1.672,1.148,-1.836,1.068,2.904
+287,1,S3_C7,run1_S3_C7,Acetylcholine Chloride,4-amino triazole,0.3,0.7,1.172,1.464,1.018,-1.856,1.086,2.943
+291,1,S3_D7,run1_S3_D7,Acetylcholine Chloride,4-amino triazole,0.35,0.65,0.872,1.088,0.747,-1.876,1.132,3.008
+295,1,S3_E7,run1_S3_E7,Acetylcholine Chloride,4-amino triazole,0.4,0.6,0.856,1.069,0.818,-1.874,1.142,3.016
+299,1,S3_F7,run1_S3_F7,Acetylcholine Chloride,4-amino triazole,0.45,0.55,0.771,0.966,0.707,-1.85,1.167,3.016
+303,1,S3_A8,run1_S3_A8,Acetylcholine Chloride,4-amino triazole,0.5,0.5,0.7,0.936,0.7,-1.826,1.209,3.035
+307,1,S3_B8,run1_S3_B8,Acetylcholine Chloride,4-amino triazole,0.55,0.45,0.709,0.915,0.685,-1.849,1.223,3.072
+311,1,S3_C8,run1_S3_C8,Acetylcholine Chloride,4-amino triazole,0.6,0.4,0.651,0.78,0.632,-1.867,1.231,3.098
+315,1,S3_D8,run1_S3_D8,Acetylcholine Chloride,4-amino triazole,0.7,0.3,0.61,0.743,0.617,-1.868,1.301,3.169
+319,1,S3_E8,run1_S3_E8,Acetylcholine Chloride,4-amino triazole,0.8,0.2,0.554,0.757,0.627,-1.911,1.286,3.198
+323,1,S3_F8,run1_S3_F8,Acetylcholine Chloride,4-amino triazole,0.9,0.1,0.539,0.76,0.698,-1.901,1.25,3.151
+327,1,S5_A1,run1_S5_A1,Acetylcholine Chloride,Xylitol,0.1,0.9,0.002,0.003,0.002,,,
+331,1,S5_B1,run1_S5_B1,Acetylcholine Chloride,Xylitol,0.2,0.8,0.008,0.017,0.007,,,
+335,1,S5_C1,run1_S5_C1,Acetylcholine Chloride,Xylitol,0.3,0.7,0.02,0.052,0.028,,,
+339,1,S5_D1,run1_S5_D1,Acetylcholine Chloride,Xylitol,0.35,0.65,,,,,,
+340,1,S5_E1,run1_S5_E1,Acetylcholine Chloride,Xylitol,0.4,0.6,0.042,0.096,0.056,-3.616,1.111,4.727
+344,1,S5_F1,run1_S5_F1,Acetylcholine Chloride,Xylitol,0.45,0.55,0.058,0.118,0.069,,,
+348,1,S5_A2,run1_S5_A2,Acetylcholine Chloride,Xylitol,0.5,0.5,0.068,0.128,0.092,-3.059,1.301,4.361
+352,1,S5_B2,run1_S5_B2,Acetylcholine Chloride,Xylitol,0.55,0.45,0.114,0.205,0.145,-2.358,1.295,3.653
+356,1,S5_C2,run1_S5_C2,Acetylcholine Chloride,Xylitol,0.6,0.4,0.107,0.265,0.147,-2.224,1.201,3.425
+360,1,S5_D2,run1_S5_D2,Acetylcholine Chloride,Xylitol,0.7,0.3,0.094,0.222,0.171,-2.236,1.194,3.43
+364,1,S5_E2,run1_S5_E2,Acetylcholine Chloride,Xylitol,0.8,0.2,0.146,0.256,0.23,-1.898,1.246,3.143
+368,1,S5_F2,run1_S5_F2,Acetylcholine Chloride,Xylitol,0.9,0.1,0.416,0.546,0.557,-1.884,1.222,3.106
+372,1,S5_A3,run1_S5_A3,Acetylcholine Chloride,Phenylacetic acid,0.1,0.9,,,,,,
+373,1,S5_B3,run1_S5_B3,Acetylcholine Chloride,Phenylacetic acid,0.2,0.8,,,,,,
+374,1,S5_C3,run1_S5_C3,Acetylcholine Chloride,Phenylacetic acid,0.3,0.7,0.36,0.542,0.535,-1.262,1.201,2.463
+378,1,S5_D3,run1_S5_D3,Acetylcholine Chloride,Phenylacetic acid,0.35,0.65,0.373,0.49,0.482,-1.351,1.189,2.54
+382,1,S5_E3,run1_S5_E3,Acetylcholine Chloride,Phenylacetic acid,0.4,0.6,0.308,0.422,0.405,-1.503,1.198,2.7
+386,1,S5_F3,run1_S5_F3,Acetylcholine Chloride,Phenylacetic acid,0.45,0.55,0.435,0.556,0.561,-1.35,1.223,2.573
+390,1,S5_A4,run1_S5_A4,Acetylcholine Chloride,Phenylacetic acid,0.5,0.5,0.273,0.439,0.386,-1.853,1.185,3.038
+394,1,S5_B4,run1_S5_B4,Acetylcholine Chloride,Phenylacetic acid,0.55,0.45,0.276,0.435,0.382,-1.878,1.203,3.081
+398,1,S5_C4,run1_S5_C4,Acetylcholine Chloride,Phenylacetic acid,0.6,0.4,0.246,0.415,0.362,-1.865,1.212,3.077
+402,1,S5_D4,run1_S5_D4,Acetylcholine Chloride,Phenylacetic acid,0.7,0.3,0.268,0.427,0.374,-1.847,1.234,3.081
+406,1,S5_E4,run1_S5_E4,Acetylcholine Chloride,Phenylacetic acid,0.8,0.2,0.253,0.403,0.372,-1.873,1.235,3.108
+410,1,S5_F4,run1_S5_F4,Acetylcholine Chloride,Phenylacetic acid,0.9,0.1,0.27,0.412,0.383,-1.91,1.236,3.147
+414,1,S5_A5,run1_S5_A5,Tetraethylammonium Chloride,Ethylene Glycol,0.1,0.9,4.751,2.92,3.862,-1.599,1.126,2.725
+418,1,S5_B5,run1_S5_B5,Tetraethylammonium Chloride,Ethylene Glycol,0.2,0.8,6.398,3.667,4.446,-1.656,1.142,2.798
+422,1,S5_C5,run1_S5_C5,Tetraethylammonium Chloride,Ethylene Glycol,0.3,0.7,4.137,3.137,3.333,-1.752,1.154,2.906
+426,1,S5_D5,run1_S5_D5,Tetraethylammonium Chloride,Ethylene Glycol,0.35,0.65,5.77,3.723,3.975,-1.713,1.158,2.872
+430,1,S5_E5,run1_S5_E5,Tetraethylammonium Chloride,Ethylene Glycol,0.4,0.6,4.79,3.558,3.601,-1.704,1.165,2.869
+434,1,S5_F5,run1_S5_F5,Tetraethylammonium Chloride,Ethylene Glycol,0.45,0.55,4.713,3.482,3.521,-1.708,1.18,2.888
+438,1,S5_A6,run1_S5_A6,Tetraethylammonium Chloride,Ethylene Glycol,0.5,0.5,5.097,3.393,3.225,-1.73,1.179,2.91
+442,1,S5_B6,run1_S5_B6,Tetraethylammonium Chloride,Ethylene Glycol,0.55,0.45,,,,,,
+443,1,S5_C6,run1_S5_C6,Tetraethylammonium Chloride,Ethylene Glycol,0.6,0.4,,,,,,
+444,1,S5_D6,run1_S5_D6,Tetraethylammonium Chloride,Ethylene Glycol,0.7,0.3,,,,,,
+445,1,S5_E6,run1_S5_E6,Tetraethylammonium Chloride,Ethylene Glycol,0.8,0.2,,,,,,
+446,1,S5_F6,run1_S5_F6,Tetraethylammonium Chloride,Ethylene Glycol,0.9,0.1,,,,,,
+447,1,S5_A7,run1_S5_A7,Tetraethylammonium Chloride,Glycerol,0.1,0.9,0.38,0.506,0.534,-1.84,1.177,3.017
+451,1,S5_B7,run1_S5_B7,Tetraethylammonium Chloride,Glycerol,0.2,0.8,0.669,0.869,0.862,-1.901,1.151,3.053
+455,1,S5_C7,run1_S5_C7,Tetraethylammonium Chloride,Glycerol,0.3,0.7,1.077,1.325,1.361,-1.881,1.166,3.047
+459,1,S5_D7,run1_S5_D7,Tetraethylammonium Chloride,Glycerol,0.35,0.65,1.305,1.589,1.587,-1.871,1.173,3.044
+463,1,S5_E7,run1_S5_E7,Tetraethylammonium Chloride,Glycerol,0.4,0.6,1.379,1.67,1.741,-1.859,1.181,3.04
+467,1,S5_F7,run1_S5_F7,Tetraethylammonium Chloride,Glycerol,0.45,0.55,1.368,1.661,1.591,-1.854,1.193,3.046
+471,1,S5_A8,run1_S5_A8,Tetraethylammonium Chloride,Glycerol,0.5,0.5,1.735,2.002,1.976,-1.832,1.19,3.022
+475,1,S5_B8,run1_S5_B8,Tetraethylammonium Chloride,Glycerol,0.55,0.45,1.715,1.954,1.919,-1.823,1.195,3.018
+479,1,S5_C8,run1_S5_C8,Tetraethylammonium Chloride,Glycerol,0.6,0.4,1.52,1.801,1.723,-1.817,1.214,3.031
+483,1,S5_D8,run1_S5_D8,Tetraethylammonium Chloride,Glycerol,0.7,0.3,,,,,,
+484,1,S5_E8,run1_S5_E8,Tetraethylammonium Chloride,Glycerol,0.8,0.2,,,,,,
+485,1,S5_F8,run1_S5_F8,Tetraethylammonium Chloride,Glycerol,0.9,0.1,,,,,,
+486,1,S6_A1,run1_S6_A1,Tetraethylammonium Chloride,Acetamide,0.1,0.9,,,,,,
+487,1,S6_B1,run1_S6_B1,Tetraethylammonium Chloride,Acetamide,0.2,0.8,1.693,2.236,2.196,-1.824,1.15,2.974
+491,1,S6_C1,run1_S6_C1,Tetraethylammonium Chloride,Acetamide,0.3,0.7,1.325,1.966,1.627,-1.824,1.164,2.988
+495,1,S6_D1,run1_S6_D1,Tetraethylammonium Chloride,Acetamide,0.35,0.65,1.484,1.951,1.71,-1.815,1.172,2.987
+499,1,S6_E1,run1_S6_E1,Tetraethylammonium Chloride,Acetamide,0.4,0.6,1.264,1.795,1.576,-1.814,1.178,2.992
+503,1,S6_F1,run1_S6_F1,Tetraethylammonium Chloride,Acetamide,0.45,0.55,1.311,1.695,1.537,-1.776,1.205,2.981
+507,1,S6_A2,run1_S6_A2,Tetraethylammonium Chloride,Acetamide,0.5,0.5,,,,,,
+508,1,S6_B2,run1_S6_B2,Tetraethylammonium Chloride,Acetamide,0.55,0.45,,,,,,
+509,1,S6_C2,run1_S6_C2,Tetraethylammonium Chloride,Acetamide,0.6,0.4,,,,,,
+510,1,S6_D2,run1_S6_D2,Tetraethylammonium Chloride,Acetamide,0.7,0.3,,,,,,
+511,1,S6_E2,run1_S6_E2,Tetraethylammonium Chloride,Acetamide,0.8,0.2,,,,,,
+512,1,S6_F2,run1_S6_F2,Tetraethylammonium Chloride,Acetamide,0.9,0.1,,,,,,
+513,1,S6_A3,run1_S6_A3,Tetraethylammonium Chloride,"N,N-dimethylurea",0.1,0.9,,,,,,
+514,1,S6_B3,run1_S6_B3,Tetraethylammonium Chloride,"N,N-dimethylurea",0.2,0.8,,,,,,
+515,1,S6_C3,run1_S6_C3,Tetraethylammonium Chloride,"N,N-dimethylurea",0.3,0.7,1.81,2.184,2.006,-1.815,1.176,2.991
+519,1,S6_D3,run1_S6_D3,Tetraethylammonium Chloride,"N,N-dimethylurea",0.35,0.65,1.92,2.279,2.038,-1.795,1.177,2.972
+523,1,S6_E3,run1_S6_E3,Tetraethylammonium Chloride,"N,N-dimethylurea",0.4,0.6,1.87,2.259,1.963,-1.81,1.195,3.005
+527,1,S6_F3,run1_S6_F3,Tetraethylammonium Chloride,"N,N-dimethylurea",0.45,0.55,1.798,1.984,1.802,-1.803,1.206,3.009
+531,1,S6_A4,run1_S6_A4,Tetraethylammonium Chloride,"N,N-dimethylurea",0.5,0.5,,,,,,
+532,1,S6_B4,run1_S6_B4,Tetraethylammonium Chloride,"N,N-dimethylurea",0.55,0.45,,,,,,
+533,1,S6_C4,run1_S6_C4,Tetraethylammonium Chloride,"N,N-dimethylurea",0.6,0.4,,,,,,
+534,1,S6_D4,run1_S6_D4,Tetraethylammonium Chloride,"N,N-dimethylurea",0.7,0.3,,,,,,
+535,1,S6_E4,run1_S6_E4,Tetraethylammonium Chloride,"N,N-dimethylurea",0.8,0.2,,,,,,
+536,1,S6_F4,run1_S6_F4,Tetraethylammonium Chloride,"N,N-dimethylurea",0.9,0.1,,,,,,
+537,1,S6_A5,run1_S6_A5,Tetraethylammonium Chloride,3-phenylpropionic acid,0.1,0.9,0.159,0.23,0.123,-1.541,1.594,3.135
+541,1,S6_B5,run1_S6_B5,Tetraethylammonium Chloride,3-phenylpropionic acid,0.2,0.8,0.307,0.539,0.416,-1.795,1.165,2.961
+545,1,S6_C5,run1_S6_C5,Tetraethylammonium Chloride,3-phenylpropionic acid,0.3,0.7,0.404,0.682,0.476,-1.849,1.193,3.042
+549,1,S6_D5,run1_S6_D5,Tetraethylammonium Chloride,3-phenylpropionic acid,0.35,0.65,0.398,0.701,0.477,-1.878,1.213,3.092
+553,1,S6_E5,run1_S6_E5,Tetraethylammonium Chloride,3-phenylpropionic acid,0.4,0.6,0.439,0.718,0.491,-2.004,1.261,3.265
+557,1,S6_F5,run1_S6_F5,Tetraethylammonium Chloride,3-phenylpropionic acid,0.45,0.55,0.412,0.744,0.519,-2.336,1.262,3.599
+561,1,S6_A6,run1_S6_A6,Tetraethylammonium Chloride,3-phenylpropionic acid,0.5,0.5,,,,,,
+562,1,S6_B6,run1_S6_B6,Tetraethylammonium Chloride,3-phenylpropionic acid,0.55,0.45,,,,,,
+563,1,S6_C6,run1_S6_C6,Tetraethylammonium Chloride,3-phenylpropionic acid,0.6,0.4,,,,,,
+564,1,S6_D6,run1_S6_D6,Tetraethylammonium Chloride,3-phenylpropionic acid,0.7,0.3,,,,,,
+565,1,S6_E6,run1_S6_E6,Tetraethylammonium Chloride,3-phenylpropionic acid,0.8,0.2,,,,,,
+566,1,S6_F6,run1_S6_F6,Tetraethylammonium Chloride,3-phenylpropionic acid,0.9,0.1,,,,,,
+567,1,S6_A7,run1_S6_A7,Tetraethylammonium Chloride,Urea,0.1,0.9,,,,,,
+568,1,S6_B7,run1_S6_B7,Tetraethylammonium Chloride,Urea,0.2,0.8,,,,,,
+569,1,S6_C7,run1_S6_C7,Tetraethylammonium Chloride,Urea,0.3,0.7,,,,,,
+570,1,S6_D7,run1_S6_D7,Tetraethylammonium Chloride,Urea,0.35,0.65,,,,,,
+571,1,S6_E7,run1_S6_E7,Tetraethylammonium Chloride,Urea,0.4,0.6,,,,,,
+572,1,S6_F7,run1_S6_F7,Tetraethylammonium Chloride,Urea,0.45,0.55,,,,,,
+573,1,S6_A8,run1_S6_A8,Tetraethylammonium Chloride,Urea,0.5,0.5,,,,,,
+574,1,S6_B8,run1_S6_B8,Tetraethylammonium Chloride,Urea,0.55,0.45,,,,,,
+575,1,S6_C8,run1_S6_C8,Tetraethylammonium Chloride,Urea,0.6,0.4,,,,,,
+576,1,S6_D8,run1_S6_D8,Tetraethylammonium Chloride,Urea,0.7,0.3,,,,,,
+577,1,S6_E8,run1_S6_E8,Tetraethylammonium Chloride,Urea,0.8,0.2,,,,,,
+578,1,S6_F8,run1_S6_F8,Tetraethylammonium Chloride,Urea,0.9,0.1,,,,,,
+579,1,S9_A1,run1_S9_A1,Tetraethylammonium Chloride,L-serine,0.1,0.9,,,,,,
+580,1,S9_B1,run1_S9_B1,Tetraethylammonium Chloride,L-serine,0.2,0.8,,,,,,
+581,1,S9_C1,run1_S9_C1,Tetraethylammonium Chloride,L-serine,0.3,0.7,,,,,,
+582,1,S9_D1,run1_S9_D1,Tetraethylammonium Chloride,L-serine,0.35,0.65,,,,,,
+583,1,S9_E1,run1_S9_E1,Tetraethylammonium Chloride,L-serine,0.4,0.6,,,,,,
+584,1,S9_F1,run1_S9_F1,Tetraethylammonium Chloride,L-serine,0.45,0.55,,,,,,
+585,1,S9_A2,run1_S9_A2,Tetraethylammonium Chloride,L-serine,0.5,0.5,,,,,,
+586,1,S9_B2,run1_S9_B2,Tetraethylammonium Chloride,L-serine,0.55,0.45,,,,,,
+587,1,S9_C2,run1_S9_C2,Tetraethylammonium Chloride,L-serine,0.6,0.4,,,,,,
+588,1,S9_D2,run1_S9_D2,Tetraethylammonium Chloride,L-serine,0.7,0.3,,,,,,
+589,1,S9_E2,run1_S9_E2,Tetraethylammonium Chloride,L-serine,0.8,0.2,,,,,,
+590,1,S9_F2,run1_S9_F2,Tetraethylammonium Chloride,L-serine,0.9,0.1,,,,,,
+591,1,S9_A3,run1_S9_A3,Tetraethylammonium Chloride,4-amino triazole,0.1,0.9,,,,,,
+592,1,S9_B3,run1_S9_B3,Tetraethylammonium Chloride,4-amino triazole,0.2,0.8,1.425,1.613,1.179,-1.949,1.062,3.012
+596,1,S9_C3,run1_S9_C3,Tetraethylammonium Chloride,4-amino triazole,0.3,0.7,,,,,,
+597,1,S9_D3,run1_S9_D3,Tetraethylammonium Chloride,4-amino triazole,0.35,0.65,,,,,,
+598,1,S9_E3,run1_S9_E3,Tetraethylammonium Chloride,4-amino triazole,0.4,0.6,,,,,,
+599,1,S9_F3,run1_S9_F3,Tetraethylammonium Chloride,4-amino triazole,0.45,0.55,,,,,,
+600,1,S9_A4,run1_S9_A4,Tetraethylammonium Chloride,4-amino triazole,0.5,0.5,1.018,1.274,0.891,-1.851,1.252,3.103
+604,1,S9_B4,run1_S9_B4,Tetraethylammonium Chloride,4-amino triazole,0.55,0.45,,,,,,
+605,1,S9_C4,run1_S9_C4,Tetraethylammonium Chloride,4-amino triazole,0.6,0.4,,,,,,
+606,1,S9_D4,run1_S9_D4,Tetraethylammonium Chloride,4-amino triazole,0.7,0.3,,,,,,
+607,1,S9_E4,run1_S9_E4,Tetraethylammonium Chloride,4-amino triazole,0.8,0.2,,,,,,
+608,1,S9_F4,run1_S9_F4,Tetraethylammonium Chloride,4-amino triazole,0.9,0.1,,,,,,
+609,1,S9_A5,run1_S9_A5,Tetraethylammonium Chloride,Xylitol,0.1,0.9,0.003,0.004,0.002,,,
+613,1,S9_B5,run1_S9_B5,Tetraethylammonium Chloride,Xylitol,0.2,0.8,0.007,0.021,0.008,,,
+617,1,S9_C5,run1_S9_C5,Tetraethylammonium Chloride,Xylitol,0.3,0.7,0.023,0.054,0.024,,,
+621,1,S9_D5,run1_S9_D5,Tetraethylammonium Chloride,Xylitol,0.35,0.65,0.033,0.065,0.042,-3.229,1.421,4.65
+625,1,S9_E5,run1_S9_E5,Tetraethylammonium Chloride,Xylitol,0.4,0.6,0.051,0.1,0.066,-2.611,1.261,3.872
+629,1,S9_F5,run1_S9_F5,Tetraethylammonium Chloride,Xylitol,0.45,0.55,0.075,0.142,0.098,-2.409,1.326,3.734
+633,1,S9_A6,run1_S9_A6,Tetraethylammonium Chloride,Xylitol,0.5,0.5,0.111,0.19,0.144,-2.305,1.301,3.606
+637,1,S9_B6,run1_S9_B6,Tetraethylammonium Chloride,Xylitol,0.55,0.45,0.131,0.231,0.177,-2.173,1.289,3.463
+641,1,S9_C6,run1_S9_C6,Tetraethylammonium Chloride,Xylitol,0.6,0.4,0.19,0.32,0.24,-2.029,1.302,3.331
+645,1,S9_D6,run1_S9_D6,Tetraethylammonium Chloride,Xylitol,0.7,0.3,,,,,,
+646,1,S9_E6,run1_S9_E6,Tetraethylammonium Chloride,Xylitol,0.8,0.2,,,,,,
+647,1,S9_F6,run1_S9_F6,Tetraethylammonium Chloride,Xylitol,0.9,0.1,,,,,,
+648,1,S9_A7,run1_S9_A7,Tetraethylammonium Chloride,Phenylacetic acid,0.1,0.9,,,,,,
+649,1,S9_B7,run1_S9_B7,Tetraethylammonium Chloride,Phenylacetic acid,0.2,0.8,0.671,1.055,0.849,,,
+653,1,S9_C7,run1_S9_C7,Tetraethylammonium Chloride,Phenylacetic acid,0.3,0.7,0.686,1.085,0.838,-1.728,1.207,2.935
+657,1,S9_D7,run1_S9_D7,Tetraethylammonium Chloride,Phenylacetic acid,0.35,0.65,0.616,1.098,0.784,-1.744,1.201,2.945
+661,1,S9_E7,run1_S9_E7,Tetraethylammonium Chloride,Phenylacetic acid,0.4,0.6,0.651,1.089,0.773,-1.779,1.232,3.011
+665,1,S9_F7,run1_S9_F7,Tetraethylammonium Chloride,Phenylacetic acid,0.45,0.55,0.69,1.127,0.799,-1.998,1.247,3.244
+669,1,S9_A8,run1_S9_A8,Tetraethylammonium Chloride,Phenylacetic acid,0.5,0.5,0.743,1.14,0.919,-3.104,1.252,4.356
+673,1,S9_B8,run1_S9_B8,Tetraethylammonium Chloride,Phenylacetic acid,0.55,0.45,,,,,,
+674,1,S9_C8,run1_S9_C8,Tetraethylammonium Chloride,Phenylacetic acid,0.6,0.4,,,,,,
+675,1,S9_D8,run1_S9_D8,Tetraethylammonium Chloride,Phenylacetic acid,0.7,0.3,,,,,,
+676,1,S9_E8,run1_S9_E8,Tetraethylammonium Chloride,Phenylacetic acid,0.8,0.2,,,,,,
+677,1,S9_F8,run1_S9_F8,Tetraethylammonium Chloride,Phenylacetic acid,0.9,0.1,,,,,,
+0,2,S2_A1,run2_S2_A1,Tetrapropylammonium Bromide,Ethylene Glycol,0.1,0.9,2.369,1.869,0.334,,,
+1,2,S2_B1,run2_S2_B1,Tetrapropylammonium Bromide,Ethylene Glycol,0.2,0.8,1.951,1.845,0.396,,,
+2,2,S2_C1,run2_S2_C1,Tetrapropylammonium Bromide,Ethylene Glycol,0.3,0.7,1.668,1.722,0.109,,,
+3,2,S2_D1,run2_S2_D1,Tetrapropylammonium Bromide,Ethylene Glycol,0.35,0.65,,,,,,
+4,2,S2_E1,run2_S2_E1,Tetrapropylammonium Bromide,Ethylene Glycol,0.4,0.6,,,,,,
+5,2,S2_F1,run2_S2_F1,Tetrapropylammonium Bromide,Ethylene Glycol,0.45,0.55,,,,,,
+6,2,S2_A2,run2_S2_A2,Tetrapropylammonium Bromide,Ethylene Glycol,0.5,0.5,,,,,,
+7,2,S2_B2,run2_S2_B2,Tetrapropylammonium Bromide,Ethylene Glycol,0.55,0.45,,,,,,
+8,2,S2_C2,run2_S2_C2,Tetrapropylammonium Bromide,Ethylene Glycol,0.6,0.4,,,,,,
+9,2,S2_D2,run2_S2_D2,Tetrapropylammonium Bromide,Ethylene Glycol,0.7,0.3,,,,,,
+10,2,S2_E2,run2_S2_E2,Tetrapropylammonium Bromide,Ethylene Glycol,0.8,0.2,,,,,,
+11,2,S2_F2,run2_S2_F2,Tetrapropylammonium Bromide,Ethylene Glycol,0.9,0.1,,,,,,
+12,2,S2_A3,run2_S2_A3,Tetrapropylammonium Bromide,Glycerol,0.1,0.9,0.142,0.19,0.158,,,
+13,2,S2_B3,run2_S2_B3,Tetrapropylammonium Bromide,Glycerol,0.2,0.8,0.238,0.305,0.193,,,
+14,2,S2_C3,run2_S2_C3,Tetrapropylammonium Bromide,Glycerol,0.3,0.7,0.25,0.348,0.177,,,
+15,2,S2_D3,run2_S2_D3,Tetrapropylammonium Bromide,Glycerol,0.35,0.65,0.242,0.337,0.159,,,
+16,2,S2_E3,run2_S2_E3,Tetrapropylammonium Bromide,Glycerol,0.4,0.6,0.218,0.31,0.192,,,
+17,2,S2_F3,run2_S2_F3,Tetrapropylammonium Bromide,Glycerol,0.45,0.55,0.186,0.269,0.18,,,
+18,2,S2_A4,run2_S2_A4,Tetrapropylammonium Bromide,Glycerol,0.5,0.5,,,,,,
+19,2,S2_B4,run2_S2_B4,Tetrapropylammonium Bromide,Glycerol,0.55,0.45,,,,,,
+20,2,S2_C4,run2_S2_C4,Tetrapropylammonium Bromide,Glycerol,0.6,0.4,,,,,,
+21,2,S2_D4,run2_S2_D4,Tetrapropylammonium Bromide,Glycerol,0.7,0.3,,,,,,
+22,2,S2_E4,run2_S2_E4,Tetrapropylammonium Bromide,Glycerol,0.8,0.2,,,,,,
+23,2,S2_F4,run2_S2_F4,Tetrapropylammonium Bromide,Glycerol,0.9,0.1,,,,,,
+24,2,S2_A5,run2_S2_A5,Tetrapropylammonium Bromide,Acetamide,0.1,0.9,,,,,,
+25,2,S2_B5,run2_S2_B5,Tetrapropylammonium Bromide,Acetamide,0.2,0.8,0.495,0.725,0.302,-1.775,1.729,3.504
+26,2,S2_C5,run2_S2_C5,Tetrapropylammonium Bromide,Acetamide,0.3,0.7,0.196,0.313,0.281,-1.813,1.894,3.708
+27,2,S2_D5,run2_S2_D5,Tetrapropylammonium Bromide,Acetamide,0.35,0.65,,,,,,
+28,2,S2_E5,run2_S2_E5,Tetrapropylammonium Bromide,Acetamide,0.4,0.6,,,,,,
+29,2,S2_F5,run2_S2_F5,Tetrapropylammonium Bromide,Acetamide,0.45,0.55,,,,,,
+30,2,S2_A6,run2_S2_A6,Tetrapropylammonium Bromide,Acetamide,0.5,0.5,,,,,,
+31,2,S2_B6,run2_S2_B6,Tetrapropylammonium Bromide,Acetamide,0.55,0.45,,,,,,
+32,2,S2_C6,run2_S2_C6,Tetrapropylammonium Bromide,Acetamide,0.6,0.4,,,,,,
+33,2,S2_D6,run2_S2_D6,Tetrapropylammonium Bromide,Acetamide,0.7,0.3,,,,,,
+34,2,S2_E6,run2_S2_E6,Tetrapropylammonium Bromide,Acetamide,0.8,0.2,,,,,,
+35,2,S2_F6,run2_S2_F6,Tetrapropylammonium Bromide,Acetamide,0.9,0.1,,,,,,
+36,2,S2_A7,run2_S2_A7,Tetrapropylammonium Bromide,"N,N-dimethylurea",0.1,0.9,,,,,,
+37,2,S2_B7,run2_S2_B7,Tetrapropylammonium Bromide,"N,N-dimethylurea",0.2,0.8,,,,,,
+38,2,S2_C7,run2_S2_C7,Tetrapropylammonium Bromide,"N,N-dimethylurea",0.3,0.7,0.208,0.364,0.297,-1.835,2.874,4.709
+39,2,S2_D7,run2_S2_D7,Tetrapropylammonium Bromide,"N,N-dimethylurea",0.35,0.65,0.157,0.274,0.229,-1.994,2.904,4.898
+40,2,S2_E7,run2_S2_E7,Tetrapropylammonium Bromide,"N,N-dimethylurea",0.4,0.6,,,,,,
+41,2,S2_F7,run2_S2_F7,Tetrapropylammonium Bromide,"N,N-dimethylurea",0.45,0.55,,,,,,
+42,2,S2_A8,run2_S2_A8,Tetrapropylammonium Bromide,"N,N-dimethylurea",0.5,0.5,,,,,,
+43,2,S2_B8,run2_S2_B8,Tetrapropylammonium Bromide,"N,N-dimethylurea",0.55,0.45,,,,,,
+44,2,S2_C8,run2_S2_C8,Tetrapropylammonium Bromide,"N,N-dimethylurea",0.6,0.4,,,,,,
+45,2,S2_D8,run2_S2_D8,Tetrapropylammonium Bromide,"N,N-dimethylurea",0.7,0.3,,,,,,
+46,2,S2_E8,run2_S2_E8,Tetrapropylammonium Bromide,"N,N-dimethylurea",0.8,0.2,,,,,,
+47,2,S2_F8,run2_S2_F8,Tetrapropylammonium Bromide,"N,N-dimethylurea",0.9,0.1,,,,,,
+48,2,S3_A1,run2_S3_A1,Tetrapropylammonium Bromide,3-phenylpropionic acid,0.1,0.9,,,,,,
+49,2,S3_B1,run2_S3_B1,Tetrapropylammonium Bromide,3-phenylpropionic acid,0.2,0.8,0.083,0.149,0.109,-1.756,1.177,2.933
+50,2,S3_C1,run2_S3_C1,Tetrapropylammonium Bromide,3-phenylpropionic acid,0.3,0.7,0.129,0.22,0.17,-2.233,1.015,3.248
+51,2,S3_D1,run2_S3_D1,Tetrapropylammonium Bromide,3-phenylpropionic acid,0.35,0.65,0.098,0.188,0.132,-2.575,1.054,3.629
+52,2,S3_E1,run2_S3_E1,Tetrapropylammonium Bromide,3-phenylpropionic acid,0.4,0.6,0.075,0.154,0.105,-2.818,1.128,3.946
+53,2,S3_F1,run2_S3_F1,Tetrapropylammonium Bromide,3-phenylpropionic acid,0.45,0.55,0.058,0.124,0.079,-2.951,1.506,4.457
+54,2,S3_A2,run2_S3_A2,Tetrapropylammonium Bromide,3-phenylpropionic acid,0.5,0.5,,,,,,
+55,2,S3_B2,run2_S3_B2,Tetrapropylammonium Bromide,3-phenylpropionic acid,0.55,0.45,,,,,,
+56,2,S3_C2,run2_S3_C2,Tetrapropylammonium Bromide,3-phenylpropionic acid,0.6,0.4,,,,,,
+57,2,S3_D2,run2_S3_D2,Tetrapropylammonium Bromide,3-phenylpropionic acid,0.7,0.3,,,,,,
+58,2,S3_E2,run2_S3_E2,Tetrapropylammonium Bromide,3-phenylpropionic acid,0.8,0.2,,,,,,
+59,2,S3_F2,run2_S3_F2,Tetrapropylammonium Bromide,3-phenylpropionic acid,0.9,0.1,,,,,,
+60,2,S3_A3,run2_S3_A3,Tetrapropylammonium Bromide,Urea,0.1,0.9,,,,,,
+61,2,S3_B3,run2_S3_B3,Tetrapropylammonium Bromide,Urea,0.2,0.8,,,,,,
+62,2,S3_C3,run2_S3_C3,Tetrapropylammonium Bromide,Urea,0.3,0.7,,,,,,
+63,2,S3_D3,run2_S3_D3,Tetrapropylammonium Bromide,Urea,0.35,0.65,,,,,,
+64,2,S3_E3,run2_S3_E3,Tetrapropylammonium Bromide,Urea,0.4,0.6,,,,,,
+65,2,S3_F3,run2_S3_F3,Tetrapropylammonium Bromide,Urea,0.45,0.55,,,,,,
+66,2,S3_A4,run2_S3_A4,Tetrapropylammonium Bromide,Urea,0.5,0.5,,,,,,
+67,2,S3_B4,run2_S3_B4,Tetrapropylammonium Bromide,Urea,0.55,0.45,,,,,,
+68,2,S3_C4,run2_S3_C4,Tetrapropylammonium Bromide,Urea,0.6,0.4,,,,,,
+69,2,S3_D4,run2_S3_D4,Tetrapropylammonium Bromide,Urea,0.7,0.3,,,,,,
+70,2,S3_E4,run2_S3_E4,Tetrapropylammonium Bromide,Urea,0.8,0.2,,,,,,
+71,2,S3_F4,run2_S3_F4,Tetrapropylammonium Bromide,Urea,0.9,0.1,,,,,,
+72,2,S3_A5,run2_S3_A5,Tetrapropylammonium Bromide,L-serine,0.1,0.9,,,,,,
+73,2,S3_B5,run2_S3_B5,Tetrapropylammonium Bromide,L-serine,0.2,0.8,,,,,,
+74,2,S3_C5,run2_S3_C5,Tetrapropylammonium Bromide,L-serine,0.3,0.7,,,,,,
+75,2,S3_D5,run2_S3_D5,Tetrapropylammonium Bromide,L-serine,0.35,0.65,,,,,,
+76,2,S3_E5,run2_S3_E5,Tetrapropylammonium Bromide,L-serine,0.4,0.6,,,,,,
+77,2,S3_F5,run2_S3_F5,Tetrapropylammonium Bromide,L-serine,0.45,0.55,,,,,,
+78,2,S3_A6,run2_S3_A6,Tetrapropylammonium Bromide,L-serine,0.5,0.5,,,,,,
+79,2,S3_B6,run2_S3_B6,Tetrapropylammonium Bromide,L-serine,0.55,0.45,,,,,,
+80,2,S3_C6,run2_S3_C6,Tetrapropylammonium Bromide,L-serine,0.6,0.4,,,,,,
+81,2,S3_D6,run2_S3_D6,Tetrapropylammonium Bromide,L-serine,0.7,0.3,,,,,,
+82,2,S3_E6,run2_S3_E6,Tetrapropylammonium Bromide,L-serine,0.8,0.2,,,,,,
+83,2,S3_F6,run2_S3_F6,Tetrapropylammonium Bromide,L-serine,0.9,0.1,,,,,,
+84,2,S3_A7,run2_S3_A7,Tetrapropylammonium Bromide,4-amino triazole,0.1,0.9,,,,,,
+85,2,S3_B7,run2_S3_B7,Tetrapropylammonium Bromide,4-amino triazole,0.2,0.8,0.374,0.502,0.427,,,
+86,2,S3_C7,run2_S3_C7,Tetrapropylammonium Bromide,4-amino triazole,0.3,0.7,0.14,0.24,0.203,,,
+87,2,S3_D7,run2_S3_D7,Tetrapropylammonium Bromide,4-amino triazole,0.35,0.65,0.105,0.134,0.045,,,
+88,2,S3_E7,run2_S3_E7,Tetrapropylammonium Bromide,4-amino triazole,0.4,0.6,0.072,0.131,0.098,,,
+89,2,S3_F7,run2_S3_F7,Tetrapropylammonium Bromide,4-amino triazole,0.45,0.55,,,,,,
+90,2,S3_A8,run2_S3_A8,Tetrapropylammonium Bromide,4-amino triazole,0.5,0.5,,,,,,
+91,2,S3_B8,run2_S3_B8,Tetrapropylammonium Bromide,4-amino triazole,0.55,0.45,,,,,,
+92,2,S3_C8,run2_S3_C8,Tetrapropylammonium Bromide,4-amino triazole,0.6,0.4,,,,,,
+93,2,S3_D8,run2_S3_D8,Tetrapropylammonium Bromide,4-amino triazole,0.7,0.3,,,,,,
+94,2,S3_E8,run2_S3_E8,Tetrapropylammonium Bromide,4-amino triazole,0.8,0.2,,,,,,
+95,2,S3_F8,run2_S3_F8,Tetrapropylammonium Bromide,4-amino triazole,0.9,0.1,,,,,,
+96,2,S5_A1,run2_S5_A1,Tetrapropylammonium Bromide,Xylitol,0.1,0.9,0.001,0.003,0.001,,,
+97,2,S5_B1,run2_S5_B1,Tetrapropylammonium Bromide,Xylitol,0.2,0.8,0.004,0.009,0.004,,,
+98,2,S5_C1,run2_S5_C1,Tetrapropylammonium Bromide,Xylitol,0.3,0.7,0.008,0.019,0.012,,,
+99,2,S5_D1,run2_S5_D1,Tetrapropylammonium Bromide,Xylitol,0.35,0.65,0.011,0.024,0.012,,,
+100,2,S5_E1,run2_S5_E1,Tetrapropylammonium Bromide,Xylitol,0.4,0.6,0.012,0.029,0.014,,,
+101,2,S5_F1,run2_S5_F1,Tetrapropylammonium Bromide,Xylitol,0.45,0.55,0.015,0.035,0.022,,,
+102,2,S5_A2,run2_S5_A2,Tetrapropylammonium Bromide,Xylitol,0.5,0.5,0.015,0.035,0.02,,,
+103,2,S5_B2,run2_S5_B2,Tetrapropylammonium Bromide,Xylitol,0.55,0.45,0.016,0.042,0.022,,,
+104,2,S5_C2,run2_S5_C2,Tetrapropylammonium Bromide,Xylitol,0.6,0.4,,,,,,
+105,2,S5_D2,run2_S5_D2,Tetrapropylammonium Bromide,Xylitol,0.7,0.3,,,,,,
+106,2,S5_E2,run2_S5_E2,Tetrapropylammonium Bromide,Xylitol,0.8,0.2,,,,,,
+107,2,S5_F2,run2_S5_F2,Tetrapropylammonium Bromide,Xylitol,0.9,0.1,,,,,,
+108,2,S5_A3,run2_S5_A3,Tetrapropylammonium Bromide,Phenylacetic acid,0.1,0.9,,,,,,
+109,2,S5_B3,run2_S5_B3,Tetrapropylammonium Bromide,Phenylacetic acid,0.2,0.8,0.292,0.443,0.355,,,
+110,2,S5_C3,run2_S5_C3,Tetrapropylammonium Bromide,Phenylacetic acid,0.3,0.7,0.21,0.413,0.295,-1.972,0.936,2.908
+111,2,S5_D3,run2_S5_D3,Tetrapropylammonium Bromide,Phenylacetic acid,0.35,0.65,0.165,0.337,0.224,-2.158,1.094,3.252
+112,2,S5_E3,run2_S5_E3,Tetrapropylammonium Bromide,Phenylacetic acid,0.4,0.6,0.122,0.244,0.165,-2.601,1.312,3.913
+113,2,S5_F3,run2_S5_F3,Tetrapropylammonium Bromide,Phenylacetic acid,0.45,0.55,0.101,0.204,0.139,-2.602,1.562,4.164
+114,2,S5_A4,run2_S5_A4,Tetrapropylammonium Bromide,Phenylacetic acid,0.5,0.5,,,,,,
+115,2,S5_B4,run2_S5_B4,Tetrapropylammonium Bromide,Phenylacetic acid,0.55,0.45,,,,,,
+116,2,S5_C4,run2_S5_C4,Tetrapropylammonium Bromide,Phenylacetic acid,0.6,0.4,,,,,,
+117,2,S5_D4,run2_S5_D4,Tetrapropylammonium Bromide,Phenylacetic acid,0.7,0.3,,,,,,
+118,2,S5_E4,run2_S5_E4,Tetrapropylammonium Bromide,Phenylacetic acid,0.8,0.2,,,,,,
+119,2,S5_F4,run2_S5_F4,Tetrapropylammonium Bromide,Phenylacetic acid,0.9,0.1,,,,,,
+120,2,S5_A5,run2_S5_A5,Tetraethylammonium Iodide,Ethylene Glycol,0.1,0.9,,,,,,
+121,2,S5_B5,run2_S5_B5,Tetraethylammonium Iodide,Ethylene Glycol,0.2,0.8,,,,,,
+122,2,S5_C5,run2_S5_C5,Tetraethylammonium Iodide,Ethylene Glycol,0.3,0.7,,,,,,
+123,2,S5_D5,run2_S5_D5,Tetraethylammonium Iodide,Ethylene Glycol,0.35,0.65,,,,,,
+124,2,S5_E5,run2_S5_E5,Tetraethylammonium Iodide,Ethylene Glycol,0.4,0.6,,,,,,
+125,2,S5_F5,run2_S5_F5,Tetraethylammonium Iodide,Ethylene Glycol,0.45,0.55,,,,,,
+126,2,S5_A6,run2_S5_A6,Tetraethylammonium Iodide,Ethylene Glycol,0.5,0.5,,,,,,
+127,2,S5_B6,run2_S5_B6,Tetraethylammonium Iodide,Ethylene Glycol,0.55,0.45,,,,,,
+128,2,S5_C6,run2_S5_C6,Tetraethylammonium Iodide,Ethylene Glycol,0.6,0.4,,,,,,
+129,2,S5_D6,run2_S5_D6,Tetraethylammonium Iodide,Ethylene Glycol,0.7,0.3,,,,,,
+130,2,S5_E6,run2_S5_E6,Tetraethylammonium Iodide,Ethylene Glycol,0.8,0.2,,,,,,
+131,2,S5_F6,run2_S5_F6,Tetraethylammonium Iodide,Ethylene Glycol,0.9,0.1,,,,,,
+132,2,S5_A7,run2_S5_A7,Tetraethylammonium Iodide,Glycerol,0.1,0.9,,,,,,
+133,2,S5_B7,run2_S5_B7,Tetraethylammonium Iodide,Glycerol,0.2,0.8,,,,,,
+134,2,S5_C7,run2_S5_C7,Tetraethylammonium Iodide,Glycerol,0.3,0.7,,,,,,
+135,2,S5_D7,run2_S5_D7,Tetraethylammonium Iodide,Glycerol,0.35,0.65,,,,,,
+136,2,S5_E7,run2_S5_E7,Tetraethylammonium Iodide,Glycerol,0.4,0.6,,,,,,
+137,2,S5_F7,run2_S5_F7,Tetraethylammonium Iodide,Glycerol,0.45,0.55,,,,,,
+138,2,S5_A8,run2_S5_A8,Tetraethylammonium Iodide,Glycerol,0.5,0.5,,,,,,
+139,2,S5_B8,run2_S5_B8,Tetraethylammonium Iodide,Glycerol,0.55,0.45,,,,,,
+140,2,S5_C8,run2_S5_C8,Tetraethylammonium Iodide,Glycerol,0.6,0.4,,,,,,
+141,2,S5_D8,run2_S5_D8,Tetraethylammonium Iodide,Glycerol,0.7,0.3,,,,,,
+142,2,S5_E8,run2_S5_E8,Tetraethylammonium Iodide,Glycerol,0.8,0.2,,,,,,
+143,2,S5_F8,run2_S5_F8,Tetraethylammonium Iodide,Glycerol,0.9,0.1,,,,,,
+144,2,S6_A1,run2_S6_A1,Tetraethylammonium Iodide,Acetamide,0.1,0.9,,,,,,
+145,2,S6_B1,run2_S6_B1,Tetraethylammonium Iodide,Acetamide,0.2,0.8,,,,,,
+146,2,S6_C1,run2_S6_C1,Tetraethylammonium Iodide,Acetamide,0.3,0.7,,,,,,
+147,2,S6_D1,run2_S6_D1,Tetraethylammonium Iodide,Acetamide,0.35,0.65,,,,,,
+148,2,S6_E1,run2_S6_E1,Tetraethylammonium Iodide,Acetamide,0.4,0.6,,,,,,
+149,2,S6_F1,run2_S6_F1,Tetraethylammonium Iodide,Acetamide,0.45,0.55,,,,,,
+150,2,S6_A2,run2_S6_A2,Tetraethylammonium Iodide,Acetamide,0.5,0.5,,,,,,
+151,2,S6_B2,run2_S6_B2,Tetraethylammonium Iodide,Acetamide,0.55,0.45,,,,,,
+152,2,S6_C2,run2_S6_C2,Tetraethylammonium Iodide,Acetamide,0.6,0.4,,,,,,
+153,2,S6_D2,run2_S6_D2,Tetraethylammonium Iodide,Acetamide,0.7,0.3,,,,,,
+154,2,S6_E2,run2_S6_E2,Tetraethylammonium Iodide,Acetamide,0.8,0.2,,,,,,
+155,2,S6_F2,run2_S6_F2,Tetraethylammonium Iodide,Acetamide,0.9,0.1,,,,,,
+156,2,S6_A3,run2_S6_A3,Tetraethylammonium Iodide,"N,N-dimethylurea",0.1,0.9,,,,,,
+157,2,S6_B3,run2_S6_B3,Tetraethylammonium Iodide,"N,N-dimethylurea",0.2,0.8,,,,,,
+158,2,S6_C3,run2_S6_C3,Tetraethylammonium Iodide,"N,N-dimethylurea",0.3,0.7,,,,,,
+159,2,S6_D3,run2_S6_D3,Tetraethylammonium Iodide,"N,N-dimethylurea",0.35,0.65,,,,,,
+160,2,S6_E3,run2_S6_E3,Tetraethylammonium Iodide,"N,N-dimethylurea",0.4,0.6,,,,,,
+161,2,S6_F3,run2_S6_F3,Tetraethylammonium Iodide,"N,N-dimethylurea",0.45,0.55,,,,,,
+162,2,S6_A4,run2_S6_A4,Tetraethylammonium Iodide,"N,N-dimethylurea",0.5,0.5,,,,,,
+163,2,S6_B4,run2_S6_B4,Tetraethylammonium Iodide,"N,N-dimethylurea",0.55,0.45,,,,,,
+164,2,S6_C4,run2_S6_C4,Tetraethylammonium Iodide,"N,N-dimethylurea",0.6,0.4,,,,,,
+165,2,S6_D4,run2_S6_D4,Tetraethylammonium Iodide,"N,N-dimethylurea",0.7,0.3,,,,,,
+166,2,S6_E4,run2_S6_E4,Tetraethylammonium Iodide,"N,N-dimethylurea",0.8,0.2,,,,,,
+167,2,S6_F4,run2_S6_F4,Tetraethylammonium Iodide,"N,N-dimethylurea",0.9,0.1,,,,,,
+168,2,S6_A5,run2_S6_A5,Tetraethylammonium Iodide,3-phenylpropionic acid,0.1,0.9,,,,,,
+169,2,S6_B5,run2_S6_B5,Tetraethylammonium Iodide,3-phenylpropionic acid,0.2,0.8,,,,,,
+170,2,S6_C5,run2_S6_C5,Tetraethylammonium Iodide,3-phenylpropionic acid,0.3,0.7,,,,,,
+171,2,S6_D5,run2_S6_D5,Tetraethylammonium Iodide,3-phenylpropionic acid,0.35,0.65,,,,,,
+172,2,S6_E5,run2_S6_E5,Tetraethylammonium Iodide,3-phenylpropionic acid,0.4,0.6,,,,,,
+173,2,S6_F5,run2_S6_F5,Tetraethylammonium Iodide,3-phenylpropionic acid,0.45,0.55,,,,,,
+174,2,S6_A6,run2_S6_A6,Tetraethylammonium Iodide,3-phenylpropionic acid,0.5,0.5,,,,,,
+175,2,S6_B6,run2_S6_B6,Tetraethylammonium Iodide,3-phenylpropionic acid,0.55,0.45,,,,,,
+176,2,S6_C6,run2_S6_C6,Tetraethylammonium Iodide,3-phenylpropionic acid,0.6,0.4,,,,,,
+177,2,S6_D6,run2_S6_D6,Tetraethylammonium Iodide,3-phenylpropionic acid,0.7,0.3,,,,,,
+178,2,S6_E6,run2_S6_E6,Tetraethylammonium Iodide,3-phenylpropionic acid,0.8,0.2,,,,,,
+179,2,S6_F6,run2_S6_F6,Tetraethylammonium Iodide,3-phenylpropionic acid,0.9,0.1,,,,,,
+180,2,S6_A7,run2_S6_A7,Tetraethylammonium Iodide,Urea,0.1,0.9,,,,,,
+181,2,S6_B7,run2_S6_B7,Tetraethylammonium Iodide,Urea,0.2,0.8,,,,,,
+182,2,S6_C7,run2_S6_C7,Tetraethylammonium Iodide,Urea,0.3,0.7,,,,,,
+183,2,S6_D7,run2_S6_D7,Tetraethylammonium Iodide,Urea,0.35,0.65,,,,,,
+184,2,S6_E7,run2_S6_E7,Tetraethylammonium Iodide,Urea,0.4,0.6,,,,,,
+185,2,S6_F7,run2_S6_F7,Tetraethylammonium Iodide,Urea,0.45,0.55,,,,,,
+186,2,S6_A8,run2_S6_A8,Tetraethylammonium Iodide,Urea,0.5,0.5,,,,,,
+187,2,S6_B8,run2_S6_B8,Tetraethylammonium Iodide,Urea,0.55,0.45,,,,,,
+188,2,S6_C8,run2_S6_C8,Tetraethylammonium Iodide,Urea,0.6,0.4,,,,,,
+189,2,S6_D8,run2_S6_D8,Tetraethylammonium Iodide,Urea,0.7,0.3,,,,,,
+190,2,S6_E8,run2_S6_E8,Tetraethylammonium Iodide,Urea,0.8,0.2,,,,,,
+191,2,S6_F8,run2_S6_F8,Tetraethylammonium Iodide,Urea,0.9,0.1,,,,,,
+192,2,S9_A1,run2_S9_A1,Tetraethylammonium Iodide,L-serine,0.1,0.9,,,,,,
+193,2,S9_B1,run2_S9_B1,Tetraethylammonium Iodide,L-serine,0.2,0.8,,,,,,
+194,2,S9_C1,run2_S9_C1,Tetraethylammonium Iodide,L-serine,0.3,0.7,,,,,,
+195,2,S9_D1,run2_S9_D1,Tetraethylammonium Iodide,L-serine,0.35,0.65,,,,,,
+196,2,S9_E1,run2_S9_E1,Tetraethylammonium Iodide,L-serine,0.4,0.6,,,,,,
+197,2,S9_F1,run2_S9_F1,Tetraethylammonium Iodide,L-serine,0.45,0.55,,,,,,
+198,2,S9_A2,run2_S9_A2,Tetraethylammonium Iodide,L-serine,0.5,0.5,,,,,,
+199,2,S9_B2,run2_S9_B2,Tetraethylammonium Iodide,L-serine,0.55,0.45,,,,,,
+200,2,S9_C2,run2_S9_C2,Tetraethylammonium Iodide,L-serine,0.6,0.4,,,,,,
+201,2,S9_D2,run2_S9_D2,Tetraethylammonium Iodide,L-serine,0.7,0.3,,,,,,
+202,2,S9_E2,run2_S9_E2,Tetraethylammonium Iodide,L-serine,0.8,0.2,,,,,,
+203,2,S9_F2,run2_S9_F2,Tetraethylammonium Iodide,L-serine,0.9,0.1,,,,,,
+204,2,S9_A3,run2_S9_A3,Tetraethylammonium Iodide,4-amino triazole,0.1,0.9,,,,,,
+205,2,S9_B3,run2_S9_B3,Tetraethylammonium Iodide,4-amino triazole,0.2,0.8,,,,,,
+206,2,S9_C3,run2_S9_C3,Tetraethylammonium Iodide,4-amino triazole,0.3,0.7,,,,,,
+207,2,S9_D3,run2_S9_D3,Tetraethylammonium Iodide,4-amino triazole,0.35,0.65,,,,,,
+208,2,S9_E3,run2_S9_E3,Tetraethylammonium Iodide,4-amino triazole,0.4,0.6,,,,,,
+209,2,S9_F3,run2_S9_F3,Tetraethylammonium Iodide,4-amino triazole,0.45,0.55,,,,,,
+210,2,S9_A4,run2_S9_A4,Tetraethylammonium Iodide,4-amino triazole,0.5,0.5,,,,,,
+211,2,S9_B4,run2_S9_B4,Tetraethylammonium Iodide,4-amino triazole,0.55,0.45,,,,,,
+212,2,S9_C4,run2_S9_C4,Tetraethylammonium Iodide,4-amino triazole,0.6,0.4,,,,,,
+213,2,S9_D4,run2_S9_D4,Tetraethylammonium Iodide,4-amino triazole,0.7,0.3,,,,,,
+214,2,S9_E4,run2_S9_E4,Tetraethylammonium Iodide,4-amino triazole,0.8,0.2,,,,,,
+215,2,S9_F4,run2_S9_F4,Tetraethylammonium Iodide,4-amino triazole,0.9,0.1,,,,,,
+216,2,S9_A5,run2_S9_A5,Tetraethylammonium Iodide,Xylitol,0.1,0.9,,,,,,
+217,2,S9_B5,run2_S9_B5,Tetraethylammonium Iodide,Xylitol,0.2,0.8,,,,,,
+218,2,S9_C5,run2_S9_C5,Tetraethylammonium Iodide,Xylitol,0.3,0.7,,,,,,
+219,2,S9_D5,run2_S9_D5,Tetraethylammonium Iodide,Xylitol,0.35,0.65,,,,,,
+220,2,S9_E5,run2_S9_E5,Tetraethylammonium Iodide,Xylitol,0.4,0.6,,,,,,
+221,2,S9_F5,run2_S9_F5,Tetraethylammonium Iodide,Xylitol,0.45,0.55,,,,,,
+222,2,S9_A6,run2_S9_A6,Tetraethylammonium Iodide,Xylitol,0.5,0.5,,,,,,
+223,2,S9_B6,run2_S9_B6,Tetraethylammonium Iodide,Xylitol,0.55,0.45,,,,,,
+224,2,S9_C6,run2_S9_C6,Tetraethylammonium Iodide,Xylitol,0.6,0.4,,,,,,
+225,2,S9_D6,run2_S9_D6,Tetraethylammonium Iodide,Xylitol,0.7,0.3,,,,,,
+226,2,S9_E6,run2_S9_E6,Tetraethylammonium Iodide,Xylitol,0.8,0.2,,,,,,
+227,2,S9_F6,run2_S9_F6,Tetraethylammonium Iodide,Xylitol,0.9,0.1,,,,,,
+228,2,S9_A7,run2_S9_A7,Tetraethylammonium Iodide,Phenylacetic acid,0.1,0.9,,,,,,
+229,2,S9_B7,run2_S9_B7,Tetraethylammonium Iodide,Phenylacetic acid,0.2,0.8,,,,,,
+230,2,S9_C7,run2_S9_C7,Tetraethylammonium Iodide,Phenylacetic acid,0.3,0.7,,,,,,
+231,2,S9_D7,run2_S9_D7,Tetraethylammonium Iodide,Phenylacetic acid,0.35,0.65,,,,,,
+232,2,S9_E7,run2_S9_E7,Tetraethylammonium Iodide,Phenylacetic acid,0.4,0.6,,,,,,
+233,2,S9_F7,run2_S9_F7,Tetraethylammonium Iodide,Phenylacetic acid,0.45,0.55,,,,,,
+234,2,S9_A8,run2_S9_A8,Tetraethylammonium Iodide,Phenylacetic acid,0.5,0.5,,,,,,
+235,2,S9_B8,run2_S9_B8,Tetraethylammonium Iodide,Phenylacetic acid,0.55,0.45,,,,,,
+236,2,S9_C8,run2_S9_C8,Tetraethylammonium Iodide,Phenylacetic acid,0.6,0.4,,,,,,
+237,2,S9_D8,run2_S9_D8,Tetraethylammonium Iodide,Phenylacetic acid,0.7,0.3,,,,,,
+238,2,S9_E8,run2_S9_E8,Tetraethylammonium Iodide,Phenylacetic acid,0.8,0.2,,,,,,
+239,2,S9_F8,run2_S9_F8,Tetraethylammonium Iodide,Phenylacetic acid,0.9,0.1,,,,,,

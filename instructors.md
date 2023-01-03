@@ -10,11 +10,10 @@ collection: main
 ### Instructors
 
 - Prof. David Beck (dacb@uw.edu)
-- Evan Komp (evankomp@uw.edu)
+- Evan Komp (evankomp+dsmcer@uw.edu)
 
 ### Teaching Assistants
 
-<<<<<<< HEAD
 - Nels Schimek (nlsschim@uw.edu)
 - Orion Dollar (odollar@uw.edu)
 
@@ -23,8 +22,7 @@ collection: main
 
 The instructional team will provide the following weekly office hours.
 
-<<<<<<< HEAD
-* Monday at 9:30 to 10:30 AM (Evan)
-* Nels (TBD)
-* Thursday at 9:00 to 10:00 AM (Orion)
->>>>>>> master
+* Monday at 11:00 AM to Noon, BNS 241 (Evan)
+* Tuesday at 9:00 to 10:00 AM (Nels - [ZoomLink](https://washington.zoom.us/my/nelsschimek))
+* Thursday at 9:00 to 10:00 AM (Orion - [ZoomLink](https://washington.zoom.us/my/oriondollar))
+
