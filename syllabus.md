@@ -276,7 +276,7 @@ DSMCER background color: #b2df8a-->
 
 ### Absence and COVID Policy
 
-Please let us know via email or privaye canvas message if you plan to miss a class. Please leverage this option if you test positive for COVID or otherwise are sick! Additionally, if you do have COVID, use the [reporting tool](https://www.ehs.washington.edu/system/files/resources/COVID-19-public-health-flowchart.pdf). If you miss a class (and and let us know ahead of time) we will provide supplimentary material.
+Please let us know via email or private canvas message if you plan to miss a class. Please leverage this option if you test positive for COVID or otherwise are sick! Additionally, if you do have COVID, use the [reporting tool](https://www.ehs.washington.edu/system/files/resources/COVID-19-public-health-flowchart.pdf). If you miss a class (and let us know ahead of time) we will provide supplimentary material.
 
 
 ### Religious Accommodations Policy
