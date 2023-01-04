@@ -40,7 +40,6 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3">
 <ul>
 <li><span style="background-color:#b2df8a"><a href="https://www.annualreviews.org/doi/10.1146/annurev-chembioeng-101220-102232">DSMCER assigned reading</a></span></li>
-<<<<<<< HEAD
 <li><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf">bash command line reference</a></span></li>
 <li><span style="background-color:#b2df8a"><a href="https://docs.google.com/document/d/1Ypo5QcCInFlOqm2GknYK4aYfZ1ALCFzcpy3aTa5nzz0/edit?usp=sharing">DSMCER Homework 1 (Due 1/11 11:59 PM)</a><a href="https://classroom.github.com/a/2kEfqY3D">Github for DSMCER HW1</a></span></li>
 <li><span style="background-color:#a6cee3"><a href="https://docs.google.com/document/d/1rzP02Vm4LKmuprnskMZjI1s7l4HkGzbqb5nHU0WyS0s/edit?usp=sharing">SEMDS Homework 1 (Due 1/20 11:59 PM)</a> <a href="https://classroom.github.com/a/Zq6fEchJ">GitHub for SEMDS HW1</a></span></li>
@@ -155,7 +154,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3"><u>Feb 8</u></td>
 <td rowspan="1"><u>Feb 9</u></td>
 <td rowspan="3"><u>Feb 10</u></td>
-<td rowspan="3"><ul><li><span style="background-color:#b2df8a">DSMCER Homework 3 (Due 2/15 11:59 PM)</span></li><li><a href="http://www.statlearning.com/">Introduction to Statistical Learning PDF</a></li><li><a href="https://www.atlassian.com/git/tutorials/using-branches/git-merge">Git Merge Docs</a></li></ul>
+<td rowspan="3"><ul><li><span style="background-color:#b2df8a">DSMCER Homework 3 (Due 2/21 11:59 PM)</span></li><li><a href="http://www.statlearning.com/">Introduction to Statistical Learning PDF</a></li><li><a href="https://www.atlassian.com/git/tutorials/using-branches/git-merge">Git Merge Docs</a></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
@@ -171,7 +170,7 @@ DSMCER background color: #b2df8a-->
 <tr valign="top">
 <td rowspan="3"><u>Feb 13</u><br/><span style="background-color:#a6cee3">SEMDS Homework 3 Due</span></td>
 <td rowspan="1"><u>Feb 14</u></td>
-<td rowspan="3"><u>Feb 15</u><br/><span style="background-color:#b2df8a">DSMCER Homework 3 Due</span></td>
+<td rowspan="3"><u>Feb 15</u></td>
 <td rowspan="1"><u>Feb 16</u></td>
 <td rowspan="3"><u>Feb 17</u><br/><span style="background-color:#a6cee3">Draft of Use Cases and Component Specification due!</span></td>
 <td rowspan="3">
@@ -189,7 +188,7 @@ DSMCER background color: #b2df8a-->
 <!-- this is a new week -->
 <tr valign="top">
 <td rowspan="3"><u>Feb 20</u></td>
-<td rowspan="1"><u>Feb 21</u></td>
+<td rowspan="1"><u>Feb 21</u><br/><span style="background-color:#b2df8a">DSMCER Homework 3 Due</span></td>
 <td rowspan="3"><u>Feb 22</u></td>
 <td rowspan="1"><u>Feb 23</u></td>
 <td rowspan="3"><u>Feb 24</u></td>
