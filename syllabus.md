@@ -13,6 +13,13 @@ All homework assignments will be due on **Friday at 11:59 PM** unless otherwise 
 
 We have a tool developed by Evan Komp that allows us to log our history of shell commands and immediately send them to a GitHub repository for students in the classroom to view and copy and paste.  You can find this history here: https://github.com/UWDIRECT/history/blob/main/history.txt
 
+## Surveys
+
+### Pre-course topic understaanding evaluation
+This survey will help us measure how well we are doing. Please fill this out and note that it will contribute towards your class participation score __on a purely participatory basis. Your responses do not effect your score in any way.
+
+[Survey.](https://docs.google.com/forms/d/e/1FAIpQLSeM8JMAIO1q4Ea0x5V6DMK_37u986YF5uMqnU7MNtvvZ45xCw/viewform?usp=sf_link)
+
 ## <span style="background-color:#a6cee3">SEDS (546)</span> and <span style="background-color:#b2df8a">DSMCER (545)</span> Schedule
 
 <!--SEDS background color: #a6cee3
