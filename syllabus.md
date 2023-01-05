@@ -16,9 +16,7 @@ We have a tool developed by Evan Komp that allows us to log our history of shell
 ## Surveys
 
 ### Pre-course topic understanding evaluation
-This survey will help us measure how well we are doing. Please fill this out and note that it will contribute towards your class participation score __on a purely participatory basis__. Your responses do not affect your score in any way.
-
-[Survey.](https://docs.google.com/forms/d/e/1FAIpQLSeM8JMAIO1q4Ea0x5V6DMK_37u986YF5uMqnU7MNtvvZ45xCw/viewform?usp=sf_link)
+This [survey](https://docs.google.com/forms/d/e/1FAIpQLSeM8JMAIO1q4Ea0x5V6DMK_37u986YF5uMqnU7MNtvvZ45xCw/viewform?usp=sf_link) will help us measure how well we are doing. Please fill this out and note that it will contribute towards your class participation score __on a purely participatory basis__. Your responses do not affect your score in any way.
 
 ## <span style="background-color:#a6cee3">SEDS (546)</span> and <span style="background-color:#b2df8a">DSMCER (545)</span> Schedule
 
