@@ -10,7 +10,7 @@ dependencies:
   - optuna
   - pandas
   - pip
-  - python=3.8
+  - python=3.9
   - rdkit
   - scikit-learn
   - scipy
