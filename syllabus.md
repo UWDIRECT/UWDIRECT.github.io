@@ -91,10 +91,10 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L4.Python.ipynb">Python & Pandas</a><br/></span></td>
-<td ><span style="background-color:#b2df8a">Data visualization, part 2</span></td>
+<td ><span style="background-color:#b2df8a"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/DSMCER/L1_data_vis.ipynb">Data visualization, part 2</a></span></td>
 </tr>  
 <tr align="center" valign="top">
-<td ><span style="background-color:#b2df8a">Data visualization, part 1</span></td>
+<td ><span style="background-color:#b2df8a"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/DSMCER/L1_data_vis.ipynb">Data visualization, part 1</a></span></td>
 <td ><span style="background-color:#b2df8a">Descriptive statistics, part 1</span></td>
 </tr>
 
@@ -103,8 +103,8 @@ DSMCER background color: #b2df8a-->
 <tr valign="top">
 <td rowspan="3"><u>Jan 23</u></td>
 <td rowspan="1"><u>Jan 24</u></td>
-<td rowspan="3"><u>Jan 25</u><br/>SEDS Homework 2 due</td>
-<td rowspan="1"><u>Jan 26</u></td>
+<td rowspan="3"><u>Jan 25</u></td>
+<td rowspan="1"><u>Jan 26</u><br/>SEDS Homework 2 due</td>
 <td rowspan="3"><u>Jan 27</u></td>
 <td rowspan="3"><ul><li><span style="background-color:#a6cee3">DSMCER Homework 2 (Due 1/30 11:59 PM)</span></li></ul>
 </td>
