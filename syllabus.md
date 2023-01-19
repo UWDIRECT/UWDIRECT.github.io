@@ -95,7 +95,7 @@ DSMCER background color: #b2df8a-->
 </tr>  
 <tr align="center" valign="top">
 <td ><span style="background-color:#b2df8a"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/DSMCER/L1_data_vis.ipynb">Data visualization, part 1</a></span></td>
-<td ><span style="background-color:#b2df8a">Descriptive statistics, part 1</span></td>
+<td ><span style="background-color:#b2df8a"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/DSMCER/L2_stats_and_distros.ipynb">Descriptive statistics, part 1</a></span></td>
 </tr>
 
 <!-- end of week -->
@@ -110,7 +110,7 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#b2df8a">Descriptive statistics, part 2</span></td>
+<td ><span style="background-color:#b2df8a"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/DSMCER/L2_stats_and_distros.ipynb">Descriptive statistics, part 2</a></span></td>
 <td ><br/><span style="background-color:#b2df8a">Hypothesis testing<br/> </span></td>
 </tr>
 <tr align="center" valign="top">
