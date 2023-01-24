@@ -106,7 +106,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3"><u>Jan 25</u></td>
 <td rowspan="1"><u>Jan 26</u><br/>SEDS Homework 2 due</td>
 <td rowspan="3"><u>Jan 27</u></td>
-<td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/BY9t3b_S">DSMCER Homework 2 (Due 1/30 11:59 PM)</a></span></li></ul>
+<td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/BY9t3b_S">DSMCER Homework 2 (Due 1/30 11:59 PM)</a></span></li><li><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/DSMCER/L3_boots_and_hypothesis_testing.ipynb">H. Testing and Bootstrapping Complete</a></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
