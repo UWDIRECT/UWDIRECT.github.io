@@ -144,7 +144,7 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/Project_Overview.pptx">Project overview & ideation</a><br/></td>
+<td ><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/Project_Overview.pptx">Project Overview & ideation</a><br/></td>
 <td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/Use_cases.pptx?raw=true">Use cases</a><br/></span><br/>Project verification<br /></td>
 </tr>
 <tr align="center" valign="top">
