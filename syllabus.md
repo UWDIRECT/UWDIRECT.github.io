@@ -140,7 +140,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3"><u>Feb 1</u></td>
 <td rowspan="1"><u>Feb 2</u></td>
 <td rowspan="3"><u>Feb 3</u></td>
-<td rowspan="3"><ul><li><span style="background-color:#a6cee3">SEMDS Homework 3</span></li></ul>
+<td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/WuQjIAWP">SEMDS Homework 3</a></span></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
