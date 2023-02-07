@@ -159,7 +159,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3"><u>Feb 8</u></td>
 <td rowspan="1"><u>Feb 9</u></td>
 <td rowspan="3"><u>Feb 10</u></td>
-<td rowspan="3"><ul><li><span style="background-color:#b2df8a">DSMCER Homework 3 (Due 2/21 11:59 PM)</span></li><li><span style="background-color:#b2df8a"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/DSMCER/L5_splitting_and_feature_eng1_COMPLETE.ipynb">Splitting & Extraction Complete NB</a></span></li><li><a href="http://www.statlearning.com/">Introduction to Statistical Learning PDF</a></li><li><a href="https://www.atlassian.com/git/tutorials/using-branches/git-merge">Git Merge Docs</a></li></ul>
+<td rowspan="3"><ul><li><span style="background-color:#b2df8a"><a href="https://classroom.github.com/a/EYgu50HK">DSMCER Homework 3 (Due 2/21 11:59 PM)</a></span></li><li><span style="background-color:#b2df8a"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/DSMCER/L5_splitting_and_feature_eng1_COMPLETE.ipynb">Splitting & Extraction Complete NB</a></span></li><li><a href="http://www.statlearning.com/">Introduction to Statistical Learning PDF</a></li><li><a href="https://www.atlassian.com/git/tutorials/using-branches/git-merge">Git Merge Docs</a></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
