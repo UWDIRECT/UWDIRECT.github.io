@@ -163,7 +163,7 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/debugging_exceptions_testing/Debugging.ipynb">Debugging</a><br/><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/debugging_exceptions_testing/Exceptions.ipynb">Exceptions</a><br/></span></td>
+<td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/debugging_exceptions_testing/Debugging.ipynb">Debugging</a><br/><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/debugging_exceptions_testing/Exceptions.ipynb">Exceptions</a><br/><a href="https://github.com/uwseds/entropy">Entropy repository</a><br/></span></td>
 <td ><span style="background-color:#b2df8a">Data splitting and Feature Eng. 1</span></td>
 </tr>
 <tr align="center" valign="top">
