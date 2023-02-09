@@ -18,6 +18,8 @@ We have a tool developed by Evan Komp that allows us to log our history of shell
 ### Pre-course topic understanding evaluation
 This [survey](https://docs.google.com/forms/d/e/1FAIpQLSeM8JMAIO1q4Ea0x5V6DMK_37u986YF5uMqnU7MNtvvZ45xCw/viewform?usp=sf_link) will help us measure how well we are doing. Please fill this out and note that it will contribute towards your class participation score __on a purely participatory basis__. Your responses do not affect your score in any way.
 
+Mid-class checkin survey [here](https://bit.ly/cheme545546-23wi).
+
 ## <span style="background-color:#a6cee3">SEDS (546)</span> and <span style="background-color:#b2df8a">DSMCER (545)</span> Schedule
 
 <!--SEDS background color: #a6cee3
@@ -168,7 +170,7 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/debugging_exceptions_testing/Debugging.ipynb">Debugging</a><br/><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/debugging_exceptions_testing/Exceptions.ipynb">Exceptions</a><br/><a href="https://github.com/uwseds/entropy">Entropy repository</a><br/></span></td>
-<td ><span style="background-color:#b2df8a">Simple linear regression </span></td>
+<td ><span style="background-color:#b2df8a"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/DSMCER/L6_Linear_Modeling_BandV.ipynb">Simple linear regression </a></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
