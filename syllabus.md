@@ -199,7 +199,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3"><u>Feb 22</u></td>
 <td rowspan="1"><u>Feb 23</u></td>
 <td rowspan="3"><u>Feb 24</u></td>
-<td rowspan="3"><ul><li><span style="background-color:#a6cee3">SEMDS Homework 4, the big one</span></li><li><span style="background-color:#b2df8a"> DSMCER Homework 4 (Due 3/3 11:59 PM)</span></li><li><a href="https://google.github.io/styleguide/pyguide.html">Google Python Style Guide</a></li></ul>
+<td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/y1WhHS0h">SEMDS Homework 4, the big one</a></span></li><li><span style="background-color:#b2df8a"> DSMCER Homework 4 (Due 3/3 11:59 PM)</span></li><li><a href="https://google.github.io/styleguide/pyguide.html">Google Python Style Guide</a></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
