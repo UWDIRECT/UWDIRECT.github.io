@@ -189,7 +189,7 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/SEDS/L10.Communication.pptx">Communicating about code</a><br/><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/SEDS/L11.Version_Control_p2.pptx">Version control, part 3</a><br/></span></td>
-<td ><span style="background-color:#a6cee3"><a href="Wi23_content/SEDS/L8.Style_and_Documentation.pptx">Documentation and Style</a><br/></span></td>
+<td ><span style="background-color:#a6cee3"><a href="Wi23_content/SEDS/L8.Style_and_Documentation.pptx">Documentation and Style</a><br/><a href="Wi23_content/SEDS/python_demo_1.py">python_demo_1.py</a><br/><a href="Wi23_content/SEDS/python_demo_2.py">python_demo_2.py</a><br/></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
