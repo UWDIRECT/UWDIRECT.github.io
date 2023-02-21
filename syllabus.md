@@ -180,7 +180,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3"><u>Feb 15</u></td>
 <td rowspan="1"><u>Feb 16</u></td>
 <td rowspan="3"><u>Feb 17</u><br/><span style="background-color:#a6cee3">Draft of Use Cases and Component Specification due!</span></td>
-<td rowspan="3">
+<td rowspan="3"><ul><li><span style="background-color:#b2df8a"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/DSMCER/L6_Linear_Modeling_BandV_COMPLETE.ipynb">LR, bias and variance, regularization complete</a></span></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
