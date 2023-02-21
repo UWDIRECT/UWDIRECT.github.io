@@ -207,7 +207,7 @@ DSMCER background color: #b2df8a-->
 <td ><span style="background-color:#b2df8a">Feature Engineering 2</span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#b2df8a">Model Zoo and Boosting</span></td>
+<td ><span style="background-color:#b2df8a"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/DSMCER/L7_Resampling.ipynb">Resampling</a> and <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/DSMCER/L8_SML_model_zoo_boosting.ipynb">Model Zoo and Boosting</a></span></td>
 <td ><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/SEDS/L9.Project_Structure.pdf">project structure</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ede023f2-20b1-4a8d-9a46-acdf014bd3c8">(video)</a><br/><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/SEDS/L12.Virtualization.pptx">Virtualization</a> and <a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/SEDS/L13.Continuous_Integration.pptx">continuous integration</a><br/></span></td>
 </tr>
 <!-- end of week -->
