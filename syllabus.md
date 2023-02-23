@@ -199,7 +199,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="3"><u>Feb 22</u></td>
 <td rowspan="1"><u>Feb 23</u></td>
 <td rowspan="3"><u>Feb 24</u></td>
-<td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/y1WhHS0h">SEMDS Homework 4, the big one</a></span></li><li><span style="background-color:#b2df8a"><a href="https://classroom.github.com/a/tMWU_CsG"> DSMCER Homework 4 (Due 3/6 11:59 PM)</a></span></li><li><span style="background-color:#b2df8a"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/DSMCER/L7_Resampling_COMPLETE.ipynb">Resampling Complete</a></span></li><li><a href="https://google.github.io/styleguide/pyguide.html">Google Python Style Guide</a></li></ul>
+<td rowspan="3"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/y1WhHS0h">SEMDS Homework 4, the big one</a></span></li><li><span style="background-color:#b2df8a"><a href="https://classroom.github.com/a/tMWU_CsG"> DSMCER Homework 4 (Due 3/6 11:59 PM)</a></span></li><li><span style="background-color:#b2df8a"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/DSMCER/L7_Resampling_COMPLETE.ipynb">Resampling Complete</a></span></li><li><a href="https://google.github.io/styleguide/pyguide.html">Google Python Style Guide</a></li><li><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/DSMCER/L8_SML_model_zoo_boosting_COMPLETE.ipynb">L8 Complete</a>, <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/DSMCER/L9_Feature_eng_2_COMPLETE.ipynb">L9 Complete</a></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
