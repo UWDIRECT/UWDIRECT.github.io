@@ -204,7 +204,7 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#a6cee3">Technology Reviews</span></td>
-<td ><span style="background-color:#b2df8a">Feature Engineering 2</span></td>
+<td ><span style="background-color:#b2df8a"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/DSMCER/L9_Feature_eng_2.ipynb"> Feature Engineering 2</a></span></td>
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#b2df8a"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/DSMCER/L7_Resampling.ipynb">Resampling</a> and <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/DSMCER/L8_SML_model_zoo_boosting.ipynb">Model Zoo and Boosting</a></span></td>
