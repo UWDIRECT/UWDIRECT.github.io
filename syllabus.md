@@ -230,9 +230,9 @@ DSMCER background color: #b2df8a-->
 <tr valign="top">
 <td rowspan="3"><u>Feb 27</u></td>
 <td rowspan="1"><u>Feb 28</u></td>
-<td rowspan="3"><u>Mar 1</u><br/><span style="background-color:#a6cee3">SEMDS Homework 4 Due</span></td>
+<td rowspan="3"><u>Mar 1</u><br/></td>
 <td rowspan="1"><u>Mar 2</u></td>
-<td rowspan="3"><u>Mar 3</u><br/><span style="background-color:#b2df8a">DSMCER Homework 4 Due</span></td>
+<td rowspan="3"><u>Mar 3</u><br/><span style="background-color:#b2df8a">DSMCER Homework 4 Due</span><br/><span style="background-color:#a6cee3">SEMDS Homework 4 Due</span></td>
 <td rowspan="3">
 </td>
 </tr>
