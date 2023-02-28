@@ -241,7 +241,7 @@ DSMCER background color: #b2df8a-->
 <td ><span style="background-color:#b2df8a">Neural networks - part 2</span></td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#b2df8a"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/DSMCER/L11_neural_networks.ipynb">Neural networks </a></span></td>
+<td ><span style="background-color:#b2df8a"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/DSMCER/L11_neural_networks.ipynb">Neural networks </a></span></td>
 <td ><span style="background-color:#b2df8a">Unsupervised Machine Learning</span></td>
 </tr>
 <!-- end of week -->
