@@ -242,7 +242,7 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td ><span style="background-color:#b2df8a"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/DSMCER/L11_neural_networks.ipynb">Neural networks </a></span></td>
-<td ><span style="background-color:#b2df8a">Unsupervised Machine Learning</span></td>
+<td ><span style="background-color:#b2df8a"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/DSMCER/L10_non-supervised.ipynb">Unsupervised Machine Learning</a></span></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
