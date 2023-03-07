@@ -256,7 +256,7 @@ DSMCER background color: #b2df8a-->
 </td>
 </tr>
 <tr align="center" valign="top">
-<td ><span style="background-color:#b2df8a">Hyperparameter optimization</span></td>
+<td ><span style="background-color:#b2df8a"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/DSMCER/L12_hyperopt.ipynb">Hyperparameter optimization</a></span></td>
 <td ><span style="background-color:#a6cee3"><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L14.Viz_with_Altair.ipynb">Viz with Altair</a><br/></span> </td>
 </tr>
 <tr align="center" valign="top">
