@@ -72,9 +72,9 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td></td>
-<td >Tuesday</td>
+<td><A href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line</a></br><a href="">(video)</a></td>
 <td></td>
-<td >Thursday</td>
+<td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L3.Version_Control.pptx?raw=true">Version control</a></br><a href="">(video)</a></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -89,9 +89,13 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td></td>
-<td >Tuesday</td>
+<td>Turning in HW0</br>
+<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L4.Procedural_Python.ipynb">Procedural Python</a><br/>
+</td>
 <td></td>
-<td >Thursday</td>
+<td>
+<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L5.Pandas.ipynb">Python & Pandas</a><br/>
+</td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -106,9 +110,9 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td></td>
-<td >Tuesday</td>
+<td><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something</a></td>
 <td></td>
-<td >Thursday</td>
+<td><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something</a></td>
 </tr>
 <!-- end of week -->
 </tbody>
@@ -138,9 +142,11 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td></td>
-<td >Tuesday</td>
+<td>
+<a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/Project_Overview.pptx">Project Overview & ideation</a><br/>
+</td>
 <td></td>
-<td >Thursday</td>
+<td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/Project_Overview.pptx">Project pitches and matchmaking</a><br/></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -155,9 +161,13 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td></td>
-<td >Tuesday</td>
+<td>
+<a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/Use_cases.pptx?raw=true">Use cases</a><br/></span><br/>Project verification<br />
+</td>
 <td></td>
-<td >Thursday</td>
+<td>
+<a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/Use_cases.pptx?raw=true">Software design</a><br/></span><br/><br/>
+</td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -172,9 +182,13 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td></td>
-<td >Tuesday</td>
+<td>
+<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/debugging_exceptions_testing/Unit-tests.ipynb">Unit tests & TEST DRIVEN DEVELOPMENT</a><br/>
+</td>
 <td></td>
-<td >Thursday</td>
+<td>
+<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/debugging_exceptions_testing/Debugging.ipynb">Debugging</a><br/><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/debugging_exceptions_testing/Exceptions.ipynb">Exceptions</a><br/><a href="https://github.com/uwseds/entropy">Entropy repository</a><br/>
+</td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -189,9 +203,13 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td></td>
-<td >Tuesday</td>
+<td>
+<a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/SEDS/L10.Communication.pptx">Communicating about code</a><br/><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/SEDS/L11.Version_Control_p2.pptx">Version control, part 3</a><br/>
+</td>
 <td></td>
-<td >Thursday</td>
+<td>
+<a href="Wi23_content/SEDS/L8.Style_and_Documentation.pptx">Documentation and Style</a><br/><a href="Wi23_content/SEDS/python_demo_1.py">python_demo_1.py</a><br/><a href="Wi23_content/SEDS/python_demo_2.py">python_demo_2.py</a><br/>
+</td>
 </tr>
 <!-- end of week -->
 </tbody>
@@ -221,9 +239,13 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td></td>
-<td >Tuesday</td>
+<td>
+<a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/SEDS/L9.Project_Structure.pdf">Project structure</a><br/>
+</td>
 <td></td>
-<td >Thursday</td>
+<td>
+<a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/SEDS/L12.Virtualization.pptx">Virtualization</a><br/>
+</td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -238,9 +260,13 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td></td>
-<td >Tuesday</td>
+<td>
+<a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/SEDS/L13.Continuous_Integration.pptx">Continuous Integration</a><br/>
+</td>
 <td></td>
-<td >Thursday</td>
+<td>
+<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L14.Viz_with_Altair.ipynb">Viz with Altair</a><br/>
+</td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
