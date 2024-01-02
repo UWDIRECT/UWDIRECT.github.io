@@ -48,8 +48,8 @@ DSMCER background color: #b2df8a-->
 <td><u>Jan 5</u></td>
 <td rowspan="2">
 <ul>
-<li><span style="background-color:#a6cee3"><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf">bash command line reference</a></span></li>
-<li><span style="background-color:#a6cee3"><a href="https://docs.google.com/document/d/1rzP02Vm4LKmuprnskMZjI1s7l4HkGzbqb5nHU0WyS0s/edit?usp=sharing">SEMDS Homework 1 (Due 1/20 11:59 PM)</a> <a href="https://classroom.github.com/a/Zq6fEchJ">GitHub for SEMDS HW1</a></span></li>
+<li><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf">bash command line reference</a></li>
+<li><a href="https://docs.google.com/document/d/1rzP02Vm4LKmuprnskMZjI1s7l4HkGzbqb5nHU0WyS0s/edit?usp=sharing">SEMDS Homework 1 (Due 1/20 11:59 PM)</a> <a href="https://classroom.github.com/a/Zq6fEchJ">GitHub for SEMDS HW1</a></li>
 </ul>
 </td>
 </tr>
@@ -67,14 +67,14 @@ DSMCER background color: #b2df8a-->
 <td rowspan="1"><u>Jan 10</u><br/></td>
 <td rowspan="1"><u>Jan 11</u></td>
 <td rowspan="1"><u>Jan 12</u></td>
-<td rowspan="2"><ul><li><span style="background-color:#a6cee3"><a href="http://swcarpentry.github.io/git-novice/">Version Control with Git</a></span></li></ul>
+<td rowspan="2"><ul><li><a href="http://swcarpentry.github.io/git-novice/">Version Control with Git</a></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
 <td></td>
-<td><A href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line</a></br><a href="">(video)</a></td>
+<td><A href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line</a><br/><a href="">(video)</a></td>
 <td></td>
-<td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L3.Version_Control.pptx?raw=true">Version control</a></br><a href="">(video)</a></td>
+<td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L3.Version_Control.pptx?raw=true">Version control</a><br/><a href="">(video)</a></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
@@ -84,12 +84,12 @@ DSMCER background color: #b2df8a-->
 <td rowspan="1"><u>Jan 17</u></td>
 <td rowspan="1"><u>Jan 18</u></td>
 <td rowspan="1"><u>Jan 19</u><br/>SEDS Homework 1 due</td>
-<td rowspan="2"><ul><li><a href="https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf">Pandas Cheat Sheet</a></li><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/6jtbwgZO">SEMDS Homework 2 (Due 1/26 11:59 PM)</a></span></li></ul>
+<td rowspan="2"><ul><li><a href="https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf">Pandas Cheat Sheet</a></li><li><a href="https://classroom.github.com/a/6jtbwgZO">SEMDS Homework 2 (Due 1/26 11:59 PM)</a></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
 <td></td>
-<td>Turning in HW0</br>
+<td>Turning in HW0<br/>
 <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L4.Procedural_Python.ipynb">Procedural Python</a><br/>
 </td>
 <td></td>
@@ -137,7 +137,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="1"><u>Jan 31</u></td>
 <td rowspan="1"><u>Feb 1</u></td>
 <td rowspan="1"><u>Feb 2</u></td>
-<td rowspan="2"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/WuQjIAWP">SEMDS Homework 3</a></span></li></ul>
+<td rowspan="2"><ul><li><a href="https://classroom.github.com/a/WuQjIAWP">SEMDS Homework 3</a></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
@@ -162,21 +162,21 @@ DSMCER background color: #b2df8a-->
 <tr align="center" valign="top">
 <td></td>
 <td>
-<a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/Use_cases.pptx?raw=true">Use cases</a><br/></span><br/>Project verification<br />
+<a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/Use_cases.pptx?raw=true">Use cases</a><br/><br/>Project verification<br />
 </td>
 <td></td>
 <td>
-<a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/Use_cases.pptx?raw=true">Software design</a><br/></span><br/><br/>
+<a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/Use_cases.pptx?raw=true">Software design</a><br/><br/><br/>
 </td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
 <tr valign="top">
-<td rowspan="1"><u>Feb 12</u><br/><span style="background-color:#a6cee3">SEMDS Homework 3 Due</span></td>
+<td rowspan="1"><u>Feb 12</u><br/>SEMDS Homework 3 Due</td>
 <td rowspan="1"><u>Feb 13</u></td>
 <td rowspan="1"><u>Feb 14</u></td>
 <td rowspan="1"><u>Feb 15</u></td>
-<td rowspan="1"><u>Feb 16</u><br/><span style="background-color:#a6cee3">Draft of Use Cases and Component Specification due!</span></td>
+<td rowspan="1"><u>Feb 16</u><br/>Draft of Use Cases and Component Specification due!</td>
 <td rowspan="2"><ul></ul>
 </td>
 </tr>
@@ -198,7 +198,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="1"><u>Feb 21</u></td>
 <td rowspan="1"><u>Feb 22</u></td>
 <td rowspan="1"><u>Feb 23</u></td>
-<td rowspan="2"><ul><li><span style="background-color:#a6cee3"><a href="https://classroom.github.com/a/y1WhHS0h">SEMDS Homework 4, the big one</a></span></li><li><a href="https://google.github.io/styleguide/pyguide.html">Google Python Style Guide</a></li></ul>
+<td rowspan="2"><ul><li><a href="https://classroom.github.com/a/y1WhHS0h">SEMDS Homework 4, the big one</a></li><li><a href="https://google.github.io/styleguide/pyguide.html">Google Python Style Guide</a></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
@@ -233,7 +233,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="1"><u>Feb 27</u></td>
 <td rowspan="1"><u>Feb 28</u><br/></td>
 <td rowspan="1"><u>Feb 29</u></td>
-<td rowspan="1"><u>Mar 1</u><br/><span style="background-color:#a6cee3">SEMDS Homework 4 Due</span></td>
+<td rowspan="1"><u>Mar 1</u><br/>SEMDS Homework 4 Due</td>
 <td rowspan="2">
 </td>
 </tr>
