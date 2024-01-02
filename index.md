@@ -8,22 +8,16 @@ collection: main
 ## Instructors
 
 - Prof. David Beck (dacb@uw.edu)
-- Evan Komp (evankomp+dsmcer@uw.edu)
 
 ## Teaching Assistants
 
-- Orion Dollar (odollar@uw.edu)
 - Nels Schimek (nlsschim@uw.edu)
 
-## Logistics for 2023
-
-- Data Science Methods for Clean Energy Research (DSMCER, ChemE 545)<br>Also known as Molecular Data Science Survey
-    - Tue & Thr, room [DEN 303](https://www.washington.edu/classroom/DEN+303)
-    - 11:30 - 12:50
+## Logistics for 2024
 
 - Software Engineering for Molecular Data Scientists (SEMDS, ChemE 546)
     - Tue & Thr, room [OUG 136](https://www.washington.edu/classroom/OUG+136)<br>**NOTE**: You need a valid Husky Card to enter Odegaard Undergraduate Library.
-    - 2:30 - 3:50
+    - 11:30 - 12:50
 
 
 ## Course Descriptions
@@ -51,25 +45,5 @@ These two courses teach graduate students the software engineering and molecular
 The courses emphasize a hands-on learning approach in which class time is often used for problem solving in small groups. The first 6 weeks will teach the skills described above. The remaining weeks are devoted to the student’s class project, creating a computational research project of their choosing.
 
 <div class="home">
-
-<!-- Following will add blog links to the index page:
-
-  <h2 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h3>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
--->
 
 </div>

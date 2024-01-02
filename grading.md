@@ -53,6 +53,6 @@ Grades for the project will be assigned to the entire team, although
 there will be adjustments for significant discrepancies in the relative 
 contributions of team members.  The latter will be assessed by commit 
 logs and by a peer assesment survey students will take at the end of the quarter. 
-Separate, defined graded components will be given for SEDS and DSMfCER.
+Separate, defined graded components will be given for SEDS and DSMCER.
 
 Project deadline and final presentation dates can be found on the syllabus page.
