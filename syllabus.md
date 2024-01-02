@@ -11,7 +11,7 @@ All homework assignments will be due on **Friday at 11:59 PM** unless otherwise 
 
 ## Instructor command history
 
-We have a tool developed that allows us to log our history of shell commands and immediately send them to a GitHub repository for students in the classroom to view and copy and paste.  You can find this history [here](https://github.com/UWDIRECT/history/blob/main/history.txt)
+We have a tool developed that allows us to log our history of shell commands and immediately send them to a GitHub repository for students in the classroom to view and copy and paste.  You can find this history [here](https://github.com/UWDIRECT/history/blob/main/history.txt).
 
 <!-- This is from 2023
 ## Surveys
