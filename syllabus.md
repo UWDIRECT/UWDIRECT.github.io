@@ -57,7 +57,7 @@ DSMCER background color: #b2df8a-->
 <td></td>
 <td></td>
 <td></td>
-<td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/DSMCER/L0_Intro_to_Data_Science.pdf?raw=true">Course Overview</a><br/><i>Software checkup</i></td>
+<td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/SEMDS/Course%20Introduction.pptx?raw=true">Course Overview</a><br/><i>Software checkup</i></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
