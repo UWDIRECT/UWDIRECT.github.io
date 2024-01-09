@@ -72,7 +72,7 @@ DSMCER background color: #b2df8a-->
 </tr>
 <tr align="center" valign="top">
 <td></td>
-<td><A href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line</a><br/><a href="">(video)</a></td>
+<td><A href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=221ba4eb-2d5b-4238-aac7-b0f20144dea8">(video)</a></td>
 <td></td>
 <td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L3.Version_Control.pptx?raw=true">Version control</a><br/><a href="">(video)</a></td>
 </tr>
