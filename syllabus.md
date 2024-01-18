@@ -87,6 +87,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="2"><ul><li><a href="https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf">Pandas Cheat Sheet</a></li><li><a href="https://classroom.github.com/a/6jtbwgZO">SEMDS Homework 2 (Due 1/26 11:59 PM)</a></li></ul>
 </td>
 </tr>
+<tr></tr>
 <tr align="center" valign="top">
 <td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L3.Version_Control.pptx?raw=true">Version control</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=095b60a2-2399-44fe-aaa9-b0f90147401a">(video)</a></td>
 <td></td>
