@@ -87,13 +87,14 @@ DSMCER background color: #b2df8a-->
 <td rowspan="2"><ul><li><a href="https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf">Pandas Cheat Sheet</a></li><li><a href="https://classroom.github.com/a/6jtbwgZO">SEMDS Homework 2 (Due 1/26 11:59 PM)</a></li></ul>
 </td>
 </tr>
-<tr></tr>
 <tr align="center" valign="top">
+<td></td>
 <td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L3.Version_Control.pptx?raw=true">Version control</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=095b60a2-2399-44fe-aaa9-b0f90147401a">(video)</a></td>
 <td></td>
 <td>Turning in HW0<br/>
 <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L4.Procedural_Python.ipynb">Procedural Python</a><br/>
 <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L5.Pandas.ipynb">Python & Pandas</a><br/>
+(Note! Videos did not record for this class.  I have links to last years recordings for Tuesday of next week.)
 </td>
 </td>
 </tr>
@@ -105,7 +106,11 @@ DSMCER background color: #b2df8a-->
 <td rowspan="1"><u>Jan 24</u></td>
 <td rowspan="1"><u>Jan 25</u><br/>SEDS Homework 2 due</td>
 <td rowspan="1"><u>Jan 26</u></td>
-<td rowspan="2"><ul></ul>
+<td rowspan="2">Videos for home learning for the rest of the week:<ul><li><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e0a48b6c-b7b2-4cce-99ea-b0ff01432795">Python, part 1<a/></li>
+<li><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f4dfe5dd-b72a-4a63-b542-b0ff01434c12">Python, part 2<a/></li><li><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3f984ec1-0df6-4296-a434-b0ff0143606a">Pandas<a/></li>
+
+
+</ul>
 </td>
 </tr>
 <tr align="center" valign="top">
