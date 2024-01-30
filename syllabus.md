@@ -142,7 +142,14 @@ DSMCER background color: #b2df8a-->
 <td rowspan="1"><u>Jan 31</u></td>
 <td rowspan="1"><u>Feb 1</u></td>
 <td rowspan="1"><u>Feb 2</u></td>
-<td rowspan="2"><ul><li><a href="https://classroom.github.com/a/WuQjIAWP">SEMDS Homework 3</a></li></ul>
+<td rowspan="2"><ul><li><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ae1cf57e-3417-45e6-8c8d-af94017f3a12">From Nothing to Something, video 1</a></li>
+<li></li><li>
+<a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de3156b5-ef4c-48a5-b01e-af9601420bb5">From Nothing to Something, video 2</a>
+<li></li><li>
+<a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2fceabeb-9e0c-4225-8366-af9601732c6f">From Nothing to Something, video 3</a>
+</li></ul>
+
+<!--<a href="https://classroom.github.com/a/WuQjIAWP">SEMDS Homework 3</a></li></ul>-->
 </td>
 </tr>
 <tr align="center" valign="top">
