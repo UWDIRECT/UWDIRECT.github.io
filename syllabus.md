@@ -174,7 +174,7 @@ DSMCER background color: #b2df8a-->
 <tr align="center" valign="top">
 <td></td>
 <td>
-<a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/Use_cases.pptx?raw=true">Use cases</a><br/><br/>Project verification<br />
+<a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/SEMDS/User_Stories_Use_Cases_Components.pptx?raw=true">Use cases</a><br/><br/>Project verification<br />
 </td>
 <td></td>
 <td>
