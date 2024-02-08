@@ -168,7 +168,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="1"><u>Feb 7</u></td>
 <td rowspan="1"><u>Feb 8</u></td>
 <td rowspan="1"><u>Feb 9</u></td>
-<td rowspan="2"><ul><li><a href="http://www.statlearning.com/">Introduction to Statistical Learning PDF</a></li><li><a href="https://www.atlassian.com/git/tutorials/using-branches/git-merge">Git Merge Docs</a></li></ul>
+<td rowspan="2"><ul><li><a href="http://www.statlearning.com/">Introduction to Statistical Learning PDF</a></li><li><a href="https://www.atlassian.com/git/tutorials/using-branches/git-merge">Git Merge Docs</a></li><li><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/DSMCER/L4_SML_using_KNN_COMPLETE.ipynb">KNN Jupyter Notebook</a></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
