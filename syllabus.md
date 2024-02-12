@@ -184,7 +184,7 @@ DSMCER background color: #b2df8a-->
 <!-- end of week -->
 <!-- this is a new week -->
 <tr valign="top">
-<td rowspan="1"><u>Feb 12</u><br/>SEMDS Homework 3 Due</td>
+<td rowspan="1"><u>Feb 12</u><br/></td>
 <td rowspan="1"><u>Feb 13</u></td>
 <td rowspan="1"><u>Feb 14</u></td>
 <td rowspan="1"><u>Feb 15</u></td>
