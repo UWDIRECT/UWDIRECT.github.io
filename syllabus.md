@@ -189,7 +189,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="1"><u>Feb 14</u></td>
 <td rowspan="1"><u>Feb 15</u></td>
 <td rowspan="1"><u>Feb 16</u><br/>Draft of Use Cases and Component Specification due!</td>
-<td rowspan="2"><ul></ul>
+<td rowspan="2"><ul><A HREF="https://classroom.github.com/a/WuQjIAWP">SEMDS Homework 3</A></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
