@@ -216,7 +216,7 @@ DSMCER background color: #b2df8a-->
 <tr align="center" valign="top">
 <td></td>
 <td>
-<a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/SEDS/L10.Communication.pptx">Communicating about code</a><br/><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/SEDS/L11.Version_Control_p2.pptx">Version control, part 3</a><br/>
+<a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/SEDS/L10.Communication.pptx">Communicating about code</a><br/><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/SEDS/L11.Version_Control_p2.pptx">Version control, part 3</a><br/>Homework 3 due
 </td>
 <td></td>
 <td>
