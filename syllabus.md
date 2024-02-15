@@ -195,7 +195,7 @@ DSMCER background color: #b2df8a-->
 <tr align="center" valign="top">
 <td></td>
 <td>
-<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/debugging_exceptions_testing/Unit-tests.ipynb">Unit tests & TEST DRIVEN DEVELOPMENT</a><br/>
+<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/debugging_exceptions_testing/Unit-tests.ipynb">Unit tests & TEST DRIVEN DEVELOPMENT</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f1b0a474-f743-4e25-a353-b1150141eb05">(video)</a>
 </td>
 <td></td>
 <td>
