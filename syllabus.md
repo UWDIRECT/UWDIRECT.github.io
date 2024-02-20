@@ -199,7 +199,7 @@ DSMCER background color: #b2df8a-->
 </td>
 <td></td>
 <td>
-<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/debugging_exceptions_testing/Debugging.ipynb">Debugging</a><br/><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/debugging_exceptions_testing/Exceptions.ipynb">Exceptions</a><br/><a href="https://github.com/uwseds/entropy">Entropy repository</a><br/>
+<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/debugging_exceptions_testing/Debugging.ipynb">Debugging</a><br/><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/debugging_exceptions_testing/Exceptions.ipynb">Exceptions</a><br/><a href="https://github.com/uwseds/entropy">Entropy repository</a><br/><A HREF="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6fc91934-7b11-4d74-bf37-b1170143ad01">(video)</a>
 </td>
 </tr>
 <!-- end of week -->
@@ -210,7 +210,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="1"><u>Feb 21</u></td>
 <td rowspan="1"><u>Feb 22</u></td>
 <td rowspan="1"><u>Feb 23</u></td>
-<td rowspan="2"><ul><li><a href="https://classroom.github.com/a/y1WhHS0h">SEMDS Homework 4, the big one</a></li><li><a href="https://google.github.io/styleguide/pyguide.html">Google Python Style Guide</a></li></ul>
+<td rowspan="2"><ul><li><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=55f550d8-5f7c-44f9-8ba7-afab0141de7e">Video for 2/20 missed class: Version control, part 3</a></li><li><a href="https://google.github.io/styleguide/pyguide.html">Google Python Style Guide</a></li></ul>
 </td>
 </tr>
 <tr align="center" valign="top">
