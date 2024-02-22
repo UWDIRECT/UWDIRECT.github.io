@@ -245,7 +245,7 @@ DSMCER background color: #b2df8a-->
 <td rowspan="1"><u>Feb 27</u></td>
 <td rowspan="1"><u>Feb 28</u><br/></td>
 <td rowspan="1"><u>Feb 29</u></td>
-<td rowspan="1"><u>Mar 1</u><br/>SEMDS Homework 4 Due</td>
+<td rowspan="1"><u>Mar 1</u><br/></td>
 <td rowspan="2">
 </td>
 </tr>
