@@ -23,7 +23,7 @@ collection: main
 |March 29|Establishing your team's operating norms.<br/>Intro to Project Management [slides](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi22_content/Capstone/DIRECT%20project%20management%20and%20conflict%20resolution.pptx?raw=true)|Meet with your stakeholder / sponsor.  Create repository.  Build use cases and begin design|
 |April 5| Intro to Project Management, part 2. & Standups|Finalize design and assign initial tasks including technology reviews and literature survey.|
 |April 12|Standups & consultation||
-|April 19|No class||
+|April 19|Standups & consultation||
 |April 26|Standups & consultation||
 |May 3|Standups & consultation||
 |May 10|Standups & Pitch clinic, part 1||
