@@ -13,7 +13,7 @@ collection: main
 
 - Haoqing Zhang (hz322@uw.edu)
 
-## Logistics for 2024
+## Logistics for 2025
 
 - Software Engineering for Molecular Data Scientists (SEMDS, ChemE 546)
     - Tue & Thr, room [HCK 132](https://www.washington.edu/classroom/HCK+132)

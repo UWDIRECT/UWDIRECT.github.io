@@ -27,7 +27,7 @@ Mid-class checkin survey [here](https://bit.ly/cheme545546-23wi).
 <!--SEDS background color: #a6cee3
 DSMCER background color: #b2df8a-->
 
-### January 2024
+### January 2025
 
 <table style="border-collapse: collapse; width: 100%; " border="1">
 <tbody>
@@ -123,7 +123,7 @@ DSMCER background color: #b2df8a-->
 </tbody>
 </table>
 
-### February 2024
+### February 2025
 
 <table style="border-collapse: collapse; width: 100%; " border="1">
 <tbody>
@@ -227,7 +227,7 @@ DSMCER background color: #b2df8a-->
 </tbody>
 </table>
 
-### March 2024
+### March 2025
 
 <table style="border-collapse: collapse; width: 100%; " border="1">
 <tbody>

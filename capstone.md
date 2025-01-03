@@ -9,14 +9,14 @@ collection: main
 
 - Prof. David Beck (dacb@uw.edu)
 
-## Logistics for 2024
+## Logistics for 2025
 
 - CHEME / CHEM / MSE 547: Molecular Data Science Capstone
     - Fri
     - 9:30 - 12:30 (won't be 3 hours most weeks)
     - [DEN 303](http://www.washington.edu/classroom/DEN+303)
 
-## Schedule for Spring 2023
+## Schedule for Spring 2025
 
 |Day|Activity  |Timeline|
 |--|--|--|
