@@ -24,7 +24,7 @@ We have a tool developed that allows us to log our history of shell commands and
 <td><strong>Wednesday</strong></td>
 <td><strong>Thursday</strong></td>
 <td><strong>Friday</strong></td>
-<td><strong>References &amp; Homework</strong></td>
+<td colspan="2"><strong>References &amp; Homework</strong></td>
 </tr>
 <tr valign="top">
 <td>Jan 6</td>
