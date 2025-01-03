@@ -62,7 +62,7 @@ We have a tool developed that allows us to log our history of shell commands and
 <td></td>
 <td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L3.Version_Control.pptx?raw=true">Version control</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=095b60a2-2399-44fe-aaa9-b0f90147401a">(video)</a><br>Turning in HW0 in class.</td>
 <td></td>
-<td></td>
+<td><a href="http://swcarpentry.github.io/git-novice/">Version Control with Git</a></td>
 </tr>
 <tr valign="top">
 <td>Jan 20</td>
@@ -83,7 +83,7 @@ We have a tool developed that allows us to log our history of shell commands and
 <a href="">(video)</a>
 </td>
 <td></td>
-<td></td>
+<td><a href="https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf">Pandas Cheat Sheet</a></td>
 </tr>
 <tr valign="top">
 <td>Jan 27</td>
@@ -131,7 +131,7 @@ We have a tool developed that allows us to log our history of shell commands and
 <td></td>
 <td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/Project_Overview.pptx">Project pitches and matchmaking</a><br/></td>
 <td></td>
-<td></td>
+<td><ul><li><a href="http://www.statlearning.com/">Introduction to Statistical Learning PDF</a></li><li><a href="https://www.atlassian.com/git/tutorials/using-branches/git-merge">Git Merge Docs</a></li><li><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/DSMCER/L4_SML_using_KNN_COMPLETE.ipynb">KNN Jupyter Notebook</a></li></ul></td>
 </tr>
 <tr valign="top">
 <td>Feb 10</td>
