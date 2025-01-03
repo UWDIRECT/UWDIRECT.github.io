@@ -11,13 +11,16 @@ collection: main
 
 ## Teaching Assistants
 
-- Nels Schimek (nlsschim@uw.edu)
+- Haoqing Zhang (hz322@uw.edu)
 
 ## Logistics for 2024
 
 - Software Engineering for Molecular Data Scientists (SEMDS, ChemE 546)
-    - Tue & Thr, room [OUG 136](https://www.washington.edu/classroom/OUG+136)<br>**NOTE**: You need a valid Husky Card to enter Odegaard Undergraduate Library.
-    - 11:30 - 12:50
+    - Tue & Thr, room [HCK 132](https://www.washington.edu/classroom/HCK+132)
+<!--
+<br>**NOTE**: You need a valid Husky Card to enter Odegaard Undergraduate Library.
+-->
+    - 2:30 - 3:50
 
 
 ## Course Descriptions
@@ -35,12 +38,14 @@ These two courses teach graduate students the software engineering and molecular
 - Developing unit tests that validate important aspects of the project implementation, and, more broadly, using test-driven development to build software.
 - Searching, evaluating, and integrating into a project an externally developed Python packages as well as creating your own Python packages.
 
+<!--
 *In DSMCER students will learn the following skills*: 
 
 - Statistical reasoning and methods including distributions, hypothesis testing and error analysis for multiple data types
 - Modern data visualization methods
 - A wide range of machine learning methods with direct applications for problems in the design, synthesis and characterization of molecules, molecular systems and reactions
 - Hands on experience with the Python scientific stack and machine learning tools like TensorFlow and PyTorch
+-->
 
 The courses emphasize a hands-on learning approach in which class time is often used for problem solving in small groups. The first 6 weeks will teach the skills described above. The remaining weeks are devoted to the student’s class project, creating a computational research project of their choosing.
 
