@@ -13,19 +13,6 @@ All homework assignments will be due on **Friday at 11:59 PM** unless otherwise 
 
 We have a tool developed that allows us to log our history of shell commands and immediately send them to a GitHub repository for students in the classroom to view and copy and paste.  You can find this history [here](https://github.com/UWDIRECT/history/blob/main/history.txt).
 
-<!-- This is from 2023
-## Surveys
-
-### Pre-course topic understanding evaluation
-This [survey](https://docs.google.com/forms/d/e/1FAIpQLSeM8JMAIO1q4Ea0x5V6DMK_37u986YF5uMqnU7MNtvvZ45xCw/viewform?usp=sf_link) will help us measure how well we are doing. Please fill this out and note that it will contribute towards your class participation score __on a purely participatory basis__. Your responses do not affect your score in any way.
-
-Mid-class checkin survey [here](https://bit.ly/cheme545546-23wi).
-
-## <span style="background-color:#a6cee3">SEDS (546)</span> and <span style="background-color:#b2df8a">DSMCER (545)</span> Schedule
--->
-
-<!--SEDS background color: #a6cee3
-DSMCER background color: #b2df8a-->
 
 ### January 2025
 
@@ -306,3 +293,4 @@ It is possible that some aspects of the course will take place over zoom (e.g. o
 * Not share their computer audio or video during their Zoom sessions.
 
 **The University of Washington acknowledges the Coast Salish peoples of this land, the land which touches the shared waters of all tribes and bands within the Suquamish, Tulalip, and Muckleshoot nations.**
+
