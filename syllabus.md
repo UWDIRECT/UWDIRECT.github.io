@@ -269,6 +269,11 @@ Deadline to push final version of project code on GitHub</u></td>
 </table>
 
 
+</table></tr></td></tbody>
+
+<HR>
+
+
 ## Additional information
 
 **Absence and COVID Policy**:
