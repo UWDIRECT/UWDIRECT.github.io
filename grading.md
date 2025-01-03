@@ -24,7 +24,7 @@ To receive full credit, homework must be posted by **11:59 PM Pacific Time** on 
 <!--Due to the holiday schedule in Winter quarter, homework may be assigned either on a Tuesday or a Thursday.-->  The instructors and TAs will then provide feedback via GitHub issues.  You will have a week to respond to the feedback by a homework revision to make up any points not received on the first submission.  If you choose to go this route (and you should), __you will need to @mention the TA or instructor who first reviewed your homework.__
 Twenty percent will be deducted from homework received up to a week after its due date.
 No credit will be given for homework more than one week late (unless there is special permission from the instructors).
-All homework, including those with extensions, must be submitted no later than midnight March 15, 2023.
+All homework, including those with extensions, must be submitted no later than midnight March 18, 2025.
 
 ## A Note about collaboration
 
