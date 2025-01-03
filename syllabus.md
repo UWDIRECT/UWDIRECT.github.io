@@ -47,13 +47,18 @@ DSMCER background color: #b2df8a-->
 <td>Jan 10</td>
 <td rowspan="2"></td>
 </tr>
-<tr align="center" valign="top">
+<tr align="left" valign="top">
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>
+<ul>
+<li><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf">bash command line reference</a></li>
+<li><a href="https://docs.google.com/document/d/1rzP02Vm4LKmuprnskMZjI1s7l4HkGzbqb5nHU0WyS0s/edit?usp=sharing">SEMDS Homework 1</a></li>
+</ul>
+</td>
 </tr>
 <tr valign="top">
 <td>Jan 13</td>
@@ -63,7 +68,7 @@ DSMCER background color: #b2df8a-->
 <td>Jan 17</td>
 <td rowspan="2"></td>
 </tr>
-<tr align="center" valign="top">
+<tr align="left" valign="top">
 <td></td>
 <td></td>
 <td></td>
@@ -79,7 +84,7 @@ DSMCER background color: #b2df8a-->
 <td>Jan 24</td>
 <td rowspan="2"></td>
 </tr>
-<tr align="center" valign="top">
+<tr align="left" valign="top">
 <td></td>
 <td></td>
 <td></td>
@@ -95,7 +100,7 @@ DSMCER background color: #b2df8a-->
 <td>Jan 31</td>
 <td rowspan="2"></td>
 </tr>
-<tr align="center" valign="top">
+<tr align="left" valign="top">
 <td></td>
 <td></td>
 <td></td>
@@ -127,7 +132,7 @@ DSMCER background color: #b2df8a-->
 <td>Feb 7</td>
 <td rowspan="2"></td>
 </tr>
-<tr align="center" valign="top">
+<tr align="left" valign="top">
 <td></td>
 <td></td>
 <td></td>
@@ -143,7 +148,7 @@ DSMCER background color: #b2df8a-->
 <td>Feb 14</td>
 <td rowspan="2"></td>
 </tr>
-<tr align="center" valign="top">
+<tr align="left" valign="top">
 <td></td>
 <td></td>
 <td></td>
@@ -159,7 +164,7 @@ DSMCER background color: #b2df8a-->
 <td>Feb 21</td>
 <td rowspan="2"></td>
 </tr>
-<tr align="center" valign="top">
+<tr align="left" valign="top">
 <td></td>
 <td></td>
 <td></td>
@@ -175,7 +180,7 @@ DSMCER background color: #b2df8a-->
 <td>Feb 28</td>
 <td rowspan="2"></td>
 </tr>
-<tr align="center" valign="top">
+<tr align="left" valign="top">
 <td></td>
 <td></td>
 <td></td>
@@ -207,7 +212,7 @@ DSMCER background color: #b2df8a-->
 <td>Mar 7</td>
 <td rowspan="2"></td>
 </tr>
-<tr align="center" valign="top">
+<tr align="left" valign="top">
 <td></td>
 <td></td>
 <td></td>
@@ -223,7 +228,7 @@ DSMCER background color: #b2df8a-->
 <td>Mar 14</td>
 <td rowspan="2"></td>
 </tr>
-<tr align="center" valign="top">
+<tr align="left" valign="top">
 <td></td>
 <td></td>
 <td></td>
@@ -239,7 +244,7 @@ DSMCER background color: #b2df8a-->
 <td>Mar  21</td>
 <td rowspan="2"></td>
 </tr>
-<tr align="center" valign="top">
+<tr align="left" valign="top">
 <td></td>
 <td></td>
 <td></td>
@@ -255,7 +260,7 @@ DSMCER background color: #b2df8a-->
 <td>Mar 28</td>
 <td rowspan="2"></td>
 </tr>
-<tr align="center" valign="top">
+<tr align="left" valign="top">
 <td></td>
 <td></td>
 <td></td>
@@ -561,4 +566,3 @@ It is possible that some aspects of the course will take place over zoom (e.g. o
 * Not share their computer audio or video during their Zoom sessions.
 
 **The University of Washington acknowledges the Coast Salish peoples of this land, the land which touches the shared waters of all tribes and bands within the Suquamish, Tulalip, and Muckleshoot nations.**
-
