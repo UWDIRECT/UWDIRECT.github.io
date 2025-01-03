@@ -48,6 +48,22 @@ We have a tool developed that allows us to log our history of shell commands and
 </ul>
 </td>
 </tr>
+<tr valign="top">
+<td>Jan 13</td>
+<td>Jan 14</td>
+<td>Jan 15</td>
+<td>Jan 16</td>
+<td>Jan 17</td>
+<td rowspan="2"></td>
+</tr>
+<tr align="left" valign="top">
+<td></td>
+<td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L3.Version_Control.pptx?raw=true">Version control</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=095b60a2-2399-44fe-aaa9-b0f90147401a">(video)</td>
+<td></td>
+<td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L3.Version_Control.pptx?raw=true">Version control</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=095b60a2-2399-44fe-aaa9-b0f90147401a">(video)</a><br>Turning in HW0 in class.</td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -215,6 +231,10 @@ Deadline to push final version of project code on GitHub</u></td>
 </tbody>
 </table>
 
+
+</table></tr></td></tbody>
+
+<HR>
 
 
 ## Additional information
