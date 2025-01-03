@@ -32,7 +32,7 @@ We have a tool developed that allows us to log our history of shell commands and
 <td>Jan 8</td>
 <td>Jan 9</td>
 <td>Jan 10</td>
-<td rowspan="2"></td>
+<td></td>
 </tr>
 <tr align="left" valign="top">
 <td></td>
@@ -54,11 +54,11 @@ We have a tool developed that allows us to log our history of shell commands and
 <td>Jan 15</td>
 <td>Jan 16</td>
 <td>Jan 17</td>
-<td rowspan="2"></td>
+<td></td>
 </tr>
 <tr align="left" valign="top">
 <td></td>
-<td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L3.Version_Control.pptx?raw=true">Version control</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=095b60a2-2399-44fe-aaa9-b0f90147401a">(video)</td>
+<td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L3.Version_Control.pptx?raw=true">Version control</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=095b60a2-2399-44fe-aaa9-b0f90147401a">(video)</a></td>
 <td></td>
 <td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L3.Version_Control.pptx?raw=true">Version control</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=095b60a2-2399-44fe-aaa9-b0f90147401a">(video)</a><br>Turning in HW0 in class.</td>
 <td></td>
@@ -70,7 +70,7 @@ We have a tool developed that allows us to log our history of shell commands and
 <td>Jan 22</td>
 <td>Jan 23</td>
 <td>Jan 24</td>
-<td rowspan="2"></td>
+<td></td>
 </tr>
 <tr align="left" valign="top">
 <td></td>
@@ -91,7 +91,7 @@ We have a tool developed that allows us to log our history of shell commands and
 <td>Jan 29</td>
 <td>Jan 30</td>
 <td>Jan 31</td>
-<td rowspan="2"></td>
+<td></td>
 </tr>
 <tr align="left" valign="top">
 <td></td>
@@ -123,7 +123,7 @@ We have a tool developed that allows us to log our history of shell commands and
 <td>Feb 5</td>
 <td>Feb 6</td>
 <td>Feb 7</td>
-<td rowspan="2"></td>
+<td></td>
 </tr>
 <tr align="left" valign="top">
 <td></td>
@@ -139,7 +139,7 @@ We have a tool developed that allows us to log our history of shell commands and
 <td>Feb 12</td>
 <td>Feb 13</td>
 <td>Feb 14</td>
-<td rowspan="2"></td>
+<td></td>
 </tr>
 <tr align="left" valign="top">
 <td></td>
@@ -156,7 +156,7 @@ Project verification<br /></td>
 <td>Feb 19</td>
 <td>Feb 20</td>
 <td>Feb 21</td>
-<td rowspan="2"></td>
+<td></td>
 </tr>
 <tr align="left" valign="top">
 <td></td>
@@ -172,7 +172,7 @@ Project verification<br /></td>
 <td>Feb 26</td>
 <td>Feb 27</td>
 <td>Feb 28</td>
-<td rowspan="2"></td>
+<td></td>
 </tr>
 <tr align="left" valign="top">
 <td></td>
@@ -204,7 +204,7 @@ Project verification<br /></td>
 <td>Mar 5</td>
 <td>Mar 6</td>
 <td>Mar 7</td>
-<td rowspan="2"></td>
+<td></td>
 </tr>
 <tr align="left" valign="top">
 <td></td>
@@ -220,7 +220,7 @@ Project verification<br /></td>
 <td>Mar 12</td>
 <td>Mar 13</td>
 <td>Mar 14</td>
-<td rowspan="2"></td>
+<td></td>
 </tr>
 <tr align="left" valign="top">
 <td></td>
@@ -236,7 +236,7 @@ Project verification<br /></td>
 <td>Mar  19</td>
 <td>Mar  20</td>
 <td>Mar  21</td>
-<td rowspan="2"></td>
+<td></td>
 </tr>
 <tr align="left" valign="top">
 <td></td>
@@ -255,7 +255,7 @@ Deadline to push final version of project code on GitHub</u></td>
 <td>Mar  26</td>
 <td>Mar  27</td>
 <td>Mar 28</td>
-<td rowspan="2"></td>
+<td></td>
 </tr>
 <tr align="left" valign="top">
 <td></td>
@@ -268,10 +268,6 @@ Deadline to push final version of project code on GitHub</u></td>
 </tbody>
 </table>
 
-
-</table></tr></td></tbody>
-
-<HR>
 
 
 ## Additional information
