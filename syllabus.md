@@ -31,6 +31,243 @@ DSMCER background color: #b2df8a-->
 
 <table style="border-collapse: collapse; width: 100%; " border="1">
 <tbody>
+<tr align="center" valign="top">
+<td><strong>Monday</strong></td>
+<td><strong>Tuesday</strong></td>
+<td><strong>Wednesday</strong></td>
+<td><strong>Thursday</strong></td>
+<td><strong>Friday</strong></td>
+<td><strong>References &amp; Homework</strong></td>
+</tr>
+<tr valign="top">
+<td>Jan 6</td>
+<td>Jan 7</td>
+<td>Jan 8</td>
+<td>Jan 9</td>
+<td>Jan 10</td>
+<td rowspan="2"></td>
+</tr>
+<tr align="center" valign="top">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Jan 13</td>
+<td>Jan 14</td>
+<td>Jan 15</td>
+<td>Jan 16</td>
+<td>Jan 17</td>
+<td rowspan="2"></td>
+</tr>
+<tr align="center" valign="top">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Jan 20</td>
+<td>Jan 21</td>
+<td>Jan 22</td>
+<td>Jan 23</td>
+<td>Jan 24</td>
+<td rowspan="2"></td>
+</tr>
+<tr align="center" valign="top">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Jan 27</td>
+<td>Jan 28</td>
+<td>Jan 29</td>
+<td>Jan 30</td>
+<td>Jan 31</td>
+<td rowspan="2"></td>
+</tr>
+<tr align="center" valign="top">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
+### February 2025
+
+<table style="border-collapse: collapse; width: 100%; " border="1">
+<tbody>
+<tr align="center" valign="top">
+<td><strong>Monday</strong></td>
+<td><strong>Tuesday</strong></td>
+<td><strong>Wednesday</strong></td>
+<td><strong>Thursday</strong></td>
+<td><strong>Friday</strong></td>
+<td><strong>References &amp; Homework</strong></td>
+</tr>
+<tr valign="top">
+<td>Feb 3</td>
+<td>Feb 4</td>
+<td>Feb 5</td>
+<td>Feb 6</td>
+<td>Feb 7</td>
+<td rowspan="2"></td>
+</tr>
+<tr align="center" valign="top">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Feb 10</td>
+<td>Feb 11</td>
+<td>Feb 12</td>
+<td>Feb 13</td>
+<td>Feb 14</td>
+<td rowspan="2"></td>
+</tr>
+<tr align="center" valign="top">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Feb 17</td>
+<td>Feb 18</td>
+<td>Feb 19</td>
+<td>Feb 20</td>
+<td>Feb 21</td>
+<td rowspan="2"></td>
+</tr>
+<tr align="center" valign="top">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Feb 24</td>
+<td>Feb 25</td>
+<td>Feb 26</td>
+<td>Feb 27</td>
+<td>Feb 28</td>
+<td rowspan="2"></td>
+</tr>
+<tr align="center" valign="top">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
+### March 2025
+
+<table style="border-collapse: collapse; width: 100%; " border="1">
+<tbody>
+<tr align="center" valign="top">
+<td><strong>Monday</strong></td>
+<td><strong>Tuesday</strong></td>
+<td><strong>Wednesday</strong></td>
+<td><strong>Thursday</strong></td>
+<td><strong>Friday</strong></td>
+<td><strong>References &amp; Homework</strong></td>
+</tr>
+<tr valign="top">
+<td>Mar 3</td>
+<td>Mar 4</td>
+<td>Mar 5</td>
+<td>Mar 6</td>
+<td>Mar 7</td>
+<td rowspan="2"></td>
+</tr>
+<tr align="center" valign="top">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Mar 10</td>
+<td>Mar 11</td>
+<td>Mar 12</td>
+<td>Mar 13</td>
+<td>Mar 14</td>
+<td rowspan="2"></td>
+</tr>
+<tr align="center" valign="top">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Mar  17</td>
+<td>Mar  18</td>
+<td>Mar  19</td>
+<td>Mar  20</td>
+<td>Mar  21</td>
+<td rowspan="2"></td>
+</tr>
+<tr align="center" valign="top">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Mar  24</td>
+<td>Mar  25</td>
+<td>Mar  26</td>
+<td>Mar  27</td>
+<td>Mar 28</td>
+<td rowspan="2"></td>
+</tr>
+<tr align="center" valign="top">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<table style="border-collapse: collapse; width: 100%; " border="1">
+<tbody>
 <tr>
 <th>Monday</th>
 <th>Tuesday</th>
@@ -41,32 +278,32 @@ DSMCER background color: #b2df8a-->
 </tr>
 <!-- this is a new week -->
 <tr valign="top">
-<td><u>Jan 1</u></td>
-<td><u>Jan 2</u></td>
-<td><u>Jan 3</u></td>
-<td><u>Jan 4</u></td>
-<td><u>Jan 5</u></td>
+<td><u>Jan 6</u></td>
+<td><u>Jan 7</u></td>
+<td><u>Jan 8</u></td>
+<td><u>Jan 9</u></td>
+<td><u>Jan 10</u></td>
 <td rowspan="2">
 <ul>
 <li><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf">bash command line reference</a></li>
-<li><a href="https://docs.google.com/document/d/1rzP02Vm4LKmuprnskMZjI1s7l4HkGzbqb5nHU0WyS0s/edit?usp=sharing">SEMDS Homework 1 (Due 1/20 11:59 PM)</a> <a href="https://classroom.github.com/a/Zq6fEchJ">GitHub for SEMDS HW1</a></li>
+<li><a href="https://docs.google.com/document/d/1rzP02Vm4LKmuprnskMZjI1s7l4HkGzbqb5nHU0WyS0s/edit?usp=sharing">SEMDS Homework 1 (Due 1/20 11:59 PM)</a></li>
 </ul>
 </td>
 </tr>
 <tr align="center" valign="top">
 <td></td>
-<td></td>
-<td></td>
 <td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/SEMDS/Course%20Introduction.pptx?raw=true">Course Overview</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2d53e797-33dd-4a55-80a6-b0ed014583ad">(video)</a><br/><i>Software checkup</i></td>
+<td></td>
+<td><A href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=221ba4eb-2d5b-4238-aac7-b0f20144dea8">(video)</a></td>
 </tr>
 <!-- end of week -->
 <!-- this is a new week -->
 <tr valign="top">
-<td rowspan="1"><u>Jan 8</u></td>
-<td rowspan="1"><u>Jan 9</u></td>
-<td rowspan="1"><u>Jan 10</u><br/></td>
-<td rowspan="1"><u>Jan 11</u></td>
-<td rowspan="1"><u>Jan 12</u></td>
+<td rowspan="1"><u>Jan 13</u></td>
+<td rowspan="1"><u>Jan 14</u></td>
+<td rowspan="1"><u>Jan 15</u><br/></td>
+<td rowspan="1"><u>Jan 16</u></td>
+<td rowspan="1"><u>Jan 17</u></td>
 <td rowspan="2"><ul><li><a href="http://swcarpentry.github.io/git-novice/">Version Control with Git</a></li></ul>
 </td>
 </tr>
@@ -79,11 +316,11 @@ DSMCER background color: #b2df8a-->
 <!-- end of week -->
 <!-- this is a new week -->
 <tr valign="top">
-<td rowspan="1"><u>Jan 15</u></td>
-<td rowspan="1"><u>Jan 16</u></td>
-<td rowspan="1"><u>Jan 17</u></td>
-<td rowspan="1"><u>Jan 18</u></td>
-<td rowspan="1"><u>Jan 19</u><br/>SEDS Homework 1 due</td>
+<td rowspan="1"><u>Jan 20</u><br/>SEDS Homework 1 due</td>
+<td rowspan="1"><u>Jan 21</u></td>
+<td rowspan="1"><u>Jan 22</u></td>
+<td rowspan="1"><u>Jan 23</u></td>
+<td rowspan="1"><u>Jan 24</u></td>
 <td rowspan="2"><ul><li><a href="https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf">Pandas Cheat Sheet</a></li><li><a href="https://classroom.github.com/a/6jtbwgZO">SEMDS Homework 2 (Due 1/26 11:59 PM)</a></li></ul>
 </td>
 </tr>
@@ -101,11 +338,11 @@ DSMCER background color: #b2df8a-->
 <!-- end of week -->
 <!-- this is a new week -->
 <tr valign="top">
-<td rowspan="1"><u>Jan 22</u></td>
-<td rowspan="1"><u>Jan 23</u></td>
-<td rowspan="1"><u>Jan 24</u></td>
-<td rowspan="1"><u>Jan 25</u><br/>SEDS Homework 1 due</td>
-<td rowspan="1"><u>Jan 26</u></td>
+<td rowspan="1"><u>Jan 27</u></td>
+<td rowspan="1"><u>Jan 28</u></td>
+<td rowspan="1"><u>Jan 29</u></td>
+<td rowspan="1"><u>Jan 30</u><br/>SEDS Homework 1 due</td>
+<td rowspan="1"><u>Jan 31</u></td>
 <td rowspan="2">Videos for home learning for the rest of the week:<ul><li><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e0a48b6c-b7b2-4cce-99ea-b0ff01432795">Python, part 1<a/></li>
 <li><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f4dfe5dd-b72a-4a63-b542-b0ff01434c12">Python, part 2<a/></li><li><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3f984ec1-0df6-4296-a434-b0ff0143606a">Pandas<a/></li></ul>
 
@@ -324,3 +561,4 @@ It is possible that some aspects of the course will take place over zoom (e.g. o
 * Not share their computer audio or video during their Zoom sessions.
 
 **The University of Washington acknowledges the Coast Salish peoples of this land, the land which touches the shared waters of all tribes and bands within the Suquamish, Tulalip, and Muckleshoot nations.**
+
