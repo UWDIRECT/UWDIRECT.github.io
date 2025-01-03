@@ -24,7 +24,7 @@ We have a tool developed that allows us to log our history of shell commands and
 <td><strong>Wednesday</strong></td>
 <td><strong>Thursday</strong></td>
 <td><strong>Friday</strong></td>
-<td colspan="2"><strong>References &amp; Homework</strong></td>
+<td><strong>References &amp; Homework</strong></td>
 </tr>
 <tr valign="top">
 <td>Jan 6</td>
@@ -32,7 +32,7 @@ We have a tool developed that allows us to log our history of shell commands and
 <td>Jan 8</td>
 <td>Jan 9</td>
 <td>Jan 10</td>
-<td rowspan="2"></td>
+<td></td>
 </tr>
 <tr align="left" valign="top">
 <td></td>
@@ -49,18 +49,39 @@ We have a tool developed that allows us to log our history of shell commands and
 </td>
 </tr>
 <tr valign="top">
-<td>Jan 13</td>
-<td>Jan 14</td>
-<td>Jan 15</td>
-<td>Jan 16</td>
-<td>Jan 17</td>
-<td rowspan="2"></td>
+<td>Jan 20</td>
+<td>Jan 21</td>
+<td>Jan 22</td>
+<td>Jan 23</td>
+<td>Jan 24</td>
+<td></td>
 </tr>
 <tr align="left" valign="top">
 <td></td>
-<td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L3.Version_Control.pptx?raw=true">Version control</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=095b60a2-2399-44fe-aaa9-b0f90147401a">(video)</td>
+<td><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L4.Procedural_Python.ipynb">Procedural Python</a><br/>
+<a href="">(video)</a>
+</td>
 <td></td>
-<td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L3.Version_Control.pptx?raw=true">Version control</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=095b60a2-2399-44fe-aaa9-b0f90147401a">(video)</a><br>Turning in HW0 in class.</td>
+<td>
+<a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L5.Pandas.ipynb">Python & Pandas</a><br/>
+<a href="">(video)</a>
+</td>
+<td></td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Jan 27</td>
+<td>Jan 28</td>
+<td>Jan 29</td>
+<td>Jan 30</td>
+<td>Jan 31</td>
+<td></td>
+</tr>
+<tr align="left" valign="top">
+<td></td>
+<td><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something</a></td>
+<td></td>
+<td><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something</a></td>
 <td></td>
 <td></td>
 </tr>
@@ -86,7 +107,7 @@ We have a tool developed that allows us to log our history of shell commands and
 <td>Feb 5</td>
 <td>Feb 6</td>
 <td>Feb 7</td>
-<td rowspan="2"></td>
+<td></td>
 </tr>
 <tr align="left" valign="top">
 <td></td>
@@ -102,7 +123,7 @@ We have a tool developed that allows us to log our history of shell commands and
 <td>Feb 12</td>
 <td>Feb 13</td>
 <td>Feb 14</td>
-<td rowspan="2"></td>
+<td></td>
 </tr>
 <tr align="left" valign="top">
 <td></td>
@@ -119,7 +140,7 @@ Project verification<br /></td>
 <td>Feb 19</td>
 <td>Feb 20</td>
 <td>Feb 21</td>
-<td rowspan="2"></td>
+<td></td>
 </tr>
 <tr align="left" valign="top">
 <td></td>
@@ -135,7 +156,7 @@ Project verification<br /></td>
 <td>Feb 26</td>
 <td>Feb 27</td>
 <td>Feb 28</td>
-<td rowspan="2"></td>
+<td></td>
 </tr>
 <tr align="left" valign="top">
 <td></td>
@@ -167,7 +188,7 @@ Project verification<br /></td>
 <td>Mar 5</td>
 <td>Mar 6</td>
 <td>Mar 7</td>
-<td rowspan="2"></td>
+<td></td>
 </tr>
 <tr align="left" valign="top">
 <td></td>
@@ -183,7 +204,7 @@ Project verification<br /></td>
 <td>Mar 12</td>
 <td>Mar 13</td>
 <td>Mar 14</td>
-<td rowspan="2"></td>
+<td></td>
 </tr>
 <tr align="left" valign="top">
 <td></td>
@@ -199,7 +220,7 @@ Project verification<br /></td>
 <td>Mar  19</td>
 <td>Mar  20</td>
 <td>Mar  21</td>
-<td rowspan="2"></td>
+<td></td>
 </tr>
 <tr align="left" valign="top">
 <td></td>
@@ -218,7 +239,7 @@ Deadline to push final version of project code on GitHub</u></td>
 <td>Mar  26</td>
 <td>Mar  27</td>
 <td>Mar 28</td>
-<td rowspan="2"></td>
+<td></td>
 </tr>
 <tr align="left" valign="top">
 <td></td>
