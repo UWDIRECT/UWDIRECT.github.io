@@ -14,6 +14,44 @@ All homework assignments will be due on **Friday at 11:59 PM** unless otherwise 
 We have a tool developed that allows us to log our history of shell commands and immediately send them to a GitHub repository for students in the classroom to view and copy and paste.  You can find this history [here](https://github.com/UWDIRECT/history/blob/main/history.txt).
 
 
+### January 2025
+
+<table style="border-collapse: collapse; width: 100%; " border="1">
+<tbody>
+<tr align="center" valign="top">
+<td><strong>Monday</strong></td>
+<td><strong>Tuesday</strong></td>
+<td><strong>Wednesday</strong></td>
+<td><strong>Thursday</strong></td>
+<td><strong>Friday</strong></td>
+<td><strong>References &amp; Homework</strong></td>
+</tr>
+<tr valign="top">
+<td>Jan 6</td>
+<td>Jan 7</td>
+<td>Jan 8</td>
+<td>Jan 9</td>
+<td>Jan 10</td>
+<td rowspan="2"></td>
+</tr>
+<tr align="left" valign="top">
+<td></td>
+<td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/SEMDS/Course%20Introduction.pptx?raw=true">Course Overview</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2d53e797-33dd-4a55-80a6-b0ed014583ad">(video)</a><br/><i>Software checkup</i></td>
+<td></td>
+<td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/Project_Overview.pptx">Project overview & ideation</a><br/>
+<A href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=221ba4eb-2d5b-4238-aac7-b0f20144dea8">(video)</a></td>
+<td></td>
+<td>
+<ul>
+<li><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf">bash command line reference</a></li>
+<li><a href="https://docs.google.com/document/d/1rzP02Vm4LKmuprnskMZjI1s7l4HkGzbqb5nHU0WyS0s/edit?usp=sharing">SEMDS Homework 1</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+
+
 ### February 2025
 
 <table style="border-collapse: collapse; width: 100%; " border="1">
@@ -177,10 +215,6 @@ Deadline to push final version of project code on GitHub</u></td>
 </tbody>
 </table>
 
-
-</table></tr></td></tbody>
-
-<HR>
 
 
 ## Additional information
