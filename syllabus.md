@@ -36,7 +36,7 @@ We have a tool developed that allows us to log our history of shell commands and
 </tr>
 <tr align="left" valign="top">
 <td></td>
-<td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/SEMDS/Course%20Introduction.pptx?raw=true">Course Overview</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2d53e797-33dd-4a55-80a6-b0ed014583ad">(video)</a><br/><i>Software checkup</i></td>
+<td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/SEMDS/Course%20Introduction.pptx?raw=true">Course Overview</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0d522204-35f1-42a3-87da-b25e0174a4ea">(video)</a><br/><i>Software checkup</i></td>
 <td></td>
 <td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/Project_Overview.pptx">Project overview & ideation</a><br/>
 <A href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L1.1.Command_Line.pptx?raw=true">Command line</a><br/><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=221ba4eb-2d5b-4238-aac7-b0f20144dea8">(video)</a></td>
