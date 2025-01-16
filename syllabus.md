@@ -44,7 +44,6 @@ We have a tool developed that allows us to log our history of shell commands and
 <td>
 <ul>
 <li><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi22_content/SEDS/CSE%20390%20Bash%20Command%20Reference.pdf">bash command line reference</a></li>
-<li><a href="https://docs.google.com/document/d/1rzP02Vm4LKmuprnskMZjI1s7l4HkGzbqb5nHU0WyS0s/edit?usp=sharing">SEMDS Homework 1</a></li>
 </ul>
 </td>
 </tr>
@@ -83,7 +82,9 @@ We have a tool developed that allows us to log our history of shell commands and
 <a href="">(video)</a>
 </td>
 <td></td>
-<td><a href="https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf">Pandas Cheat Sheet</a></td>
+<td><li><a href="https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf">Pandas Cheat Sheet</a></li>
+<li><a href="https://docs.google.com/document/d/1rzP02Vm4LKmuprnskMZjI1s7l4HkGzbqb5nHU0WyS0s/edit?usp=sharing">SEMDS Homework 1</a></li>
+</td>
 </tr>
 <tr valign="top">
 <td>Jan 27</td>
