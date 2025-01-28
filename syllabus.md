@@ -74,12 +74,12 @@ We have a tool developed that allows us to log our history of shell commands and
 <tr align="left" valign="top">
 <td></td>
 <td><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L4.Procedural_Python.ipynb">Procedural Python</a><br/>
-<a href="">(video)</a>
+<a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c57d4bcd-58c2-4b1f-9e01-b26c0174fc72">(video)</a>
 </td>
 <td></td>
 <td>
 <a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L5.Pandas.ipynb">Python & Pandas</a><br/>
-<a href="">(video)</a>
+<a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c494e876-d5f8-4d91-b1ae-b26e01732efc">(video)</a>
 </td>
 <td></td>
 <td><li><a href="https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf">Pandas Cheat Sheet</a></li>
