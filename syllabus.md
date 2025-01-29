@@ -83,7 +83,7 @@ We have a tool developed that allows us to log our history of shell commands and
 </td>
 <td></td>
 <td><li><a href="https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf">Pandas Cheat Sheet</a></li>
-<li><a href="https://classroom.github.com/a/hDUJkLmY">Homework 1</a></li>
+<li><a href="https://classroom.github.com/a/0oR8V9Ge">Homework 1</a></li>
 </td>
 </tr>
 <tr valign="top">
