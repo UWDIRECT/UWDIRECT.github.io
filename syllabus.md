@@ -98,7 +98,7 @@ We have a tool developed that allows us to log our history of shell commands and
 <td></td>
 <td><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something</a></td>
 <td></td>
-<td><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something</a></td>
+<td><a href="https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/L6.NothingToSomething.ipynb">From nothing to something</a><ul><li><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ae1cf57e-3417-45e6-8c8d-af94017f3a12">(video 1)</a></li><li><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de3156b5-ef4c-48a5-b01e-af9601420bb5">(video 2)</a></li><li><a href="https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2fceabeb-9e0c-4225-8366-af9601732c6f">(video 3)</a></li></ul></td>
 <td></td>
 <td></td>
 </tr>
