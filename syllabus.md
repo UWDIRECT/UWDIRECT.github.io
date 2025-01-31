@@ -129,7 +129,7 @@ We have a tool developed that allows us to log our history of shell commands and
 <tr align="left" valign="top">
 <td></td>
 <td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/Project_Overview.pptx">Project overview & ideation</a><br/></td>
-<td></td>
+<td>Homework 1 due</td>
 <td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/Project_Overview.pptx">Project pitches and matchmaking</a><br/></td>
 <td></td>
 <td><ul><li><a href="http://www.statlearning.com/">Introduction to Statistical Learning PDF</a></li><li><a href="https://www.atlassian.com/git/tutorials/using-branches/git-merge">Git Merge Docs</a></li><li><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/DSMCER/L4_SML_using_KNN_COMPLETE.ipynb">KNN Jupyter Notebook</a></li></ul></td>
