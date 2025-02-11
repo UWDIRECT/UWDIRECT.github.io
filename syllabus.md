@@ -149,7 +149,7 @@ Project verification<br /></td>
 <td></td>
 <td><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/Use_cases.pptx?raw=true">Software design</a><br/><br/><br/></td>
 <td></td>
-<td></td>
+<td><A href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/refs/heads/master/alternative_content/ISEA_Beck_Week2.pptx">ISEA week 1</a><br/><a href="https://github.com/UWDIRECT/UWDIRECT.github.io/raw/refs/heads/master/alternative_content/ISEA_Beck_Week3.pptx">ISEA week 2</a></td>
 </tr>
 <tr valign="top">
 <td>Feb 17</td>
