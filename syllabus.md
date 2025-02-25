@@ -181,7 +181,7 @@ Project verification<br /></td>
 <td></td>
 <td><a href="Wi23_content/SEDS/L8.Style_and_Documentation.pptx">Documentation and Style</a><br/><a href="Wi23_content/SEDS/python_demo_1.py">python_demo_1.py</a><br/><a href="Wi23_content/SEDS/python_demo_2.py">python_demo_2.py</a><br/></td>
 <td></td>
-<td></td>
+<td><a href="https://icesat-2-2024.hackweek.io/tutorials/nb-to-package/package.html">Python Packaging</a></td>
 </tr>
 </tbody>
 </table>
