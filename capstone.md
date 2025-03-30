@@ -12,9 +12,7 @@ collection: main
 ## Logistics for 2025
 
 - CHEME / CHEM / MSE 547: Molecular Data Science Capstone
-    - Fri
-    - 9:30 - 12:30 (won't be 3 hours most weeks)
-    - [DEN 303](http://www.washington.edu/classroom/DEN+303)
+    - TBD, each team will setup a weekly with Dave
 
 ## Schedule for Spring 2025
 
