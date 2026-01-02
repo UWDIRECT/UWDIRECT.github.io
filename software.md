@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software
-collection: fall2021
+collection: main
 ---
 
 The course makes use of a number of software packages that students will install on their computers.
