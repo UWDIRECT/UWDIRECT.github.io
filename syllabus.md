@@ -3,11 +3,9 @@ layout: page
 title: Syllabus
 weight: 1000
 collection: main
+precalendarContent: "**Homework is due by 11:59pm on the date that it is posted as \"due\", unless otherwise noted in class.**"
 ---
-
-## Homework
-
-All homework assignments will be due on **Friday at 11:59 PM** unless otherwise noted in the syllabus below.
+<!-- The schedule is stored in the YAML file at `_data/schedule.yml`. It will appear here on the rendered website. -->
 
 ## Instructor command history
 
