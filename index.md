@@ -11,15 +11,13 @@ collection: main
 
 ## Teaching Assistants
 
-- Haoqing Zhang (hz322@uw.edu)
+- TBN (email@uw.edu)
 
-## Logistics for 2025
+## Logistics for 2026
 
 - Software Engineering for Molecular Data Scientists (SEMDS, ChemE 546)
-    - Tue & Thr, room [HCK 132](https://www.washington.edu/classroom/HCK+132)
-<!--
+    - Tue & Thr, room [OUG 136](http://www.washington.edu/classroom/OUG+136)
 <br>**NOTE**: You need a valid Husky Card to enter Odegaard Undergraduate Library.
--->
     - 2:30 - 3:50
 
 
