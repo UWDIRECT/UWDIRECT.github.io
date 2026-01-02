@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: syllabus
 title: Syllabus
 weight: 1000
 collection: main
