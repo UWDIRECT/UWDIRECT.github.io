@@ -1,6 +1,7 @@
 -   tuesday: |
         **January 6**:
-        Overview and introductions ([slides](https://github.com/UWSEDS/lecture-materials/raw/master/01_overview/Course%20Introduction.pptx)), [software tour, software installation checklist](http://uwseds.github.io/software.html) [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=960b1953-3708-40d0-95b4-b363013104a8)
+        Overview and introductions ([slides](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/SEMDS/Course%20Introduction.pptx?raw=true)),
+
         Python, part 2
 -   thursday: |
         **January 8**:
@@ -11,13 +12,18 @@
 
 -   tuesday: |
         **January 13**:
-        Project overview & ideation ([slides]())https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/Project_Overview.pptx
+        [software tour, software installation checklist](http://uwdirect.github.io/software.html)
+
+        Project overview & ideation ([slides](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/Project_Overview.pptx))
+
         Command line ([slides](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L1.1.Command_Line.pptx?raw=true), [history](https://github.com/UWDIRECT/history/blob/master/history.txt) [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=08236334-010b-45e5-87a8-b368013377bb))
     thursday: |
         **January 15**:
         
         Command line scripts ([slides](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L1.1.Command_Line.pptx?raw=true), [history](https://github.com/UWDIRECT/history/blob/master/history.txt) [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=08236334-010b-45e5-87a8-b368013377bb))
+
         Introductory git [(slides)](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/Wi23_content/SEDS/L3.Version_Control.pptx?raw=true) [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8559b405-3ba5-48e3-bc86-b36f013264f8).
+
     resources: |
         [Learning Linux Commands](http://linuxcommand.org/lc3_learning_the_shell.php); [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
 
@@ -41,6 +47,7 @@
         **January 29**:
         
         Project pitches and matchmaking [(slides)](https://github.com/UWDIRECT/UWDIRECT.github.io/raw/master/Wi23_content/Project_Overview.pptx)
+
     resources: |
         [Projects](http://uwseds.github.io/projects.html)
         
@@ -73,8 +80,10 @@
         **February 17**:
 
         Debugging [(slides)](https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/debugging_exceptions_testing/Debugging.ipynb)
+
         Exceptions [(slides)](https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/master/Wi23_content/SEDS/debugging_exceptions_testing/Exceptions.ipynb)
-        Entropy Repository (UPDATE FOR 2026) [(slides)][https://github.com/uwseds/entropy]
+
+        [Entropy Repository (UPDATE FOR 2026)](https://github.com/uwseds/entropy)
         How to do a technology review: [communication](https://github.com/UWSEDS/lecture-materials/blob/master/communication.pptx?raw=true)
                 
         ([commands](https://github.com/UWSEDS/lecture-materials/blob/master/modules_imports_names/notes.txt), [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=903fc4cc-17a0-4323-800f-b38b01421098), [2023](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b037b6fb-4a17-4459-9e6e-b0b301421eec), [2022](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3f9234aa-5773-4567-b4c7-af470141afc6))
