@@ -13,7 +13,7 @@ collection: main
 
 ### Teaching Assistants
 
-- TBN (email@uw.edu)
+- Stanley Cho (scho1@uw.edu)
 
 
 ## Office Hours
@@ -21,5 +21,5 @@ collection: main
 The instructional team will provide the following weekly office hours.
 
 * Tuesday at 9:00 to 10:00 AM (TBN - [ZoomLink](https://washington.zoom.us/j/1234))
-* Data Science Studio Physics & Astronomy Tower 6th floor (Dave), on request
+* Data Science Studio Physics & Astronomy Tower 6th floor (Dave), flexible
 

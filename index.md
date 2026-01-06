@@ -11,7 +11,7 @@ collection: main
 
 ## Teaching Assistants
 
-- TBN (email@uw.edu)
+- Stanley Cho (scho1@uw.edu)
 
 ## Logistics for 2026
 
