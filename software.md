@@ -67,13 +67,7 @@ For more information, [see this link](http://mac-how-to.wonderhowto.com/how-to/i
 
 Create a GitHub.com account [on the GitHub website](https://github.com/signup). This is a free account. We will discuss more on the Version Control I lecture. You will need to enter your GitHub username into the survey in the welcome email so that we can associate your GitHub username with your UW NetIT.
 
-## 4. Install GitKraken
-
-Please install [GitKraken](https://www.gitkraken.com/), which provides a graphical user-interface to git, while also providing many features that are conducive for collaboration. We suggest that you download it directly from the [downloads page](https://www.gitkraken.com/download) and follow the setup instructions, although you can also use your OS's package manager. For Windows users follow the directions [here](https://www.gitkraken.com/blog/wsl2-and-gitkraken-client) to install GitKraken in WSL2 rather than in Windows.
-
-GitKraken is free to use on public repositories, if the installation process mentions a free trial, that is just for the paid "pro" version which you do not need for this class.
-
-## 5. Installing Python via Anaconda / Miniconda
+## 4. Installing Python via Anaconda / Miniconda
 
 We recommend that you use the most recent version of Python 3. Slightly earlier versions of Python 3 work as well. There are some differences between Python 2 and Python 3, and many systems only include Python 2.7 as a standard installation. A Python installation for this course will be managed by the conda package management system, described below.
 
@@ -87,7 +81,7 @@ Below are detailed instructions **after** you have installed conda:
 
 If everything has worked correctly, it should print a URL to the console that opens an empty notebook. Depending on settings, it may automatically open the notebook server in your default browser.
 
-## 6. Install a terminal text editor \(if you don't already have one!\)
+## 5. Install a terminal text editor \(if you don't already have one!\)
 
 We highly suggest using Nano, an easy to use text editor in the terminal.
 
@@ -114,7 +108,7 @@ Once installed, download Nano with the following command in your terminal:
 - `brew install nano` if using Homebrew
 - `sudo port install nano` if using MacPorts
 
-## 7. Install Visual Studio Code \(VS Code\)
+## 6. Install Visual Studio Code \(VS Code\)
 
 [Visual Studio Code \(also known as VS Code\)](https://code.visualstudio.com/download) is a graphical code editor that can be customized and extended with a vast library of open-source extensions.
 After installing VS Code, install [the Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) and [the Jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).
