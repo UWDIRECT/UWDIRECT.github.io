@@ -10,6 +10,8 @@
     resources: |
         [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
+        [materials.csv](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/datasets/materials.csv?raw=true)
+
 -   tuesday: |
         **January 13**:
         [software tour, software installation checklist](http://uwdirect.github.io/software.html)
