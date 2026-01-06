@@ -20,6 +20,6 @@ collection: main
 
 The instructional team will provide the following weekly office hours.
 
-* Tuesday at 9:00 to 10:00 AM (TBN - [ZoomLink](https://washington.zoom.us/j/1234))
-* Data Science Studio Physics & Astronomy Tower 6th floor (Dave), flexible
+* Stanley Cho: Tuesday at 1:30 to 2:30 PM, Data Science Studio, Physics & Astronomy Tower 6th floor
+* Dave: Data Science Studio Physics & Astronomy Tower 6th floor, flexible
 
