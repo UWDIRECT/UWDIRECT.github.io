@@ -31,7 +31,7 @@ All Windows users should note that the Windows command lines, cmd and PowerShell
 
 Note: Windows Linux Subsystem (WSL2, or the older WSL) is preferred over older Git Bash solutions. It's faster, more similar to what you'll see in class and has a more complete set of Unix programs.
 
-Before trying the suggestions below, try opening the Windows Store (from your start menu) and search for Ubuntu 22.04. It will be a free download and installing it "will just work" for most recent versions of Windows 11 on relatively new hardware.
+Before trying the suggestions below, try opening the Windows Store (from your start menu) and search for Ubuntu 24+. It will be a free download and installing it "will just work" for most recent versions of Windows 11 on relatively new hardware.
 
 If installing from the Windows Store does not work, we suggest following these instructions for [installing a WSL distribution](https://learn.microsoft.com/en-us/windows/wsl/install).
 
