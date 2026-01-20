@@ -18,7 +18,7 @@
         [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
         [materials.csv](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/datasets/materials.csv?raw=true)
-        [reactor_data.csv](https://github.com/UWDIRECT/UWDIRECT.github.io/blob/master/datasets/reactor_data.csv?raw=true)
+        [reactor_data.csv](https://raw.githubusercontent.com/UWDIRECT/UWDIRECT.github.io/refs/heads/master/datasets/reactor_data.csv)
 
 -   tuesday: |
         **January 13**:
