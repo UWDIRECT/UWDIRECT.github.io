@@ -135,7 +135,7 @@
 
     thursday: |
         **February 26**:
-        **Technology Reviews**
+        Modules, imports and names
 
     resources: |
         [Python Packaging](https://icesat-2-2024.hackweek.io/tutorials/nb-to-package/package.html)
@@ -150,7 +150,9 @@
     thursday: |
         **March 5**:
         
-        Modules, imports and names
+        **Technology Reviews**
+      
+        Testing, test driven development, GitHub Actions
         
         ([commands](https://github.com/UWSEDS/lecture-materials/blob/master/modules_imports_names/notes.txt), [testing](https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_debug_exceptions_testing/Unit-tests.ipynb), [entropy test repo](https://github.com/UWSEDS/entropy), [notes.txt](https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_debug_exceptions_testing/notes.txt), [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46d824d0-d5fd-407c-abe3-b39c002e6130))
         
